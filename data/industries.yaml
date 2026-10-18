@@ -1,0 +1,85 @@
+# 行业目录
+# 以 GICS（全球行业分类标准）11 个一级部门为骨架，
+# 结合中文语境补充教育、物流、农业、公共部门，并按用户要求单设 internet。
+# 每个行业的名单按层级渐进迭代：top10 → top50 → top100 → candidate。
+version: 1
+industries:
+  - code: education
+    name_cn: 教育
+    name_en: Education
+    note: 含 K-12、高等教育、职业教育、在线教育
+
+  - code: healthcare
+    name_cn: 医疗健康
+    name_en: Health Care
+    note: GICS Health Care：制药、医疗器械、医疗服务、生物科技
+
+  - code: manufacturing
+    name_cn: 制造业
+    name_en: Manufacturing / Industrials
+    note: GICS Industrials：航空航天、机械、电气设备、自动化
+
+  - code: energy
+    name_cn: 能源
+    name_en: Energy
+    note: GICS Energy：油气、煤炭、油田服务
+
+  - code: finance
+    name_cn: 金融
+    name_en: Financials
+    note: GICS Financials：银行、保险、证券、资管
+
+  - code: internet
+    name_cn: 互联网
+    name_en: Internet
+    note: 平台型互联网公司（GICS 中分散于信息技术与通信服务，此处按中文习惯单列）
+
+  - code: information_technology
+    name_cn: 信息技术
+    name_en: Information Technology
+    note: GICS Information Technology：软件、硬件、半导体、IT 服务（非平台型）
+
+  - code: communication_services
+    name_cn: 通信服务
+    name_en: Communication Services
+    note: GICS Communication Services：电信运营商、媒体、娱乐
+
+  - code: materials
+    name_cn: 原材料
+    name_en: Materials
+    note: GICS Materials：化工、金属、建材、造纸
+
+  - code: consumer_discretionary
+    name_cn: 非必需消费
+    name_en: Consumer Discretionary
+    note: GICS Consumer Discretionary：汽车、家电、服装、餐饮、旅游
+
+  - code: consumer_staples
+    name_cn: 必需消费
+    name_en: Consumer Staples
+    note: GICS Consumer Staples：食品饮料、日化、零售
+
+  - code: utilities
+    name_cn: 公用事业
+    name_en: Utilities
+    note: GICS Utilities：电力、水务、燃气
+
+  - code: real_estate
+    name_cn: 房地产
+    name_en: Real Estate
+    note: GICS Real Estate：地产开发、物业、REITs
+
+  - code: logistics
+    name_cn: 交通物流
+    name_en: Transportation & Logistics
+    note: GICS Industrials 子类扩展：航空、铁路、航运、快递、供应链
+
+  - code: agriculture
+    name_cn: 农业
+    name_en: Agriculture
+    note: 种植、养殖、农产品加工、农业服务
+
+  - code: public_sector
+    name_cn: 公共部门与外企驻华
+    name_en: Public Sector & International Organizations
+    note: 政府机构、事业单位、国际组织驻华机构、使领馆招聘

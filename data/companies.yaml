@@ -1,0 +1,55 @@
+# 企业名录
+#
+# status 生命周期：
+#   pending  —— 结构已登记，尚无公开证据
+#   active   —— 近 180 天有公开招聘信号（由 job35-crawler 自动更新）
+#   verified —— 有人工核查过的 35+ 友好证据
+#   stale    —— 超过 180 天无信号
+#
+# ⚠️ 下列条目均为结构示例（status 一律为 pending），
+#    不代表对这些企业 35+ 友好度的任何判断。请用真实企业替换后提交 PR。
+version: 1
+companies:
+  - id: edu-example-001
+    name: 示例教育集团
+    name_en: Example Education Group
+    industry: education
+    tier: top10
+    country: CN
+    sources: []
+    status: pending
+    note: 结构示例，请替换为真实企业
+
+  - id: med-example-001
+    name: 示例医疗器械公司
+    name_en: Example MedTech Inc.
+    industry: healthcare
+    tier: candidate
+    country: US
+    sources:
+      - type: greenhouse
+        slug: example
+    status: pending
+    note: 结构示例，请替换为真实企业
+
+  - id: mfg-example-001
+    name: 示例制造企业
+    name_en: Example Manufacturing Co.
+    industry: manufacturing
+    tier: top50
+    country: DE
+    sources:
+      - type: careers_page
+        url: https://example.com/careers
+    status: pending
+    note: 结构示例，请替换为真实企业
+
+  - id: fin-example-001
+    name: 示例银行
+    name_en: Example Bank
+    industry: finance
+    tier: top100
+    country: CN
+    sources: []
+    status: pending
+    note: 结构示例，请替换为真实企业
