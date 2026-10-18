@@ -1,0 +1,348 @@
+companies:
+  - id: utilities-sgcc-cn
+    name: 国家电网
+    name_en: State Grid Corporation of China
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-csg-cn
+    name: 中国南方电网
+    name_en: China Southern Power Grid
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-cyp-cn
+    name: 长江电力
+    name_en: China Yangtze Power
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-huaneng-cn
+    name: 中国华能
+    name_en: China Huaneng Group
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-datang-cn
+    name: 中国大唐
+    name_en: China Datang Corporation
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-huadian-cn
+    name: 中国华电
+    name_en: China Huadian Corporation
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-spic-cn
+    name: 国家电力投资集团
+    name_en: State Power Investment Corporation
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-cgn-cn
+    name: 中广核电力
+    name_en: CGN Power
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-crpower-cn
+    name: 华润电力
+    name_en: China Resources Power
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-sdicpower-cn
+    name: 国投电力
+    name_en: SDIC Power
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-shenergy-cn
+    name: 申能集团
+    name_en: Shenergy Group
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-shenzhenenergy-cn
+    name: 深圳能源
+    name_en: Shenzhen Energy Group
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-longyuan-cn
+    name: 龙源电力
+    name_en: China Longyuan Power Group
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-begcl-cn
+    name: 北京控股
+    name_en: Beijing Enterprises Holdings
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-ennenergy-cn
+    name: 新奥能源
+    name_en: ENN Energy
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-chinagas-cn
+    name: 中国燃气
+    name_en: China Gas Holdings
+    industry: utilities
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: utilities-towngas-hk
+    name: 香港中华煤气
+    name_en: The Hong Kong and China Gas Company
+    industry: utilities
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: utilities-clp-hk
+    name: 中电控股
+    name_en: CLP Holdings
+    industry: utilities
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: utilities-edf-fr
+    name: Électricité de France
+    industry: utilities
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: utilities-engie-fr
+    name: Engie
+    industry: utilities
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: utilities-veolia-fr
+    name: Veolia
+    industry: utilities
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: utilities-suez-fr
+    name: Suez
+    industry: utilities
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: utilities-enel-it
+    name: Enel
+    industry: utilities
+    tier: top50
+    country: IT
+    sources: []
+    status: pending
+  - id: utilities-eon-de
+    name: E.ON
+    industry: utilities
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: utilities-rwe-de
+    name: RWE
+    industry: utilities
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: utilities-iberdrola-es
+    name: Iberdrola
+    industry: utilities
+    tier: top50
+    country: ES
+    sources: []
+    status: pending
+  - id: utilities-nationalgrid-gb
+    name: National Grid
+    industry: utilities
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: utilities-centrica-gb
+    name: Centrica
+    industry: utilities
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: utilities-dominion-us
+    name: Dominion Energy
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-duke-us
+    name: Duke Energy
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-southern-us
+    name: Southern Company
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-nextera-us
+    name: NextEra Energy
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-exelon-us
+    name: Exelon
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-conedison-us
+    name: Consolidated Edison
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-aep-us
+    name: American Electric Power
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-xcel-us
+    name: Xcel Energy
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-sempra-us
+    name: Sempra
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-pge-us
+    name: PG&E
+    industry: utilities
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: utilities-tepco-jp
+    name: Tokyo Electric Power Company
+    industry: utilities
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: utilities-chubu-jp
+    name: Chubu Electric Power
+    industry: utilities
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: utilities-kansai-jp
+    name: Kansai Electric Power
+    industry: utilities
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: utilities-tokyogas-jp
+    name: Tokyo Gas
+    industry: utilities
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: utilities-osakagas-jp
+    name: Osaka Gas
+    industry: utilities
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: utilities-kepco-kr
+    name: Korea Electric Power Corporation
+    industry: utilities
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: utilities-kogas-kr
+    name: Korea Gas Corporation
+    industry: utilities
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: utilities-origin-au
+    name: Origin Energy
+    industry: utilities
+    tier: top50
+    country: AU
+    sources: []
+    status: pending
+  - id: utilities-agl-au
+    name: AGL Energy
+    industry: utilities
+    tier: top50
+    country: AU
+    sources: []
+    status: pending

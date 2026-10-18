@@ -1,0 +1,401 @@
+companies:
+  - id: public_sector-mfa-cn
+    name: 中华人民共和国外交部
+    name_en: Ministry of Foreign Affairs of the PRC
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-mofcom-cn
+    name: 中华人民共和国商务部
+    name_en: Ministry of Commerce of the PRC
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-ndrc-cn
+    name: 国家发展和改革委员会
+    name_en: National Development and Reform Commission
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-cas-cn
+    name: 中国科学院
+    name_en: Chinese Academy of Sciences
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-cass-cn
+    name: 中国社会科学院
+    name_en: Chinese Academy of Social Sciences
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-cae-cn
+    name: 中国工程院
+    name_en: Chinese Academy of Engineering
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-xinhua-cn
+    name: 新华通讯社
+    name_en: Xinhua News Agency
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-cmg-cn
+    name: 中央广播电视总台
+    name_en: China Media Group
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-peoplesdaily-cn
+    name: 人民日报社
+    name_en: People's Daily
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-chinadaily-cn
+    name: 中国日报社
+    name_en: China Daily
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-nlc-cn
+    name: 中国国家图书馆
+    name_en: National Library of China
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-nmc-cn
+    name: 中国国家博物馆
+    name_en: National Museum of China
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-redcross-cn
+    name: 中国红十字会
+    name_en: Red Cross Society of China
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-acftu-cn
+    name: 中华全国总工会
+    name_en: All-China Federation of Trade Unions
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-ccpit-cn
+    name: 中国国际贸易促进委员会
+    name_en: China Council for the Promotion of International Trade
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-citic-cn
+    name: 中国中信集团
+    name_en: CITIC Group
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-chinaresources-cn
+    name: 华润集团
+    name_en: China Resources Group
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-poly-cn
+    name: 中国保利集团
+    name_en: China Poly Group
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-everbright-cn
+    name: 中国光大集团
+    name_en: China Everbright Group
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-chinapost-cn
+    name: 中国邮政集团
+    name_en: China Post Group
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-unrc-us
+    name: 联合国驻华协调员办公室
+    name_en: United Nations Resident Coordinator's Office in China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-undp-us
+    name: 联合国开发计划署驻华代表处
+    name_en: United Nations Development Programme
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-unicef-us
+    name: 联合国儿童基金会驻华办事处
+    name_en: UNICEF
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-who-ch
+    name: 世界卫生组织驻华代表处
+    name_en: World Health Organization
+    industry: public_sector
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+  - id: public_sector-worldbank-us
+    name: 世界银行驻华代表处
+    name_en: World Bank Group
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-imf-us
+    name: 国际货币基金组织驻华代表处
+    name_en: International Monetary Fund
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-aiib-cn
+    name: 亚洲基础设施投资银行
+    name_en: Asian Infrastructure Investment Bank
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-ndb-cn
+    name: 新开发银行
+    name_en: New Development Bank
+    industry: public_sector
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: public_sector-fao-it
+    name: 联合国粮农组织驻华代表处
+    name_en: Food and Agriculture Organization of the United Nations
+    industry: public_sector
+    tier: top50
+    country: IT
+    sources: []
+    status: pending
+  - id: public_sector-ilo-ch
+    name: 国际劳工组织北京局
+    name_en: International Labour Organization
+    industry: public_sector
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+  - id: public_sector-icrc-ch
+    name: 红十字国际委员会东亚地区代表处
+    name_en: International Committee of the Red Cross
+    industry: public_sector
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+  - id: public_sector-apple-cn
+    name: 苹果（中国）
+    name_en: Apple China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-microsoft-cn
+    name: 微软中国
+    name_en: Microsoft China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-amazon-cn
+    name: 亚马逊中国
+    name_en: Amazon China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-tesla-cn
+    name: 特斯拉中国
+    name_en: Tesla China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-samsung-cn
+    name: 三星中国
+    name_en: Samsung China
+    industry: public_sector
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: public_sector-toyota-cn
+    name: 丰田中国
+    name_en: Toyota Motor China
+    industry: public_sector
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: public_sector-vw-cn
+    name: 大众汽车集团（中国）
+    name_en: Volkswagen Group China
+    industry: public_sector
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: public_sector-bmw-cn
+    name: 宝马中国
+    name_en: BMW China
+    industry: public_sector
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: public_sector-mercedes-cn
+    name: 梅赛德斯-奔驰中国
+    name_en: Mercedes-Benz China
+    industry: public_sector
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: public_sector-siemens-cn
+    name: 西门子中国
+    name_en: Siemens China
+    industry: public_sector
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: public_sector-airbus-cn
+    name: 空中客车中国
+    name_en: Airbus China
+    industry: public_sector
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: public_sector-boeing-cn
+    name: 波音中国
+    name_en: Boeing China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-pg-cn
+    name: 宝洁中国
+    name_en: Procter & Gamble China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-unilever-cn
+    name: 联合利华中国
+    name_en: Unilever China
+    industry: public_sector
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: public_sector-cocacola-cn
+    name: 可口可乐中国
+    name_en: Coca-Cola China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-nestle-cn
+    name: 雀巢中国
+    name_en: Nestlé China
+    industry: public_sector
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+  - id: public_sector-pfizer-cn
+    name: 辉瑞中国
+    name_en: Pfizer China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: public_sector-astrazeneca-cn
+    name: 阿斯利康中国
+    name_en: AstraZeneca China
+    industry: public_sector
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: public_sector-walmart-cn
+    name: 沃尔玛中国
+    name_en: Walmart China
+    industry: public_sector
+    tier: top50
+    country: US
+    sources: []
+    status: pending

@@ -1,0 +1,422 @@
+# 金融行业头部企业名录（银行、保险、证券、资管）
+# 数据来源：结构示例登记，sources 待人工补充
+companies:
+  - id: finance-icbc-cn
+    name: 中国工商银行
+    name_en: Industrial and Commercial Bank of China
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-ccb-cn
+    name: 中国建设银行
+    name_en: China Construction Bank
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-abc-cn
+    name: 中国农业银行
+    name_en: Agricultural Bank of China
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-boc-cn
+    name: 中国银行
+    name_en: Bank of China
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-cmb-cn
+    name: 招商银行
+    name_en: China Merchants Bank
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-bocom-cn
+    name: 交通银行
+    name_en: Bank of Communications
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-psbc-cn
+    name: 中国邮政储蓄银行
+    name_en: Postal Savings Bank of China
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-cib-cn
+    name: 兴业银行
+    name_en: Industrial Bank
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-spdb-cn
+    name: 上海浦东发展银行
+    name_en: Shanghai Pudong Development Bank
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-cmbs-cn
+    name: 中国民生银行
+    name_en: China Minsheng Bank
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-ceb-cn
+    name: 中国光大银行
+    name_en: China Everbright Bank
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-chinalife-cn
+    name: 中国人寿保险
+    name_en: China Life Insurance
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-pingan-cn
+    name: 中国平安保险
+    name_en: Ping An Insurance (Group) Company of China
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-cpic-cn
+    name: 中国太平洋保险
+    name_en: China Pacific Insurance (Group)
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-picc-cn
+    name: 中国人民保险
+    name_en: People's Insurance Company of China
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-ncl-cn
+    name: 新华人寿保险
+    name_en: New China Life Insurance
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-citics-cn
+    name: 中信证券
+    name_en: CITIC Securities
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-huatai-cn
+    name: 华泰证券
+    name_en: Huatai Securities
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-guotai-junan-cn
+    name: 国泰君安证券
+    name_en: Guotai Junan Securities
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-cicc-cn
+    name: 中金公司
+    name_en: China International Capital Corporation
+    industry: finance
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: finance-jpmorgan-us
+    name: JPMorgan Chase
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-bofa-us
+    name: Bank of America
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-citi-us
+    name: Citigroup
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-wellsfargo-us
+    name: Wells Fargo
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-goldman-us
+    name: Goldman Sachs
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-morgan-stanley-us
+    name: Morgan Stanley
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-berkshire-us
+    name: Berkshire Hathaway
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-amex-us
+    name: American Express
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-blackrock-us
+    name: BlackRock
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-visa-us
+    name: Visa
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-mastercard-us
+    name: Mastercard
+    industry: finance
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: finance-hsbc-gb
+    name: HSBC
+    industry: finance
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: finance-barclays-gb
+    name: Barclays
+    industry: finance
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: finance-lloyds-gb
+    name: Lloyds Banking Group
+    industry: finance
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: finance-stanchart-gb
+    name: Standard Chartered
+    industry: finance
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: finance-ubs-ch
+    name: UBS
+    industry: finance
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+
+  - id: finance-allianz-de
+    name: Allianz
+    industry: finance
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: finance-deutsche-de
+    name: Deutsche Bank
+    industry: finance
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: finance-bnpp-fr
+    name: BNP Paribas
+    industry: finance
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+
+  - id: finance-axa-fr
+    name: AXA
+    industry: finance
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+
+  - id: finance-santander-es
+    name: Banco Santander
+    industry: finance
+    tier: top50
+    country: ES
+    sources: []
+    status: pending
+
+  - id: finance-ing-nl
+    name: ING Group
+    industry: finance
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+
+  - id: finance-mufg-jp
+    name: Mitsubishi UFJ Financial Group
+    industry: finance
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: finance-smfg-jp
+    name: Sumitomo Mitsui Financial Group
+    industry: finance
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: finance-mizuho-jp
+    name: Mizuho Financial Group
+    industry: finance
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: finance-nomura-jp
+    name: Nomura Holdings
+    industry: finance
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: finance-shinhan-kr
+    name: Shinhan Financial Group
+    industry: finance
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: finance-kb-kr
+    name: KB Financial Group
+    industry: finance
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: finance-dbs-sg
+    name: DBS Group
+    industry: finance
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+
+  - id: finance-rbc-ca
+    name: Royal Bank of Canada
+    industry: finance
+    tier: top50
+    country: CA
+    sources: []
+    status: pending

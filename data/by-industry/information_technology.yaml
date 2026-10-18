@@ -1,0 +1,371 @@
+companies:
+  - id: information_technology-huawei-cn
+    name: 华为
+    name_en: Huawei Technologies
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-zte-cn
+    name: 中兴通讯
+    name_en: ZTE Corporation
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-lenovo-cn
+    name: 联想集团
+    name_en: Lenovo Group
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-smic-cn
+    name: 中芯国际
+    name_en: Semiconductor Manufacturing International Corporation
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-hikvision-cn
+    name: 海康威视
+    name_en: Hikvision
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-dji-cn
+    name: 大疆
+    name_en: DJI
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-iflytek-cn
+    name: 科大讯飞
+    name_en: iFLYTEK
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-yonyou-cn
+    name: 用友网络
+    name_en: Yonyou Network Technology
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-kingdee-cn
+    name: 金蝶国际
+    name_en: Kingdee International Software Group
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-neusoft-cn
+    name: 东软集团
+    name_en: Neusoft Corporation
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-inspur-cn
+    name: 浪潮信息
+    name_en: Inspur Electronic Information Industry
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-unisplendour-cn
+    name: 紫光股份
+    name_en: Unisplendour Corporation
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-gigadevice-cn
+    name: 兆易创新
+    name_en: GigaDevice Semiconductor
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-willsemi-cn
+    name: 韦尔股份
+    name_en: Will Semiconductor
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-naura-cn
+    name: 北方华创
+    name_en: NAURA Technology Group
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-amec-cn
+    name: 中微公司
+    name_en: AMEC
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-jcet-cn
+    name: 长电科技
+    name_en: JCET Group
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-boe-cn
+    name: 京东方
+    name_en: BOE Technology Group
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-hundsun-cn
+    name: 恒生电子
+    name_en: Hundsun Technologies
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-qihoo360-cn
+    name: 三六零
+    name_en: 360 Security Technology
+    industry: information_technology
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: information_technology-microsoft-us
+    name: Microsoft
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-apple-us
+    name: Apple
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-ibm-us
+    name: IBM
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-oracle-us
+    name: Oracle
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-sap-de
+    name: SAP
+    industry: information_technology
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: information_technology-accenture-ie
+    name: Accenture
+    industry: information_technology
+    tier: top50
+    country: IE
+    sources: []
+    status: pending
+  - id: information_technology-intel-us
+    name: Intel
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-amd-us
+    name: AMD
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-nvidia-us
+    name: NVIDIA
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-qualcomm-us
+    name: Qualcomm
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-ti-us
+    name: Texas Instruments
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-micron-us
+    name: Micron Technology
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-broadcom-us
+    name: Broadcom
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-cisco-us
+    name: Cisco
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-dell-us
+    name: Dell Technologies
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-hp-us
+    name: HP
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-hpe-us
+    name: Hewlett Packard Enterprise
+    industry: information_technology
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: information_technology-samsung-kr
+    name: Samsung Electronics
+    industry: information_technology
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: information_technology-sony-jp
+    name: Sony Group
+    industry: information_technology
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: information_technology-toshiba-jp
+    name: Toshiba
+    industry: information_technology
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: information_technology-hitachi-jp
+    name: Hitachi
+    industry: information_technology
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: information_technology-fujitsu-jp
+    name: Fujitsu
+    industry: information_technology
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: information_technology-nec-jp
+    name: NEC
+    industry: information_technology
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: information_technology-canon-jp
+    name: Canon
+    industry: information_technology
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: information_technology-tsmc-tw
+    name: TSMC
+    industry: information_technology
+    tier: top50
+    country: TW
+    sources: []
+    status: pending
+  - id: information_technology-asml-nl
+    name: ASML
+    industry: information_technology
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+  - id: information_technology-mediatek-tw
+    name: MediaTek
+    industry: information_technology
+    tier: top50
+    country: TW
+    sources: []
+    status: pending
+  - id: information_technology-infosys-in
+    name: Infosys
+    industry: information_technology
+    tier: top50
+    country: IN
+    sources: []
+    status: pending
+  - id: information_technology-tcs-in
+    name: Tata Consultancy Services
+    industry: information_technology
+    tier: top50
+    country: IN
+    sources: []
+    status: pending
+  - id: information_technology-capgemini-fr
+    name: Capgemini
+    industry: information_technology
+    tier: top50
+    country: FR
+    sources: []
+    status: pending

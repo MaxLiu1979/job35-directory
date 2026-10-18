@@ -7,7 +7,14 @@
 
 ## 添加企业（最常见）
 
-编辑 `data/companies.yaml`，新增条目：
+分行业数据在 `data/by-industry/<行业code>.yaml`（如 `education.yaml`），请编辑对应的行业文件；
+`data/companies.yaml` 是合并生成的，不要直接改它。改完后运行：
+
+```bash
+python scripts/merge_industries.py && python scripts/validate.py
+```
+
+条目格式：
 
 ```yaml
   - id: mfg-siemens-de          # 行业-名称简写-国家，全局唯一

@@ -1,0 +1,437 @@
+# 制造业（航空航天、机械、电气设备、自动化）头部企业名录
+companies:
+  - id: manufacturing-avic-cn
+    name: 中国航空工业集团
+    name_en: Aviation Industry Corporation of China
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-casc-cn
+    name: 中国航天科技集团
+    name_en: China Aerospace Science and Technology Corporation
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-casic-cn
+    name: 中国航天科工集团
+    name_en: China Aerospace Science and Industry Corporation
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-comac-cn
+    name: 中国商飞
+    name_en: Commercial Aircraft Corporation of China
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-crrc-cn
+    name: 中国中车
+    name_en: CRRC Corporation
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-cssc-cn
+    name: 中国船舶集团
+    name_en: China State Shipbuilding Corporation
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-sany-cn
+    name: 三一重工
+    name_en: Sany Heavy Industry
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-xcmg-cn
+    name: 徐工集团
+    name_en: XCMG Group
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-zoomlion-cn
+    name: 中联重科
+    name_en: Zoomlion Heavy Industry Science and Technology
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-liugong-cn
+    name: 柳工
+    name_en: LiuGong Machinery
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-weichai-cn
+    name: 潍柴动力
+    name_en: Weichai Power
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-hengli-cn
+    name: 恒立液压
+    name_en: Hengli Hydraulic
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-estun-cn
+    name: 埃斯顿
+    name_en: Estun Automation
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-inovance-cn
+    name: 汇川技术
+    name_en: Inovance Technology
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-tbea-cn
+    name: 特变电工
+    name_en: TBEA
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-chint-cn
+    name: 正泰集团
+    name_en: CHINT Group
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-hanslaser-cn
+    name: 大族激光
+    name_en: Han's Laser Technology Industry Group
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-hangcha-cn
+    name: 杭叉集团
+    name_en: Hangcha Group
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-midea-cn
+    name: 美的集团
+    name_en: Midea Group
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-haier-cn
+    name: 海尔智家
+    name_en: Haier Smart Home
+    industry: manufacturing
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: manufacturing-boeing-us
+    name: Boeing
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-lockheed-us
+    name: Lockheed Martin
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-northrop-us
+    name: Northrop Grumman
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-rtx-us
+    name: RTX Corporation
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-geaerospace-us
+    name: GE Aerospace
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-honeywell-us
+    name: Honeywell International
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-caterpillar-us
+    name: Caterpillar
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-deere-us
+    name: John Deere
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-cummins-us
+    name: Cummins
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-emerson-us
+    name: Emerson Electric
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-parker-us
+    name: Parker Hannifin
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-itw-us
+    name: Illinois Tool Works
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-rockwell-us
+    name: Rockwell Automation
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-danaher-us
+    name: Danaher
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-3m-us
+    name: 3M
+    industry: manufacturing
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: manufacturing-siemens-de
+    name: Siemens
+    industry: manufacturing
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: manufacturing-bosch-de
+    name: Bosch
+    industry: manufacturing
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: manufacturing-siemensenergy-de
+    name: Siemens Energy
+    industry: manufacturing
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: manufacturing-abb-ch
+    name: ABB
+    industry: manufacturing
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+
+  - id: manufacturing-schneider-fr
+    name: Schneider Electric
+    industry: manufacturing
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+
+  - id: manufacturing-atlascopco-se
+    name: Atlas Copco
+    industry: manufacturing
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+
+  - id: manufacturing-volvo-se
+    name: Volvo Group
+    industry: manufacturing
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+
+  - id: manufacturing-sandvik-se
+    name: Sandvik
+    industry: manufacturing
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+
+  - id: manufacturing-airbus-nl
+    name: Airbus
+    industry: manufacturing
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+
+  - id: manufacturing-safran-fr
+    name: Safran
+    industry: manufacturing
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+
+  - id: manufacturing-alstom-fr
+    name: Alstom
+    industry: manufacturing
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+
+  - id: manufacturing-rollsroyce-gb
+    name: Rolls-Royce
+    industry: manufacturing
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: manufacturing-hitachi-jp
+    name: Hitachi
+    industry: manufacturing
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: manufacturing-mitsubishielectric-jp
+    name: Mitsubishi Electric
+    industry: manufacturing
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: manufacturing-fanuc-jp
+    name: Fanuc
+    industry: manufacturing
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: manufacturing-komatsu-jp
+    name: Komatsu
+    industry: manufacturing
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: manufacturing-hdhyundai-kr
+    name: HD Hyundai Heavy Industries
+    industry: manufacturing
+    tier: top50
+    country: KR
+    sources: []
+    status: pending

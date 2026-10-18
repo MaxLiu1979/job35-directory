@@ -1,0 +1,370 @@
+companies:
+  - id: consumer_discretionary-byd-cn
+    name: 比亚迪
+    name_en: BYD Company
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-saic-cn
+    name: 上汽集团
+    name_en: SAIC Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-geely-cn
+    name: 吉利汽车
+    name_en: Geely Automobile Holdings
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-gwm-cn
+    name: 长城汽车
+    name_en: Great Wall Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-nio-cn
+    name: 蔚来
+    name_en: NIO
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-liauto-cn
+    name: 理想汽车
+    name_en: Li Auto
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-xpeng-cn
+    name: 小鹏汽车
+    name_en: XPeng
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-seres-cn
+    name: 赛力斯
+    name_en: Seres Group
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-haier-cn
+    name: 海尔智家
+    name_en: Haier Smart Home
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-midea-cn
+    name: 美的集团
+    name_en: Midea Group
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-gree-cn
+    name: 格力电器
+    name_en: Gree Electric Appliances
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-anta-cn
+    name: 安踏体育
+    name_en: Anta Sports Products
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-lining-cn
+    name: 李宁
+    name_en: Li Ning
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-bosideng-cn
+    name: 波司登
+    name_en: Bosideng International Holdings
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-haidilao-cn
+    name: 海底捞
+    name_en: Haidilao International
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-trip-cn
+    name: 携程集团
+    name_en: Trip.com Group
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-ctgdf-cn
+    name: 中国中免
+    name_en: China Tourism Group Duty Free
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-hworld-cn
+    name: 华住集团
+    name_en: H World Group
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-jinjiang-cn
+    name: 锦江酒店
+    name_en: Jin Jiang International Hotels
+    industry: consumer_discretionary
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: consumer_discretionary-toyota-jp
+    name: Toyota Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: consumer_discretionary-volkswagen-de
+    name: Volkswagen Group
+    industry: consumer_discretionary
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: consumer_discretionary-tesla-us
+    name: Tesla
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-bmw-de
+    name: BMW Group
+    industry: consumer_discretionary
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: consumer_discretionary-mercedes-de
+    name: Mercedes-Benz Group
+    industry: consumer_discretionary
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: consumer_discretionary-honda-jp
+    name: Honda Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: consumer_discretionary-hyundai-kr
+    name: Hyundai Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: consumer_discretionary-ford-us
+    name: Ford Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-gm-us
+    name: General Motors
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-stellantis-nl
+    name: Stellantis
+    industry: consumer_discretionary
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+  - id: consumer_discretionary-nissan-jp
+    name: Nissan Motor
+    industry: consumer_discretionary
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: consumer_discretionary-sony-jp
+    name: Sony Group
+    industry: consumer_discretionary
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: consumer_discretionary-samsung-kr
+    name: Samsung Electronics
+    industry: consumer_discretionary
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: consumer_discretionary-lg-kr
+    name: LG Electronics
+    industry: consumer_discretionary
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+  - id: consumer_discretionary-whirlpool-us
+    name: Whirlpool
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-electrolux-se
+    name: Electrolux
+    industry: consumer_discretionary
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+  - id: consumer_discretionary-nike-us
+    name: Nike
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-adidas-de
+    name: adidas
+    industry: consumer_discretionary
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: consumer_discretionary-lvmh-fr
+    name: LVMH
+    industry: consumer_discretionary
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: consumer_discretionary-hermes-fr
+    name: Hermès International
+    industry: consumer_discretionary
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: consumer_discretionary-inditex-es
+    name: Inditex
+    industry: consumer_discretionary
+    tier: top50
+    country: ES
+    sources: []
+    status: pending
+  - id: consumer_discretionary-hm-se
+    name: H&M Group
+    industry: consumer_discretionary
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+  - id: consumer_discretionary-fastretailing-jp
+    name: Fast Retailing
+    industry: consumer_discretionary
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: consumer_discretionary-mcdonalds-us
+    name: McDonald's
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-starbucks-us
+    name: Starbucks
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-yum-us
+    name: Yum! Brands
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-marriott-us
+    name: Marriott International
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-hilton-us
+    name: Hilton Worldwide
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-booking-us
+    name: Booking Holdings
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-airbnb-us
+    name: Airbnb
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: consumer_discretionary-disney-us
+    name: Walt Disney
+    industry: consumer_discretionary
+    tier: top50
+    country: US
+    sources: []
+    status: pending

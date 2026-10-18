@@ -1,0 +1,430 @@
+companies:
+  - id: internet-alibaba-cn
+    name: 阿里巴巴
+    name_en: Alibaba Group Holding
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-tencent-cn
+    name: 腾讯
+    name_en: Tencent Holdings
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-bytedance-cn
+    name: 字节跳动
+    name_en: ByteDance
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-baidu-cn
+    name: 百度
+    name_en: Baidu, Inc.
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-jd-cn
+    name: 京东
+    name_en: JD.com, Inc.
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-pdd-cn
+    name: 拼多多
+    name_en: PDD Holdings
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-netease-cn
+    name: 网易
+    name_en: NetEase, Inc.
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-meituan-cn
+    name: 美团
+    name_en: Meituan
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-kuaishou-cn
+    name: 快手
+    name_en: Kuaishou Technology
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-didi-cn
+    name: 滴滴
+    name_en: DiDi Global
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-trip-cn
+    name: 携程
+    name_en: Trip.com Group
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-bilibili-cn
+    name: 哔哩哔哩
+    name_en: Bilibili Inc.
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-weibo-cn
+    name: 微博
+    name_en: Weibo Corporation
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-iqiyi-cn
+    name: 爱奇艺
+    name_en: iQIYI, Inc.
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-vipshop-cn
+    name: 唯品会
+    name_en: Vipshop Holdings
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-tencentmusic-cn
+    name: 腾讯音乐娱乐
+    name_en: Tencent Music Entertainment Group
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-ke-cn
+    name: 贝壳
+    name_en: KE Holdings
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-qihoo360-cn
+    name: 三六零
+    name_en: 360 Security Technology
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-sohu-cn
+    name: 搜狐
+    name_en: Sohu.com
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-xiaomi-cn
+    name: 小米
+    name_en: Xiaomi Corporation
+    industry: internet
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: internet-alphabet-us
+    name: Alphabet
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-meta-us
+    name: Meta Platforms
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-amazon-us
+    name: Amazon
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-netflix-us
+    name: Netflix
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-uber-us
+    name: Uber Technologies
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-airbnb-us
+    name: Airbnb
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-ebay-us
+    name: eBay
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-paypal-us
+    name: PayPal Holdings
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-doordash-us
+    name: DoorDash
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-snap-us
+    name: Snap
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-pinterest-us
+    name: Pinterest
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-reddit-us
+    name: Reddit
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-booking-us
+    name: Booking Holdings
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-expedia-us
+    name: Expedia Group
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-roblox-us
+    name: Roblox Corporation
+    industry: internet
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: internet-spotify-se
+    name: Spotify Technology
+    industry: internet
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+
+  - id: internet-deliveryhero-de
+    name: Delivery Hero
+    industry: internet
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: internet-adyen-nl
+    name: Adyen
+    industry: internet
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+
+  - id: internet-wise-gb
+    name: Wise
+    industry: internet
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: internet-rakuten-jp
+    name: Rakuten
+    industry: internet
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: internet-mercari-jp
+    name: Mercari
+    industry: internet
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: internet-naver-kr
+    name: Naver
+    industry: internet
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: internet-kakao-kr
+    name: Kakao
+    industry: internet
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: internet-coupang-kr
+    name: Coupang
+    industry: internet
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: internet-sea-sg
+    name: Sea Limited
+    industry: internet
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+
+  - id: internet-grab-sg
+    name: Grab Holdings
+    industry: internet
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+
+  - id: internet-goto-id
+    name: GoTo Group
+    industry: internet
+    tier: top50
+    country: ID
+    sources: []
+    status: pending
+
+  - id: internet-zomato-in
+    name: Zomato
+    name_en: Zomato (Eternal Ltd.)
+    industry: internet
+    tier: top50
+    country: IN
+    sources: []
+    status: pending
+
+  - id: internet-paytm-in
+    name: Paytm
+    name_en: One97 Communications
+    industry: internet
+    tier: top50
+    country: IN
+    sources: []
+    status: pending
+
+  - id: internet-mercadolibre-uy
+    name: Mercado Libre
+    industry: internet
+    tier: top50
+    country: UY
+    sources: []
+    status: pending
+
+  - id: internet-shopify-ca
+    name: Shopify
+    industry: internet
+    tier: top50
+    country: CA
+    sources: []
+    status: pending

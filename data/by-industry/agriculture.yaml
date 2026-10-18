@@ -1,0 +1,371 @@
+companies:
+  - id: agriculture-cofco-cn
+    name: 中粮集团
+    name_en: COFCO Corporation
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-beidahuang-cn
+    name: 北大荒集团
+    name_en: Beidahuang Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-newhope-cn
+    name: 新希望集团
+    name_en: New Hope Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-wens-cn
+    name: 温氏股份
+    name_en: Wens Foodstuff Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-muyuan-cn
+    name: 牧原股份
+    name_en: Muyuan Foods
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-haid-cn
+    name: 海大集团
+    name_en: Haid Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-tongwei-cn
+    name: 通威股份
+    name_en: Tongwei Co.
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-dbn-cn
+    name: 大北农
+    name_en: DBN Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-wellhope-cn
+    name: 禾丰股份
+    name_en: Wellhope Agri-Tech
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-tangrenshen-cn
+    name: 唐人神
+    name_en: Tangrenshen Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-longping-cn
+    name: 隆平高科
+    name_en: Longping High-Tech
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-denghai-cn
+    name: 登海种业
+    name_en: Shandong Denghai Seeds
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-sunner-cn
+    name: 圣农发展
+    name_en: Sunner Development
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-whgroup-cn
+    name: 万洲国际
+    name_en: WH Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-yili-cn
+    name: 伊利
+    name_en: Inner Mongolia Yili Industrial Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-mengniu-cn
+    name: 蒙牛
+    name_en: China Mengniu Dairy
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-brightfood-cn
+    name: 光明食品集团
+    name_en: Bright Food Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-capitalagri-cn
+    name: 首农食品集团
+    name_en: Beijing Capital Agribusiness & Foods Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-suken-cn
+    name: 苏垦农发
+    name_en: Jiangsu Provincial Agricultural Reclamation and Development
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-yasheng-cn
+    name: 亚盛集团
+    name_en: Gansu Yasheng Industrial Group
+    industry: agriculture
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: agriculture-cargill-us
+    name: Cargill
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-adm-us
+    name: Archer Daniels Midland
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-bunge-us
+    name: Bunge
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-tyson-us
+    name: Tyson Foods
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-deere-us
+    name: John Deere
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-corteva-us
+    name: Corteva
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-landolakes-us
+    name: Land O'Lakes
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-chs-us
+    name: CHS
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-mosaic-us
+    name: The Mosaic Company
+    industry: agriculture
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: agriculture-nutrien-ca
+    name: Nutrien
+    industry: agriculture
+    tier: top50
+    country: CA
+    sources: []
+    status: pending
+  - id: agriculture-jbs-br
+    name: JBS
+    industry: agriculture
+    tier: top50
+    country: BR
+    sources: []
+    status: pending
+  - id: agriculture-brf-br
+    name: BRF
+    industry: agriculture
+    tier: top50
+    country: BR
+    sources: []
+    status: pending
+  - id: agriculture-marfrig-br
+    name: Marfrig Global Foods
+    industry: agriculture
+    tier: top50
+    country: BR
+    sources: []
+    status: pending
+  - id: agriculture-amaggi-br
+    name: Amaggi
+    industry: agriculture
+    tier: top50
+    country: BR
+    sources: []
+    status: pending
+  - id: agriculture-bayer-de
+    name: Bayer
+    industry: agriculture
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: agriculture-basf-de
+    name: BASF
+    industry: agriculture
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: agriculture-suedzucker-de
+    name: Südzucker
+    industry: agriculture
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: agriculture-danone-fr
+    name: Danone
+    industry: agriculture
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: agriculture-lactalis-fr
+    name: Lactalis
+    industry: agriculture
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: agriculture-syngenta-ch
+    name: Syngenta
+    industry: agriculture
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+  - id: agriculture-nestle-ch
+    name: Nestlé
+    industry: agriculture
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+  - id: agriculture-louisdreyfus-nl
+    name: Louis Dreyfus Company
+    industry: agriculture
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+  - id: agriculture-yara-no
+    name: Yara International
+    industry: agriculture
+    tier: top50
+    country: NO
+    sources: []
+    status: pending
+  - id: agriculture-kubota-jp
+    name: Kubota
+    industry: agriculture
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: agriculture-yanmar-jp
+    name: Yanmar
+    industry: agriculture
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: agriculture-sakata-jp
+    name: Sakata Seed
+    industry: agriculture
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: agriculture-nhfoods-jp
+    name: NH Foods
+    industry: agriculture
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: agriculture-cpgroup-th
+    name: Charoen Pokphand Group
+    industry: agriculture
+    tier: top50
+    country: TH
+    sources: []
+    status: pending
+  - id: agriculture-wilmar-sg
+    name: Wilmar International
+    industry: agriculture
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+  - id: agriculture-fonterra-nz
+    name: Fonterra
+    industry: agriculture
+    tier: top50
+    country: NZ
+    sources: []
+    status: pending

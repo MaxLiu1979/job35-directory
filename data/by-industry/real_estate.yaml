@@ -1,0 +1,379 @@
+companies:
+  - id: real_estate-vanke-cn
+    name: 万科
+    name_en: China Vanke
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-poly-cn
+    name: 保利发展
+    name_en: Poly Developments and Holdings
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-crland-cn
+    name: 华润置地
+    name_en: China Resources Land
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-coli-cn
+    name: 中国海外发展
+    name_en: China Overseas Land & Investment
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-cmsk-cn
+    name: 招商蛇口
+    name_en: China Merchants Shekou Industrial Zone Holdings
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-longfor-cn
+    name: 龙湖集团
+    name_en: Longfor Group
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-greenland-cn
+    name: 绿地控股
+    name_en: Greenland Holdings
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-gemdale-cn
+    name: 金地集团
+    name_en: Gemdale Corporation
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-greentown-cn
+    name: 绿城中国
+    name_en: Greentown China Holdings
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-seazen-cn
+    name: 新城控股
+    name_en: Seazen Group
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-yuexiu-cn
+    name: 越秀地产
+    name_en: Yuexiu Property
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-huafa-cn
+    name: 华发股份
+    name_en: Huafa Industrial
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-shkp-hk
+    name: 新鸿基地产
+    name_en: Sun Hung Kai Properties
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-ckasset-hk
+    name: 长江实业集团
+    name_en: CK Asset Holdings
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-wharf-hk
+    name: 九龙仓集团
+    name_en: Wharf Holdings
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-swire-hk
+    name: 太古地产
+    name_en: Swire Properties
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-hanglung-hk
+    name: 恒隆地产
+    name_en: Hang Lung Properties
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-hld-hk
+    name: 恒基兆业地产
+    name_en: Henderson Land Development
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-linkreit-hk
+    name: 领展房地产投资信托基金
+    name_en: Link Real Estate Investment Trust
+    industry: real_estate
+    tier: top50
+    country: HK
+    sources: []
+    status: pending
+  - id: real_estate-countrygarden-cn
+    name: 碧桂园
+    name_en: Country Garden Holdings
+    industry: real_estate
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+  - id: real_estate-simon-us
+    name: Simon Property Group
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-prologis-us
+    name: Prologis
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-publicstorage-us
+    name: Public Storage
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-avalonbay-us
+    name: AvalonBay Communities
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-welltower-us
+    name: Welltower
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-bostonprop-us
+    name: Boston Properties
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-eqresidential-us
+    name: Equity Residential
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-realtyincome-us
+    name: Realty Income
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-cbre-us
+    name: CBRE Group
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-jll-us
+    name: Jones Lang LaSalle
+    industry: real_estate
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+  - id: real_estate-mitsuifudosan-jp
+    name: 三井不动产
+    name_en: Mitsui Fudosan
+    industry: real_estate
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: real_estate-mitsubishiestate-jp
+    name: 三菱地所
+    name_en: Mitsubishi Estate
+    industry: real_estate
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: real_estate-sumitomorlty-jp
+    name: 住友不动产
+    name_en: Sumitomo Realty & Development
+    industry: real_estate
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: real_estate-nomurarealestate-jp
+    name: 野村不动产控股
+    name_en: Nomura Real Estate Holdings
+    industry: real_estate
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: real_estate-tokyuland-jp
+    name: 东急不动产控股
+    name_en: Tokyu Fudosan Holdings
+    industry: real_estate
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+  - id: real_estate-urw-fr
+    name: Unibail-Rodamco-Westfield
+    industry: real_estate
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: real_estate-vonovia-de
+    name: Vonovia
+    industry: real_estate
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: real_estate-gecina-fr
+    name: Gecina
+    industry: real_estate
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+  - id: real_estate-britishland-gb
+    name: British Land
+    industry: real_estate
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: real_estate-landsec-gb
+    name: Landsec
+    industry: real_estate
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: real_estate-segro-gb
+    name: Segro
+    industry: real_estate
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+  - id: real_estate-leg-de
+    name: LEG Immobilien
+    industry: real_estate
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+  - id: real_estate-aroundtown-lu
+    name: Aroundtown
+    industry: real_estate
+    tier: top50
+    country: LU
+    sources: []
+    status: pending
+  - id: real_estate-capitaland-sg
+    name: 凯德集团
+    name_en: CapitaLand
+    industry: real_estate
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+  - id: real_estate-cdl-sg
+    name: 城市发展有限公司
+    name_en: City Developments
+    industry: real_estate
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+  - id: real_estate-uol-sg
+    name: 华业集团
+    name_en: UOL Group
+    industry: real_estate
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+  - id: real_estate-goodman-au
+    name: Goodman Group
+    industry: real_estate
+    tier: top50
+    country: AU
+    sources: []
+    status: pending
+  - id: real_estate-mirvac-au
+    name: Mirvac
+    industry: real_estate
+    tier: top50
+    country: AU
+    sources: []
+    status: pending
+  - id: real_estate-emaar-ae
+    name: Emaar Properties
+    industry: real_estate
+    tier: top50
+    country: AE
+    sources: []
+    status: pending
+  - id: real_estate-dlf-in
+    name: DLF
+    industry: real_estate
+    tier: top50
+    country: IN
+    sources: []
+    status: pending

@@ -1,0 +1,419 @@
+companies:
+  - id: communication_services-china-mobile-cn
+    name: 中国移动
+    name_en: China Mobile
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-china-telecom-cn
+    name: 中国电信
+    name_en: China Telecom
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-china-unicom-cn
+    name: 中国联通
+    name_en: China Unicom
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-china-tower-cn
+    name: 中国铁塔
+    name_en: China Tower
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-tencent-cn
+    name: 腾讯
+    name_en: Tencent
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-netease-cn
+    name: 网易
+    name_en: NetEase
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-kuaishou-cn
+    name: 快手
+    name_en: Kuaishou
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-bilibili-cn
+    name: 哔哩哔哩
+    name_en: Bilibili
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-iqiyi-cn
+    name: 爱奇艺
+    name_en: iQIYI
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-weibo-cn
+    name: 微博
+    name_en: Weibo
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-mango-excellent-media-cn
+    name: 芒果超媒
+    name_en: Mango Excellent Media
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-china-literature-cn
+    name: 阅文集团
+    name_en: China Literature
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-tencent-music-cn
+    name: 腾讯音乐娱乐
+    name_en: Tencent Music Entertainment
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-focus-media-cn
+    name: 分众传媒
+    name_en: Focus Media
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-oriental-pearl-cn
+    name: 东方明珠
+    name_en: Oriental Pearl Group
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-phoenix-tv-cn
+    name: 凤凰卫视
+    name_en: Phoenix TV
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-wasu-media-cn
+    name: 华数传媒
+    name_en: Wasu Media
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-37games-cn
+    name: 三七互娱
+    name_en: 37 Interactive Entertainment
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-perfect-world-cn
+    name: 完美世界
+    name_en: Perfect World
+    industry: communication_services
+    tier: top50
+    country: CN
+    sources: []
+    status: pending
+
+  - id: communication-services-att-us
+    name: AT&T
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-verizon-us
+    name: Verizon
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-tmobile-us
+    name: T-Mobile US
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-comcast-us
+    name: Comcast
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-charter-us
+    name: Charter Communications
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-disney-us
+    name: Disney
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-netflix-us
+    name: Netflix
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-warner-bros-discovery-us
+    name: Warner Bros. Discovery
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-paramount-us
+    name: Paramount Global
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-activision-blizzard-us
+    name: Activision Blizzard
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-ea-us
+    name: Electronic Arts
+    industry: communication_services
+    tier: top50
+    country: US
+    sources: []
+    status: pending
+
+  - id: communication-services-sony-jp
+    name: Sony Group
+    industry: communication_services
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: communication-services-softbank-jp
+    name: SoftBank Group
+    industry: communication_services
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: communication-services-ntt-jp
+    name: Nippon Telegraph and Telephone
+    industry: communication_services
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: communication-services-kddi-jp
+    name: KDDI
+    industry: communication_services
+    tier: top50
+    country: JP
+    sources: []
+    status: pending
+
+  - id: communication-services-sk-telecom-kr
+    name: SK Telecom
+    industry: communication_services
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: communication-services-kt-kr
+    name: KT
+    industry: communication_services
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: communication-services-lg-uplus-kr
+    name: LG Uplus
+    industry: communication_services
+    tier: top50
+    country: KR
+    sources: []
+    status: pending
+
+  - id: communication-services-deutsche-telekom-de
+    name: Deutsche Telekom
+    industry: communication_services
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: communication-services-bertelsmann-de
+    name: Bertelsmann
+    industry: communication_services
+    tier: top50
+    country: DE
+    sources: []
+    status: pending
+
+  - id: communication-services-vodafone-gb
+    name: Vodafone
+    industry: communication_services
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: communication-services-bt-gb
+    name: BT Group
+    industry: communication_services
+    tier: top50
+    country: GB
+    sources: []
+    status: pending
+
+  - id: communication-services-orange-fr
+    name: Orange
+    industry: communication_services
+    tier: top50
+    country: FR
+    sources: []
+    status: pending
+
+  - id: communication-services-telefonica-es
+    name: Telefónica
+    industry: communication_services
+    tier: top50
+    country: ES
+    sources: []
+    status: pending
+
+  - id: communication-services-america-movil-mx
+    name: América Móvil
+    industry: communication_services
+    tier: top50
+    country: MX
+    sources: []
+    status: pending
+
+  - id: communication-services-telstra-au
+    name: Telstra
+    industry: communication_services
+    tier: top50
+    country: AU
+    sources: []
+    status: pending
+
+  - id: communication-services-singtel-sg
+    name: Singtel
+    industry: communication_services
+    tier: top50
+    country: SG
+    sources: []
+    status: pending
+
+  - id: communication-services-universal-music-nl
+    name: Universal Music Group
+    industry: communication_services
+    tier: top50
+    country: NL
+    sources: []
+    status: pending
+
+  - id: communication-services-spotify-se
+    name: Spotify
+    industry: communication_services
+    tier: top50
+    country: SE
+    sources: []
+    status: pending
+
+  - id: communication-services-swisscom-ch
+    name: Swisscom
+    industry: communication_services
+    tier: top50
+    country: CH
+    sources: []
+    status: pending
+
+  - id: communication-services-telenor-no
+    name: Telenor
+    industry: communication_services
+    tier: top50
+    country: NO
+    sources: []
+    status: pending
