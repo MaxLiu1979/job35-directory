@@ -1,0 +1,3042 @@
+{
+ "agriculture-cofco-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-beidahuang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-newhope-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-wens-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-muyuan-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-haid-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-tongwei-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-dbn-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-wellhope-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-tangrenshen-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-longping-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-denghai-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-sunner-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-whgroup-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-yili-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-mengniu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-brightfood-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-capitalagri-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-suken-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-yasheng-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-cargill-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-adm-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-bunge-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-tyson-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-deere-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-corteva-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-landolakes-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-chs-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-mosaic-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-nutrien-ca": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-jbs-br": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-brf-br": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-marfrig-br": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-amaggi-br": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-bayer-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-basf-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-suedzucker-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-danone-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-lactalis-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-syngenta-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-nestle-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-louisdreyfus-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-yara-no": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-kubota-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-yanmar-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-sakata-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-nhfoods-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-cpgroup-th": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-wilmar-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "agriculture-fonterra-nz": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication_services-china-mobile-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-china-telecom-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-china-unicom-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-china-tower-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-tencent-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-netease-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-kuaishou-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-bilibili-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-iqiyi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-weibo-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-mango-excellent-media-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-china-literature-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-tencent-music-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-focus-media-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-oriental-pearl-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-phoenix-tv-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-wasu-media-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-37games-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-perfect-world-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-att-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-verizon-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-tmobile-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-comcast-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-charter-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-disney-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-netflix-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-warner-bros-discovery-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-paramount-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-activision-blizzard-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-ea-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-sony-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-softbank-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-ntt-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-kddi-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-sk-telecom-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-kt-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-lg-uplus-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-deutsche-telekom-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-bertelsmann-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-vodafone-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-bt-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-orange-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-telefonica-es": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-america-movil-mx": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-telstra-au": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-singtel-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-universal-music-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-spotify-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-swisscom-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "communication-services-telenor-no": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-byd-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-saic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-geely-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-gwm-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-nio-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-liauto-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-xpeng-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-seres-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-haier-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-midea-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-gree-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-anta-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-lining-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-bosideng-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-haidilao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-trip-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-ctgdf-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-hworld-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-jinjiang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-toyota-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-volkswagen-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-tesla-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-bmw-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-mercedes-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-honda-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-hyundai-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-ford-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-gm-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-stellantis-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-nissan-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-samsung-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-lg-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-whirlpool-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-electrolux-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-nike-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-adidas-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-lvmh-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-hermes-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-inditex-es": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-hm-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-fastretailing-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-mcdonalds-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-starbucks-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-yum-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-marriott-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-hilton-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-booking-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-airbnb-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_discretionary-disney-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-moutai-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-wuliangye-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-nongfuspring-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-haitian-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-luzhoulaojiao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-fenjiu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-yanghe-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-shuanghui-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-tsingtao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-crbeer-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-yanjing-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-unipresident-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-tingyi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-wahaha-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-yihaikerry-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-walmart-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-pg-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-cocacola-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-pepsico-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-mondelez-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-kraftheinz-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-philipmorris-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-colgate-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-kimberlyclark-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-generalmills-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-clorox-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-esteelauder-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-costco-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-unilever-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-loreal-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-abinbev-be": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-heineken-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-diageo-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-henkel-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-tesco-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-seveni-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-aeon-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-kirin-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-kao-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "consumer_staples-amorepacific-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-neworiental-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-tal-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-gaotu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-yuanfudao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-zuoyebang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-youdao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-offcn-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-chuanzhi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-easteducation-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-sunlands-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-17zuoye-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-brightscholar-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-excellence-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-cegh-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-hope-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-minsheng-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-nheg-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-kepei-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-mapleleaf-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-yuhua-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-mcgrawhill-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-hmh-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-scholastic-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-cengage-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-wiley-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-coursera-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-udemy-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-duolingo-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-chegg-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-stride-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-khanacademy-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-instructure-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-powerschool-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-gce-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-adtalem-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-strategic-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-laureate-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-pearson-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-nordanglia-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-ef-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-sanoma-fi": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-springernature-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-babbel-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-benesse-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-kumon-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-megastudy-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-kyowon-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-byjus-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-unacademy-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-pw-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "education-ruangguru-id": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-petrochina-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-sinopec-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-cnooc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-chnenergy-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-huaneng-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-spic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-threegorges-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-cgn-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-chinacoalenergy-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-yankuang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-longi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-jinkosolar-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-trinasolar-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-sungrow-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-goldwind-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-tbea-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-gcl-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-enn-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-exxonmobil-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-chevron-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-conocophillips-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-slb-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-halliburton-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-nextera-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-duke-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-southern-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-shell-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-bp-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-totalenergies-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-edf-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-equinor-no": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-eni-it": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-enel-it": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-iberdrola-es": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-rwe-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-orsted-dk": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-saudiaramco-sa": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-adnoc-ae": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-gazprom-ru": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-rosneft-ru": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-lukoil-ru": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-eneos-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-jera-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-reliance-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-ongc-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-kepco-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-skinnovation-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-petrobras-br": {
+  "yes": 0,
+  "no": 0
+ },
+ "energy-enbridge-ca": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-icbc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-ccb-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-abc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-boc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-cmb-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-bocom-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-psbc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-cib-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-spdb-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-cmbs-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-ceb-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-chinalife-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-pingan-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-cpic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-picc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-ncl-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-citics-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-huatai-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-guotai-junan-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-cicc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-jpmorgan-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-bofa-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-citi-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-wellsfargo-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-goldman-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-morgan-stanley-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-berkshire-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-amex-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-blackrock-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-visa-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-mastercard-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-hsbc-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-barclays-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-lloyds-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-stanchart-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-ubs-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-allianz-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-deutsche-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-bnpp-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-axa-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-santander-es": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-ing-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-mufg-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-smfg-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-mizuho-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-nomura-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-shinhan-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-kb-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-dbs-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "finance-rbc-ca": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-hengrui-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-wuxiapp-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-mindray-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-fosun-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-sinopharm-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-crpharma-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-yunnanbaiyao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-tongrentang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-zhifei-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-pienzehuang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-tigermed-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-beigene-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-wuxibio-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-sinobio-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-cspc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-bgi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-aier-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-unitedimaging-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-wego-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-microport-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-pfizer-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-jnj-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-merck-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-abbvie-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-lilly-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-amgen-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-bms-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-gilead-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-medtronic-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-abbott-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-bostonsci-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-stryker-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-thermofisher-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-danaher-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-roche-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-novartis-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-novonordisk-dk": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-sanofi-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-servier-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-gsk-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-astrazeneca-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-boehringer-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-siemenshealth-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-fresenius-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-takeda-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-otsuka-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-daiichisankyo-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-terumo-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-samsungbio-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-csl-au": {
+  "yes": 0,
+  "no": 0
+ },
+ "healthcare-philips-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-huawei-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-zte-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-lenovo-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-smic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-hikvision-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-dji-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-iflytek-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-yonyou-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-kingdee-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-neusoft-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-inspur-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-unisplendour-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-gigadevice-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-willsemi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-naura-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-amec-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-jcet-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-boe-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-hundsun-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-qihoo360-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-microsoft-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-apple-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-ibm-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-oracle-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-sap-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-accenture-ie": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-intel-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-amd-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-nvidia-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-qualcomm-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-ti-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-micron-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-broadcom-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-cisco-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-dell-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-hp-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-hpe-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-toshiba-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-hitachi-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-fujitsu-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-nec-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-canon-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-tsmc-tw": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-asml-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-mediatek-tw": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-infosys-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-tcs-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "information_technology-capgemini-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-alibaba-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-bytedance-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-baidu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-jd-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-pdd-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-meituan-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-didi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-vipshop-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-ke-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-sohu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-xiaomi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-alphabet-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-meta-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-amazon-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-uber-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-ebay-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-paypal-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-doordash-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-snap-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-pinterest-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-reddit-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-expedia-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-roblox-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-spotify-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-deliveryhero-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-adyen-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-wise-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-rakuten-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-mercari-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-naver-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-kakao-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-coupang-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-sea-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-grab-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-goto-id": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-zomato-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-paytm-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-mercadolibre-uy": {
+  "yes": 0,
+  "no": 0
+ },
+ "internet-shopify-ca": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-sf-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-jdlogistics-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-zto-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-yto-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-yunda-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-sto-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cainiao-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cosco-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-sinotrans-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cmp-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cimc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-eternalasia-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-daqin-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-jinghuhsr-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-airchina-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-csn-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-ces-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-hainanairlines-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-kerry-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-mtr-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-fedex-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-ups-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-chrobinson-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-unionpacific-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-csx-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-norfolksouthern-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-delta-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-united-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-american-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cn-ca": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cpkc-ca": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-dhl-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-dbahn-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-hapag-lloyd-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-lufthansa-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-maersk-dk": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-dsv-dk": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-cmacgm-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-airfranceklm-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-sncf-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-msc-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-kn-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-iag-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-nipponexpress-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-yamato-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-ana-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-jal-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-koreanair-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-singaporeairlines-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "logistics-emirates-ae": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-avic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-casc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-casic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-comac-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-crrc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-cssc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-sany-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-xcmg-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-zoomlion-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-liugong-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-weichai-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-hengli-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-estun-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-inovance-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-chint-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-hanslaser-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-hangcha-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-boeing-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-lockheed-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-northrop-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-rtx-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-geaerospace-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-honeywell-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-caterpillar-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-cummins-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-emerson-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-parker-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-itw-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-rockwell-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-3m-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-siemens-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-bosch-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-siemensenergy-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-abb-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-schneider-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-atlascopco-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-volvo-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-sandvik-se": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-airbus-nl": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-safran-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-alstom-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-rollsroyce-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-mitsubishielectric-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-fanuc-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-komatsu-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "manufacturing-hdhyundai-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-wanhua-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-cnbm-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-baowu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-shagang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-zijin-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-cmoc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-chalco-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-conch-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-huaxin-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-jushi-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-rareearth-north-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-sinochem-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-hengli-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-rongsheng-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-hualuhengheng-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-yuhong-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-bnbm-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-ndpaper-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-sunpaper-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-dow-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-dupont-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-lyondellbasell-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-airproducts-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-nucor-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-freeportmcmoran-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-alcoa-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-internationalpaper-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-covestro-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-evonik-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-heidelbergmaterials-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-thyssenkrupp-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-arcelormittal-lu": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-riotinto-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-glencore-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-holcim-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-sika-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-saintgobain-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-crh-ie": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-upm-fi": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-storaenso-fi": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-bhp-au": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-vale-br": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-posco-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-lgchem-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-nipponsteel-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-toray-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-sabic-sa": {
+  "yes": 0,
+  "no": 0
+ },
+ "materials-tatasteel-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-mfa-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-mofcom-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-ndrc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-cas-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-cass-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-cae-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-xinhua-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-cmg-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-peoplesdaily-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-chinadaily-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-nlc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-nmc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-redcross-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-acftu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-ccpit-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-citic-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-chinaresources-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-poly-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-everbright-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-chinapost-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-unrc-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-undp-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-unicef-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-who-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-worldbank-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-imf-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-aiib-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-ndb-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-fao-it": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-ilo-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-icrc-ch": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-apple-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-microsoft-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-amazon-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-tesla-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-samsung-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-toyota-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-vw-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-bmw-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-mercedes-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-siemens-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-airbus-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-boeing-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-pg-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-unilever-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-cocacola-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-nestle-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-pfizer-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-astrazeneca-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "public_sector-walmart-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-vanke-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-poly-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-crland-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-coli-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-cmsk-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-longfor-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-greenland-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-gemdale-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-greentown-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-seazen-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-yuexiu-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-huafa-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-shkp-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-ckasset-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-wharf-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-swire-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-hanglung-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-hld-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-linkreit-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-countrygarden-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-simon-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-prologis-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-publicstorage-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-avalonbay-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-welltower-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-bostonprop-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-eqresidential-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-realtyincome-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-cbre-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-jll-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-mitsuifudosan-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-mitsubishiestate-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-sumitomorlty-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-nomurarealestate-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-tokyuland-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-urw-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-vonovia-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-gecina-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-britishland-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-landsec-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-segro-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-leg-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-aroundtown-lu": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-capitaland-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-cdl-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-uol-sg": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-goodman-au": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-mirvac-au": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-emaar-ae": {
+  "yes": 0,
+  "no": 0
+ },
+ "real_estate-dlf-in": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-sgcc-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-csg-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-cyp-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-datang-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-huadian-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-cgn-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-crpower-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-sdicpower-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-shenergy-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-shenzhenenergy-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-longyuan-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-begcl-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-ennenergy-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-chinagas-cn": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-towngas-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-clp-hk": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-edf-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-engie-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-veolia-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-suez-fr": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-eon-de": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-nationalgrid-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-centrica-gb": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-dominion-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-exelon-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-conedison-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-aep-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-xcel-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-sempra-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-pge-us": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-tepco-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-chubu-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-kansai-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-tokyogas-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-osakagas-jp": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-kepco-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-kogas-kr": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-origin-au": {
+  "yes": 0,
+  "no": 0
+ },
+ "utilities-agl-au": {
+  "yes": 0,
+  "no": 0
+ }
+}
