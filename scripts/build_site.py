@@ -93,6 +93,11 @@ def main() -> None:
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
 <title>job35-directory · 35+ 友好企业名录</title>
+<meta property="og:title" content="job35-directory · 35+ 友好企业名录">
+<meta property="og:description" content="收录对 35+ 求职者友好、且近半年招聘仍然活跃的企业。每周自动更新，公开证据可查证。">
+<meta property="og:type" content="website">
+<meta property="og:url" content="https://maxliu1979.github.io/job35-directory/">
+<meta property="og:image" content="https://maxliu1979.github.io/job35-directory/cards/all.png">
 <style>
   :root {{ --fg:#1f2328; --muted:#59636e; --line:#e5e7eb; --bg:#f6f8fa; }}
   * {{ box-sizing:border-box; }}
@@ -135,6 +140,14 @@ def main() -> None:
 </div></header>
 <nav>{nav}</nav>
 <main>{"".join(sections)}
+<section id="share">
+  <h2>分享本项目 <span class="en">Share</span></h2>
+  <p>把这张卡片或本页链接，转发给正在找工作的 35+ 朋友。每个行业都有对应卡片：
+     把网址后面加上 <code>cards/行业code.png</code> 即可（如 <code>.../cards/energy.png</code>）。</p>
+  <img src="cards/all.png" alt="job35-directory 分享卡片" style="max-width:480px;width:100%;border-radius:10px;border:1px solid var(--line)">
+  <p><button onclick="navigator.clipboard.writeText(location.href).then(()=>this.textContent='已复制链接 ✓')"
+       style="padding:8px 18px;border-radius:8px;border:1px solid var(--line);background:var(--bg);cursor:pointer;font-size:.95rem">复制本页链接</button></p>
+</section>
 </main>
 <footer>
   <p>本名录只做公开信息的聚合与标注，不构成求职建议。数据：CC0-1.0 · 最后生成：{generated}</p>

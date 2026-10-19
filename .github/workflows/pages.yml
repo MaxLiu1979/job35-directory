@@ -22,7 +22,11 @@ jobs:
       - uses: actions/setup-python@v5
         with:
           python-version: "3.12"
-      - run: pip install pyyaml
+      - name: Install Chinese fonts & deps
+        run: |
+          sudo apt-get update -q && sudo apt-get install -y -q fonts-noto-cjk
+          pip install pyyaml pillow
+      - run: python scripts/build_cards.py --out site/cards
       - run: python scripts/build_site.py --out site
       - uses: actions/upload-pages-artifact@v3
         with:
