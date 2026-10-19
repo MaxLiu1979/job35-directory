@@ -7,6 +7,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.10086.cn
 
   - id: communication-services-china-telecom-cn
     name: 中国电信
@@ -16,6 +17,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.chinatelecom.com.cn
 
   - id: communication-services-china-unicom-cn
     name: 中国联通
@@ -43,6 +45,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://careers.tencent.com
 
   - id: communication-services-netease-cn
     name: 网易
@@ -52,6 +55,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://hr.163.com
 
   - id: communication-services-kuaishou-cn
     name: 快手
@@ -61,6 +65,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://zhaopin.kuaishou.cn
 
   - id: communication-services-bilibili-cn
     name: 哔哩哔哩
@@ -70,6 +75,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://jobs.bilibili.com
 
   - id: communication-services-iqiyi-cn
     name: 爱奇艺
@@ -115,6 +121,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://join.tencentmusic.com
 
   - id: communication-services-focus-media-cn
     name: 分众传媒
@@ -177,6 +184,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.att.jobs
 
   - id: communication-services-verizon-us
     name: Verizon
@@ -185,6 +193,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.verizon.com/about/careers
 
   - id: communication-services-tmobile-us
     name: T-Mobile US
@@ -193,6 +202,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.t-mobile.com
 
   - id: communication-services-comcast-us
     name: Comcast
@@ -201,6 +211,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.comcast.com
 
   - id: communication-services-charter-us
     name: Charter Communications
@@ -209,6 +220,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://corporate.charter.com/careers
 
   - id: communication-services-disney-us
     name: Disney
@@ -217,6 +229,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.disneycareers.com
 
   - id: communication-services-netflix-us
     name: Netflix
@@ -225,6 +238,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.netflix.com
 
   - id: communication-services-warner-bros-discovery-us
     name: Warner Bros. Discovery
@@ -233,6 +247,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.wbd.com
 
   - id: communication-services-paramount-us
     name: Paramount Global
@@ -241,6 +256,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.paramount.com
 
   - id: communication-services-activision-blizzard-us
     name: Activision Blizzard
@@ -249,6 +265,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.activision.com/careers
 
   - id: communication-services-ea-us
     name: Electronic Arts
@@ -257,6 +274,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.ea.com/careers
 
   - id: communication-services-sony-jp
     name: Sony Group
@@ -265,6 +283,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://www.sony.com/en/SonyInfo/Careers/
 
   - id: communication-services-softbank-jp
     name: SoftBank Group
@@ -321,6 +340,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.telekom.com/en/careers
 
   - id: communication-services-bertelsmann-de
     name: Bertelsmann
@@ -337,6 +357,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://careers.vodafone.com
 
   - id: communication-services-bt-gb
     name: BT Group
@@ -353,6 +374,7 @@ companies:
     country: FR
     sources: []
     status: pending
+    link: https://orange.jobs
 
   - id: communication-services-telefonica-es
     name: Telefónica
@@ -377,6 +399,7 @@ companies:
     country: AU
     sources: []
     status: pending
+    link: https://www.telstra.com/careers
 
   - id: communication-services-singtel-sg
     name: Singtel
@@ -385,6 +408,7 @@ companies:
     country: SG
     sources: []
     status: pending
+    link: https://www.singtel.com/about-us/careers
 
   - id: communication-services-universal-music-nl
     name: Universal Music Group
@@ -393,6 +417,7 @@ companies:
     country: NL
     sources: []
     status: pending
+    link: https://www.universalmusic.com/careers
 
   - id: communication-services-spotify-se
     name: Spotify
@@ -401,6 +426,7 @@ companies:
     country: SE
     sources: []
     status: pending
+    link: https://www.spotifyjobs.com
 
   - id: communication-services-swisscom-ch
     name: Swisscom
@@ -409,6 +435,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://www.swisscom.ch/en/about/career.html
 
   - id: communication-services-telenor-no
     name: Telenor

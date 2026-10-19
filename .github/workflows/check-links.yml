@@ -1,0 +1,41 @@
+name: check-links
+
+on:
+  schedule:
+    - cron: "37 4 * * 1"   # 每周一爬虫之前先体检链接
+  workflow_dispatch:
+
+permissions:
+  contents: write
+  pull-requests: write
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Verify all links and strip dead ones
+        run: python scripts/check_links.py
+      - name: Open PR if any links were removed
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: |
+          git config user.name "job35-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          if git diff --quiet; then
+            echo "所有链接有效，无需修改"
+            exit 0
+          fi
+          python scripts/merge_industries.py
+          python scripts/validate.py
+          branch="links/$(date -u +%Y%m%d)"
+          git checkout -b "$branch"
+          git add -A
+          git commit -m "chore: remove dead career-page links $(date -u +%F)"
+          git push -u origin "$branch"
+          gh pr create --title "Link check $(date -u +%F)" \
+            --body "Weekly automated link verification. Dead links removed from by-industry data."

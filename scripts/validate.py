@@ -48,6 +48,8 @@ def main() -> None:
             errors.append(f"{cid}: 非法 tier '{c.get('tier')}'")
         if c.get("status") not in VALID_STATUS:
             errors.append(f"{cid}: 非法 status '{c.get('status')}'")
+        if c.get("link") and not str(c["link"]).startswith("https://"):
+            errors.append(f"{cid}: link 必须是 https:// 开头的 URL")
         for s in c.get("sources", []):
             if s.get("type") not in VALID_SOURCE_TYPES:
                 errors.append(f"{cid}: 非法 source.type '{s.get('type')}'")

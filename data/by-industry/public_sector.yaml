@@ -167,6 +167,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.un.org
   - id: public_sector-undp-us
     name: 联合国开发计划署驻华代表处
     name_en: United Nations Development Programme
@@ -175,6 +176,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.undp.org
   - id: public_sector-unicef-us
     name: 联合国儿童基金会驻华办事处
     name_en: UNICEF
@@ -183,6 +185,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.unicef.org/careers
   - id: public_sector-who-ch
     name: 世界卫生组织驻华代表处
     name_en: World Health Organization
@@ -191,6 +194,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://www.who.int/careers
   - id: public_sector-worldbank-us
     name: 世界银行驻华代表处
     name_en: World Bank Group
@@ -199,6 +203,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.worldbank.org/en/about/careers
   - id: public_sector-imf-us
     name: 国际货币基金组织驻华代表处
     name_en: International Monetary Fund
@@ -207,6 +212,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.imf.org/en/About/Careers
   - id: public_sector-aiib-cn
     name: 亚洲基础设施投资银行
     name_en: Asian Infrastructure Investment Bank
@@ -215,6 +221,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://www.aiib.org/en/opportunities/careers/index.html
   - id: public_sector-ndb-cn
     name: 新开发银行
     name_en: New Development Bank
@@ -223,6 +230,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://www.ndb.int/careers/
   - id: public_sector-fao-it
     name: 联合国粮农组织驻华代表处
     name_en: Food and Agriculture Organization of the United Nations
@@ -231,6 +239,7 @@ companies:
     country: IT
     sources: []
     status: pending
+    link: https://jobs.fao.org
   - id: public_sector-ilo-ch
     name: 国际劳工组织北京局
     name_en: International Labour Organization
@@ -247,6 +256,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://www.icrc.org/en/work-with-us
   - id: public_sector-apple-cn
     name: 苹果（中国）
     name_en: Apple China
@@ -255,6 +265,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.apple.com
   - id: public_sector-microsoft-cn
     name: 微软中国
     name_en: Microsoft China
@@ -263,6 +274,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.microsoft.com
   - id: public_sector-amazon-cn
     name: 亚马逊中国
     name_en: Amazon China
@@ -271,6 +283,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.amazon.jobs
   - id: public_sector-tesla-cn
     name: 特斯拉中国
     name_en: Tesla China
@@ -279,6 +292,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.tesla.com/careers
   - id: public_sector-samsung-cn
     name: 三星中国
     name_en: Samsung China
@@ -295,6 +309,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://global.toyota/en/company/career/
   - id: public_sector-vw-cn
     name: 大众汽车集团（中国）
     name_en: Volkswagen Group China
@@ -311,6 +326,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.bmwgroup.jobs
   - id: public_sector-mercedes-cn
     name: 梅赛德斯-奔驰中国
     name_en: Mercedes-Benz China
@@ -327,6 +343,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.siemens.com/careers
   - id: public_sector-airbus-cn
     name: 空中客车中国
     name_en: Airbus China
@@ -335,6 +352,7 @@ companies:
     country: FR
     sources: []
     status: pending
+    link: https://www.airbus.com/en/careers
   - id: public_sector-boeing-cn
     name: 波音中国
     name_en: Boeing China
@@ -343,6 +361,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.boeing.com
   - id: public_sector-pg-cn
     name: 宝洁中国
     name_en: Procter & Gamble China
@@ -351,6 +370,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.pgcareers.com
   - id: public_sector-unilever-cn
     name: 联合利华中国
     name_en: Unilever China
@@ -359,6 +379,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://careers.unilever.com
   - id: public_sector-cocacola-cn
     name: 可口可乐中国
     name_en: Coca-Cola China
@@ -367,6 +388,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.coca-colacompany.com/careers
   - id: public_sector-nestle-cn
     name: 雀巢中国
     name_en: Nestlé China
@@ -375,6 +397,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://www.nestle.com/jobs
   - id: public_sector-pfizer-cn
     name: 辉瑞中国
     name_en: Pfizer China
@@ -383,6 +406,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.pfizer.com/careers
   - id: public_sector-astrazeneca-cn
     name: 阿斯利康中国
     name_en: AstraZeneca China
@@ -391,6 +415,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://careers.astrazeneca.com
   - id: public_sector-walmart-cn
     name: 沃尔玛中国
     name_en: Walmart China
@@ -399,3 +424,4 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.walmart.com

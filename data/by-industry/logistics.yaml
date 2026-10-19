@@ -11,6 +11,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://campus.sf-express.com/
 
   - id: logistics-jdlogistics-cn
     name: 京东物流
@@ -20,6 +21,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://zhaopin.jd.com/
 
   - id: logistics-zto-cn
     name: 中通快递
@@ -65,6 +67,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://talent.cainiao.com/
 
   - id: logistics-cosco-cn
     name: 中远海控
@@ -137,6 +140,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://zhaopin.airchina.com.cn/
 
   - id: logistics-csn-cn
     name: 中国南方航空
@@ -146,6 +150,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.csair.com/
 
   - id: logistics-ces-cn
     name: 中国东方航空
@@ -155,6 +160,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.ceair.com/
 
   - id: logistics-hainanairlines-cn
     name: 海南航空
@@ -164,6 +170,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://recruitment.hnair.com/
 
   - id: logistics-kerry-cn
     name: 嘉里物流
@@ -182,6 +189,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://www.mtr.com.hk/en/corporate/careers/
 
   # ===== 美国 =====
   - id: logistics-fedex-us
@@ -191,6 +199,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.fedex.com/
 
   - id: logistics-ups-us
     name: UPS
@@ -199,6 +208,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs-ups.com/
 
   - id: logistics-chrobinson-us
     name: C.H. Robinson
@@ -207,6 +217,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.chrobinson.com/careers/
 
   - id: logistics-unionpacific-us
     name: Union Pacific
@@ -215,6 +226,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.up.com/careers
 
   - id: logistics-csx-us
     name: CSX
@@ -223,6 +235,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.csx.com/index.cfm/working-at-csx/
 
   - id: logistics-norfolksouthern-us
     name: Norfolk Southern
@@ -231,6 +244,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.nscorp.com/
 
   - id: logistics-delta-us
     name: Delta Air Lines
@@ -239,6 +253,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.delta.com/us/en/careers
 
   - id: logistics-united-us
     name: United Airlines
@@ -247,6 +262,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.united.com/
 
   - id: logistics-american-us
     name: American Airlines
@@ -255,6 +271,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.aa.com/
 
   # ===== 加拿大 =====
   - id: logistics-cn-ca
@@ -264,6 +281,7 @@ companies:
     country: CA
     sources: []
     status: pending
+    link: https://www.cn.ca/en/careers/
 
   - id: logistics-cpkc-ca
     name: Canadian Pacific Kansas City
@@ -272,6 +290,7 @@ companies:
     country: CA
     sources: []
     status: pending
+    link: https://www.cpkcr.com/en/careers
 
   # ===== 欧洲 =====
   - id: logistics-dhl-de
@@ -281,6 +300,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://careers.dhl.com/
 
   - id: logistics-dbahn-de
     name: Deutsche Bahn
@@ -289,6 +309,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.deutschebahn.com/karriere
 
   - id: logistics-hapag-lloyd-de
     name: Hapag-Lloyd
@@ -297,6 +318,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.hapag-lloyd.com/en/company/career/overview.html
 
   - id: logistics-lufthansa-de
     name: Lufthansa Group
@@ -305,6 +327,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://career.lufthansagroup.com/
 
   - id: logistics-maersk-dk
     name: A.P. Moller - Maersk
@@ -313,6 +336,7 @@ companies:
     country: DK
     sources: []
     status: pending
+    link: https://www.maersk.com/careers
 
   - id: logistics-dsv-dk
     name: DSV
@@ -321,6 +345,7 @@ companies:
     country: DK
     sources: []
     status: pending
+    link: https://www.dsv.com/en/careers
 
   - id: logistics-cmacgm-fr
     name: CMA CGM
@@ -329,6 +354,7 @@ companies:
     country: FR
     sources: []
     status: pending
+    link: https://www.cmacgm-group.com/en/talent/joins-us
 
   - id: logistics-airfranceklm-fr
     name: Air France-KLM
@@ -345,6 +371,7 @@ companies:
     country: FR
     sources: []
     status: pending
+    link: https://emploi.sncf.com/
 
   - id: logistics-msc-ch
     name: Mediterranean Shipping Company
@@ -353,6 +380,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://www.msc.com/en/careers
 
   - id: logistics-kn-ch
     name: Kuehne + Nagel
@@ -361,6 +389,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://careers.kuehne-nagel.com/
 
   - id: logistics-iag-gb
     name: International Airlines Group
@@ -378,6 +407,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://www.nipponexpress.com/career/
 
   - id: logistics-yamato-jp
     name: Yamato Holdings
@@ -419,6 +449,7 @@ companies:
     country: SG
     sources: []
     status: pending
+    link: https://careers.singaporeair.com/
 
   - id: logistics-emirates-ae
     name: Emirates
@@ -427,3 +458,4 @@ companies:
     country: AE
     sources: []
     status: pending
+    link: https://www.emiratesgroupcareers.com/

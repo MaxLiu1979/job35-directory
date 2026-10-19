@@ -22,6 +22,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://newhope.zhiye.com/
     status: pending
   - id: agriculture-wens-cn
     name: 温氏股份
@@ -110,6 +111,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.wh-group.com/html/career.php
     status: pending
   - id: agriculture-yili-cn
     name: 伊利
@@ -118,6 +120,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.yili.com/joinus
     status: pending
   - id: agriculture-mengniu-cn
     name: 蒙牛
@@ -126,6 +129,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://mengniu.zhiye.com/
     status: pending
   - id: agriculture-brightfood-cn
     name: 光明食品集团
@@ -165,6 +169,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.cargill.com
     status: pending
   - id: agriculture-adm-us
     name: Archer Daniels Midland
@@ -172,6 +177,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.adm.com/careers
     status: pending
   - id: agriculture-bunge-us
     name: Bunge
@@ -179,6 +185,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.bunge.com
     status: pending
   - id: agriculture-tyson-us
     name: Tyson Foods
@@ -186,6 +193,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.tysonfoods.com/careers
     status: pending
   - id: agriculture-deere-us
     name: John Deere
@@ -193,6 +201,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.deere.com
     status: pending
   - id: agriculture-corteva-us
     name: Corteva
@@ -200,6 +209,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.corteva.com
     status: pending
   - id: agriculture-landolakes-us
     name: Land O'Lakes
@@ -207,6 +217,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.landolakesinc.com
     status: pending
   - id: agriculture-chs-us
     name: CHS
@@ -221,6 +232,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://mosaicco.com/careers
     status: pending
   - id: agriculture-nutrien-ca
     name: Nutrien
@@ -228,6 +240,7 @@ companies:
     tier: top50
     country: CA
     sources: []
+    link: https://www.nutrien.com/careers
     status: pending
   - id: agriculture-jbs-br
     name: JBS
@@ -235,6 +248,7 @@ companies:
     tier: top50
     country: BR
     sources: []
+    link: https://jbsfoodsgroup.com/careers
     status: pending
   - id: agriculture-brf-br
     name: BRF
@@ -263,6 +277,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.bayer.com/en/careers
     status: pending
   - id: agriculture-basf-de
     name: BASF
@@ -270,6 +285,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.basf.com/global/en/careers
     status: pending
   - id: agriculture-suedzucker-de
     name: Südzucker
@@ -284,6 +300,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://careers.danone.com
     status: pending
   - id: agriculture-lactalis-fr
     name: Lactalis
@@ -298,6 +315,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.syngenta.com/careers
     status: pending
   - id: agriculture-nestle-ch
     name: Nestlé
@@ -305,6 +323,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.nestlejobs.com
     status: pending
   - id: agriculture-louisdreyfus-nl
     name: Louis Dreyfus Company
@@ -312,6 +331,7 @@ companies:
     tier: top50
     country: NL
     sources: []
+    link: https://www.ldc.com/careers
     status: pending
   - id: agriculture-yara-no
     name: Yara International
@@ -319,6 +339,7 @@ companies:
     tier: top50
     country: NO
     sources: []
+    link: https://jobs.yara.com
     status: pending
   - id: agriculture-kubota-jp
     name: Kubota
@@ -368,4 +389,5 @@ companies:
     tier: top50
     country: NZ
     sources: []
+    link: https://www.fonterra.com/nz/en/careers.html
     status: pending

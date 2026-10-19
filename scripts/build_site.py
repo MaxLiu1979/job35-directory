@@ -5,6 +5,7 @@ import argparse
 import html
 import json
 from pathlib import Path
+from urllib.parse import quote
 
 import yaml
 
@@ -26,6 +27,36 @@ LEVEL = {
 
 def esc(text: str | None) -> str:
     return html.escape(str(text or ""))
+
+
+def company_link(c: dict) -> tuple[str, str, bool]:
+    """返回 (href, 提示文字, 是否直达官网)。
+
+    有已验证的招聘页链接则直达；否则退化为搜索引擎查询，绝不给死链。
+    """
+    if c.get("link"):
+        return c["link"], f'直达 {c["name"]} 招聘页', True
+    q = quote(f'{c.get("name_en") or c["name"]} careers 招聘官网')
+    return f"https://www.bing.com/search?q={q}", f'搜索 {c["name"]} 招聘信息', False
+
+
+def card_html(c: dict) -> str:
+    href, title, direct = company_link(c)
+    arrow = '<span class="go">直达招聘页 ↗</span>' if direct else '<span class="go search">搜索招聘页 🔍</span>'
+    return f"""
+      <a class="card" href="{esc(href)}" target="_blank" rel="noopener" title="{esc(title)}">
+        <div class="card-head">
+          <strong>{esc(c["name"])}</strong>
+          {f'<span class="en">{esc(c["name_en"])}</span>' if c.get("name_en") else ""}
+        </div>
+        <div class="card-meta">
+          <span class="tier">{esc(c["tier"])}</span>
+          {f'<span class="country">{esc(c["country"])}</span>' if c.get("country") else ""}
+          {badge(STATUS, c["status"])}
+          <span class="go-wrap">{arrow}</span>
+        </div>
+        {f'<div class="note">{esc(c["note"])}</div>' if c.get("note") else ""}
+      </a>"""
 
 
 def badge(kind: str, key: str) -> str:
@@ -56,22 +87,7 @@ def main() -> None:
     sections: list[str] = []
     for ind in industries:
         rows = by_industry.get(ind["code"], [])
-        cards = "".join(
-            f"""
-      <div class="card">
-        <div class="card-head">
-          <strong>{esc(c["name"])}</strong>
-          {f'<span class="en">{esc(c["name_en"])}</span>' if c.get("name_en") else ""}
-        </div>
-        <div class="card-meta">
-          <span class="tier">{esc(c["tier"])}</span>
-          {f'<span class="country">{esc(c["country"])}</span>' if c.get("country") else ""}
-          {badge(STATUS, c["status"])}
-        </div>
-        {f'<div class="note">{esc(c["note"])}</div>' if c.get("note") else ""}
-      </div>"""
-            for c in rows
-        ) or '<p class="empty">收录中… / Collecting…</p>'
+        cards = "".join(card_html(c) for c in rows) or '<p class="empty">收录中… / Collecting…</p>'
         sections.append(
             f"""
     <section id="{esc(ind["code"])}">
@@ -126,6 +142,13 @@ def main() -> None:
                      color:var(--muted); }}
   .badge {{ --c:#888; border:1px solid var(--c); color:var(--c); border-radius:12px;
             padding:0 9px; font-size:.78rem; }}
+  .card {{ display:block; text-decoration:none; color:inherit; border:1px solid var(--line);
+          border-radius:10px; padding:14px 16px; background:#fff; transition:border-color .15s, box-shadow .15s; }}
+  .card:hover {{ border-color:#0d3b66; box-shadow:0 2px 10px rgba(13,59,102,.12); }}
+  .go-wrap {{ margin-left:auto; }}
+  .go {{ color:#1a7f37; font-size:.8rem; white-space:nowrap; }}
+  .go.search {{ color:var(--muted); }}
+  .card:hover .go {{ text-decoration:underline; }}
   .note {{ color:var(--muted); font-size:.82rem; margin-top:8px; }}
   .empty {{ color:var(--muted); }}
   footer {{ padding:28px 24px 48px; color:var(--muted); font-size:.85rem; }}

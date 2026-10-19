@@ -9,6 +9,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.icbc.com.cn
 
   - id: finance-ccb-cn
     name: 中国建设银行
@@ -45,6 +46,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://career.cmbchina.com
 
   - id: finance-bocom-cn
     name: 交通银行
@@ -117,6 +119,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://talent.pingan.com
 
   - id: finance-cpic-cn
     name: 中国太平洋保险
@@ -188,6 +191,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.jpmorgan.com
 
   - id: finance-bofa-us
     name: Bank of America
@@ -196,6 +200,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.bankofamerica.com
 
   - id: finance-citi-us
     name: Citigroup
@@ -204,6 +209,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.citi.com
 
   - id: finance-wellsfargo-us
     name: Wells Fargo
@@ -212,6 +218,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.wellsfargo.com
 
   - id: finance-goldman-us
     name: Goldman Sachs
@@ -220,6 +227,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.goldmansachs.com/careers
 
   - id: finance-morgan-stanley-us
     name: Morgan Stanley
@@ -228,6 +236,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.morganstanley.com/careers
 
   - id: finance-berkshire-us
     name: Berkshire Hathaway
@@ -244,6 +253,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.americanexpress.com/careers
 
   - id: finance-blackrock-us
     name: BlackRock
@@ -252,6 +262,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.blackrock.com
 
   - id: finance-visa-us
     name: Visa
@@ -260,6 +271,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.visa.com
 
   - id: finance-mastercard-us
     name: Mastercard
@@ -268,6 +280,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.mastercard.com
 
   - id: finance-hsbc-gb
     name: HSBC
@@ -276,6 +289,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://www.hsbc.com/careers
 
   - id: finance-barclays-gb
     name: Barclays
@@ -284,6 +298,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://jobs.barclays
 
   - id: finance-lloyds-gb
     name: Lloyds Banking Group
@@ -292,6 +307,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://www.lloydsbankinggroup.com/careers
 
   - id: finance-stanchart-gb
     name: Standard Chartered
@@ -300,6 +316,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://www.sc.com/careers
 
   - id: finance-ubs-ch
     name: UBS
@@ -308,6 +325,7 @@ companies:
     country: CH
     sources: []
     status: pending
+    link: https://www.ubs.com/global/en/careers.html
 
   - id: finance-allianz-de
     name: Allianz
@@ -316,6 +334,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://careers.allianz.com
 
   - id: finance-deutsche-de
     name: Deutsche Bank
@@ -324,6 +343,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.db.com/careers
 
   - id: finance-bnpp-fr
     name: BNP Paribas
@@ -332,6 +352,7 @@ companies:
     country: FR
     sources: []
     status: pending
+    link: https://group.bnpparibas/en/careers
 
   - id: finance-axa-fr
     name: AXA
@@ -340,6 +361,7 @@ companies:
     country: FR
     sources: []
     status: pending
+    link: https://www.axa.com/en/careers
 
   - id: finance-santander-es
     name: Banco Santander
@@ -348,6 +370,7 @@ companies:
     country: ES
     sources: []
     status: pending
+    link: https://www.santander.com/en/careers
 
   - id: finance-ing-nl
     name: ING Group
@@ -356,6 +379,7 @@ companies:
     country: NL
     sources: []
     status: pending
+    link: https://www.ing.com/careers
 
   - id: finance-mufg-jp
     name: Mitsubishi UFJ Financial Group
@@ -388,6 +412,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://www.nomura.com/careers
 
   - id: finance-shinhan-kr
     name: Shinhan Financial Group
@@ -412,6 +437,7 @@ companies:
     country: SG
     sources: []
     status: pending
+    link: https://www.dbs.com/careers
 
   - id: finance-rbc-ca
     name: Royal Bank of Canada
@@ -420,3 +446,4 @@ companies:
     country: CA
     sources: []
     status: pending
+    link: https://jobs.rbc.com

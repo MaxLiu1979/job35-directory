@@ -6,6 +6,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.xdf.cn
     status: pending
 
   - id: education-tal-cn
@@ -15,6 +16,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://job.tal.com/
     status: pending
 
   - id: education-gaotu-cn
@@ -24,6 +26,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://job.gaotu.cn/
     status: pending
 
   - id: education-yuanfudao-cn
@@ -33,6 +36,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.yuanfudao.com/
     status: pending
 
   - id: education-zuoyebang-cn
@@ -51,6 +55,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://hr.163.com/product.html/youdao?workType=0&lang=zh
     status: pending
 
   - id: education-offcn-cn
@@ -185,6 +190,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.mheducation.com
     status: pending
 
   - id: education-hmh-us
@@ -193,6 +199,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.hmhco.com/careers
     status: pending
 
   - id: education-scholastic-us
@@ -201,6 +208,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.scholastic.com/aboutscholastic/careers/
     status: pending
 
   - id: education-cengage-us
@@ -209,6 +217,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.cengage.com/careers/
     status: pending
 
   - id: education-wiley-us
@@ -217,6 +226,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.wiley.com/en-us/careers
     status: pending
 
   - id: education-coursera-us
@@ -225,6 +235,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.coursera.org/about/careers
     status: pending
 
   - id: education-udemy-us
@@ -233,6 +244,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://about.udemy.com/careers/
     status: pending
 
   - id: education-duolingo-us
@@ -241,6 +253,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.duolingo.com
     status: pending
 
   - id: education-chegg-us
@@ -249,6 +262,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.chegg.com/
     status: pending
 
   - id: education-stride-us
@@ -257,6 +271,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.stridelearning.com/careers
     status: pending
 
   - id: education-khanacademy-us
@@ -265,6 +280,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.khanacademy.org/careers
     status: pending
 
   - id: education-instructure-us
@@ -273,6 +289,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.instructure.com/careers
     status: pending
 
   - id: education-powerschool-us
@@ -281,6 +298,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.powerschool.com/company/careers/
     status: pending
 
   - id: education-gce-us
@@ -289,6 +307,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.gce.com/careers.html
     status: pending
 
   - id: education-adtalem-us
@@ -321,6 +340,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://jobs.pearson.com
     status: pending
 
   - id: education-nordanglia-gb
@@ -329,6 +349,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.nordangliaeducation.com/careers
     status: pending
 
   - id: education-ef-ch
@@ -337,6 +358,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.ef.com/wwen/careers/
     status: pending
 
   - id: education-sanoma-fi
@@ -345,6 +367,7 @@ companies:
     tier: top50
     country: FI
     sources: []
+    link: https://www.sanoma.com/careers/
     status: pending
 
   - id: education-springernature-de
@@ -353,6 +376,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.springernature.com/careers
     status: pending
 
   - id: education-babbel-de
@@ -361,6 +385,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://jobs.babbel.com/en
     status: pending
 
   - id: education-benesse-jp
@@ -379,6 +404,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.kumon.com/careers
     status: pending
 
   - id: education-megastudy-kr
@@ -413,6 +439,7 @@ companies:
     tier: top50
     country: IN
     sources: []
+    link: https://unacademy.com/careers
     status: pending
 
   - id: education-pw-in

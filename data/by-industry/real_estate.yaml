@@ -1,5 +1,6 @@
 companies:
   - id: real_estate-vanke-cn
+    link: https://www.vanke.com/mobile/join/talent
     name: 万科
     name_en: China Vanke
     industry: real_estate
@@ -16,6 +17,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-crland-cn
+    link: https://careers.crc.com.cn/
     name: 华润置地
     name_en: China Resources Land
     industry: real_estate
@@ -40,6 +42,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-longfor-cn
+    link: https://www.longfor.com/join/job.html
     name: 龙湖集团
     name_en: Longfor Group
     industry: real_estate
@@ -96,6 +99,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-shkp-hk
+    link: https://www.shkp.com/en-US/work-with-us/job-vacancies
     name: 新鸿基地产
     name_en: Sun Hung Kai Properties
     industry: real_estate
@@ -104,6 +108,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-ckasset-hk
+    link: https://www.ckah.com/careers
     name: 长江实业集团
     name_en: CK Asset Holdings
     industry: real_estate
@@ -120,6 +125,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-swire-hk
+    link: https://www.swireproperties.com/en/careers/
     name: 太古地产
     name_en: Swire Properties
     industry: real_estate
@@ -128,6 +134,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-hanglung-hk
+    link: https://www.hanglung.com/en-US/Careers
     name: 恒隆地产
     name_en: Hang Lung Properties
     industry: real_estate
@@ -144,6 +151,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-linkreit-hk
+    link: https://www.linkreit.com/en/careers
     name: 领展房地产投资信托基金
     name_en: Link Real Estate Investment Trust
     industry: real_estate
@@ -160,6 +168,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-simon-us
+    link: https://careers.simon.com/
     name: Simon Property Group
     industry: real_estate
     tier: top50
@@ -167,6 +176,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-prologis-us
+    link: https://www.prologis.com/about/careers
     name: Prologis
     industry: real_estate
     tier: top50
@@ -174,6 +184,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-publicstorage-us
+    link: https://www.publicstoragejobs.com/
     name: Public Storage
     industry: real_estate
     tier: top50
@@ -181,6 +192,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-avalonbay-us
+    link: https://jobs.avalonbay.com/
     name: AvalonBay Communities
     industry: real_estate
     tier: top50
@@ -188,6 +200,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-welltower-us
+    link: https://welltower.com/careers/
     name: Welltower
     industry: real_estate
     tier: top50
@@ -195,6 +208,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-bostonprop-us
+    link: https://www.bxp.com/working-here
     name: Boston Properties
     industry: real_estate
     tier: top50
@@ -202,6 +216,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-eqresidential-us
+    link: https://jobs.vivmarkresidential.com/
     name: Equity Residential
     industry: real_estate
     tier: top50
@@ -209,6 +224,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-realtyincome-us
+    link: https://www.realtyincome.com/careers
     name: Realty Income
     industry: real_estate
     tier: top50
@@ -216,6 +232,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-cbre-us
+    link: https://www.cbre.com/careers
     name: CBRE Group
     industry: real_estate
     tier: top50
@@ -223,6 +240,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-jll-us
+    link: https://www.jll.com/en/careers
     name: Jones Lang LaSalle
     industry: real_estate
     tier: top50
@@ -230,6 +248,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-mitsuifudosan-jp
+    link: https://www.mitsuifudosan.co.jp/corporate/recruit/
     name: 三井不动产
     name_en: Mitsui Fudosan
     industry: real_estate
@@ -238,6 +257,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-mitsubishiestate-jp
+    link: https://www.mec.co.jp/saiyou/
     name: 三菱地所
     name_en: Mitsubishi Estate
     industry: real_estate
@@ -246,6 +266,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-sumitomorlty-jp
+    link: https://www.sumitomo-rd.co.jp/recruit/
     name: 住友不动产
     name_en: Sumitomo Realty & Development
     industry: real_estate
@@ -254,6 +275,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-nomurarealestate-jp
+    link: https://www.nomura-re.co.jp/jobs/
     name: 野村不动产控股
     name_en: Nomura Real Estate Holdings
     industry: real_estate
@@ -262,6 +284,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-tokyuland-jp
+    link: https://www.tokyu-land.co.jp/recruit/
     name: 东急不动产控股
     name_en: Tokyu Fudosan Holdings
     industry: real_estate
@@ -270,6 +293,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-urw-fr
+    link: https://www.urw.com/careers
     name: Unibail-Rodamco-Westfield
     industry: real_estate
     tier: top50
@@ -277,6 +301,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-vonovia-de
+    link: https://jobs.vonovia.de/Vonovia/
     name: Vonovia
     industry: real_estate
     tier: top50
@@ -284,6 +309,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-gecina-fr
+    link: https://www.gecina.fr/en/our-careers
     name: Gecina
     industry: real_estate
     tier: top50
@@ -291,6 +317,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-britishland-gb
+    link: https://www.britishland.com/careers
     name: British Land
     industry: real_estate
     tier: top50
@@ -298,6 +325,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-landsec-gb
+    link: https://www.landsec.com/careers
     name: Landsec
     industry: real_estate
     tier: top50
@@ -305,6 +333,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-segro-gb
+    link: https://www.segro.com/careers
     name: Segro
     industry: real_estate
     tier: top50
@@ -326,6 +355,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-capitaland-sg
+    link: https://www.capitaland.com/en/about-capitaland/careers.html
     name: 凯德集团
     name_en: CapitaLand
     industry: real_estate
@@ -334,6 +364,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-cdl-sg
+    link: https://www.cdl.com.sg/careers
     name: 城市发展有限公司
     name_en: City Developments
     industry: real_estate
@@ -342,6 +373,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-uol-sg
+    link: https://www.uol.com.sg/our-people/careers/
     name: 华业集团
     name_en: UOL Group
     industry: real_estate
@@ -350,6 +382,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-goodman-au
+    link: https://www.goodman.com/about-goodman/careers
     name: Goodman Group
     industry: real_estate
     tier: top50
@@ -357,6 +390,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-mirvac-au
+    link: https://www.mirvac.com/careers
     name: Mirvac
     industry: real_estate
     tier: top50
@@ -364,6 +398,7 @@ companies:
     sources: []
     status: pending
   - id: real_estate-emaar-ae
+    link: https://www.emaar.com/careers
     name: Emaar Properties
     industry: real_estate
     tier: top50

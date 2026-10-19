@@ -6,6 +6,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.whchem.com/column/307/
     status: pending
   - id: materials-sinopec-cn
     name: 中国石化
@@ -14,6 +15,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://job.sinopec.com
     status: pending
   - id: materials-cnbm-cn
     name: 中国建材集团
@@ -46,6 +48,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.zjky.cn/join/join-us.htm
     status: pending
   - id: materials-cmoc-cn
     name: 洛阳钼业
@@ -54,6 +57,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.cmoc.com/html/CareerDevelopment/
     status: pending
   - id: materials-chalco-cn
     name: 中国铝业
@@ -62,6 +66,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.chalco.com.cn/rlzy/rczp/
     status: pending
   - id: materials-conch-cn
     name: 海螺水泥
@@ -78,6 +83,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.huaxincem.com/rencaizhaopin/
     status: pending
   - id: materials-jushi-cn
     name: 中国巨石
@@ -86,6 +92,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.jushi.com/recruit
     status: pending
   - id: materials-rareearth-north-cn
     name: 北方稀土
@@ -102,6 +109,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.sinochem.com/sinochem/jrwm/rc11/A031008001Gone1.html
     status: pending
   - id: materials-hengli-cn
     name: 恒力石化
@@ -142,6 +150,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.bnbm.com.cn/category/talent_join.html
     status: pending
   - id: materials-ndpaper-cn
     name: 玖龙纸业
@@ -165,6 +174,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.dow.com/careers
     status: pending
   - id: materials-dupont-us
     name: DuPont
@@ -172,6 +182,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.dupont.com
     status: pending
   - id: materials-lyondellbasell-us
     name: LyondellBasell
@@ -179,6 +190,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.lyondellbasell.com/careers
     status: pending
   - id: materials-airproducts-us
     name: Air Products
@@ -186,6 +198,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.airproducts.com/careers
     status: pending
   - id: materials-nucor-us
     name: Nucor
@@ -193,6 +206,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.nucor.com/careers
     status: pending
   - id: materials-freeportmcmoran-us
     name: Freeport-McMoRan
@@ -200,6 +214,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.fcx.com/careers
     status: pending
   - id: materials-alcoa-us
     name: Alcoa
@@ -207,6 +222,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.alcoa.com/careers
     status: pending
   - id: materials-internationalpaper-us
     name: International Paper
@@ -214,6 +230,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.internationalpaper.com/careers
     status: pending
   - id: materials-basf-de
     name: BASF
@@ -221,6 +238,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.basf.com/careers
     status: pending
   - id: materials-covestro-de
     name: Covestro
@@ -228,6 +246,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.covestro.com/en/career
     status: pending
   - id: materials-evonik-de
     name: Evonik Industries
@@ -235,6 +254,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://careers.evonik.com
     status: pending
   - id: materials-heidelbergmaterials-de
     name: Heidelberg Materials
@@ -242,6 +262,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.heidelbergmaterials.com/careers
     status: pending
   - id: materials-thyssenkrupp-de
     name: Thyssenkrupp
@@ -249,6 +270,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.thyssenkrupp.com/en/career
     status: pending
   - id: materials-arcelormittal-lu
     name: ArcelorMittal
@@ -256,6 +278,7 @@ companies:
     tier: top50
     country: LU
     sources: []
+    link: https://corporate.arcelormittal.com/careers
     status: pending
   - id: materials-riotinto-gb
     name: Rio Tinto
@@ -263,6 +286,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.riotinto.com/careers
     status: pending
   - id: materials-glencore-ch
     name: Glencore
@@ -270,6 +294,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.glencore.com/careers
     status: pending
   - id: materials-holcim-ch
     name: Holcim
@@ -277,6 +302,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.holcim.com/careers
     status: pending
   - id: materials-sika-ch
     name: Sika
@@ -284,6 +310,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.sika.com/en/career.html
     status: pending
   - id: materials-saintgobain-fr
     name: Saint-Gobain
@@ -291,6 +318,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://joinus.saint-gobain.com/en
     status: pending
   - id: materials-crh-ie
     name: CRH
@@ -298,6 +326,7 @@ companies:
     tier: top50
     country: IE
     sources: []
+    link: https://www.crh.com/careers
     status: pending
   - id: materials-upm-fi
     name: UPM-Kymmene
@@ -305,6 +334,7 @@ companies:
     tier: top50
     country: FI
     sources: []
+    link: https://www.upm.com/careers
     status: pending
   - id: materials-storaenso-fi
     name: Stora Enso
@@ -312,6 +342,7 @@ companies:
     tier: top50
     country: FI
     sources: []
+    link: https://www.storaenso.com/en/careers
     status: pending
   - id: materials-bhp-au
     name: BHP
@@ -319,6 +350,7 @@ companies:
     tier: top50
     country: AU
     sources: []
+    link: https://www.bhp.com/careers
     status: pending
   - id: materials-vale-br
     name: Vale
@@ -326,6 +358,7 @@ companies:
     tier: top50
     country: BR
     sources: []
+    link: https://www.vale.com/career-opportunities
     status: pending
   - id: materials-posco-kr
     name: POSCO
@@ -340,6 +373,7 @@ companies:
     tier: top50
     country: KR
     sources: []
+    link: https://www.lgchem.com/career
     status: pending
   - id: materials-nipponsteel-jp
     name: Nippon Steel
@@ -347,6 +381,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.nipponsteel.com/recruit/
     status: pending
   - id: materials-toray-jp
     name: Toray Industries
@@ -354,6 +389,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.toray.co.jp/saiyou/
     status: pending
   - id: materials-sabic-sa
     name: SABIC
@@ -361,6 +397,7 @@ companies:
     tier: top50
     country: SA
     sources: []
+    link: https://www.sabic.com/en/careers
     status: pending
   - id: materials-tatasteel-in
     name: Tata Steel
@@ -368,4 +405,5 @@ companies:
     tier: top50
     country: IN
     sources: []
+    link: https://www.tatasteel.com/careers/
     status: pending

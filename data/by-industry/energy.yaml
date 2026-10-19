@@ -6,6 +6,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.cnpc.com.cn
     status: pending
   - id: energy-sinopec-cn
     name: 中国石化
@@ -14,6 +15,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://job.sinopec.com
     status: pending
   - id: energy-cnooc-cn
     name: 中国海油
@@ -22,6 +24,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://cnooc.zhaopin.com
     status: pending
   - id: energy-chnenergy-cn
     name: 国家能源投资集团
@@ -30,6 +33,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.chnenergy.com.cn
     status: pending
   - id: energy-huaneng-cn
     name: 中国华能
@@ -38,6 +42,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.chng.com.cn
     status: pending
   - id: energy-spic-cn
     name: 国家电力投资集团
@@ -70,6 +75,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.chinacoal.com
     status: pending
   - id: energy-yankuang-cn
     name: 兖矿能源
@@ -78,6 +84,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.shandong-energy.com
     status: pending
   - id: energy-longi-cn
     name: 隆基绿能
@@ -86,6 +93,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.longi.com/cn/career/
     status: pending
   - id: energy-tongwei-cn
     name: 通威股份
@@ -102,6 +110,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://career.jinkosolar.com
     status: pending
   - id: energy-trinasolar-cn
     name: 天合光能
@@ -142,6 +151,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.gcl-power.com/job.html
     status: pending
   - id: energy-enn-cn
     name: 新奥集团
@@ -157,6 +167,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://corporate.exxonmobil.com/careers
     status: pending
   - id: energy-chevron-us
     name: Chevron
@@ -164,6 +175,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.chevron.com
     status: pending
   - id: energy-conocophillips-us
     name: ConocoPhillips
@@ -171,6 +183,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.conocophillips.com
     status: pending
   - id: energy-slb-us
     name: SLB
@@ -178,6 +191,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.slb.com
     status: pending
   - id: energy-halliburton-us
     name: Halliburton
@@ -185,6 +199,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.halliburton.com
     status: pending
   - id: energy-nextera-us
     name: NextEra Energy
@@ -192,6 +207,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.nexteraenergy.com/careers.html
     status: pending
   - id: energy-duke-us
     name: Duke Energy
@@ -199,6 +215,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.duke-energy.com/Our-Company/Careers
     status: pending
   - id: energy-southern-us
     name: Southern Company
@@ -206,6 +223,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://southerncompany.jobs/
     status: pending
   - id: energy-shell-gb
     name: Shell
@@ -213,6 +231,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.shell.com/careers
     status: pending
   - id: energy-bp-gb
     name: BP
@@ -220,6 +239,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://careers.bp.com
     status: pending
   - id: energy-totalenergies-fr
     name: TotalEnergies
@@ -227,6 +247,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://careers.totalenergies.com
     status: pending
   - id: energy-edf-fr
     name: EDF
@@ -234,6 +255,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://www.edf.fr/edf-recrute
     status: pending
   - id: energy-equinor-no
     name: Equinor
@@ -241,6 +263,7 @@ companies:
     tier: top50
     country: "NO"
     sources: []
+    link: https://www.equinor.com/careers
     status: pending
   - id: energy-eni-it
     name: Eni
@@ -255,6 +278,7 @@ companies:
     tier: top50
     country: IT
     sources: []
+    link: https://jobs.enel.com
     status: pending
   - id: energy-iberdrola-es
     name: Iberdrola
@@ -262,6 +286,7 @@ companies:
     tier: top50
     country: ES
     sources: []
+    link: https://www.iberdrola.com/talent
     status: pending
   - id: energy-rwe-de
     name: RWE
@@ -269,6 +294,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.rwe.com/en/careers/
     status: pending
   - id: energy-orsted-dk
     name: Ørsted
@@ -276,6 +302,7 @@ companies:
     tier: top50
     country: DK
     sources: []
+    link: https://orsted.com/en/careers
     status: pending
   - id: energy-saudiaramco-sa
     name: Saudi Aramco
@@ -283,6 +310,7 @@ companies:
     tier: top50
     country: SA
     sources: []
+    link: https://www.aramco.com/en/careers
     status: pending
   - id: energy-adnoc-ae
     name: ADNOC
@@ -290,6 +318,7 @@ companies:
     tier: top50
     country: AE
     sources: []
+    link: https://jobs.adnoc.ae
     status: pending
   - id: energy-gazprom-ru
     name: Gazprom
@@ -318,6 +347,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.eneos.co.jp/recruit/
     status: pending
   - id: energy-jera-jp
     name: JERA
@@ -325,6 +355,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.jera.co.jp/employment/
     status: pending
   - id: energy-reliance-in
     name: Reliance Industries
@@ -332,6 +363,7 @@ companies:
     tier: top50
     country: IN
     sources: []
+    link: https://www.ril.com/careers
     status: pending
   - id: energy-ongc-in
     name: ONGC
@@ -360,6 +392,7 @@ companies:
     tier: top50
     country: BR
     sources: []
+    link: https://petrobras.com.br/quem-somos/carreiras
     status: pending
   - id: energy-enbridge-ca
     name: Enbridge
@@ -367,4 +400,5 @@ companies:
     tier: top50
     country: CA
     sources: []
+    link: https://www.enbridge.com/work-with-enbridge/careers
     status: pending

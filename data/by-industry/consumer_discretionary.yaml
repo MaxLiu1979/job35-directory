@@ -7,6 +7,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.byd.com/
   - id: consumer_discretionary-saic-cn
     name: 上汽集团
     name_en: SAIC Motor
@@ -15,6 +16,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://saic-recruit.saicmotor.com/
   - id: consumer_discretionary-geely-cn
     name: 吉利汽车
     name_en: Geely Automobile Holdings
@@ -23,6 +25,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://campus.geely.com
   - id: consumer_discretionary-gwm-cn
     name: 长城汽车
     name_en: Great Wall Motor
@@ -39,6 +42,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://www.nio.com/careers
   - id: consumer_discretionary-liauto-cn
     name: 理想汽车
     name_en: Li Auto
@@ -55,6 +59,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://www.xiaopeng.com/join.html
   - id: consumer_discretionary-seres-cn
     name: 赛力斯
     name_en: Seres Group
@@ -71,6 +76,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://maker.haier.net/smart_home
   - id: consumer_discretionary-midea-cn
     name: 美的集团
     name_en: Midea Group
@@ -79,6 +85,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://careers.midea.com/
   - id: consumer_discretionary-gree-cn
     name: 格力电器
     name_en: Gree Electric Appliances
@@ -95,6 +102,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://jobs.anta.com/
   - id: consumer_discretionary-lining-cn
     name: 李宁
     name_en: Li Ning
@@ -127,6 +135,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://careers.trip.com/
   - id: consumer_discretionary-ctgdf-cn
     name: 中国中免
     name_en: China Tourism Group Duty Free
@@ -143,6 +152,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://campus.hworld.com
   - id: consumer_discretionary-jinjiang-cn
     name: 锦江酒店
     name_en: Jin Jiang International Hotels
@@ -151,6 +161,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://www.jinjianghotels.com.cn/col61/index
   - id: consumer_discretionary-toyota-jp
     name: Toyota Motor
     industry: consumer_discretionary
@@ -158,6 +169,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://global.toyota/en/company/career/
   - id: consumer_discretionary-volkswagen-de
     name: Volkswagen Group
     industry: consumer_discretionary
@@ -165,6 +177,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://jobs.volkswagen-group.com/
   - id: consumer_discretionary-tesla-us
     name: Tesla
     industry: consumer_discretionary
@@ -172,6 +185,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.tesla.com/careers
   - id: consumer_discretionary-bmw-de
     name: BMW Group
     industry: consumer_discretionary
@@ -179,6 +193,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://www.bmwgroup.jobs/
   - id: consumer_discretionary-mercedes-de
     name: Mercedes-Benz Group
     industry: consumer_discretionary
@@ -186,6 +201,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://jobs.mercedes-benz.com/
   - id: consumer_discretionary-honda-jp
     name: Honda Motor
     industry: consumer_discretionary
@@ -214,6 +230,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.gm.com/
   - id: consumer_discretionary-stellantis-nl
     name: Stellantis
     industry: consumer_discretionary
@@ -221,6 +238,7 @@ companies:
     country: NL
     sources: []
     status: pending
+    link: https://careers.stellantis.com/
   - id: consumer_discretionary-nissan-jp
     name: Nissan Motor
     industry: consumer_discretionary
@@ -228,6 +246,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://www.nissanmotor.jobs/
   - id: consumer_discretionary-sony-jp
     name: Sony Group
     industry: consumer_discretionary
@@ -235,6 +254,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://www.sony.com/en/SonyInfo/Careers/
   - id: consumer_discretionary-samsung-kr
     name: Samsung Electronics
     industry: consumer_discretionary
@@ -249,6 +269,7 @@ companies:
     country: KR
     sources: []
     status: pending
+    link: https://globalcareers.lge.com/
   - id: consumer_discretionary-whirlpool-us
     name: Whirlpool
     industry: consumer_discretionary
@@ -256,6 +277,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.whirlpoolcareers.com/
   - id: consumer_discretionary-electrolux-se
     name: Electrolux
     industry: consumer_discretionary
@@ -270,6 +292,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.nike.com/
   - id: consumer_discretionary-adidas-de
     name: adidas
     industry: consumer_discretionary
@@ -277,6 +300,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://careers.adidas-group.com/
   - id: consumer_discretionary-lvmh-fr
     name: LVMH
     industry: consumer_discretionary
@@ -298,6 +322,7 @@ companies:
     country: ES
     sources: []
     status: pending
+    link: https://www.inditexcareers.com/
   - id: consumer_discretionary-hm-se
     name: H&M Group
     industry: consumer_discretionary
@@ -305,6 +330,7 @@ companies:
     country: SE
     sources: []
     status: pending
+    link: https://career.hm.com/
   - id: consumer_discretionary-fastretailing-jp
     name: Fast Retailing
     industry: consumer_discretionary
@@ -312,6 +338,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://www.fastretailing.com/careers/en/
   - id: consumer_discretionary-mcdonalds-us
     name: McDonald's
     industry: consumer_discretionary
@@ -319,6 +346,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.mcdonalds.com/
   - id: consumer_discretionary-starbucks-us
     name: Starbucks
     industry: consumer_discretionary
@@ -326,6 +354,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.starbucks.com/careers/
   - id: consumer_discretionary-yum-us
     name: Yum! Brands
     industry: consumer_discretionary
@@ -340,6 +369,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.marriott.com/
   - id: consumer_discretionary-hilton-us
     name: Hilton Worldwide
     industry: consumer_discretionary
@@ -347,6 +377,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.hilton.com/
   - id: consumer_discretionary-booking-us
     name: Booking Holdings
     industry: consumer_discretionary
@@ -354,6 +385,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.booking.com/
   - id: consumer_discretionary-airbnb-us
     name: Airbnb
     industry: consumer_discretionary
@@ -361,6 +393,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.airbnb.com/
   - id: consumer_discretionary-disney-us
     name: Walt Disney
     industry: consumer_discretionary
@@ -368,3 +401,4 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.disneycareers.com/

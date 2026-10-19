@@ -6,6 +6,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.hengrui.com/development/recruit.html
     status: pending
   - id: healthcare-wuxiapp-cn
     name: 药明康德
@@ -14,6 +15,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.wuxiapptec.cn/careers/career
     status: pending
   - id: healthcare-mindray-cn
     name: 迈瑞医疗
@@ -22,6 +24,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://career.mindray.com
     status: pending
   - id: healthcare-fosun-cn
     name: 复星医药
@@ -30,6 +33,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://fosunpharma.zhiye.com/
     status: pending
   - id: healthcare-sinopharm-cn
     name: 国药控股
@@ -54,6 +58,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.yunnanbaiyao.com.cn/list/ynbyM/1/229/auto/20/0.html
     status: pending
   - id: healthcare-tongrentang-cn
     name: 同仁堂
@@ -94,6 +99,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.beonemedicines.com.cn/careers/
     status: pending
   - id: healthcare-wuxibio-cn
     name: 药明生物
@@ -102,6 +108,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.wuxibiologics.com/join-us/
     status: pending
   - id: healthcare-sinobio-cn
     name: 中国生物制药
@@ -126,6 +133,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://genomics.zhiye.com/
     status: pending
   - id: healthcare-aier-cn
     name: 爱尔眼科
@@ -134,6 +142,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zhaopin.aierchina.com/
     status: pending
   - id: healthcare-unitedimaging-cn
     name: 联影医疗
@@ -142,6 +151,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://global.united-imaging.com/zh-cn/careers
     status: pending
   - id: healthcare-wego-cn
     name: 威高集团
@@ -165,6 +175,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.pfizer.com/about/careers
     status: pending
   - id: healthcare-jnj-us
     name: Johnson & Johnson
@@ -172,6 +183,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.careers.jnj.com
     status: pending
   - id: healthcare-merck-us
     name: Merck & Co.
@@ -179,6 +191,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.merck.com
     status: pending
   - id: healthcare-abbvie-us
     name: AbbVie
@@ -186,6 +199,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.abbvie.com
     status: pending
   - id: healthcare-lilly-us
     name: Eli Lilly and Company
@@ -193,6 +207,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.lilly.com
     status: pending
   - id: healthcare-amgen-us
     name: Amgen
@@ -200,6 +215,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.amgen.com
     status: pending
   - id: healthcare-bms-us
     name: Bristol Myers Squibb
@@ -207,6 +223,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.bms.com
     status: pending
   - id: healthcare-gilead-us
     name: Gilead Sciences
@@ -214,6 +231,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.gilead.com/careers
     status: pending
   - id: healthcare-medtronic-us
     name: Medtronic
@@ -221,6 +239,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.medtronic.com
     status: pending
   - id: healthcare-abbott-us
     name: Abbott Laboratories
@@ -228,6 +247,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.abbott.com/careers.html
     status: pending
   - id: healthcare-bostonsci-us
     name: Boston Scientific
@@ -235,6 +255,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.bostonscientific.com
     status: pending
   - id: healthcare-stryker-us
     name: Stryker
@@ -242,6 +263,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.stryker.com
     status: pending
   - id: healthcare-thermofisher-us
     name: Thermo Fisher Scientific
@@ -249,6 +271,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.thermofisher.com
     status: pending
   - id: healthcare-danaher-us
     name: Danaher
@@ -256,6 +279,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.danaher.com
     status: pending
   - id: healthcare-roche-ch
     name: Roche
@@ -263,6 +287,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.roche.com/careers
     status: pending
   - id: healthcare-novartis-ch
     name: Novartis
@@ -270,6 +295,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.novartis.com/careers
     status: pending
   - id: healthcare-novonordisk-dk
     name: Novo Nordisk
@@ -277,6 +303,7 @@ companies:
     tier: top50
     country: DK
     sources: []
+    link: https://careers.novonordisk.com
     status: pending
   - id: healthcare-sanofi-fr
     name: Sanofi
@@ -284,6 +311,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://www.sanofi.com/en/careers
     status: pending
   - id: healthcare-servier-fr
     name: Servier
@@ -298,6 +326,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.gsk.com/en-gb/careers/
     status: pending
   - id: healthcare-astrazeneca-gb
     name: AstraZeneca
@@ -305,6 +334,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://careers.astrazeneca.com
     status: pending
   - id: healthcare-bayer-de
     name: Bayer
@@ -312,6 +342,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://career.bayer.com
     status: pending
   - id: healthcare-boehringer-de
     name: Boehringer Ingelheim
@@ -319,6 +350,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.boehringer-ingelheim.com/careers
     status: pending
   - id: healthcare-siemenshealth-de
     name: Siemens Healthineers
@@ -326,6 +358,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://jobs.siemens-healthineers.com
     status: pending
   - id: healthcare-fresenius-de
     name: Fresenius
@@ -333,6 +366,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.fresenius.com/careers
     status: pending
   - id: healthcare-takeda-jp
     name: Takeda Pharmaceutical
@@ -340,6 +374,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.takeda.com/careers
     status: pending
   - id: healthcare-otsuka-jp
     name: Otsuka Holdings
@@ -382,4 +417,5 @@ companies:
     tier: top50
     country: NL
     sources: []
+    link: https://www.philips.com/careers
     status: pending

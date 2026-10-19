@@ -7,6 +7,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://talent.alibaba.com
 
   - id: internet-tencent-cn
     name: 腾讯
@@ -16,6 +17,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://careers.tencent.com
 
   - id: internet-bytedance-cn
     name: 字节跳动
@@ -25,6 +27,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://jobs.bytedance.com
 
   - id: internet-baidu-cn
     name: 百度
@@ -34,6 +37,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://talent.baidu.com
 
   - id: internet-jd-cn
     name: 京东
@@ -43,6 +47,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://zhaopin.jd.com
 
   - id: internet-pdd-cn
     name: 拼多多
@@ -52,6 +57,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://careers.pinduoduo.com
 
   - id: internet-netease-cn
     name: 网易
@@ -61,6 +67,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://hr.163.com
 
   - id: internet-meituan-cn
     name: 美团
@@ -70,6 +77,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://zhaopin.meituan.com
 
   - id: internet-kuaishou-cn
     name: 快手
@@ -79,6 +87,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://zhaopin.kuaishou.cn
 
   - id: internet-didi-cn
     name: 滴滴
@@ -88,6 +97,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://talent.didiglobal.com
 
   - id: internet-trip-cn
     name: 携程
@@ -97,6 +107,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://job.ctrip.com
 
   - id: internet-bilibili-cn
     name: 哔哩哔哩
@@ -106,6 +117,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://jobs.bilibili.com
 
   - id: internet-weibo-cn
     name: 微博
@@ -178,6 +190,7 @@ companies:
     country: CN
     sources: []
     status: pending
+    link: https://hr.xiaomi.com
 
   - id: internet-alphabet-us
     name: Alphabet
@@ -186,6 +199,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.google.com
 
   - id: internet-meta-us
     name: Meta Platforms
@@ -194,6 +208,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.metacareers.com
 
   - id: internet-amazon-us
     name: Amazon
@@ -202,6 +217,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.amazon.jobs
 
   - id: internet-netflix-us
     name: Netflix
@@ -210,6 +226,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.netflix.com
 
   - id: internet-uber-us
     name: Uber Technologies
@@ -218,6 +235,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.uber.com/careers
 
   - id: internet-airbnb-us
     name: Airbnb
@@ -226,6 +244,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.airbnb.com
 
   - id: internet-ebay-us
     name: eBay
@@ -234,6 +253,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://jobs.ebayinc.com
 
   - id: internet-paypal-us
     name: PayPal Holdings
@@ -242,6 +262,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.pypl.com
 
   - id: internet-doordash-us
     name: DoorDash
@@ -250,6 +271,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.doordash.com
 
   - id: internet-snap-us
     name: Snap
@@ -258,6 +280,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.snap.com
 
   - id: internet-pinterest-us
     name: Pinterest
@@ -266,6 +289,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.pinterestcareers.com
 
   - id: internet-reddit-us
     name: Reddit
@@ -274,6 +298,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://www.redditinc.com/careers
 
   - id: internet-booking-us
     name: Booking Holdings
@@ -282,6 +307,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.booking.com
 
   - id: internet-expedia-us
     name: Expedia Group
@@ -290,6 +316,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.expediagroup.com
 
   - id: internet-roblox-us
     name: Roblox Corporation
@@ -298,6 +325,7 @@ companies:
     country: US
     sources: []
     status: pending
+    link: https://careers.roblox.com
 
   - id: internet-spotify-se
     name: Spotify Technology
@@ -306,6 +334,7 @@ companies:
     country: SE
     sources: []
     status: pending
+    link: https://www.lifeatspotify.com
 
   - id: internet-deliveryhero-de
     name: Delivery Hero
@@ -314,6 +343,7 @@ companies:
     country: DE
     sources: []
     status: pending
+    link: https://careers.deliveryhero.com
 
   - id: internet-adyen-nl
     name: Adyen
@@ -322,6 +352,7 @@ companies:
     country: NL
     sources: []
     status: pending
+    link: https://careers.adyen.com
 
   - id: internet-wise-gb
     name: Wise
@@ -330,6 +361,7 @@ companies:
     country: GB
     sources: []
     status: pending
+    link: https://wise.jobs
 
   - id: internet-rakuten-jp
     name: Rakuten
@@ -338,6 +370,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://rakuten.careers
 
   - id: internet-mercari-jp
     name: Mercari
@@ -346,6 +379,7 @@ companies:
     country: JP
     sources: []
     status: pending
+    link: https://careers.mercari.com
 
   - id: internet-naver-kr
     name: Naver
@@ -354,6 +388,7 @@ companies:
     country: KR
     sources: []
     status: pending
+    link: https://recruit.naver.com
 
   - id: internet-kakao-kr
     name: Kakao
@@ -386,6 +421,7 @@ companies:
     country: SG
     sources: []
     status: pending
+    link: https://grab.careers
 
   - id: internet-goto-id
     name: GoTo Group
@@ -403,6 +439,7 @@ companies:
     country: IN
     sources: []
     status: pending
+    link: https://www.zomato.com/careers
 
   - id: internet-paytm-in
     name: Paytm
@@ -412,6 +449,7 @@ companies:
     country: IN
     sources: []
     status: pending
+    link: https://paytm.com/careers
 
   - id: internet-mercadolibre-uy
     name: Mercado Libre
@@ -420,6 +458,7 @@ companies:
     country: UY
     sources: []
     status: pending
+    link: https://careers.mercadolibre.com
 
   - id: internet-shopify-ca
     name: Shopify
@@ -428,3 +467,4 @@ companies:
     country: CA
     sources: []
     status: pending
+    link: https://www.shopify.com/careers

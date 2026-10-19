@@ -6,6 +6,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://zp.moutai.com.cn/
     status: pending
 
   - id: consumer_staples-wuliangye-cn
@@ -24,6 +25,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://www.yili.com/joinus
     status: pending
 
   - id: consumer_staples-mengniu-cn
@@ -185,6 +187,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.walmart.com
     status: pending
 
   - id: consumer_staples-pg-us
@@ -193,6 +196,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.pgcareers.com
     status: pending
 
   - id: consumer_staples-cocacola-us
@@ -201,6 +205,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.coca-cola.com
     status: pending
 
   - id: consumer_staples-pepsico-us
@@ -209,6 +214,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.pepsicojobs.com
     status: pending
 
   - id: consumer_staples-mondelez-us
@@ -217,6 +223,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.mondelezinternational.com
     status: pending
 
   - id: consumer_staples-kraftheinz-us
@@ -225,6 +232,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.kraftheinz.com
     status: pending
 
   - id: consumer_staples-philipmorris-us
@@ -233,6 +241,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.pmi.com/careers
     status: pending
 
   - id: consumer_staples-colgate-us
@@ -241,6 +250,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.colgate.com
     status: pending
 
   - id: consumer_staples-kimberlyclark-us
@@ -249,6 +259,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.kimberly-clark.com
     status: pending
 
   - id: consumer_staples-generalmills-us
@@ -257,6 +268,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.generalmills.com
     status: pending
 
   - id: consumer_staples-clorox-us
@@ -265,6 +277,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.thecloroxcompany.com/careers/
     status: pending
 
   - id: consumer_staples-esteelauder-us
@@ -273,6 +286,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.elcompanies.com/en/careers
     status: pending
 
   - id: consumer_staples-costco-us
@@ -281,6 +295,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.costco.com/jobs.html
     status: pending
 
   - id: consumer_staples-nestle-ch
@@ -289,6 +304,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://www.nestle.com/jobs
     status: pending
 
   - id: consumer_staples-unilever-gb
@@ -297,6 +313,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.unilever.com/careers
     status: pending
 
   - id: consumer_staples-loreal-fr
@@ -305,6 +322,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://careers.loreal.com
     status: pending
 
   - id: consumer_staples-danone-fr
@@ -313,6 +331,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://careers.danone.com
     status: pending
 
   - id: consumer_staples-abinbev-be
@@ -329,6 +348,7 @@ companies:
     tier: top50
     country: NL
     sources: []
+    link: https://careers.theheinekencompany.com
     status: pending
 
   - id: consumer_staples-diageo-gb
@@ -337,6 +357,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.diageo.com/en/careers
     status: pending
 
   - id: consumer_staples-henkel-de
@@ -345,6 +366,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.henkel.com/careers
     status: pending
 
   - id: consumer_staples-tesco-gb
@@ -353,6 +375,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.tesco-careers.com
     status: pending
 
   - id: consumer_staples-seveni-jp
@@ -377,6 +400,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.kirinholdings.com/en/careers/
     status: pending
 
   - id: consumer_staples-kao-jp
@@ -385,6 +409,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.kao.com/global/en/careers/
     status: pending
 
   - id: consumer_staples-amorepacific-kr

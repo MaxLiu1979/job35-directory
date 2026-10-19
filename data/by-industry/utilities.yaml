@@ -148,6 +148,7 @@ companies:
     industry: utilities
     tier: top50
     country: FR
+    link: https://www.edf.fr/edf/edf-recrute
     sources: []
     status: pending
   - id: utilities-engie-fr
@@ -155,6 +156,7 @@ companies:
     industry: utilities
     tier: top50
     country: FR
+    link: https://jobs.engie.com
     sources: []
     status: pending
   - id: utilities-veolia-fr
@@ -162,6 +164,7 @@ companies:
     industry: utilities
     tier: top50
     country: FR
+    link: https://careers.veolia.com
     sources: []
     status: pending
   - id: utilities-suez-fr
@@ -176,6 +179,7 @@ companies:
     industry: utilities
     tier: top50
     country: IT
+    link: https://jobs.enel.com
     sources: []
     status: pending
   - id: utilities-eon-de
@@ -190,6 +194,7 @@ companies:
     industry: utilities
     tier: top50
     country: DE
+    link: https://www.rwe.com/en/rwe-careers-portal/
     sources: []
     status: pending
   - id: utilities-iberdrola-es
@@ -197,6 +202,7 @@ companies:
     industry: utilities
     tier: top50
     country: ES
+    link: https://www.iberdrola.com/careers/careers-iberdrola
     sources: []
     status: pending
   - id: utilities-nationalgrid-gb
@@ -204,6 +210,7 @@ companies:
     industry: utilities
     tier: top50
     country: GB
+    link: https://www.nationalgrid.com/careers
     sources: []
     status: pending
   - id: utilities-centrica-gb
@@ -211,6 +218,7 @@ companies:
     industry: utilities
     tier: top50
     country: GB
+    link: https://www.lifeatcentrica.com/
     sources: []
     status: pending
   - id: utilities-dominion-us
@@ -218,6 +226,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://careers.dominionenergy.com
     sources: []
     status: pending
   - id: utilities-duke-us
@@ -225,6 +234,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://www.duke-energy.com/our-company/careers
     sources: []
     status: pending
   - id: utilities-southern-us
@@ -232,6 +242,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://southerncompany.jobs/
     sources: []
     status: pending
   - id: utilities-nextera-us
@@ -239,6 +250,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://www.nexteraenergy.com/careers.html
     sources: []
     status: pending
   - id: utilities-exelon-us
@@ -246,6 +258,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://www.exeloncorp.com/careers
     sources: []
     status: pending
   - id: utilities-conedison-us
@@ -260,6 +273,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://www.aep.com/careers/
     sources: []
     status: pending
   - id: utilities-xcel-us
@@ -267,6 +281,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://jobs.xcelenergy.com
     sources: []
     status: pending
   - id: utilities-sempra-us
@@ -274,6 +289,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://www.sempra.com/careers
     sources: []
     status: pending
   - id: utilities-pge-us
@@ -281,6 +297,7 @@ companies:
     industry: utilities
     tier: top50
     country: US
+    link: https://jobs.pge.com
     sources: []
     status: pending
   - id: utilities-tepco-jp
@@ -337,6 +354,7 @@ companies:
     industry: utilities
     tier: top50
     country: AU
+    link: https://www.originenergy.com.au/about/careers/
     sources: []
     status: pending
   - id: utilities-agl-au
@@ -344,5 +362,6 @@ companies:
     industry: utilities
     tier: top50
     country: AU
+    link: https://www.agl.com.au/careers
     sources: []
     status: pending

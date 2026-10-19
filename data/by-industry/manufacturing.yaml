@@ -169,6 +169,7 @@ companies:
     tier: top50
     country: CN
     sources: []
+    link: https://careers.midea.com
     status: pending
 
   - id: manufacturing-haier-cn
@@ -186,6 +187,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.boeing.com
     status: pending
 
   - id: manufacturing-lockheed-us
@@ -194,6 +196,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.lockheedmartinjobs.com
     status: pending
 
   - id: manufacturing-northrop-us
@@ -202,6 +205,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.northropgrummanjobs.com
     status: pending
 
   - id: manufacturing-rtx-us
@@ -210,6 +214,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.rtx.com
     status: pending
 
   - id: manufacturing-geaerospace-us
@@ -218,6 +223,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.geaerospace.com
     status: pending
 
   - id: manufacturing-honeywell-us
@@ -226,6 +232,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.honeywell.com
     status: pending
 
   - id: manufacturing-caterpillar-us
@@ -234,6 +241,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.caterpillar.com
     status: pending
 
   - id: manufacturing-deere-us
@@ -242,6 +250,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.deere.com
     status: pending
 
   - id: manufacturing-cummins-us
@@ -250,6 +259,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.cummins.com
     status: pending
 
   - id: manufacturing-emerson-us
@@ -258,6 +268,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.emerson.com
     status: pending
 
   - id: manufacturing-parker-us
@@ -266,6 +277,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.parker.com
     status: pending
 
   - id: manufacturing-itw-us
@@ -274,6 +286,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.itw.com
     status: pending
 
   - id: manufacturing-rockwell-us
@@ -282,6 +295,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://www.rockwellautomation.com/en-us/company/careers.html
     status: pending
 
   - id: manufacturing-danaher-us
@@ -290,6 +304,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://careers.danaher.com
     status: pending
 
   - id: manufacturing-3m-us
@@ -298,6 +313,7 @@ companies:
     tier: top50
     country: US
     sources: []
+    link: https://jobs.3m.com
     status: pending
 
   - id: manufacturing-siemens-de
@@ -306,6 +322,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://www.siemens.com/careers
     status: pending
 
   - id: manufacturing-bosch-de
@@ -314,6 +331,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://jobs.bosch.com
     status: pending
 
   - id: manufacturing-siemensenergy-de
@@ -322,6 +340,7 @@ companies:
     tier: top50
     country: DE
     sources: []
+    link: https://jobs.siemens-energy.com
     status: pending
 
   - id: manufacturing-abb-ch
@@ -330,6 +349,7 @@ companies:
     tier: top50
     country: CH
     sources: []
+    link: https://global.abb/group/en/careers
     status: pending
 
   - id: manufacturing-schneider-fr
@@ -338,6 +358,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://careers.se.com
     status: pending
 
   - id: manufacturing-atlascopco-se
@@ -346,6 +367,7 @@ companies:
     tier: top50
     country: SE
     sources: []
+    link: https://www.atlascopco.com/en-us/careers
     status: pending
 
   - id: manufacturing-volvo-se
@@ -354,6 +376,7 @@ companies:
     tier: top50
     country: SE
     sources: []
+    link: https://jobs.volvogroup.com
     status: pending
 
   - id: manufacturing-sandvik-se
@@ -362,6 +385,7 @@ companies:
     tier: top50
     country: SE
     sources: []
+    link: https://home.sandvik/careers/
     status: pending
 
   - id: manufacturing-airbus-nl
@@ -370,6 +394,7 @@ companies:
     tier: top50
     country: NL
     sources: []
+    link: https://www.airbus.com/en/careers
     status: pending
 
   - id: manufacturing-safran-fr
@@ -378,6 +403,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://www.safran-group.com/careers
     status: pending
 
   - id: manufacturing-alstom-fr
@@ -386,6 +412,7 @@ companies:
     tier: top50
     country: FR
     sources: []
+    link: https://www.alstom.com/careers
     status: pending
 
   - id: manufacturing-rollsroyce-gb
@@ -394,6 +421,7 @@ companies:
     tier: top50
     country: GB
     sources: []
+    link: https://www.rolls-royce.com/careers.html
     status: pending
 
   - id: manufacturing-hitachi-jp
@@ -402,6 +430,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.hitachi.com/recruit/
     status: pending
 
   - id: manufacturing-mitsubishielectric-jp
@@ -410,6 +439,7 @@ companies:
     tier: top50
     country: JP
     sources: []
+    link: https://www.mitsubishielectric.com/en/careers/
     status: pending
 
   - id: manufacturing-fanuc-jp
