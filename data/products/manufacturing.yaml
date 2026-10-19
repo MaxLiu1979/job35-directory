@@ -1,125 +1,251 @@
-# 制造业企业消费产品清单（面向普通消费者的产品/服务）
 products:
-  - company_id: manufacturing-midea-cn
-    company_name: 美的集团
-    items:
-      - name: 美的空调
-        category: 家电
-        keywords: [空调, 美的空调, 挂机, 柜机, 变频空调]
-      - name: 美的冰箱
-        category: 家电
-        keywords: [冰箱, 美的冰箱, 电冰箱, 对开门冰箱]
-      - name: 美的洗衣机
-        category: 家电
-        keywords: [洗衣机, 美的洗衣机, 滚筒洗衣机, 洗烘一体机]
-      - name: 美的微波炉
-        category: 家电
-        keywords: [微波炉, 美的微波炉, 光波炉]
-      - name: 小天鹅洗衣机
-        category: 家电
-        keywords: [小天鹅, 小天鹅洗衣机, 滚筒洗衣机, 洗烘套装]
-      - name: 华凌空调
-        category: 家电
-        keywords: [华凌, 华凌空调, 空调, 神机]
-
-  - company_id: manufacturing-haier-cn
-    company_name: 海尔智家
-    items:
-      - name: 海尔冰箱
-        category: 家电
-        keywords: [冰箱, 海尔冰箱, 电冰箱, 对开门冰箱]
-      - name: 海尔洗衣机
-        category: 家电
-        keywords: [洗衣机, 海尔洗衣机, 滚筒洗衣机, 洗烘一体机]
-      - name: 卡萨帝冰箱
-        category: 家电
-        keywords: [卡萨帝, 卡萨帝冰箱, 高端冰箱, 嵌入式冰箱]
-      - name: 卡萨帝洗衣机
-        category: 家电
-        keywords: [卡萨帝洗衣机, 洗衣机, 空气洗, 双子洗衣机]
-      - name: 海尔电热水器
-        category: 家电
-        keywords: [热水器, 电热水器, 海尔热水器, 速热热水器]
-      - name: 海尔空调
-        category: 家电
-        keywords: [空调, 海尔空调, 挂机, 新风空调]
-
-  - company_id: manufacturing-3m-us
-    company_name: 3M
-    items:
-      - name: 3M N95口罩
-        category: 医疗健康
-        keywords: [口罩, N95, 3M口罩, 防霾口罩, KN95]
-      - name: 思高百洁布
-        category: 洗护清洁
-        keywords: [百洁布, 洗碗布, 思高, 抹布, 钢丝球]
-      - name: 报事贴便利贴
-        category: 办公用品
-        keywords: [便利贴, 便签, 报事贴, N次贴, 便签纸]
-      - name: Scotch思高透明胶带
-        category: 办公用品
-        keywords: [胶带, 透明胶带, 思高胶带, 双面胶, 文具胶带]
-      - name: 3M净水器
-        category: 家电
-        keywords: [净水器, 净水机, 3M净水, 直饮机]
-
-  - company_id: manufacturing-bosch-de
-    company_name: Bosch
-    items:
-      - name: 博世冰箱
-        category: 家电
-        keywords: [冰箱, 博世冰箱, 多门冰箱, 零度保鲜]
-      - name: 博世洗衣机
-        category: 家电
-        keywords: [洗衣机, 博世洗衣机, 滚筒洗衣机, 洗烘一体机]
-      - name: 博世洗碗机
-        category: 家电
-        keywords: [洗碗机, 博世洗碗机, 嵌入式洗碗机, 消毒柜]
-      - name: 博世烤箱
-        category: 家电
-        keywords: [烤箱, 博世烤箱, 嵌入式烤箱, 蒸烤箱]
-      - name: 博世电动工具
-        category: 建材五金
-        keywords: [电钻, 电动工具, 博世电钻, 冲击钻, 角磨机]
-
-  - company_id: manufacturing-siemens-de
-    company_name: Siemens
-    items:
-      - name: 西门子冰箱
-        category: 家电
-        keywords: [冰箱, 西门子冰箱, 对开门冰箱, 多门冰箱]
-      - name: 西门子洗衣机
-        category: 家电
-        keywords: [洗衣机, 西门子洗衣机, 滚筒洗衣机, 洗烘一体机]
-      - name: 西门子洗碗机
-        category: 家电
-        keywords: [洗碗机, 西门子洗碗机, 嵌入式洗碗机, 13套洗碗机]
-      - name: 西门子蒸烤一体机
-        category: 家电
-        keywords: [蒸烤箱, 西门子烤箱, 嵌入式蒸箱, 烤箱]
-
-  - company_id: manufacturing-hitachi-jp
-    company_name: Hitachi
-    items:
-      - name: 日立冰箱
-        category: 家电
-        keywords: [冰箱, 日立冰箱, 多门冰箱, 真空保鲜]
-      - name: 日立洗衣机
-        category: 家电
-        keywords: [洗衣机, 日立洗衣机, 滚筒洗衣机, 洗烘一体]
-      - name: 日立空调
-        category: 家电
-        keywords: [空调, 日立空调, 中央空调, 日立风管机]
-
-  - company_id: manufacturing-mitsubishielectric-jp
-    company_name: Mitsubishi Electric
-    items:
-      - name: 三菱电机空调
-        category: 家电
-        keywords: [空调, 三菱空调, 三菱电机空调, 挂机, 风管机]
-      - name: 三菱电机冰箱
-        category: 家电
-        keywords: [冰箱, 三菱冰箱, 三菱电机冰箱, 多门冰箱]
-      - name: 三菱电机洗衣机
-        category: 家电
-        keywords: [洗衣机, 三菱洗衣机, 滚筒洗衣机]
+- company_id: consumer_discretionary-midea-cn
+  company_name: 美的集团
+  items:
+  - name: 美的空调
+    category: 家电
+    keywords:
+    - 空调
+    - 美的空调
+    - 挂机
+    - 柜机
+    - 变频空调
+  - name: 美的冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 美的冰箱
+    - 电冰箱
+    - 对开门冰箱
+  - name: 美的洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 美的洗衣机
+    - 滚筒洗衣机
+    - 洗烘一体机
+  - name: 美的微波炉
+    category: 家电
+    keywords:
+    - 微波炉
+    - 美的微波炉
+    - 光波炉
+  - name: 小天鹅洗衣机
+    category: 家电
+    keywords:
+    - 小天鹅
+    - 小天鹅洗衣机
+    - 滚筒洗衣机
+    - 洗烘套装
+  - name: 华凌空调
+    category: 家电
+    keywords:
+    - 华凌
+    - 华凌空调
+    - 空调
+    - 神机
+- company_id: consumer_discretionary-haier-cn
+  company_name: 海尔智家
+  items:
+  - name: 海尔冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 海尔冰箱
+    - 电冰箱
+    - 对开门冰箱
+  - name: 海尔洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 海尔洗衣机
+    - 滚筒洗衣机
+    - 洗烘一体机
+  - name: 卡萨帝冰箱
+    category: 家电
+    keywords:
+    - 卡萨帝
+    - 卡萨帝冰箱
+    - 高端冰箱
+    - 嵌入式冰箱
+  - name: 卡萨帝洗衣机
+    category: 家电
+    keywords:
+    - 卡萨帝洗衣机
+    - 洗衣机
+    - 空气洗
+    - 双子洗衣机
+  - name: 海尔电热水器
+    category: 家电
+    keywords:
+    - 热水器
+    - 电热水器
+    - 海尔热水器
+    - 速热热水器
+  - name: 海尔空调
+    category: 家电
+    keywords:
+    - 空调
+    - 海尔空调
+    - 挂机
+    - 新风空调
+- company_id: manufacturing-3m-us
+  company_name: 3M
+  items:
+  - name: 3M N95口罩
+    category: 医疗健康
+    keywords:
+    - 口罩
+    - N95
+    - 3M口罩
+    - 防霾口罩
+    - KN95
+  - name: 思高百洁布
+    category: 洗护清洁
+    keywords:
+    - 百洁布
+    - 洗碗布
+    - 思高
+    - 抹布
+    - 钢丝球
+  - name: 报事贴便利贴
+    category: 办公用品
+    keywords:
+    - 便利贴
+    - 便签
+    - 报事贴
+    - N次贴
+    - 便签纸
+  - name: Scotch思高透明胶带
+    category: 办公用品
+    keywords:
+    - 胶带
+    - 透明胶带
+    - 思高胶带
+    - 双面胶
+    - 文具胶带
+  - name: 3M净水器
+    category: 家电
+    keywords:
+    - 净水器
+    - 净水机
+    - 3M净水
+    - 直饮机
+- company_id: manufacturing-bosch-de
+  company_name: Bosch
+  items:
+  - name: 博世冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 博世冰箱
+    - 多门冰箱
+    - 零度保鲜
+  - name: 博世洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 博世洗衣机
+    - 滚筒洗衣机
+    - 洗烘一体机
+  - name: 博世洗碗机
+    category: 家电
+    keywords:
+    - 洗碗机
+    - 博世洗碗机
+    - 嵌入式洗碗机
+    - 消毒柜
+  - name: 博世烤箱
+    category: 家电
+    keywords:
+    - 烤箱
+    - 博世烤箱
+    - 嵌入式烤箱
+    - 蒸烤箱
+  - name: 博世电动工具
+    category: 建材五金
+    keywords:
+    - 电钻
+    - 电动工具
+    - 博世电钻
+    - 冲击钻
+    - 角磨机
+- company_id: manufacturing-siemens-de
+  company_name: Siemens
+  items:
+  - name: 西门子冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 西门子冰箱
+    - 对开门冰箱
+    - 多门冰箱
+  - name: 西门子洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 西门子洗衣机
+    - 滚筒洗衣机
+    - 洗烘一体机
+  - name: 西门子洗碗机
+    category: 家电
+    keywords:
+    - 洗碗机
+    - 西门子洗碗机
+    - 嵌入式洗碗机
+    - 13套洗碗机
+  - name: 西门子蒸烤一体机
+    category: 家电
+    keywords:
+    - 蒸烤箱
+    - 西门子烤箱
+    - 嵌入式蒸箱
+    - 烤箱
+- company_id: information_technology-hitachi-jp
+  company_name: Hitachi
+  items:
+  - name: 日立冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 日立冰箱
+    - 多门冰箱
+    - 真空保鲜
+  - name: 日立洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 日立洗衣机
+    - 滚筒洗衣机
+    - 洗烘一体
+  - name: 日立空调
+    category: 家电
+    keywords:
+    - 空调
+    - 日立空调
+    - 中央空调
+    - 日立风管机
+- company_id: manufacturing-mitsubishielectric-jp
+  company_name: Mitsubishi Electric
+  items:
+  - name: 三菱电机空调
+    category: 家电
+    keywords:
+    - 空调
+    - 三菱空调
+    - 三菱电机空调
+    - 挂机
+    - 风管机
+  - name: 三菱电机冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 三菱冰箱
+    - 三菱电机冰箱
+    - 多门冰箱
+  - name: 三菱电机洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 三菱洗衣机
+    - 滚筒洗衣机

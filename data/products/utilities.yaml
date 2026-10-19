@@ -1,463 +1,946 @@
 products:
-  - company_id: utilities-sgcc-cn
-    company_name: 国家电网
-    items:
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [电费, 交电费, 缴电费, 国家电网]
-      - name: 网上国网App
-        category: 手机应用
-        keywords: [网上国网, 国网App, 查电费, 电力缴费]
-      - name: e充电电动车充电服务
-        category: 汽车服务
-        keywords: [e充电, 充电桩, 电动车充电, 国网充电]
-      - name: 居民用电报装
-        category: 能源缴费
-        keywords: [装电表, 报装用电, 新装电表, 申请用电]
-  - company_id: utilities-csg-cn
-    company_name: 中国南方电网
-    items:
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [电费, 交电费, 缴电费, 南方电网]
-      - name: 南网在线App
-        category: 手机应用
-        keywords: [南网在线, 南方电网App, 查电费, 掌上营业厅]
-      - name: 居民用电报装
-        category: 能源缴费
-        keywords: [装电表, 报装用电, 新装电表, 过户用电]
-      - name: 南网电动汽车充电服务
-        category: 汽车服务
-        keywords: [充电桩, 电动车充电, 南网电动, 充电站]
-  - company_id: utilities-begcl-cn
-    company_name: 北京控股
-    items:
-      - name: 北京燃气居民供气
-        category: 能源缴费
-        keywords: [燃气, 天然气, 北京燃气, 煤气]
-      - name: 燃气缴费
-        category: 能源缴费
-        keywords: [交燃气费, 缴气费, 燃气费, 天然气费]
-      - name: 燕京U8啤酒
-        category: 酒水
-        keywords: [燕京啤酒, U8, 啤酒, 燕京]
-      - name: 燕京纯生啤酒
-        category: 酒水
-        keywords: [纯生, 燕京纯生, 啤酒]
-  - company_id: utilities-ennenergy-cn
-    company_name: 新奥能源
-    items:
-      - name: 新奥燃气居民供气
-        category: 能源缴费
-        keywords: [新奥燃气, 燃气, 天然气, 新奥]
-      - name: 燃气缴费
-        category: 能源缴费
-        keywords: [交燃气费, 缴气费, 燃气费, 天然气费]
-      - name: 燃气报装服务
-        category: 能源缴费
-        keywords: [装燃气, 燃气报装, 开通天然气, 燃气开户]
-      - name: 燃气安全检查服务
-        category: 能源缴费
-        keywords: [燃气安检, 燃气检查, 燃气维修, 上门安检]
-  - company_id: utilities-chinagas-cn
-    company_name: 中国燃气
-    items:
-      - name: 中燃燃气居民供气
-        category: 能源缴费
-        keywords: [中国燃气, 中燃, 燃气, 天然气]
-      - name: 燃气缴费
-        category: 能源缴费
-        keywords: [交燃气费, 缴气费, 燃气费, 天然气费]
-      - name: 中燃宝燃气具
-        category: 家电
-        keywords: [中燃宝, 燃气灶, 燃气热水器, 燃气具]
-      - name: 燃气报装服务
-        category: 能源缴费
-        keywords: [装燃气, 燃气报装, 开通天然气, 燃气开户]
-  - company_id: utilities-towngas-hk
-    company_name: 香港中华煤气
-    items:
-      - name: 香港煤气居民供气
-        category: 能源缴费
-        keywords: [煤气, Towngas, 中华煤气, 香港煤气]
-      - name: 煤气缴费
-        category: 能源缴费
-        keywords: [交煤气费, 煤气费, 缴煤气费, 煤气温单]
-      - name: 港华燃气居民供气
-        category: 能源缴费
-        keywords: [港华, 港华燃气, 燃气, 天然气]
-      - name: 煤气公司炉具
-        category: 家电
-        keywords: [煤气炉, 燃气炉具, 煤气灶, Towngas炉具]
-  - company_id: utilities-clp-hk
-    company_name: 中电控股
-    items:
-      - name: 中华电力居民供电
-        category: 能源缴费
-        keywords: [中电, 中华电力, CLP, 电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 中电缴费]
-      - name: 中电电动车充电服务
-        category: 汽车服务
-        keywords: [充电桩, 电动车充电, 中电充电, 充电站]
-  - company_id: utilities-edf-fr
-    company_name: Électricité de France
-    items:
-      - name: EDF居民供电服务
-        category: 能源缴费
-        keywords: [EDF, 法国电力, 电费, 供电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, EDF账单]
-      - name: EDF燃气供应
-        category: 能源缴费
-        keywords: [EDF燃气, 天然气, 燃气, 法国燃气]
-      - name: Izivia电动车充电
-        category: 汽车服务
-        keywords: [Izivia, 充电桩, 电动车充电, EDF充电]
-  - company_id: utilities-engie-fr
-    company_name: Engie
-    items:
-      - name: Engie居民电力供应
-        category: 能源缴费
-        keywords: [Engie, 电费, 供电, 法国能源]
-      - name: Engie燃气供应
-        category: 能源缴费
-        keywords: [Engie燃气, 天然气, 燃气费, 法国燃气]
-      - name: Engie家庭能源服务
-        category: 家居家装
-        keywords: [锅炉维修, 暖气维保, Engie服务, 热水器维修]
-  - company_id: utilities-veolia-fr
-    company_name: Veolia
-    items:
-      - name: 威立雅居民供水服务
-        category: 能源缴费
-        keywords: [自来水, 供水, 威立雅, 水费]
-      - name: 水费缴纳
-        category: 能源缴费
-        keywords: [交水费, 缴水费, 水费单, 自来水费]
-      - name: 威立雅垃圾回收服务
-        category: 能源缴费
-        keywords: [垃圾回收, 收垃圾, 垃圾分类, 威立雅]
-  - company_id: utilities-suez-fr
-    company_name: Suez
-    items:
-      - name: 苏伊士居民供水服务
-        category: 能源缴费
-        keywords: [自来水, 供水, 苏伊士, 水费]
-      - name: 水费缴纳
-        category: 能源缴费
-        keywords: [交水费, 缴水费, 水费单, 自来水费]
-      - name: 苏伊士垃圾回收服务
-        category: 能源缴费
-        keywords: [垃圾回收, 收垃圾, 垃圾分类, 苏伊士]
-  - company_id: utilities-enel-it
-    company_name: Enel
-    items:
-      - name: Enel居民供电
-        category: 能源缴费
-        keywords: [Enel, 意大利电力, 电费, 供电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, Enel账单]
-      - name: Enel燃气供应
-        category: 能源缴费
-        keywords: [Enel燃气, 天然气, 燃气费, 意大利燃气]
-      - name: Enel X Way电动车充电
-        category: 汽车服务
-        keywords: [Enel X, 充电桩, 电动车充电, 充电站]
-  - company_id: utilities-eon-de
-    company_name: E.ON
-    items:
-      - name: E.ON居民电力供应
-        category: 能源缴费
-        keywords: [E.ON, 德国电力, 电费, 供电]
-      - name: E.ON燃气供应
-        category: 能源缴费
-        keywords: [E.ON燃气, 天然气, 燃气费, 德国燃气]
-      - name: E.ON家庭光伏储能方案
-        category: 家居家装
-        keywords: [家用光伏, 储能电池, 太阳能板, E.ON光伏]
-  - company_id: utilities-iberdrola-es
-    company_name: Iberdrola
-    items:
-      - name: Iberdrola居民供电
-        category: 能源缴费
-        keywords: [Iberdrola, 西班牙电力, 电费, 供电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, Iberdrola账单]
-      - name: Iberdrola燃气供应
-        category: 能源缴费
-        keywords: [Iberdrola燃气, 天然气, 燃气费, 西班牙燃气]
-      - name: Iberdrola电动车充电
-        category: 汽车服务
-        keywords: [充电桩, 电动车充电, Iberdrola充电, 充电站]
-  - company_id: utilities-centrica-gb
-    company_name: Centrica
-    items:
-      - name: British Gas 居民供气
-        category: 能源缴费
-        keywords: [British Gas, 英国燃气, 煤气, 天然气]
-      - name: British Gas 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费, British Gas]
-      - name: British Gas HomeCare 锅炉维保
-        category: 家居家装
-        keywords: [锅炉维修, 暖气维保, HomeCare, 热水器维修]
-  - company_id: utilities-dominion-us
-    company_name: Dominion Energy
-    items:
-      - name: 居民供电服务
-        category: 能源缴费
-        keywords: [Dominion, 电费, 供电, 弗吉尼亚电力]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-duke-us
-    company_name: Duke Energy
-    items:
-      - name: Duke Energy 居民供电
-        category: 能源缴费
-        keywords: [Duke Energy, 杜克能源, 电费, 供电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: Piedmont Natural Gas 天然气供应
-        category: 能源缴费
-        keywords: [Piedmont, 天然气, 燃气, 北卡燃气]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-southern-us
-    company_name: Southern Company
-    items:
-      - name: 佐治亚电力居民供电
-        category: 能源缴费
-        keywords: [Georgia Power, 佐治亚电力, 电费, 供电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: Atlanta Gas Light 天然气供应
-        category: 能源缴费
-        keywords: [Atlanta Gas, 天然气, 燃气, 亚特兰大燃气]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-nextera-us
-    company_name: NextEra Energy
-    items:
-      - name: FPL 居民供电服务
-        category: 能源缴费
-        keywords: [FPL, 佛罗里达电力, 佛州电费, 迈阿密电力]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, FPL账单]
-      - name: FPL SolarTogether 太阳能计划
-        category: 家居家装
-        keywords: [太阳能, 光伏, 社区太阳能, FPL太阳能]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-exelon-us
-    company_name: Exelon
-    items:
-      - name: 居民供电服务
-        category: 能源缴费
-        keywords: [Exelon, 电费, 供电, 芝加哥电力]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: PECO 天然气供应
-        category: 能源缴费
-        keywords: [PECO, 天然气, 燃气, 费城燃气]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-conedison-us
-    company_name: Consolidated Edison
-    items:
-      - name: Con Edison 居民供电
-        category: 能源缴费
-        keywords: [Con Edison, 爱迪生联合, 纽约电力, 电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: Con Edison 燃气供应
-        category: 能源缴费
-        keywords: [Con Edison燃气, 天然气, 燃气, 纽约燃气]
-      - name: 停电预警服务
-        category: 能源缴费
-        keywords: [停电, 停电预警, 停电通知, 报修]
-  - company_id: utilities-aep-us
-    company_name: American Electric Power
-    items:
-      - name: AEP 居民供电服务
-        category: 能源缴费
-        keywords: [AEP, 美国电力, 俄亥俄电力, 电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-xcel-us
-    company_name: Xcel Energy
-    items:
-      - name: Xcel Energy 居民供电
-        category: 能源缴费
-        keywords: [Xcel, 科罗拉多电力, 明尼苏达电力, 电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: Xcel 天然气供应
-        category: 能源缴费
-        keywords: [Xcel燃气, 天然气, 燃气, 燃气费]
-      - name: Windsource 绿色电力计划
-        category: 能源缴费
-        keywords: [绿色电力, 风电, 可再生能源, Windsource]
-  - company_id: utilities-sempra-us
-    company_name: Sempra
-    items:
-      - name: SoCalGas 天然气供应
-        category: 能源缴费
-        keywords: [SoCalGas, 南加燃气, 天然气, 洛杉矶燃气]
-      - name: SDG&E 居民供电
-        category: 能源缴费
-        keywords: [SDG&E, 圣地亚哥电力, 电费, 供电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: 燃气缴费
-        category: 能源缴费
-        keywords: [交燃气费, 缴气费, 燃气费, 天然气费]
-  - company_id: utilities-pge-us
-    company_name: PG&E
-    items:
-      - name: PG&E 居民供电
-        category: 能源缴费
-        keywords: [PG&E, 太平洋煤气电力, 加州电力, 旧金山电力]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: PG&E 天然气供应
-        category: 能源缴费
-        keywords: [PG&E燃气, 天然气, 燃气, 北加燃气]
-      - name: 山火停电预警服务
-        category: 能源缴费
-        keywords: [停电预警, PSPS, 停电通知, 停电]
-  - company_id: utilities-tepco-jp
-    company_name: Tokyo Electric Power Company
-    items:
-      - name: 东京电力居民供电
-        category: 能源缴费
-        keywords: [东京电力, TEPCO, 电费, 东电]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 东电账单]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停電]
-      - name: TEPCO e-mobility 电动车充电
-        category: 汽车服务
-        keywords: [充电桩, 电动车充电, 东电充电, 充电站]
-  - company_id: utilities-chubu-jp
-    company_name: Chubu Electric Power
-    items:
-      - name: 中部电力居民供电
-        category: 能源缴费
-        keywords: [中部电力, 中电, 名古屋电力, 电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停電]
-  - company_id: utilities-kansai-jp
-    company_name: Kansai Electric Power
-    items:
-      - name: 关西电力居民供电
-        category: 能源缴费
-        keywords: [关西电力, 关电, 大阪电力, 电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 电费]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停電]
-  - company_id: utilities-tokyogas-jp
-    company_name: Tokyo Gas
-    items:
-      - name: 东京燃气居民供气
-        category: 能源缴费
-        keywords: [东京燃气, 东京ガス, 燃气, 天然气]
-      - name: 燃气缴费
-        category: 能源缴费
-        keywords: [交燃气费, 缴气费, 燃气费, ガス料金]
-      - name: 东京燃气电力零售
-        category: 能源缴费
-        keywords: [东电燃气电力, 东京燃气电费, 电力套餐, 电费]
-      - name: 东京燃气燃气具
-        category: 家电
-        keywords: [燃气炉, 燃气热水器, ガスコンロ, 东京燃气灶]
-  - company_id: utilities-osakagas-jp
-    company_name: Osaka Gas
-    items:
-      - name: 大阪燃气居民供气
-        category: 能源缴费
-        keywords: [大阪燃气, 大阪ガス, 燃气, 天然气]
-      - name: 燃气缴费
-        category: 能源缴费
-        keywords: [交燃气费, 缴气费, 燃气费, ガス料金]
-      - name: 大阪燃气电力零售
-        category: 能源缴费
-        keywords: [大阪燃气电力, 电力套餐, 关西电费, 电费]
-      - name: 大阪燃气燃气具
-        category: 家电
-        keywords: [燃气炉, 燃气热水器, 大阪燃气灶, 燃气具]
-  - company_id: utilities-kepco-kr
-    company_name: Korea Electric Power Corporation
-    items:
-      - name: 韩国电力居民供电
-        category: 能源缴费
-        keywords: [韩国电力, KEPCO, 电费, 韩国电费]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, 한전]
-      - name: 停电查询与报修服务
-        category: 能源缴费
-        keywords: [停电, 停电查询, 报修, 停电通知]
-  - company_id: utilities-origin-au
-    company_name: Origin Energy
-    items:
-      - name: Origin 居民电力供应
-        category: 能源缴费
-        keywords: [Origin, 澳洲电力, 电费, 澳大利亚能源]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, Origin账单]
-      - name: Origin 天然气供应
-        category: 能源缴费
-        keywords: [Origin燃气, 天然气, 燃气, 澳洲燃气]
-      - name: Origin 家用太阳能方案
-        category: 家居家装
-        keywords: [太阳能, 家用光伏, 储能电池, Origin太阳能]
-  - company_id: utilities-agl-au
-    company_name: AGL Energy
-    items:
-      - name: AGL 居民电力供应
-        category: 能源缴费
-        keywords: [AGL, 澳洲电力, 电费, 澳大利亚能源]
-      - name: 电费缴纳
-        category: 能源缴费
-        keywords: [交电费, 缴电费, 电费单, AGL账单]
-      - name: AGL 天然气供应
-        category: 能源缴费
-        keywords: [AGL燃气, 天然气, 燃气, 澳洲燃气]
-      - name: AGL 太阳能与储能方案
-        category: 家居家装
-        keywords: [太阳能, 家用光伏, 储能电池, AGL太阳能]
+- company_id: utilities-sgcc-cn
+  company_name: 国家电网
+  items:
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 电费
+    - 交电费
+    - 缴电费
+    - 国家电网
+  - name: 网上国网App
+    category: 手机应用
+    keywords:
+    - 网上国网
+    - 国网App
+    - 查电费
+    - 电力缴费
+  - name: e充电电动车充电服务
+    category: 汽车服务
+    keywords:
+    - e充电
+    - 充电桩
+    - 电动车充电
+    - 国网充电
+  - name: 居民用电报装
+    category: 能源缴费
+    keywords:
+    - 装电表
+    - 报装用电
+    - 新装电表
+    - 申请用电
+- company_id: utilities-csg-cn
+  company_name: 中国南方电网
+  items:
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 电费
+    - 交电费
+    - 缴电费
+    - 南方电网
+  - name: 南网在线App
+    category: 手机应用
+    keywords:
+    - 南网在线
+    - 南方电网App
+    - 查电费
+    - 掌上营业厅
+  - name: 居民用电报装
+    category: 能源缴费
+    keywords:
+    - 装电表
+    - 报装用电
+    - 新装电表
+    - 过户用电
+  - name: 南网电动汽车充电服务
+    category: 汽车服务
+    keywords:
+    - 充电桩
+    - 电动车充电
+    - 南网电动
+    - 充电站
+- company_id: utilities-begcl-cn
+  company_name: 北京控股
+  items:
+  - name: 北京燃气居民供气
+    category: 能源缴费
+    keywords:
+    - 燃气
+    - 天然气
+    - 北京燃气
+    - 煤气
+  - name: 燃气缴费
+    category: 能源缴费
+    keywords:
+    - 交燃气费
+    - 缴气费
+    - 燃气费
+    - 天然气费
+  - name: 燕京U8啤酒
+    category: 酒水
+    keywords:
+    - 燕京啤酒
+    - U8
+    - 啤酒
+    - 燕京
+  - name: 燕京纯生啤酒
+    category: 酒水
+    keywords:
+    - 纯生
+    - 燕京纯生
+    - 啤酒
+- company_id: utilities-ennenergy-cn
+  company_name: 新奥能源
+  items:
+  - name: 新奥燃气居民供气
+    category: 能源缴费
+    keywords:
+    - 新奥燃气
+    - 燃气
+    - 天然气
+    - 新奥
+  - name: 燃气缴费
+    category: 能源缴费
+    keywords:
+    - 交燃气费
+    - 缴气费
+    - 燃气费
+    - 天然气费
+  - name: 燃气报装服务
+    category: 能源缴费
+    keywords:
+    - 装燃气
+    - 燃气报装
+    - 开通天然气
+    - 燃气开户
+  - name: 燃气安全检查服务
+    category: 能源缴费
+    keywords:
+    - 燃气安检
+    - 燃气检查
+    - 燃气维修
+    - 上门安检
+- company_id: utilities-chinagas-cn
+  company_name: 中国燃气
+  items:
+  - name: 中燃燃气居民供气
+    category: 能源缴费
+    keywords:
+    - 中国燃气
+    - 中燃
+    - 燃气
+    - 天然气
+  - name: 燃气缴费
+    category: 能源缴费
+    keywords:
+    - 交燃气费
+    - 缴气费
+    - 燃气费
+    - 天然气费
+  - name: 中燃宝燃气具
+    category: 家电
+    keywords:
+    - 中燃宝
+    - 燃气灶
+    - 燃气热水器
+    - 燃气具
+  - name: 燃气报装服务
+    category: 能源缴费
+    keywords:
+    - 装燃气
+    - 燃气报装
+    - 开通天然气
+    - 燃气开户
+- company_id: utilities-towngas-hk
+  company_name: 香港中华煤气
+  items:
+  - name: 香港煤气居民供气
+    category: 能源缴费
+    keywords:
+    - 煤气
+    - Towngas
+    - 中华煤气
+    - 香港煤气
+  - name: 煤气缴费
+    category: 能源缴费
+    keywords:
+    - 交煤气费
+    - 煤气费
+    - 缴煤气费
+    - 煤气温单
+  - name: 港华燃气居民供气
+    category: 能源缴费
+    keywords:
+    - 港华
+    - 港华燃气
+    - 燃气
+    - 天然气
+  - name: 煤气公司炉具
+    category: 家电
+    keywords:
+    - 煤气炉
+    - 燃气炉具
+    - 煤气灶
+    - Towngas炉具
+- company_id: utilities-clp-hk
+  company_name: 中电控股
+  items:
+  - name: 中华电力居民供电
+    category: 能源缴费
+    keywords:
+    - 中电
+    - 中华电力
+    - CLP
+    - 电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 中电缴费
+  - name: 中电电动车充电服务
+    category: 汽车服务
+    keywords:
+    - 充电桩
+    - 电动车充电
+    - 中电充电
+    - 充电站
+- company_id: utilities-edf-fr
+  company_name: Électricité de France
+  items:
+  - name: EDF居民供电服务
+    category: 能源缴费
+    keywords:
+    - EDF
+    - 法国电力
+    - 电费
+    - 供电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - EDF账单
+  - name: EDF燃气供应
+    category: 能源缴费
+    keywords:
+    - EDF燃气
+    - 天然气
+    - 燃气
+    - 法国燃气
+  - name: Izivia电动车充电
+    category: 汽车服务
+    keywords:
+    - Izivia
+    - 充电桩
+    - 电动车充电
+    - EDF充电
+- company_id: utilities-engie-fr
+  company_name: Engie
+  items:
+  - name: Engie居民电力供应
+    category: 能源缴费
+    keywords:
+    - Engie
+    - 电费
+    - 供电
+    - 法国能源
+  - name: Engie燃气供应
+    category: 能源缴费
+    keywords:
+    - Engie燃气
+    - 天然气
+    - 燃气费
+    - 法国燃气
+  - name: Engie家庭能源服务
+    category: 家居家装
+    keywords:
+    - 锅炉维修
+    - 暖气维保
+    - Engie服务
+    - 热水器维修
+- company_id: utilities-veolia-fr
+  company_name: Veolia
+  items:
+  - name: 威立雅居民供水服务
+    category: 能源缴费
+    keywords:
+    - 自来水
+    - 供水
+    - 威立雅
+    - 水费
+  - name: 水费缴纳
+    category: 能源缴费
+    keywords:
+    - 交水费
+    - 缴水费
+    - 水费单
+    - 自来水费
+  - name: 威立雅垃圾回收服务
+    category: 能源缴费
+    keywords:
+    - 垃圾回收
+    - 收垃圾
+    - 垃圾分类
+    - 威立雅
+- company_id: utilities-suez-fr
+  company_name: Suez
+  items:
+  - name: 苏伊士居民供水服务
+    category: 能源缴费
+    keywords:
+    - 自来水
+    - 供水
+    - 苏伊士
+    - 水费
+  - name: 水费缴纳
+    category: 能源缴费
+    keywords:
+    - 交水费
+    - 缴水费
+    - 水费单
+    - 自来水费
+  - name: 苏伊士垃圾回收服务
+    category: 能源缴费
+    keywords:
+    - 垃圾回收
+    - 收垃圾
+    - 垃圾分类
+    - 苏伊士
+- company_id: energy-enel-it
+  company_name: Enel
+  items:
+  - name: Enel居民供电
+    category: 能源缴费
+    keywords:
+    - Enel
+    - 意大利电力
+    - 电费
+    - 供电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - Enel账单
+  - name: Enel燃气供应
+    category: 能源缴费
+    keywords:
+    - Enel燃气
+    - 天然气
+    - 燃气费
+    - 意大利燃气
+  - name: Enel X Way电动车充电
+    category: 汽车服务
+    keywords:
+    - Enel X
+    - 充电桩
+    - 电动车充电
+    - 充电站
+- company_id: utilities-eon-de
+  company_name: E.ON
+  items:
+  - name: E.ON居民电力供应
+    category: 能源缴费
+    keywords:
+    - E.ON
+    - 德国电力
+    - 电费
+    - 供电
+  - name: E.ON燃气供应
+    category: 能源缴费
+    keywords:
+    - E.ON燃气
+    - 天然气
+    - 燃气费
+    - 德国燃气
+  - name: E.ON家庭光伏储能方案
+    category: 家居家装
+    keywords:
+    - 家用光伏
+    - 储能电池
+    - 太阳能板
+    - E.ON光伏
+- company_id: energy-iberdrola-es
+  company_name: Iberdrola
+  items:
+  - name: Iberdrola居民供电
+    category: 能源缴费
+    keywords:
+    - Iberdrola
+    - 西班牙电力
+    - 电费
+    - 供电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - Iberdrola账单
+  - name: Iberdrola燃气供应
+    category: 能源缴费
+    keywords:
+    - Iberdrola燃气
+    - 天然气
+    - 燃气费
+    - 西班牙燃气
+  - name: Iberdrola电动车充电
+    category: 汽车服务
+    keywords:
+    - 充电桩
+    - 电动车充电
+    - Iberdrola充电
+    - 充电站
+- company_id: utilities-centrica-gb
+  company_name: Centrica
+  items:
+  - name: British Gas 居民供气
+    category: 能源缴费
+    keywords:
+    - British Gas
+    - 英国燃气
+    - 煤气
+    - 天然气
+  - name: British Gas 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费
+    - British Gas
+  - name: British Gas HomeCare 锅炉维保
+    category: 家居家装
+    keywords:
+    - 锅炉维修
+    - 暖气维保
+    - HomeCare
+    - 热水器维修
+- company_id: utilities-dominion-us
+  company_name: Dominion Energy
+  items:
+  - name: 居民供电服务
+    category: 能源缴费
+    keywords:
+    - Dominion
+    - 电费
+    - 供电
+    - 弗吉尼亚电力
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: energy-duke-us
+  company_name: Duke Energy
+  items:
+  - name: Duke Energy 居民供电
+    category: 能源缴费
+    keywords:
+    - Duke Energy
+    - 杜克能源
+    - 电费
+    - 供电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: Piedmont Natural Gas 天然气供应
+    category: 能源缴费
+    keywords:
+    - Piedmont
+    - 天然气
+    - 燃气
+    - 北卡燃气
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: energy-southern-us
+  company_name: Southern Company
+  items:
+  - name: 佐治亚电力居民供电
+    category: 能源缴费
+    keywords:
+    - Georgia Power
+    - 佐治亚电力
+    - 电费
+    - 供电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: Atlanta Gas Light 天然气供应
+    category: 能源缴费
+    keywords:
+    - Atlanta Gas
+    - 天然气
+    - 燃气
+    - 亚特兰大燃气
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: energy-nextera-us
+  company_name: NextEra Energy
+  items:
+  - name: FPL 居民供电服务
+    category: 能源缴费
+    keywords:
+    - FPL
+    - 佛罗里达电力
+    - 佛州电费
+    - 迈阿密电力
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - FPL账单
+  - name: FPL SolarTogether 太阳能计划
+    category: 家居家装
+    keywords:
+    - 太阳能
+    - 光伏
+    - 社区太阳能
+    - FPL太阳能
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: utilities-exelon-us
+  company_name: Exelon
+  items:
+  - name: 居民供电服务
+    category: 能源缴费
+    keywords:
+    - Exelon
+    - 电费
+    - 供电
+    - 芝加哥电力
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: PECO 天然气供应
+    category: 能源缴费
+    keywords:
+    - PECO
+    - 天然气
+    - 燃气
+    - 费城燃气
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: utilities-conedison-us
+  company_name: Consolidated Edison
+  items:
+  - name: Con Edison 居民供电
+    category: 能源缴费
+    keywords:
+    - Con Edison
+    - 爱迪生联合
+    - 纽约电力
+    - 电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: Con Edison 燃气供应
+    category: 能源缴费
+    keywords:
+    - Con Edison燃气
+    - 天然气
+    - 燃气
+    - 纽约燃气
+  - name: 停电预警服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电预警
+    - 停电通知
+    - 报修
+- company_id: utilities-aep-us
+  company_name: American Electric Power
+  items:
+  - name: AEP 居民供电服务
+    category: 能源缴费
+    keywords:
+    - AEP
+    - 美国电力
+    - 俄亥俄电力
+    - 电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: utilities-xcel-us
+  company_name: Xcel Energy
+  items:
+  - name: Xcel Energy 居民供电
+    category: 能源缴费
+    keywords:
+    - Xcel
+    - 科罗拉多电力
+    - 明尼苏达电力
+    - 电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: Xcel 天然气供应
+    category: 能源缴费
+    keywords:
+    - Xcel燃气
+    - 天然气
+    - 燃气
+    - 燃气费
+  - name: Windsource 绿色电力计划
+    category: 能源缴费
+    keywords:
+    - 绿色电力
+    - 风电
+    - 可再生能源
+    - Windsource
+- company_id: utilities-sempra-us
+  company_name: Sempra
+  items:
+  - name: SoCalGas 天然气供应
+    category: 能源缴费
+    keywords:
+    - SoCalGas
+    - 南加燃气
+    - 天然气
+    - 洛杉矶燃气
+  - name: SDG&E 居民供电
+    category: 能源缴费
+    keywords:
+    - SDG&E
+    - 圣地亚哥电力
+    - 电费
+    - 供电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: 燃气缴费
+    category: 能源缴费
+    keywords:
+    - 交燃气费
+    - 缴气费
+    - 燃气费
+    - 天然气费
+- company_id: utilities-pge-us
+  company_name: PG&E
+  items:
+  - name: PG&E 居民供电
+    category: 能源缴费
+    keywords:
+    - PG&E
+    - 太平洋煤气电力
+    - 加州电力
+    - 旧金山电力
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: PG&E 天然气供应
+    category: 能源缴费
+    keywords:
+    - PG&E燃气
+    - 天然气
+    - 燃气
+    - 北加燃气
+  - name: 山火停电预警服务
+    category: 能源缴费
+    keywords:
+    - 停电预警
+    - PSPS
+    - 停电通知
+    - 停电
+- company_id: utilities-tepco-jp
+  company_name: Tokyo Electric Power Company
+  items:
+  - name: 东京电力居民供电
+    category: 能源缴费
+    keywords:
+    - 东京电力
+    - TEPCO
+    - 电费
+    - 东电
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 东电账单
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停電
+  - name: TEPCO e-mobility 电动车充电
+    category: 汽车服务
+    keywords:
+    - 充电桩
+    - 电动车充电
+    - 东电充电
+    - 充电站
+- company_id: utilities-chubu-jp
+  company_name: Chubu Electric Power
+  items:
+  - name: 中部电力居民供电
+    category: 能源缴费
+    keywords:
+    - 中部电力
+    - 中电
+    - 名古屋电力
+    - 电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停電
+- company_id: utilities-kansai-jp
+  company_name: Kansai Electric Power
+  items:
+  - name: 关西电力居民供电
+    category: 能源缴费
+    keywords:
+    - 关西电力
+    - 关电
+    - 大阪电力
+    - 电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 电费
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停電
+- company_id: utilities-tokyogas-jp
+  company_name: Tokyo Gas
+  items:
+  - name: 东京燃气居民供气
+    category: 能源缴费
+    keywords:
+    - 东京燃气
+    - 东京ガス
+    - 燃气
+    - 天然气
+  - name: 燃气缴费
+    category: 能源缴费
+    keywords:
+    - 交燃气费
+    - 缴气费
+    - 燃气费
+    - ガス料金
+  - name: 东京燃气电力零售
+    category: 能源缴费
+    keywords:
+    - 东电燃气电力
+    - 东京燃气电费
+    - 电力套餐
+    - 电费
+  - name: 东京燃气燃气具
+    category: 家电
+    keywords:
+    - 燃气炉
+    - 燃气热水器
+    - ガスコンロ
+    - 东京燃气灶
+- company_id: utilities-osakagas-jp
+  company_name: Osaka Gas
+  items:
+  - name: 大阪燃气居民供气
+    category: 能源缴费
+    keywords:
+    - 大阪燃气
+    - 大阪ガス
+    - 燃气
+    - 天然气
+  - name: 燃气缴费
+    category: 能源缴费
+    keywords:
+    - 交燃气费
+    - 缴气费
+    - 燃气费
+    - ガス料金
+  - name: 大阪燃气电力零售
+    category: 能源缴费
+    keywords:
+    - 大阪燃气电力
+    - 电力套餐
+    - 关西电费
+    - 电费
+  - name: 大阪燃气燃气具
+    category: 家电
+    keywords:
+    - 燃气炉
+    - 燃气热水器
+    - 大阪燃气灶
+    - 燃气具
+- company_id: utilities-kepco-kr
+  company_name: Korea Electric Power Corporation
+  items:
+  - name: 韩国电力居民供电
+    category: 能源缴费
+    keywords:
+    - 韩国电力
+    - KEPCO
+    - 电费
+    - 韩国电费
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - 한전
+  - name: 停电查询与报修服务
+    category: 能源缴费
+    keywords:
+    - 停电
+    - 停电查询
+    - 报修
+    - 停电通知
+- company_id: utilities-origin-au
+  company_name: Origin Energy
+  items:
+  - name: Origin 居民电力供应
+    category: 能源缴费
+    keywords:
+    - Origin
+    - 澳洲电力
+    - 电费
+    - 澳大利亚能源
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - Origin账单
+  - name: Origin 天然气供应
+    category: 能源缴费
+    keywords:
+    - Origin燃气
+    - 天然气
+    - 燃气
+    - 澳洲燃气
+  - name: Origin 家用太阳能方案
+    category: 家居家装
+    keywords:
+    - 太阳能
+    - 家用光伏
+    - 储能电池
+    - Origin太阳能
+- company_id: utilities-agl-au
+  company_name: AGL Energy
+  items:
+  - name: AGL 居民电力供应
+    category: 能源缴费
+    keywords:
+    - AGL
+    - 澳洲电力
+    - 电费
+    - 澳大利亚能源
+  - name: 电费缴纳
+    category: 能源缴费
+    keywords:
+    - 交电费
+    - 缴电费
+    - 电费单
+    - AGL账单
+  - name: AGL 天然气供应
+    category: 能源缴费
+    keywords:
+    - AGL燃气
+    - 天然气
+    - 燃气
+    - 澳洲燃气
+  - name: AGL 太阳能与储能方案
+    category: 家居家装
+    keywords:
+    - 太阳能
+    - 家用光伏
+    - 储能电池
+    - AGL太阳能

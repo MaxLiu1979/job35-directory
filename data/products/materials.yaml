@@ -1,40 +1,81 @@
 products:
-  - company_id: materials-sinopec-cn
-    company_name: 中国石化
-    items:
-      - name: 中石化加油服务
-        category: 汽车服务
-        keywords: [加油, 加油站, 中石化加油, 油品, 加92]
-      - name: 易捷便利店
-        category: 其他
-        keywords: [便利店, 易捷, 易捷便利店, 加油站超市]
-      - name: 长城润滑油
-        category: 汽车服务
-        keywords: [润滑油, 机油, 长城润滑油, 金吉星]
-      - name: 易捷养车
-        category: 汽车服务
-        keywords: [养车, 洗车, 易捷养车, 汽车保养]
-  - company_id: materials-yuhong-cn
-    company_name: 东方雨虹
-    items:
-      - name: 雨虹防水涂料
-        category: 建材五金
-        keywords: [防水涂料, 雨虹防水, 防水材料, 做防水]
-      - name: 雨虹瓷砖美缝剂
-        category: 建材五金
-        keywords: [美缝剂, 瓷砖美缝, 雨虹美缝, 勾缝剂]
-      - name: 雨虹密封胶
-        category: 建材五金
-        keywords: [玻璃胶, 密封胶, 防霉胶, 雨虹胶]
-  - company_id: materials-bnbm-cn
-    company_name: 北新建材
-    items:
-      - name: 龙牌石膏板
-        category: 建材五金
-        keywords: [石膏板, 龙牌石膏板, 吊顶材料, 隔墙板]
-      - name: 龙牌轻钢龙骨
-        category: 建材五金
-        keywords: [轻钢龙骨, 龙骨, 龙牌龙骨, 吊顶龙骨]
-      - name: 龙牌矿棉吸声板
-        category: 建材五金
-        keywords: [矿棉板, 吸音板, 矿棉吸声板, 龙牌矿棉板]
+- company_id: energy-sinopec-cn
+  company_name: 中国石化
+  items:
+  - name: 中石化加油服务
+    category: 汽车服务
+    keywords:
+    - 加油
+    - 加油站
+    - 中石化加油
+    - 油品
+    - 加92
+  - name: 易捷便利店
+    category: 其他
+    keywords:
+    - 便利店
+    - 易捷
+    - 易捷便利店
+    - 加油站超市
+  - name: 长城润滑油
+    category: 汽车服务
+    keywords:
+    - 润滑油
+    - 机油
+    - 长城润滑油
+    - 金吉星
+  - name: 易捷养车
+    category: 汽车服务
+    keywords:
+    - 养车
+    - 洗车
+    - 易捷养车
+    - 汽车保养
+- company_id: materials-yuhong-cn
+  company_name: 东方雨虹
+  items:
+  - name: 雨虹防水涂料
+    category: 建材五金
+    keywords:
+    - 防水涂料
+    - 雨虹防水
+    - 防水材料
+    - 做防水
+  - name: 雨虹瓷砖美缝剂
+    category: 建材五金
+    keywords:
+    - 美缝剂
+    - 瓷砖美缝
+    - 雨虹美缝
+    - 勾缝剂
+  - name: 雨虹密封胶
+    category: 建材五金
+    keywords:
+    - 玻璃胶
+    - 密封胶
+    - 防霉胶
+    - 雨虹胶
+- company_id: materials-bnbm-cn
+  company_name: 北新建材
+  items:
+  - name: 龙牌石膏板
+    category: 建材五金
+    keywords:
+    - 石膏板
+    - 龙牌石膏板
+    - 吊顶材料
+    - 隔墙板
+  - name: 龙牌轻钢龙骨
+    category: 建材五金
+    keywords:
+    - 轻钢龙骨
+    - 龙骨
+    - 龙牌龙骨
+    - 吊顶龙骨
+  - name: 龙牌矿棉吸声板
+    category: 建材五金
+    keywords:
+    - 矿棉板
+    - 吸音板
+    - 矿棉吸声板
+    - 龙牌矿棉板

@@ -1,301 +1,577 @@
 products:
-  - company_id: agriculture-cofco-cn
-    company_name: 中粮集团
-    items:
-      - name: 福临门食用油
-        category: 粮油调味
-        keywords: [食用油, 福临门, 油, 调和油]
-      - name: 长城葡萄酒
-        category: 酒水
-        keywords: [葡萄酒, 长城, 红酒, 干红]
-      - name: 家佳康冷鲜肉
-        category: 生鲜速食
-        keywords: [冷鲜肉, 家佳康, 猪肉, 肉]
-      - name: 香雪面粉
-        category: 粮油调味
-        keywords: [面粉, 香雪, 饺子粉]
-      - name: 中茶茶叶
-        category: 食品饮料
-        keywords: [茶叶, 中茶, 普洱, 龙井]
-  - company_id: agriculture-beidahuang-cn
-    company_name: 北大荒集团
-    items:
-      - name: 北大荒大米
-        category: 粮油调味
-        keywords: [大米, 北大荒, 东北大米, 五常大米]
-      - name: 亲民有机面粉
-        category: 粮油调味
-        keywords: [面粉, 有机面粉, 亲民, 北大荒面粉]
-      - name: 北大荒豆浆粉
-        category: 食品饮料
-        keywords: [豆浆粉, 豆浆, 北大荒豆奶]
-  - company_id: agriculture-newhope-cn
-    company_name: 新希望集团
-    items:
-      - name: 美好火腿肠
-        category: 生鲜速食
-        keywords: [火腿肠, 美好, 香肠, 午餐肉]
-      - name: 新希望鲜牛奶
-        category: 乳品
-        keywords: [牛奶, 鲜奶, 新希望, 酸奶]
-      - name: 鲜生活冷链配送
-        category: 快递物流
-        keywords: [冷链, 生鲜配送, 冷鲜快递]
-  - company_id: agriculture-tangrenshen-cn
-    company_name: 唐人神
-    items:
-      - name: 唐人神香肠
-        category: 生鲜速食
-        keywords: [香肠, 腊肠, 唐人神, 腊肉]
-      - name: 唐人神冷鲜肉
-        category: 生鲜速食
-        keywords: [冷鲜肉, 猪肉, 唐人神肉]
-  - company_id: agriculture-sunner-cn
-    company_name: 圣农发展
-    items:
-      - name: 圣农冷冻鸡肉
-        category: 生鲜速食
-        keywords: [鸡肉, 鸡胸肉, 冷冻鸡, 圣农]
-      - name: 圣农盐酥鸡
-        category: 生鲜速食
-        keywords: [盐酥鸡, 炸鸡, 鸡米花, 圣农炸鸡]
-  - company_id: agriculture-whgroup-cn
-    company_name: 万洲国际
-    items:
-      - name: 双汇王中王火腿肠
-        category: 生鲜速食
-        keywords: [火腿肠, 双汇, 王中王, 泡面搭档]
-      - name: 双汇冷鲜肉
-        category: 生鲜速食
-        keywords: [冷鲜肉, 双汇, 猪肉, 排骨]
-      - name: 史密斯菲尔德美式火腿
-        category: 生鲜速食
-        keywords: [火腿, 史密斯菲尔德, 美式培根]
-  - company_id: agriculture-yili-cn
-    company_name: 伊利
-    items:
-      - name: 金典纯牛奶
-        category: 乳品
-        keywords: [牛奶, 纯牛奶, 奶, 金典]
-      - name: 安慕希酸奶
-        category: 乳品
-        keywords: [酸奶, 安慕希, 希腊酸奶]
-      - name: 伊利纯牛奶
-        category: 乳品
-        keywords: [纯牛奶, 伊利, 盒装奶]
-      - name: 优酸乳
-        category: 饮料
-        keywords: [优酸乳, 乳酸饮料, 伊利优酸乳]
-      - name: QQ星儿童牛奶
-        category: 乳品
-        keywords: [儿童牛奶, QQ星, 小孩喝的奶]
-      - name: 巧乐兹雪糕
-        category: 休闲零食
-        keywords: [雪糕, 冰淇淋, 巧乐兹, 冰棍]
-  - company_id: agriculture-mengniu-cn
-    company_name: 蒙牛
-    items:
-      - name: 特仑苏纯牛奶
-        category: 乳品
-        keywords: [牛奶, 特仑苏, 纯牛奶, 高端奶]
-      - name: 纯甄酸奶
-        category: 乳品
-        keywords: [酸奶, 纯甄, 常温酸奶]
-      - name: 蒙牛纯牛奶
-        category: 乳品
-        keywords: [纯牛奶, 蒙牛, 盒装奶]
-      - name: 真果粒
-        category: 饮料
-        keywords: [真果粒, 果粒奶, 蒙牛真果粒]
-      - name: 每日鲜语鲜牛奶
-        category: 乳品
-        keywords: [鲜奶, 每日鲜语, 巴氏奶]
-      - name: 随变冰淇淋
-        category: 休闲零食
-        keywords: [冰淇淋, 雪糕, 随变, 冰糕]
-  - company_id: agriculture-brightfood-cn
-    company_name: 光明食品集团
-    items:
-      - name: 光明鲜牛奶
-        category: 乳品
-        keywords: [牛奶, 光明, 鲜奶, 巴氏奶]
-      - name: 莫斯利安酸奶
-        category: 乳品
-        keywords: [酸奶, 莫斯利安, 常温酸奶]
-      - name: 大白兔奶糖
-        category: 休闲零食
-        keywords: [奶糖, 大白兔, 糖果]
-      - name: 梅林午餐肉
-        category: 生鲜速食
-        keywords: [午餐肉, 梅林, 罐头, 火腿罐头]
-      - name: 光明雪糕
-        category: 休闲零食
-        keywords: [雪糕, 光明冰砖, 冰淇淋, 盐水棒冰]
-  - company_id: agriculture-capitalagri-cn
-    company_name: 首农食品集团
-    items:
-      - name: 三元纯牛奶
-        category: 乳品
-        keywords: [牛奶, 三元, 纯牛奶, 鲜奶]
-      - name: 古船面粉
-        category: 粮油调味
-        keywords: [面粉, 古船, 北京面粉]
-      - name: 六必居酱菜
-        category: 粮油调味
-        keywords: [酱菜, 六必居, 咸菜, 榨菜]
-      - name: 王致和腐乳
-        category: 粮油调味
-        keywords: [腐乳, 酱豆腐, 王致和]
-  - company_id: agriculture-suken-cn
-    company_name: 苏垦农发
-    items:
-      - name: 苏垦大米
-        category: 粮油调味
-        keywords: [大米, 苏垦, 江苏大米, 粳米]
-      - name: 苏垦有机米
-        category: 粮油调味
-        keywords: [有机米, 苏垦, 生态米]
-  - company_id: agriculture-tyson-us
-    company_name: Tyson Foods
-    items:
-      - name: 泰森冷冻鸡肉
-        category: 生鲜速食
-        keywords: [鸡肉, 泰森, 鸡胸肉, 冷冻鸡块]
-      - name: Jimmy Dean早餐香肠
-        category: 生鲜速食
-        keywords: [早餐肠, 香肠, Jimmy Dean]
-      - name: Hillshire Farm午餐肉
-        category: 生鲜速食
-        keywords: [午餐肉, 火腿, Hillshire]
-  - company_id: agriculture-landolakes-us
-    company_name: Land O'Lakes
-    items:
-      - name: Land O'Lakes黄油
-        category: 乳品
-        keywords: [黄油, 牛油, Land O'Lakes]
-      - name: Land O'Lakes奶酪
-        category: 乳品
-        keywords: [奶酪, 芝士, Land O'Lakes]
-  - company_id: agriculture-jbs-br
-    company_name: JBS
-    items:
-      - name: Friboi冷冻牛肉
-        category: 生鲜速食
-        keywords: [牛肉, 牛排, Friboi, 冷冻牛肉]
-      - name: Seara冷冻鸡肉制品
-        category: 生鲜速食
-        keywords: [鸡肉, 冷冻鸡, Seara, 鸡块]
-      - name: Swift牛肉
-        category: 生鲜速食
-        keywords: [牛肉, 肥牛, Swift]
-  - company_id: agriculture-brf-br
-    company_name: BRF
-    items:
-      - name: Perdigão冷冻鸡肉
-        category: 生鲜速食
-        keywords: [鸡肉, 冷冻鸡, Perdigao, 鸡柳]
-      - name: Sadia冷冻肉品
-        category: 生鲜速食
-        keywords: [冷冻肉, 鸡腿, Sadia, 鸡肉]
-      - name: Qualy人造黄油
-        category: 粮油调味
-        keywords: [黄油, 人造奶油, Qualy, 抹酱]
-  - company_id: agriculture-bayer-de
-    company_name: 拜耳
-    items:
-      - name: 拜阿司匹林
-        category: 药品保健
-        keywords: [阿司匹林, 拜阿司匹林, 止痛药, 退烧药]
-      - name: 达喜铝碳酸镁片
-        category: 药品保健
-        keywords: [达喜, 胃药, 胃酸, 胃疼]
-      - name: 力度伸维生素C泡腾片
-        category: 药品保健
-        keywords: [维生素C, 泡腾片, 力度伸, VC]
-  - company_id: agriculture-danone-fr
-    company_name: 达能
-    items:
-      - name: 爱他美婴幼儿奶粉
-        category: 母婴用品
-        keywords: [奶粉, 爱他美, 婴儿奶粉, 宝宝奶粉]
-      - name: 脉动维生素饮料
-        category: 饮料
-        keywords: [脉动, 维生素饮料, 功能饮料]
-      - name: 依云矿泉水
-        category: 饮料
-        keywords: [矿泉水, 依云, 饮用水]
-      - name: 碧悠酸奶
-        category: 乳品
-        keywords: [酸奶, 碧悠, 达能酸奶]
-  - company_id: agriculture-lactalis-fr
-    company_name: Lactalis
-    items:
-      - name: 总统牌黄油
-        category: 乳品
-        keywords: [黄油, 总统牌, 牛油, Président]
-      - name: 总统牌奶酪
-        category: 乳品
-        keywords: [奶酪, 芝士, 总统牌, 奶油奶酪]
-      - name: 兰特纯牛奶
-        category: 乳品
-        keywords: [牛奶, 兰特, 进口牛奶, Lactel]
-  - company_id: agriculture-nestle-ch
-    company_name: 雀巢
-    items:
-      - name: 雀巢速溶咖啡
-        category: 饮料
-        keywords: [咖啡, 速溶咖啡, 雀巢咖啡]
-      - name: 雀巢奶粉
-        category: 乳品
-        keywords: [奶粉, 雀巢, 中老年奶粉]
-      - name: 脆脆鲨威化
-        category: 休闲零食
-        keywords: [威化, 脆脆鲨, 巧克力威化]
-      - name: 徐福记糖果
-        category: 休闲零食
-        keywords: [糖果, 徐福记, 沙琪玛, 喜糖]
-      - name: 太太乐鸡精
-        category: 粮油调味
-        keywords: [鸡精, 太太乐, 调味料]
-      - name: 奇巧巧克力
-        category: 休闲零食
-        keywords: [巧克力, 奇巧, KitKat, 威化巧克力]
-  - company_id: agriculture-cpgroup-th
-    company_name: 正大集团
-    items:
-      - name: 正大鸡蛋
-        category: 生鲜速食
-        keywords: [鸡蛋, 正大鸡蛋, 无抗蛋]
-      - name: 正大雪莲鸡胸肉
-        category: 生鲜速食
-        keywords: [鸡胸肉, 正大雪莲, 冷冻鸡肉]
-      - name: 正大速冻食品
-        category: 生鲜速食
-        keywords: [速冻食品, 正大, 蒸饺, 鸡块]
-  - company_id: agriculture-wilmar-sg
-    company_name: 丰益国际
-    items:
-      - name: 金龙鱼食用油
-        category: 粮油调味
-        keywords: [食用油, 金龙鱼, 调和油, 菜籽油]
-      - name: 胡姬花花生油
-        category: 粮油调味
-        keywords: [花生油, 胡姬花, 古法花生油]
-      - name: 欧丽薇兰橄榄油
-        category: 粮油调味
-        keywords: [橄榄油, 欧丽薇兰, 进口橄榄油]
-      - name: 香满园大米
-        category: 粮油调味
-        keywords: [大米, 香满园, 东北米]
-  - company_id: agriculture-fonterra-nz
-    company_name: 恒天然
-    items:
-      - name: 安佳黄油
-        category: 乳品
-        keywords: [黄油, 安佳, 牛油, Anchor]
-      - name: 安佳全脂奶粉
-        category: 乳品
-        keywords: [奶粉, 安佳, 全脂奶粉, 成人奶粉]
-      - name: 安满孕妇奶粉
-        category: 母婴用品
-        keywords: [孕妇奶粉, 安满, 孕妈奶粉, Anmum]
+- company_id: agriculture-cofco-cn
+  company_name: 中粮集团
+  items:
+  - name: 福临门食用油
+    category: 粮油调味
+    keywords:
+    - 食用油
+    - 福临门
+    - 油
+    - 调和油
+  - name: 长城葡萄酒
+    category: 酒水
+    keywords:
+    - 葡萄酒
+    - 长城
+    - 红酒
+    - 干红
+  - name: 家佳康冷鲜肉
+    category: 生鲜速食
+    keywords:
+    - 冷鲜肉
+    - 家佳康
+    - 猪肉
+    - 肉
+  - name: 香雪面粉
+    category: 粮油调味
+    keywords:
+    - 面粉
+    - 香雪
+    - 饺子粉
+  - name: 中茶茶叶
+    category: 休闲零食
+    keywords:
+    - 中茶
+    - 茶叶
+    - 红茶
+    - 绿茶
+- company_id: agriculture-beidahuang-cn
+  company_name: 北大荒集团
+  items:
+  - name: 北大荒大米
+    category: 粮油调味
+    keywords:
+    - 北大荒
+    - 大米
+    - 东北大米
+  - name: 亲民有机面粉
+    category: 粮油调味
+    keywords:
+    - 面粉
+    - 有机面粉
+    - 亲民
+    - 北大荒面粉
+  - name: 北大荒豆浆粉
+    category: 休闲零食
+    keywords:
+    - 豆浆粉
+    - 豆浆
+    - 北大荒豆奶
+- company_id: agriculture-newhope-cn
+  company_name: 新希望集团
+  items:
+  - name: 美好火腿肠
+    category: 生鲜速食
+    keywords:
+    - 火腿肠
+    - 美好
+    - 香肠
+    - 午餐肉
+  - name: 新希望鲜牛奶
+    category: 乳品
+    keywords:
+    - 牛奶
+    - 鲜奶
+    - 新希望
+    - 酸奶
+  - name: 鲜生活冷链配送
+    category: 快递物流
+    keywords:
+    - 冷链
+    - 生鲜配送
+    - 冷鲜快递
+- company_id: agriculture-tangrenshen-cn
+  company_name: 唐人神
+  items:
+  - name: 唐人神香肠
+    category: 生鲜速食
+    keywords:
+    - 香肠
+    - 腊肠
+    - 唐人神
+    - 腊肉
+  - name: 唐人神冷鲜肉
+    category: 生鲜速食
+    keywords:
+    - 冷鲜肉
+    - 猪肉
+    - 唐人神肉
+- company_id: agriculture-sunner-cn
+  company_name: 圣农发展
+  items:
+  - name: 圣农冷冻鸡肉
+    category: 生鲜速食
+    keywords:
+    - 鸡肉
+    - 鸡胸肉
+    - 冷冻鸡
+    - 圣农
+  - name: 圣农盐酥鸡
+    category: 生鲜速食
+    keywords:
+    - 盐酥鸡
+    - 炸鸡
+    - 鸡米花
+    - 圣农炸鸡
+- company_id: agriculture-whgroup-cn
+  company_name: 万洲国际
+  items:
+  - name: 双汇王中王火腿肠
+    category: 生鲜速食
+    keywords:
+    - 火腿肠
+    - 双汇
+    - 王中王
+    - 泡面搭档
+  - name: 双汇冷鲜肉
+    category: 生鲜速食
+    keywords:
+    - 冷鲜肉
+    - 双汇
+    - 猪肉
+    - 排骨
+  - name: 史密斯菲尔德美式火腿
+    category: 生鲜速食
+    keywords:
+    - 火腿
+    - 史密斯菲尔德
+    - 美式培根
+- company_id: agriculture-yili-cn
+  company_name: 伊利
+  items:
+  - name: 金典纯牛奶
+    category: 乳品
+    keywords:
+    - 牛奶
+    - 纯牛奶
+    - 奶
+    - 金典
+  - name: 安慕希酸奶
+    category: 乳品
+    keywords:
+    - 酸奶
+    - 安慕希
+    - 希腊酸奶
+  - name: 伊利纯牛奶
+    category: 乳品
+    keywords:
+    - 纯牛奶
+    - 伊利
+    - 盒装奶
+  - name: 优酸乳
+    category: 饮料
+    keywords:
+    - 优酸乳
+    - 乳酸饮料
+    - 伊利优酸乳
+  - name: QQ星儿童牛奶
+    category: 乳品
+    keywords:
+    - 儿童牛奶
+    - QQ星
+    - 小孩喝的奶
+  - name: 巧乐兹雪糕
+    category: 休闲零食
+    keywords:
+    - 雪糕
+    - 冰淇淋
+    - 巧乐兹
+    - 冰棍
+- company_id: agriculture-mengniu-cn
+  company_name: 蒙牛
+  items:
+  - name: 特仑苏纯牛奶
+    category: 乳品
+    keywords:
+    - 牛奶
+    - 特仑苏
+    - 纯牛奶
+    - 高端奶
+  - name: 纯甄酸奶
+    category: 乳品
+    keywords:
+    - 酸奶
+    - 纯甄
+    - 常温酸奶
+  - name: 蒙牛纯牛奶
+    category: 乳品
+    keywords:
+    - 纯牛奶
+    - 蒙牛
+    - 盒装奶
+  - name: 真果粒
+    category: 饮料
+    keywords:
+    - 真果粒
+    - 果粒奶
+    - 蒙牛真果粒
+  - name: 每日鲜语鲜牛奶
+    category: 乳品
+    keywords:
+    - 鲜奶
+    - 每日鲜语
+    - 巴氏奶
+  - name: 随变冰淇淋
+    category: 休闲零食
+    keywords:
+    - 冰淇淋
+    - 雪糕
+    - 随变
+    - 冰糕
+- company_id: agriculture-brightfood-cn
+  company_name: 光明食品集团
+  items:
+  - name: 光明鲜牛奶
+    category: 乳品
+    keywords:
+    - 牛奶
+    - 光明
+    - 鲜奶
+    - 巴氏奶
+  - name: 莫斯利安酸奶
+    category: 乳品
+    keywords:
+    - 酸奶
+    - 莫斯利安
+    - 常温酸奶
+  - name: 大白兔奶糖
+    category: 休闲零食
+    keywords:
+    - 奶糖
+    - 大白兔
+    - 糖果
+  - name: 梅林午餐肉
+    category: 生鲜速食
+    keywords:
+    - 午餐肉
+    - 梅林
+    - 罐头
+    - 火腿罐头
+  - name: 光明雪糕
+    category: 休闲零食
+    keywords:
+    - 雪糕
+    - 光明冰砖
+    - 冰淇淋
+    - 盐水棒冰
+- company_id: agriculture-capitalagri-cn
+  company_name: 首农食品集团
+  items:
+  - name: 三元纯牛奶
+    category: 乳品
+    keywords:
+    - 牛奶
+    - 三元
+    - 纯牛奶
+    - 鲜奶
+  - name: 古船面粉
+    category: 粮油调味
+    keywords:
+    - 面粉
+    - 古船
+    - 北京面粉
+  - name: 六必居酱菜
+    category: 粮油调味
+    keywords:
+    - 酱菜
+    - 六必居
+    - 咸菜
+    - 榨菜
+  - name: 王致和腐乳
+    category: 粮油调味
+    keywords:
+    - 腐乳
+    - 酱豆腐
+    - 王致和
+- company_id: agriculture-suken-cn
+  company_name: 苏垦农发
+  items:
+  - name: 苏垦大米
+    category: 粮油调味
+    keywords:
+    - 大米
+    - 苏垦
+    - 江苏大米
+    - 粳米
+  - name: 苏垦有机米
+    category: 粮油调味
+    keywords:
+    - 有机米
+    - 苏垦
+    - 生态米
+- company_id: agriculture-tyson-us
+  company_name: Tyson Foods
+  items:
+  - name: 泰森冷冻鸡肉
+    category: 生鲜速食
+    keywords:
+    - 鸡肉
+    - 泰森
+    - 鸡胸肉
+    - 冷冻鸡块
+  - name: Jimmy Dean早餐香肠
+    category: 生鲜速食
+    keywords:
+    - 早餐肠
+    - 香肠
+    - Jimmy Dean
+  - name: Hillshire Farm午餐肉
+    category: 生鲜速食
+    keywords:
+    - 午餐肉
+    - 火腿
+    - Hillshire
+- company_id: agriculture-landolakes-us
+  company_name: Land O'Lakes
+  items:
+  - name: Land O'Lakes黄油
+    category: 乳品
+    keywords:
+    - 黄油
+    - 牛油
+    - Land O'Lakes
+  - name: Land O'Lakes奶酪
+    category: 乳品
+    keywords:
+    - 奶酪
+    - 芝士
+    - Land O'Lakes
+- company_id: agriculture-jbs-br
+  company_name: JBS
+  items:
+  - name: Friboi冷冻牛肉
+    category: 生鲜速食
+    keywords:
+    - 牛肉
+    - 牛排
+    - Friboi
+    - 冷冻牛肉
+  - name: Seara冷冻鸡肉制品
+    category: 生鲜速食
+    keywords:
+    - 鸡肉
+    - 冷冻鸡
+    - Seara
+    - 鸡块
+  - name: Swift牛肉
+    category: 生鲜速食
+    keywords:
+    - 牛肉
+    - 肥牛
+    - Swift
+- company_id: agriculture-brf-br
+  company_name: BRF
+  items:
+  - name: Perdigão冷冻鸡肉
+    category: 生鲜速食
+    keywords:
+    - 鸡肉
+    - 冷冻鸡
+    - Perdigao
+    - 鸡柳
+  - name: Sadia冷冻肉品
+    category: 生鲜速食
+    keywords:
+    - 冷冻肉
+    - 鸡腿
+    - Sadia
+    - 鸡肉
+  - name: Qualy人造黄油
+    category: 粮油调味
+    keywords:
+    - 黄油
+    - 人造奶油
+    - Qualy
+    - 抹酱
+- company_id: agriculture-bayer-de
+  company_name: 拜耳
+  items:
+  - name: 拜阿司匹林
+    category: 药品保健
+    keywords:
+    - 阿司匹林
+    - 拜阿司匹林
+    - 止痛药
+    - 退烧药
+  - name: 达喜铝碳酸镁片
+    category: 药品保健
+    keywords:
+    - 达喜
+    - 胃药
+    - 胃酸
+    - 胃疼
+  - name: 力度伸维生素C泡腾片
+    category: 药品保健
+    keywords:
+    - 维生素C
+    - 泡腾片
+    - 力度伸
+    - VC
+- company_id: agriculture-danone-fr
+  company_name: 达能
+  items:
+  - name: 爱他美婴幼儿奶粉
+    category: 母婴用品
+    keywords:
+    - 奶粉
+    - 爱他美
+    - 婴儿奶粉
+    - 宝宝奶粉
+  - name: 脉动维生素饮料
+    category: 饮料
+    keywords:
+    - 脉动
+    - 维生素饮料
+    - 功能饮料
+  - name: 依云矿泉水
+    category: 饮料
+    keywords:
+    - 矿泉水
+    - 依云
+    - 饮用水
+  - name: 碧悠酸奶
+    category: 乳品
+    keywords:
+    - 酸奶
+    - 碧悠
+    - 达能酸奶
+- company_id: agriculture-lactalis-fr
+  company_name: Lactalis
+  items:
+  - name: 总统牌黄油
+    category: 乳品
+    keywords:
+    - 黄油
+    - 总统牌
+    - 牛油
+    - Président
+  - name: 总统牌奶酪
+    category: 乳品
+    keywords:
+    - 奶酪
+    - 芝士
+    - 总统牌
+    - 奶油奶酪
+  - name: 兰特纯牛奶
+    category: 乳品
+    keywords:
+    - 牛奶
+    - 兰特
+    - 进口牛奶
+    - Lactel
+- company_id: agriculture-nestle-ch
+  company_name: 雀巢
+  items:
+  - name: 雀巢速溶咖啡
+    category: 饮料
+    keywords:
+    - 咖啡
+    - 速溶咖啡
+    - 雀巢咖啡
+  - name: 雀巢奶粉
+    category: 乳品
+    keywords:
+    - 奶粉
+    - 雀巢
+    - 中老年奶粉
+  - name: 脆脆鲨威化
+    category: 休闲零食
+    keywords:
+    - 威化
+    - 脆脆鲨
+    - 巧克力威化
+  - name: 徐福记糖果
+    category: 休闲零食
+    keywords:
+    - 糖果
+    - 徐福记
+    - 沙琪玛
+    - 喜糖
+  - name: 太太乐鸡精
+    category: 粮油调味
+    keywords:
+    - 鸡精
+    - 太太乐
+    - 调味料
+  - name: 奇巧巧克力
+    category: 休闲零食
+    keywords:
+    - 巧克力
+    - 奇巧
+    - KitKat
+    - 威化巧克力
+- company_id: agriculture-cpgroup-th
+  company_name: 正大集团
+  items:
+  - name: 正大鸡蛋
+    category: 生鲜速食
+    keywords:
+    - 鸡蛋
+    - 正大鸡蛋
+    - 无抗蛋
+  - name: 正大雪莲鸡胸肉
+    category: 生鲜速食
+    keywords:
+    - 鸡胸肉
+    - 正大雪莲
+    - 冷冻鸡肉
+  - name: 正大速冻食品
+    category: 生鲜速食
+    keywords:
+    - 速冻食品
+    - 正大
+    - 蒸饺
+    - 鸡块
+- company_id: agriculture-wilmar-sg
+  company_name: 丰益国际
+  items:
+  - name: 金龙鱼食用油
+    category: 粮油调味
+    keywords:
+    - 食用油
+    - 金龙鱼
+    - 调和油
+    - 菜籽油
+  - name: 胡姬花花生油
+    category: 粮油调味
+    keywords:
+    - 花生油
+    - 胡姬花
+    - 古法花生油
+  - name: 欧丽薇兰橄榄油
+    category: 粮油调味
+    keywords:
+    - 橄榄油
+    - 欧丽薇兰
+    - 进口橄榄油
+  - name: 香满园大米
+    category: 粮油调味
+    keywords:
+    - 大米
+    - 香满园
+    - 东北米
+- company_id: agriculture-fonterra-nz
+  company_name: 恒天然
+  items:
+  - name: 安佳黄油
+    category: 乳品
+    keywords:
+    - 黄油
+    - 安佳
+    - 牛油
+    - Anchor
+  - name: 安佳全脂奶粉
+    category: 乳品
+    keywords:
+    - 奶粉
+    - 安佳
+    - 全脂奶粉
+    - 成人奶粉
+  - name: 安满孕妇奶粉
+    category: 母婴用品
+    keywords:
+    - 孕妇奶粉
+    - 安满
+    - 孕妈奶粉
+    - Anmum

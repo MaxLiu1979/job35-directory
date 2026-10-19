@@ -1,103 +1,182 @@
 products:
-  - company_id: energy-petrochina-cn
-    company_name: 中国石油
-    items:
-      - name: 加油站加油服务
-        category: 能源缴费
-        keywords: [加油, 加油站, 汽油, 中石油加油]
-      - name: 昆仑润滑油
-        category: 汽车服务
-        keywords: [机油, 润滑油, 昆仑机油]
-      - name: 昆仑好客便利店
-        category: 其他
-        keywords: [便利店, 昆仑好客, 加油站便利店]
-      - name: 昆仑燃气管道燃气
-        category: 能源缴费
-        keywords: [燃气, 天然气, 管道燃气, 昆仑燃气]
-  - company_id: energy-sinopec-cn
-    company_name: 中国石化
-    items:
-      - name: 加油站加油服务
-        category: 能源缴费
-        keywords: [加油, 加油站, 汽油, 柴油]
-      - name: 长城润滑油
-        category: 汽车服务
-        keywords: [机油, 润滑油, 长城机油]
-      - name: 易捷便利店
-        category: 其他
-        keywords: [便利店, 易捷, 加油站便利店]
-  - company_id: energy-enn-cn
-    company_name: 新奥集团
-    items:
-      - name: 新奥燃气管道燃气
-        category: 能源缴费
-        keywords: [燃气, 天然气, 管道燃气, 新奥燃气]
-      - name: 燃气缴费服务
-        category: 能源缴费
-        keywords: [燃气费, 交燃气费, 燃气缴费]
-      - name: 新奥燃气报装服务
-        category: 能源缴费
-        keywords: [燃气开户, 燃气报装, 装天然气]
-  - company_id: energy-exxonmobil-us
-    company_name: ExxonMobil
-    items:
-      - name: 美孚1号全合成机油
-        category: 汽车服务
-        keywords: [机油, 美孚机油, 美孚1号]
-      - name: 埃索加油站
-        category: 能源缴费
-        keywords: [加油, 埃索, Esso]
-  - company_id: energy-chevron-us
-    company_name: Chevron
-    items:
-      - name: 加德士加油站
-        category: 能源缴费
-        keywords: [加油, 加德士, 雪佛龙加油站]
-      - name: 雪佛龙金富力润滑油
-        category: 汽车服务
-        keywords: [机油, 润滑油, 金富力]
-  - company_id: energy-shell-gb
-    company_name: Shell
-    items:
-      - name: 壳牌加油站
-        category: 能源缴费
-        keywords: [加油, 壳牌加油站, 汽油]
-      - name: 壳牌喜力机油
-        category: 汽车服务
-        keywords: [机油, 壳牌机油, 喜力, 灰壳]
-  - company_id: energy-bp-gb
-    company_name: BP
-    items:
-      - name: BP加油站
-        category: 能源缴费
-        keywords: [加油, BP加油站, 汽油]
-      - name: 嘉实多机油
-        category: 汽车服务
-        keywords: [机油, 润滑油, 嘉实多, 磁护]
-  - company_id: energy-totalenergies-fr
-    company_name: TotalEnergies
-    items:
-      - name: 道达尔加油站
-        category: 能源缴费
-        keywords: [加油, 道达尔加油站, 汽油]
-      - name: 道达尔快驰润滑油
-        category: 汽车服务
-        keywords: [机油, 润滑油, 快驰]
-  - company_id: energy-eneos-jp
-    company_name: ENEOS Holdings
-    items:
-      - name: ENEOS加油站
-        category: 能源缴费
-        keywords: [加油, ENEOS, 新日本石油]
-      - name: ENEOS机油
-        category: 汽车服务
-        keywords: [机油, 润滑油, ENEOS机油]
-  - company_id: energy-reliance-in
-    company_name: Reliance Industries
-    items:
-      - name: Jio手机套餐
-        category: 通讯服务
-        keywords: [手机卡, 电话卡, Jio, 印度话费]
-      - name: JioFiber宽带
-        category: 宽带网络
-        keywords: [宽带, 光纤宽带, Jio宽带]
+- company_id: energy-petrochina-cn
+  company_name: 中国石油
+  items:
+  - name: 加油站加油服务
+    category: 能源缴费
+    keywords:
+    - 加油
+    - 加油站
+    - 汽油
+    - 中石油加油
+  - name: 昆仑润滑油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 润滑油
+    - 昆仑机油
+  - name: 昆仑好客便利店
+    category: 其他
+    keywords:
+    - 便利店
+    - 昆仑好客
+    - 加油站便利店
+  - name: 昆仑燃气管道燃气
+    category: 能源缴费
+    keywords:
+    - 燃气
+    - 天然气
+    - 管道燃气
+    - 昆仑燃气
+- company_id: energy-sinopec-cn
+  company_name: 中国石化
+  items:
+  - name: 加油站加油服务
+    category: 能源缴费
+    keywords:
+    - 加油
+    - 加油站
+    - 汽油
+    - 柴油
+  - name: 长城润滑油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 润滑油
+    - 长城机油
+  - name: 易捷便利店
+    category: 其他
+    keywords:
+    - 便利店
+    - 易捷
+    - 加油站便利店
+- company_id: energy-enn-cn
+  company_name: 新奥集团
+  items:
+  - name: 新奥燃气管道燃气
+    category: 能源缴费
+    keywords:
+    - 燃气
+    - 天然气
+    - 管道燃气
+    - 新奥燃气
+  - name: 燃气缴费服务
+    category: 能源缴费
+    keywords:
+    - 燃气费
+    - 交燃气费
+    - 燃气缴费
+  - name: 新奥燃气报装服务
+    category: 能源缴费
+    keywords:
+    - 燃气开户
+    - 燃气报装
+    - 装天然气
+- company_id: energy-exxonmobil-us
+  company_name: ExxonMobil
+  items:
+  - name: 美孚1号全合成机油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 美孚机油
+    - 美孚1号
+  - name: 埃索加油站
+    category: 能源缴费
+    keywords:
+    - 加油
+    - 埃索
+    - Esso
+- company_id: energy-chevron-us
+  company_name: Chevron
+  items:
+  - name: 加德士加油站
+    category: 能源缴费
+    keywords:
+    - 加油
+    - 加德士
+    - 雪佛龙加油站
+  - name: 雪佛龙金富力润滑油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 润滑油
+    - 金富力
+- company_id: energy-shell-gb
+  company_name: Shell
+  items:
+  - name: 壳牌加油站
+    category: 能源缴费
+    keywords:
+    - 加油
+    - 壳牌加油站
+    - 汽油
+  - name: 壳牌喜力机油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 壳牌机油
+    - 喜力
+    - 灰壳
+- company_id: energy-bp-gb
+  company_name: BP
+  items:
+  - name: BP加油站
+    category: 能源缴费
+    keywords:
+    - 加油
+    - BP加油站
+    - 汽油
+  - name: 嘉实多机油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 润滑油
+    - 嘉实多
+    - 磁护
+- company_id: energy-totalenergies-fr
+  company_name: TotalEnergies
+  items:
+  - name: 道达尔加油站
+    category: 能源缴费
+    keywords:
+    - 加油
+    - 道达尔加油站
+    - 汽油
+  - name: 道达尔快驰润滑油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 润滑油
+    - 快驰
+- company_id: energy-eneos-jp
+  company_name: ENEOS Holdings
+  items:
+  - name: ENEOS加油站
+    category: 能源缴费
+    keywords:
+    - 加油
+    - ENEOS
+    - 新日本石油
+  - name: ENEOS机油
+    category: 汽车服务
+    keywords:
+    - 机油
+    - 润滑油
+    - ENEOS机油
+- company_id: energy-reliance-in
+  company_name: Reliance Industries
+  items:
+  - name: Jio手机套餐
+    category: 通讯服务
+    keywords:
+    - 手机卡
+    - 电话卡
+    - Jio
+    - 印度话费
+  - name: JioFiber宽带
+    category: 宽带网络
+    keywords:
+    - 宽带
+    - 光纤宽带
+    - Jio宽带

@@ -1,700 +1,1392 @@
-# 互联网行业面向消费者的产品/服务清单
-# 覆盖：手机应用、影视视频、音乐音频、游戏娱乐、旅游出行、餐饮美食、金融理财等
-# 跳过：Adyen、Shopify（纯 B2B，无面向消费者的真实产品）
 products:
-  - company_id: internet-alibaba-cn
-    company_name: 阿里巴巴
-    items:
-      - name: 淘宝
-        category: 手机应用
-        keywords: [淘宝, 网购, 淘宝App, 淘宝购物, 淘工厂]
-      - name: 天猫
-        category: 手机应用
-        keywords: [天猫, 天猫商城, 大牌正品, 旗舰店]
-      - name: 闲鱼
-        category: 手机应用
-        keywords: [闲鱼, 二手, 二手交易, 闲置, 捡漏]
-      - name: 饿了么
-        category: 餐饮美食
-        keywords: [饿了么, 外卖, 点外卖, 蓝骑士]
-      - name: 优酷视频
-        category: 影视视频
-        keywords: [优酷, 优酷视频, 追剧, 看剧, 优酷会员]
-      - name: 高德地图
-        category: 旅游出行
-        keywords: [高德, 高德地图, 导航, 高德打车]
-
-  - company_id: internet-tencent-cn
-    company_name: 腾讯
-    items:
-      - name: 微信
-        category: 手机应用
-        keywords: [微信, 微信聊天, 微信支付, WeChat, 朋友圈]
-      - name: QQ
-        category: 手机应用
-        keywords: [QQ, 腾讯QQ, QQ聊天, 加好友]
-      - name: 腾讯视频
-        category: 影视视频
-        keywords: [腾讯视频, 追剧, 看剧, 腾讯VIP]
-      - name: QQ音乐
-        category: 音乐音频
-        keywords: [QQ音乐, 听歌, 音乐, 绿钻]
-      - name: 王者荣耀
-        category: 游戏娱乐
-        keywords: [王者荣耀, 王者, 开黑, 手游, 上分]
-      - name: 和平精英
-        category: 游戏娱乐
-        keywords: [和平精英, 吃鸡, 手游, 吃鸡游戏]
-
-  - company_id: internet-bytedance-cn
-    company_name: 字节跳动
-    items:
-      - name: 抖音
-        category: 影视视频
-        keywords: [抖音, 短视频, 刷抖音, 抖音App, 抖音直播]
-      - name: 今日头条
-        category: 手机应用
-        keywords: [今日头条, 头条, 新闻资讯, 看新闻, 头条号]
-      - name: 剪映
-        category: 手机应用
-        keywords: [剪映, 剪视频, 视频剪辑, 剪辑App, 一键成片]
-      - name: 番茄小说
-        category: 手机应用
-        keywords: [番茄小说, 看小说, 免费小说, 番茄, 网文]
-      - name: 西瓜视频
-        category: 影视视频
-        keywords: [西瓜视频, 看视频, 中视频, 西瓜放映厅]
-
-  - company_id: internet-baidu-cn
-    company_name: 百度
-    items:
-      - name: 百度搜索
-        category: 手机应用
-        keywords: [百度, 百度搜索, 搜东西, 百度一下, 百度App]
-      - name: 百度地图
-        category: 旅游出行
-        keywords: [百度地图, 导航, 地图, 百度导航, 车道级导航]
-      - name: 百度网盘
-        category: 手机应用
-        keywords: [百度网盘, 网盘, 云盘, 存文件, 倍速播放]
-      - name: 文心一言
-        category: 手机应用
-        keywords: [文心一言, 文心, AI助手, 百度AI, 文心大模型]
-      - name: 小度智能音箱
-        category: 数码产品
-        keywords: [小度, 小度音箱, 智能音箱, 小度在家]
-
-  - company_id: internet-jd-cn
-    company_name: 京东
-    items:
-      - name: 京东App
-        category: 手机应用
-        keywords: [京东, 京东购物, 京东自营, 京东商城, 京东超市]
-      - name: 京东物流
-        category: 快递物流
-        keywords: [京东物流, 京东快递, 寄快递, 211限时达]
-      - name: 京东健康
-        category: 医疗健康
-        keywords: [京东健康, 在线问诊, 买药, 京东大药房]
-      - name: 京东PLUS会员
-        category: 其他
-        keywords: [京东PLUS, 京东会员, PLUS会员, 京豆]
-
-  - company_id: internet-pdd-cn
-    company_name: 拼多多
-    items:
-      - name: 拼多多App
-        category: 手机应用
-        keywords: [拼多多, 拼单, 百亿补贴, 拼多多购物, 砍一刀]
-      - name: Temu
-        category: 手机应用
-        keywords: [Temu, 拼多多海外版, 海外购物, 低价海淘]
-      - name: 多多买菜
-        category: 生鲜速食
-        keywords: [多多买菜, 买菜, 社区团购, 便宜菜, 自提]
-
-  - company_id: internet-netease-cn
-    company_name: 网易
-    items:
-      - name: 网易云音乐
-        category: 音乐音频
-        keywords: [网易云音乐, 网易, 听歌, 云村, 歌单]
-      - name: 蛋仔派对
-        category: 游戏娱乐
-        keywords: [蛋仔派对, 蛋仔, 手游, 派对游戏, 蛋搭子]
-      - name: 梦幻西游
-        category: 游戏娱乐
-        keywords: [梦幻西游, 梦幻, 回合制, 梦幻手游]
-      - name: 阴阳师
-        category: 游戏娱乐
-        keywords: [阴阳师, 网易阴阳师, 手游, 抽卡, 式神]
-      - name: 有道词典
-        category: 教育培训
-        keywords: [有道词典, 有道翻译, 查单词, 翻译, 背单词]
-      - name: 网易严选
-        category: 其他
-        keywords: [网易严选, 严选, 网易购物, 生活好物]
-
-  - company_id: internet-meituan-cn
-    company_name: 美团
-    items:
-      - name: 美团App
-        category: 手机应用
-        keywords: [美团, 美团团购, 团购, 美团下单, 美团券]
-      - name: 美团外卖
-        category: 餐饮美食
-        keywords: [美团外卖, 外卖, 点外卖, 美团骑手, 外卖红包]
-      - name: 大众点评
-        category: 餐饮美食
-        keywords: [大众点评, 点评, 找餐厅, 看评价, 团购套餐]
-      - name: 美团优选
-        category: 生鲜速食
-        keywords: [美团优选, 社区团购, 买菜, 团购菜, 次日达]
-      - name: 美团单车
-        category: 旅游出行
-        keywords: [美团单车, 共享单车, 骑车, 小黄车, 扫码骑车]
-
-  - company_id: internet-kuaishou-cn
-    company_name: 快手
-    items:
-      - name: 快手App
-        category: 影视视频
-        keywords: [快手, 短视频, 老铁, 快手直播, 刷视频]
-      - name: 可灵AI
-        category: 手机应用
-        keywords: [可灵, 可灵AI, AI视频, 快手AI, AI生成视频]
-      - name: 快手小店
-        category: 手机应用
-        keywords: [快手小店, 快手购物, 直播带货, 快手电商]
-
-  - company_id: internet-didi-cn
-    company_name: 滴滴
-    items:
-      - name: 滴滴出行
-        category: 旅游出行
-        keywords: [滴滴, 滴滴打车, 打车, 网约车, 快车]
-      - name: 花小猪打车
-        category: 旅游出行
-        keywords: [花小猪, 打车, 便宜打车, 花小猪打车]
-      - name: 青桔单车
-        category: 旅游出行
-        keywords: [青桔, 青桔单车, 共享单车, 骑车, 电单车]
-
-  - company_id: internet-trip-cn
-    company_name: 携程
-    items:
-      - name: 携程旅行
-        category: 旅游出行
-        keywords: [携程, 携程网, 订机票, 订酒店, 携程旅游]
-      - name: 去哪儿网
-        category: 旅游出行
-        keywords: [去哪儿, 去哪儿网, 订机票, 订酒店, 机票比价]
-      - name: Trip.com
-        category: 旅游出行
-        keywords: [Trip.com, 携程国际版, 出境游, 海外订酒店]
-
-  - company_id: internet-bilibili-cn
-    company_name: 哔哩哔哩
-    items:
-      - name: 哔哩哔哩App
-        category: 影视视频
-        keywords: [B站, bilibili, 哔哩哔哩, 小破站, B站视频]
-      - name: B站大会员
-        category: 影视视频
-        keywords: [大会员, B站大会员, B站会员, 哔哩哔哩会员]
-      - name: 哔哩哔哩漫画
-        category: 影视视频
-        keywords: [B站漫画, 哔哩哔哩漫画, 看漫画, 国漫]
-
-  - company_id: internet-weibo-cn
-    company_name: 微博
-    items:
-      - name: 微博App
-        category: 手机应用
-        keywords: [微博, 新浪微博, 刷微博, 热搜, 微博热搜]
-      - name: 微博会员
-        category: 手机应用
-        keywords: [微博会员, 微博VIP, 会员, 改名卡]
-
-  - company_id: internet-iqiyi-cn
-    company_name: 爱奇艺
-    items:
-      - name: 爱奇艺视频
-        category: 影视视频
-        keywords: [爱奇艺, 爱奇艺视频, 追剧, 看剧, 迷雾剧场]
-      - name: 爱奇艺VIP会员
-        category: 影视视频
-        keywords: [爱奇艺会员, 爱奇艺VIP, 黄金会员, 追剧会员]
-
-  - company_id: internet-vipshop-cn
-    company_name: 唯品会
-    items:
-      - name: 唯品会App
-        category: 手机应用
-        keywords: [唯品会, 唯品会特卖, 特卖, 买名牌, 品牌折扣]
-      - name: 唯品会超级VIP
-        category: 其他
-        keywords: [唯品会会员, 超级VIP, 唯品会VIP, 免邮]
-
-  - company_id: internet-tencentmusic-cn
-    company_name: 腾讯音乐娱乐
-    items:
-      - name: QQ音乐
-        category: 音乐音频
-        keywords: [QQ音乐, 听歌, 音乐, 绿钻, QQ音乐会员]
-      - name: 酷狗音乐
-        category: 音乐音频
-        keywords: [酷狗, 酷狗音乐, 听歌, 酷狗VIP]
-      - name: 酷我音乐
-        category: 音乐音频
-        keywords: [酷我, 酷我音乐, 听歌, 酷我VIP]
-      - name: 全民K歌
-        category: 音乐音频
-        keywords: [全民K歌, K歌, 唱歌, 练歌, 录歌]
-
-  - company_id: internet-ke-cn
-    company_name: 贝壳
-    items:
-      - name: 贝壳找房
-        category: 房产服务
-        keywords: [贝壳, 贝壳找房, 买房, 租房, 二手房]
-      - name: 链家
-        category: 房产服务
-        keywords: [链家, 链家中介, 二手房, 租房, 房产经纪]
-      - name: 贝壳租房
-        category: 房产服务
-        keywords: [贝壳租房, 租房, 整租, 合租, 真实房源]
-
-  - company_id: internet-qihoo360-cn
-    company_name: 三六零
-    items:
-      - name: 360安全卫士
-        category: 手机应用
-        keywords: [360, 360安全卫士, 杀毒, 电脑清理, 安全软件]
-      - name: 360浏览器
-        category: 手机应用
-        keywords: [360浏览器, 浏览器, 360极速浏览器, 抢票]
-      - name: 360儿童电话手表
-        category: 数码产品
-        keywords: [360手表, 儿童手表, 电话手表, 360儿童卫士]
-
-  - company_id: internet-sohu-cn
-    company_name: 搜狐
-    items:
-      - name: 搜狐视频
-        category: 影视视频
-        keywords: [搜狐视频, 看剧, 追剧, 美剧]
-      - name: 搜狐新闻
-        category: 手机应用
-        keywords: [搜狐新闻, 看新闻, 资讯, 搜狐]
-      - name: 狐友
-        category: 手机应用
-        keywords: [狐友, 搜狐社交, 交友App, 圈子]
-
-  - company_id: internet-xiaomi-cn
-    company_name: 小米
-    items:
-      - name: 小米手机
-        category: 数码产品
-        keywords: [小米手机, 小米15, 徕卡, 拍照手机, 小米旗舰]
-      - name: Redmi手机
-        category: 数码产品
-        keywords: [红米, Redmi, 红米手机, 千元机, 红米K系列]
-      - name: 小米手环
-        category: 数码产品
-        keywords: [小米手环, 手环, 运动手环, 智能手环, 测心率]
-      - name: 小米电视
-        category: 家电
-        keywords: [小米电视, 智能电视, 大屏电视, Redmi电视, 小米S系列]
-      - name: 米家扫拖机器人
-        category: 家电
-        keywords: [米家扫地机, 扫地机器人, 扫拖一体, 小米扫地机]
-      - name: 小米SU7
-        category: 汽车整车
-        keywords: [小米汽车, 小米SU7, 小米电动车, SU7, 小米YU7]
-
-  - company_id: internet-alphabet-us
-    company_name: Alphabet
-    items:
-      - name: Google搜索
-        category: 手机应用
-        keywords: [谷歌, Google, 谷歌搜索, 搜索, Chrome浏览器]
-      - name: YouTube
-        category: 影视视频
-        keywords: [YouTube, 油管, 看视频, 刷视频, YouTube Premium]
-      - name: Gmail
-        category: 手机应用
-        keywords: [Gmail, 谷歌邮箱, 邮箱, 注册邮箱]
-      - name: Google地图
-        category: 旅游出行
-        keywords: [谷歌地图, Google Maps, 导航, 街景]
-      - name: Android系统
-        category: 数码产品
-        keywords: [安卓, Android, 安卓手机, 安卓系统]
-      - name: Pixel手机
-        category: 数码产品
-        keywords: [Pixel, 谷歌Pixel, 谷歌手机, Pixel手机]
-
-  - company_id: internet-meta-us
-    company_name: Meta Platforms
-    items:
-      - name: Facebook
-        category: 手机应用
-        keywords: [Facebook, 脸书, FB, 脸书账号]
-      - name: Instagram
-        category: 手机应用
-        keywords: [Instagram, ins, IG, 照片,  ins风]
-      - name: WhatsApp
-        category: 手机应用
-        keywords: [WhatsApp, WA, 聊天, 国外微信]
-      - name: Messenger
-        category: 手机应用
-        keywords: [Messenger, 脸书聊天, 即时通讯]
-      - name: Meta Quest头显
-        category: 数码产品
-        keywords: [Quest, Meta Quest, VR眼镜, VR头显, 元宇宙]
-
-  - company_id: internet-amazon-us
-    company_name: Amazon
-    items:
-      - name: Amazon购物
-        category: 手机应用
-        keywords: [亚马逊, Amazon, 亚马逊购物, 海淘, 亚马逊海外购]
-      - name: Prime会员
-        category: 其他
-        keywords: [Prime, 亚马逊Prime, Prime会员, 包邮, 会员日]
-      - name: Kindle电子书
-        category: 数码产品
-        keywords: [Kindle, 电子书, 电纸书, Kindle阅读器, 看电子书]
-      - name: Echo智能音箱
-        category: 数码产品
-        keywords: [Echo, Alexa, 亚马逊音箱, 智能音箱]
-      - name: Amazon Fresh生鲜配送
-        category: 生鲜速食
-        keywords: [Amazon Fresh, 亚马逊生鲜, 生鲜配送, 买菜]
-
-  - company_id: internet-netflix-us
-    company_name: Netflix
-    items:
-      - name: Netflix会员
-        category: 影视视频
-        keywords: [Netflix, 奈飞, 网飞, 看剧, 奈飞会员]
-      - name: Netflix App
-        category: 影视视频
-        keywords: [Netflix App, 奈飞App, 流媒体, 剧集]
-      - name: Netflix游戏
-        category: 游戏娱乐
-        keywords: [Netflix游戏, 奈飞游戏, 会员游戏]
-
-  - company_id: internet-uber-us
-    company_name: Uber Technologies
-    items:
-      - name: Uber打车
-        category: 旅游出行
-        keywords: [Uber, 优步, 打车, 网约车, 国外打车]
-      - name: Uber Eats
-        category: 餐饮美食
-        keywords: [Uber Eats, 优食, 外卖, 点外卖, 国外外卖]
-
-  - company_id: internet-airbnb-us
-    company_name: Airbnb
-    items:
-      - name: Airbnb民宿
-        category: 酒店住宿
-        keywords: [Airbnb, 爱彼迎, 民宿, 短租, 民宿预订]
-      - name: Airbnb体验
-        category: 旅游出行
-        keywords: [Airbnb体验, 当地体验, 旅行体验, 房东带队]
-      - name: 爱彼迎出境游
-        category: 旅游出行
-        keywords: [爱彼迎出境游, 海外民宿, 境外短租, 出境住宿]
-
-  - company_id: internet-ebay-us
-    company_name: eBay
-    items:
-      - name: eBay购物
-        category: 手机应用
-        keywords: [eBay, 易贝, 海淘, 二手拍卖, 海外购物]
-      - name: eBay拍卖
-        category: 其他
-        keywords: [eBay拍卖, 竞拍, 网上拍卖, 出价]
-
-  - company_id: internet-paypal-us
-    company_name: PayPal Holdings
-    items:
-      - name: PayPal钱包
-        category: 金融理财
-        keywords: [PayPal, 贝宝, 国际支付, 跨境支付, 海淘支付]
-      - name: PayPal转账
-        category: 金融理财
-        keywords: [PayPal转账, 跨境汇款, 国际转账, 收外币]
-
-  - company_id: internet-doordash-us
-    company_name: DoorDash
-    items:
-      - name: DoorDash外卖
-        category: 餐饮美食
-        keywords: [DoorDash, 外卖, 点外卖, 美国外卖]
-      - name: DashPass会员
-        category: 餐饮美食
-        keywords: [DashPass, DoorDash会员, 外卖会员, 免配送费]
-
-  - company_id: internet-snap-us
-    company_name: Snap
-    items:
-      - name: Snapchat
-        category: 手机应用
-        keywords: [Snapchat, 阅后即焚, Snap, 快照, 滤镜]
-      - name: Spectacles智能眼镜
-        category: 数码产品
-        keywords: [Spectacles, Snap眼镜, AR眼镜, 智能眼镜]
-
-  - company_id: internet-pinterest-us
-    company_name: Pinterest
-    items:
-      - name: Pinterest
-        category: 手机应用
-        keywords: [Pinterest, 拼趣, 图片收藏, 灵感图库, 美图]
-      - name: Pinterest Lens视觉搜索
-        category: 手机应用
-        keywords: [Pinterest Lens, 视觉搜索, 拍照搜图, 识图]
-
-  - company_id: internet-reddit-us
-    company_name: Reddit
-    items:
-      - name: Reddit
-        category: 手机应用
-        keywords: [Reddit, 红迪, 社区论坛, subreddit, 国外贴吧]
-      - name: Reddit Premium会员
-        category: 手机应用
-        keywords: [Reddit会员, Reddit Premium, 红迪会员, 免广告]
-
-  - company_id: internet-booking-us
-    company_name: Booking Holdings
-    items:
-      - name: Booking.com
-        category: 酒店住宿
-        keywords: [Booking, 缤客, 订酒店, 海外酒店, 缤客网]
-      - name: Agoda
-        category: 酒店住宿
-        keywords: [Agoda, 安可达, 订酒店, 订机票, 东南亚酒店]
-      - name: Priceline
-        category: 旅游出行
-        keywords: [Priceline, 订机票酒店, 旅行套餐]
-      - name: Kayak
-        category: 旅游出行
-        keywords: [Kayak, 机票比价, 酒店比价, 便宜机票]
-      - name: OpenTable
-        category: 餐饮美食
-        keywords: [OpenTable, 订座, 餐厅订位, 国外订位]
-
-  - company_id: internet-expedia-us
-    company_name: Expedia Group
-    items:
-      - name: Expedia旅行网
-        category: 旅游出行
-        keywords: [Expedia, 订机票, 订酒店, 自由行, 旅行套餐]
-      - name: Hotels.com
-        category: 酒店住宿
-        keywords: [Hotels.com, 订酒店, 海外酒店, 住十送一]
-      - name: Vrbo度假屋
-        category: 酒店住宿
-        keywords: [Vrbo, 度假屋, 短租民宿, 整栋出租]
-
-  - company_id: internet-roblox-us
-    company_name: Roblox Corporation
-    items:
-      - name: Roblox游戏平台
-        category: 游戏娱乐
-        keywords: [Roblox, 罗布乐思, 沙盒游戏, 手游, 玩家创作]
-      - name: Robux虚拟货币
-        category: 游戏娱乐
-        keywords: [Robux, 罗宝, 游戏币, Roblox充值, R币]
-
-  - company_id: internet-spotify-se
-    company_name: Spotify Technology
-    items:
-      - name: Spotify音乐
-        category: 音乐音频
-        keywords: [Spotify, 听歌, 音乐, 流媒体音乐, 声田]
-      - name: Spotify Premium
-        category: 音乐音频
-        keywords: [Spotify会员, Premium, 音乐会员, 免广告听歌]
-      - name: Spotify播客
-        category: 音乐音频
-        keywords: [Spotify播客, 播客, 听播客, Podcast]
-
-  - company_id: internet-deliveryhero-de
-    company_name: Delivery Hero
-    items:
-      - name: foodpanda外卖
-        category: 餐饮美食
-        keywords: [foodpanda, 空腹熊猫, 外卖, 熊猫外卖, 港澳台外卖]
-      - name: Talabat外卖
-        category: 餐饮美食
-        keywords: [Talabat, 中东外卖, 外卖, 点外卖]
-
-  - company_id: internet-wise-gb
-    company_name: Wise
-    items:
-      - name: Wise跨境汇款
-        category: 金融理财
-        keywords: [Wise, 跨境汇款, 国际汇款, 换汇, 汇钱]
-      - name: Wise多币种账户
-        category: 金融理财
-        keywords: [Wise账户, 多币种账户, 外币账户, 境外收款]
-      - name: Wise借记卡
-        category: 金融理财
-        keywords: [Wise卡, Wise借记卡, 境外消费卡, 取现卡]
-
-  - company_id: internet-rakuten-jp
-    company_name: Rakuten
-    items:
-      - name: 乐天市场
-        category: 手机应用
-        keywords: [乐天, 乐天市场, 日本电商, 乐天购物, 海淘]
-      - name: 乐天旅行
-        category: 旅游出行
-        keywords: [乐天Travel, 乐天旅行, 订酒店, 日本订房]
-      - name: 乐天Pay
-        category: 金融理财
-        keywords: [乐天Pay, 扫码支付, 日本支付, 乐天积分]
-      - name: 乐天积分
-        category: 金融理财
-        keywords: [乐天积分, 积分, 返点, 日本积分]
-
-  - company_id: internet-mercari-jp
-    company_name: Mercari
-    items:
-      - name: Mercari二手交易平台
-        category: 手机应用
-        keywords: [Mercari, 煤炉, 二手交易, 日本闲鱼, 海淘二手]
-      - name: らくらくメルカリ便
-        category: 快递物流
-        keywords: [Mercari物流, 日本快递, 匿名配送, 代收货款]
-
-  - company_id: internet-naver-kr
-    company_name: Naver
-    items:
-      - name: Naver搜索
-        category: 手机应用
-        keywords: [Naver, 네이버, 韩国搜索, 韩国百度]
-      - name: LINE
-        category: 手机应用
-        keywords: [LINE, 连我, 聊天, 日本微信, LINE表情包]
-      - name: Naver Webtoon
-        category: 影视视频
-        keywords: [Webtoon, 韩漫, 条漫, 网络漫画, 看漫画]
-      - name: Naver地图
-        category: 旅游出行
-        keywords: [Naver地图, 韩国导航, Naver Map, 韩国打车]
-      - name: Naver Pay
-        category: 金融理财
-        keywords: [Naver Pay, 韩国支付, 扫码支付, 转账]
-
-  - company_id: internet-kakao-kr
-    company_name: Kakao
-    items:
-      - name: KakaoTalk
-        category: 手机应用
-        keywords: [KakaoTalk, 韩国聊天软件, 聊天, Kakao表情包]
-      - name: Kakao T打车
-        category: 旅游出行
-        keywords: [Kakao T, 韩国打车, 打车, 韩国网约车]
-      - name: Kakao Pay
-        category: 金融理财
-        keywords: [Kakao Pay, 韩国支付, 转账, 扫码]
-      - name: Kakao Webtoon
-        category: 影视视频
-        keywords: [Kakao Webtoon, 韩漫, 漫画, 条漫]
-
-  - company_id: internet-coupang-kr
-    company_name: Coupang
-    items:
-      - name: Coupang购物
-        category: 手机应用
-        keywords: [Coupang, 韩国亚马逊, 韩国电商, 海淘]
-      - name: 火箭配送
-        category: 快递物流
-        keywords: [火箭配送, Rocket Delivery, 次日达, Coupang快递]
-      - name: Coupang Eats
-        category: 餐饮美食
-        keywords: [Coupang Eats, 韩国外卖, 外卖, 点外卖]
-      - name: Coupang Play
-        category: 影视视频
-        keywords: [Coupang Play, 韩国流媒体, 韩剧, 看剧]
-
-  - company_id: internet-sea-sg
-    company_name: Sea Limited
-    items:
-      - name: Shopee
-        category: 手机应用
-        keywords: [Shopee, 虾皮, 虾皮购物, 东南亚电商, 跨境电商]
-      - name: Garena Free Fire
-        category: 游戏娱乐
-        keywords: [Free Fire, 自由之火, 吃鸡手游, 大逃杀, 射击游戏]
-      - name: SeaMoney电子钱包
-        category: 金融理财
-        keywords: [SeaMoney, 虾皮支付, 电子钱包, 东南亚支付]
-
-  - company_id: internet-grab-sg
-    company_name: Grab Holdings
-    items:
-      - name: Grab打车
-        category: 旅游出行
-        keywords: [Grab, 东南亚打车, 打车, 网约车, 叫车]
-      - name: GrabFood外卖
-        category: 餐饮美食
-        keywords: [GrabFood, 东南亚外卖, 外卖, 点外卖]
-      - name: GrabPay
-        category: 金融理财
-        keywords: [GrabPay, 东南亚支付, 电子钱包, 扫码支付]
-
-  - company_id: internet-goto-id
-    company_name: GoTo Group
-    items:
-      - name: Gojek
-        category: 旅游出行
-        keywords: [Gojek, 印尼打车, 摩的, 网约车, 印尼出行]
-      - name: Tokopedia
-        category: 手机应用
-        keywords: [Tokopedia, 印尼电商, 印尼淘宝, 海淘]
-      - name: GoPay
-        category: 金融理财
-        keywords: [GoPay, 印尼支付, 电子钱包, 扫码支付]
-
-  - company_id: internet-zomato-in
-    company_name: Zomato
-    items:
-      - name: Zomato外卖
-        category: 餐饮美食
-        keywords: [Zomato, 印度外卖, 点外卖, 找餐厅]
-      - name: Blinkit即时配送
-        category: 生鲜速食
-        keywords: [Blinkit, 印度闪购, 快速配送, 杂货配送, 十分钟送达]
-
-  - company_id: internet-paytm-in
-    company_name: Paytm
-    items:
-      - name: Paytm钱包
-        category: 金融理财
-        keywords: [Paytm, 印度支付宝, 电子钱包, 移动支付]
-      - name: Paytm UPI支付
-        category: 金融理财
-        keywords: [UPI, Paytm支付, 扫码支付, 印度转账]
-      - name: Paytm电影票
-        category: 其他
-        keywords: [Paytm电影票, 订电影票, 印度订票]
-
-  - company_id: internet-mercadolibre-uy
-    company_name: Mercado Libre
-    items:
-      - name: Mercado Libre商城
-        category: 手机应用
-        keywords: [Mercado Libre, 美客多, 拉美电商, 跨境电商]
-      - name: Mercado Pago
-        category: 金融理财
-        keywords: [Mercado Pago, 拉美支付, 电子钱包, 扫码支付]
-      - name: Mercado Envíos物流
-        category: 快递物流
-        keywords: [Mercado Envios, 美客多物流, 拉美快递, 跨境物流]
+- company_id: internet-alibaba-cn
+  company_name: 阿里巴巴
+  items:
+  - name: 淘宝
+    category: 手机应用
+    keywords:
+    - 淘宝
+    - 网购
+    - 淘宝App
+    - 淘宝购物
+    - 淘工厂
+  - name: 天猫
+    category: 手机应用
+    keywords:
+    - 天猫
+    - 天猫商城
+    - 大牌正品
+    - 旗舰店
+  - name: 闲鱼
+    category: 手机应用
+    keywords:
+    - 闲鱼
+    - 二手
+    - 二手交易
+    - 闲置
+    - 捡漏
+  - name: 饿了么
+    category: 餐饮美食
+    keywords:
+    - 饿了么
+    - 外卖
+    - 点外卖
+    - 蓝骑士
+  - name: 优酷视频
+    category: 影视视频
+    keywords:
+    - 优酷
+    - 优酷视频
+    - 追剧
+    - 看剧
+    - 优酷会员
+  - name: 高德地图
+    category: 旅游出行
+    keywords:
+    - 高德
+    - 高德地图
+    - 导航
+    - 高德打车
+- company_id: communication-services-tencent-cn
+  company_name: 腾讯
+  items:
+  - name: 微信
+    category: 手机应用
+    keywords:
+    - 微信
+    - 微信聊天
+    - 微信支付
+    - WeChat
+    - 朋友圈
+  - name: QQ
+    category: 手机应用
+    keywords:
+    - QQ
+    - 腾讯QQ
+    - QQ聊天
+    - 加好友
+  - name: 腾讯视频
+    category: 影视视频
+    keywords:
+    - 腾讯视频
+    - 追剧
+    - 看剧
+    - 腾讯VIP
+  - name: QQ音乐
+    category: 音乐音频
+    keywords:
+    - QQ音乐
+    - 听歌
+    - 音乐
+    - 绿钻
+  - name: 王者荣耀
+    category: 游戏娱乐
+    keywords:
+    - 王者荣耀
+    - 王者
+    - 开黑
+    - 手游
+    - 上分
+  - name: 和平精英
+    category: 游戏娱乐
+    keywords:
+    - 和平精英
+    - 吃鸡
+    - 手游
+    - 吃鸡游戏
+- company_id: internet-bytedance-cn
+  company_name: 字节跳动
+  items:
+  - name: 抖音
+    category: 影视视频
+    keywords:
+    - 抖音
+    - 短视频
+    - 刷抖音
+    - 抖音App
+    - 抖音直播
+  - name: 今日头条
+    category: 手机应用
+    keywords:
+    - 今日头条
+    - 头条
+    - 新闻资讯
+    - 看新闻
+    - 头条号
+  - name: 剪映
+    category: 手机应用
+    keywords:
+    - 剪映
+    - 剪视频
+    - 视频剪辑
+    - 剪辑App
+    - 一键成片
+  - name: 番茄小说
+    category: 手机应用
+    keywords:
+    - 番茄小说
+    - 看小说
+    - 免费小说
+    - 番茄
+    - 网文
+  - name: 西瓜视频
+    category: 影视视频
+    keywords:
+    - 西瓜视频
+    - 看视频
+    - 中视频
+    - 西瓜放映厅
+- company_id: internet-baidu-cn
+  company_name: 百度
+  items:
+  - name: 百度搜索
+    category: 手机应用
+    keywords:
+    - 百度
+    - 百度搜索
+    - 搜东西
+    - 百度一下
+    - 百度App
+  - name: 百度地图
+    category: 旅游出行
+    keywords:
+    - 百度地图
+    - 导航
+    - 地图
+    - 百度导航
+    - 车道级导航
+  - name: 百度网盘
+    category: 手机应用
+    keywords:
+    - 百度网盘
+    - 网盘
+    - 云盘
+    - 存文件
+    - 倍速播放
+  - name: 文心一言
+    category: 手机应用
+    keywords:
+    - 文心一言
+    - 文心
+    - AI助手
+    - 百度AI
+    - 文心大模型
+  - name: 小度智能音箱
+    category: 数码产品
+    keywords:
+    - 小度
+    - 小度音箱
+    - 智能音箱
+    - 小度在家
+- company_id: internet-jd-cn
+  company_name: 京东
+  items:
+  - name: 京东App
+    category: 手机应用
+    keywords:
+    - 京东
+    - 京东购物
+    - 京东自营
+    - 京东商城
+    - 京东超市
+  - name: 京东物流
+    category: 快递物流
+    keywords:
+    - 京东物流
+    - 京东快递
+    - 寄快递
+    - 211限时达
+  - name: 京东健康
+    category: 医疗健康
+    keywords:
+    - 京东健康
+    - 在线问诊
+    - 买药
+    - 京东大药房
+  - name: 京东PLUS会员
+    category: 其他
+    keywords:
+    - 京东PLUS
+    - 京东会员
+    - PLUS会员
+    - 京豆
+- company_id: internet-pdd-cn
+  company_name: 拼多多
+  items:
+  - name: 拼多多App
+    category: 手机应用
+    keywords:
+    - 拼多多
+    - 拼单
+    - 百亿补贴
+    - 拼多多购物
+    - 砍一刀
+  - name: Temu
+    category: 手机应用
+    keywords:
+    - Temu
+    - 拼多多海外版
+    - 海外购物
+    - 低价海淘
+  - name: 多多买菜
+    category: 生鲜速食
+    keywords:
+    - 多多买菜
+    - 买菜
+    - 社区团购
+    - 便宜菜
+    - 自提
+- company_id: communication-services-netease-cn
+  company_name: 网易
+  items:
+  - name: 网易云音乐
+    category: 音乐音频
+    keywords:
+    - 网易云音乐
+    - 网易
+    - 听歌
+    - 云村
+    - 歌单
+  - name: 蛋仔派对
+    category: 游戏娱乐
+    keywords:
+    - 蛋仔派对
+    - 蛋仔
+    - 手游
+    - 派对游戏
+    - 蛋搭子
+  - name: 梦幻西游
+    category: 游戏娱乐
+    keywords:
+    - 梦幻西游
+    - 梦幻
+    - 回合制
+    - 梦幻手游
+  - name: 阴阳师
+    category: 游戏娱乐
+    keywords:
+    - 阴阳师
+    - 网易阴阳师
+    - 手游
+    - 抽卡
+    - 式神
+  - name: 有道词典
+    category: 教育培训
+    keywords:
+    - 有道词典
+    - 有道翻译
+    - 查单词
+    - 翻译
+    - 背单词
+  - name: 网易严选
+    category: 其他
+    keywords:
+    - 网易严选
+    - 严选
+    - 网易购物
+    - 生活好物
+- company_id: internet-meituan-cn
+  company_name: 美团
+  items:
+  - name: 美团App
+    category: 手机应用
+    keywords:
+    - 美团
+    - 美团团购
+    - 团购
+    - 美团下单
+    - 美团券
+  - name: 美团外卖
+    category: 餐饮美食
+    keywords:
+    - 美团外卖
+    - 外卖
+    - 点外卖
+    - 美团骑手
+    - 外卖红包
+  - name: 大众点评
+    category: 餐饮美食
+    keywords:
+    - 大众点评
+    - 点评
+    - 找餐厅
+    - 看评价
+    - 团购套餐
+  - name: 美团优选
+    category: 生鲜速食
+    keywords:
+    - 美团优选
+    - 社区团购
+    - 买菜
+    - 团购菜
+    - 次日达
+  - name: 美团单车
+    category: 旅游出行
+    keywords:
+    - 美团单车
+    - 共享单车
+    - 骑车
+    - 小黄车
+    - 扫码骑车
+- company_id: communication-services-kuaishou-cn
+  company_name: 快手
+  items:
+  - name: 快手App
+    category: 影视视频
+    keywords:
+    - 快手
+    - 短视频
+    - 老铁
+    - 快手直播
+    - 刷视频
+  - name: 可灵AI
+    category: 手机应用
+    keywords:
+    - 可灵
+    - 可灵AI
+    - AI视频
+    - 快手AI
+    - AI生成视频
+  - name: 快手小店
+    category: 手机应用
+    keywords:
+    - 快手小店
+    - 快手购物
+    - 直播带货
+    - 快手电商
+- company_id: internet-didi-cn
+  company_name: 滴滴
+  items:
+  - name: 滴滴出行
+    category: 旅游出行
+    keywords:
+    - 滴滴
+    - 滴滴打车
+    - 打车
+    - 网约车
+    - 快车
+  - name: 花小猪打车
+    category: 旅游出行
+    keywords:
+    - 花小猪
+    - 打车
+    - 便宜打车
+    - 花小猪打车
+  - name: 青桔单车
+    category: 旅游出行
+    keywords:
+    - 青桔
+    - 青桔单车
+    - 共享单车
+    - 骑车
+    - 电单车
+- company_id: consumer_discretionary-trip-cn
+  company_name: 携程
+  items:
+  - name: 携程旅行
+    category: 旅游出行
+    keywords:
+    - 携程
+    - 携程网
+    - 订机票
+    - 订酒店
+    - 携程旅游
+  - name: 去哪儿网
+    category: 旅游出行
+    keywords:
+    - 去哪儿
+    - 去哪儿网
+    - 订机票
+    - 订酒店
+    - 机票比价
+  - name: Trip.com
+    category: 旅游出行
+    keywords:
+    - Trip.com
+    - 携程国际版
+    - 出境游
+    - 海外订酒店
+- company_id: communication-services-bilibili-cn
+  company_name: 哔哩哔哩
+  items:
+  - name: 哔哩哔哩App
+    category: 影视视频
+    keywords:
+    - B站
+    - bilibili
+    - 哔哩哔哩
+    - 小破站
+    - B站视频
+  - name: B站大会员
+    category: 影视视频
+    keywords:
+    - 大会员
+    - B站大会员
+    - B站会员
+    - 哔哩哔哩会员
+  - name: 哔哩哔哩漫画
+    category: 影视视频
+    keywords:
+    - B站漫画
+    - 哔哩哔哩漫画
+    - 看漫画
+    - 国漫
+- company_id: communication-services-weibo-cn
+  company_name: 微博
+  items:
+  - name: 微博App
+    category: 手机应用
+    keywords:
+    - 微博
+    - 新浪微博
+    - 刷微博
+    - 热搜
+    - 微博热搜
+  - name: 微博会员
+    category: 手机应用
+    keywords:
+    - 微博会员
+    - 微博VIP
+    - 会员
+    - 改名卡
+- company_id: communication-services-iqiyi-cn
+  company_name: 爱奇艺
+  items:
+  - name: 爱奇艺视频
+    category: 影视视频
+    keywords:
+    - 爱奇艺
+    - 爱奇艺视频
+    - 追剧
+    - 看剧
+    - 迷雾剧场
+  - name: 爱奇艺VIP会员
+    category: 影视视频
+    keywords:
+    - 爱奇艺会员
+    - 爱奇艺VIP
+    - 黄金会员
+    - 追剧会员
+- company_id: internet-vipshop-cn
+  company_name: 唯品会
+  items:
+  - name: 唯品会App
+    category: 手机应用
+    keywords:
+    - 唯品会
+    - 唯品会特卖
+    - 特卖
+    - 买名牌
+    - 品牌折扣
+  - name: 唯品会超级VIP
+    category: 其他
+    keywords:
+    - 唯品会会员
+    - 超级VIP
+    - 唯品会VIP
+    - 免邮
+- company_id: communication-services-tencent-music-cn
+  company_name: 腾讯音乐娱乐
+  items:
+  - name: QQ音乐
+    category: 音乐音频
+    keywords:
+    - QQ音乐
+    - 听歌
+    - 音乐
+    - 绿钻
+    - QQ音乐会员
+  - name: 酷狗音乐
+    category: 音乐音频
+    keywords:
+    - 酷狗
+    - 酷狗音乐
+    - 听歌
+    - 酷狗VIP
+  - name: 酷我音乐
+    category: 音乐音频
+    keywords:
+    - 酷我
+    - 酷我音乐
+    - 听歌
+    - 酷我VIP
+  - name: 全民K歌
+    category: 音乐音频
+    keywords:
+    - 全民K歌
+    - K歌
+    - 唱歌
+    - 练歌
+    - 录歌
+- company_id: internet-ke-cn
+  company_name: 贝壳
+  items:
+  - name: 贝壳找房
+    category: 房产服务
+    keywords:
+    - 贝壳
+    - 贝壳找房
+    - 买房
+    - 租房
+    - 二手房
+  - name: 链家
+    category: 房产服务
+    keywords:
+    - 链家
+    - 链家中介
+    - 二手房
+    - 租房
+    - 房产经纪
+  - name: 贝壳租房
+    category: 房产服务
+    keywords:
+    - 贝壳租房
+    - 租房
+    - 整租
+    - 合租
+    - 真实房源
+- company_id: information_technology-qihoo360-cn
+  company_name: 三六零
+  items:
+  - name: 360安全卫士
+    category: 手机应用
+    keywords:
+    - 360
+    - 360安全卫士
+    - 杀毒
+    - 电脑清理
+    - 安全软件
+  - name: 360浏览器
+    category: 手机应用
+    keywords:
+    - 360浏览器
+    - 浏览器
+    - 360极速浏览器
+    - 抢票
+  - name: 360儿童电话手表
+    category: 数码产品
+    keywords:
+    - 360手表
+    - 儿童手表
+    - 电话手表
+    - 360儿童卫士
+- company_id: internet-sohu-cn
+  company_name: 搜狐
+  items:
+  - name: 搜狐视频
+    category: 影视视频
+    keywords:
+    - 搜狐视频
+    - 看剧
+    - 追剧
+    - 美剧
+  - name: 搜狐新闻
+    category: 手机应用
+    keywords:
+    - 搜狐新闻
+    - 看新闻
+    - 资讯
+    - 搜狐
+  - name: 狐友
+    category: 手机应用
+    keywords:
+    - 狐友
+    - 搜狐社交
+    - 交友App
+    - 圈子
+- company_id: internet-xiaomi-cn
+  company_name: 小米
+  items:
+  - name: 小米手机
+    category: 数码产品
+    keywords:
+    - 小米手机
+    - 小米15
+    - 徕卡
+    - 拍照手机
+    - 小米旗舰
+  - name: Redmi手机
+    category: 数码产品
+    keywords:
+    - 红米
+    - Redmi
+    - 红米手机
+    - 千元机
+    - 红米K系列
+  - name: 小米手环
+    category: 数码产品
+    keywords:
+    - 小米手环
+    - 手环
+    - 运动手环
+    - 智能手环
+    - 测心率
+  - name: 小米电视
+    category: 家电
+    keywords:
+    - 小米电视
+    - 智能电视
+    - 大屏电视
+    - Redmi电视
+    - 小米S系列
+  - name: 米家扫拖机器人
+    category: 家电
+    keywords:
+    - 米家扫地机
+    - 扫地机器人
+    - 扫拖一体
+    - 小米扫地机
+  - name: 小米SU7
+    category: 汽车整车
+    keywords:
+    - 小米汽车
+    - 小米SU7
+    - 小米电动车
+    - SU7
+    - 小米YU7
+- company_id: internet-alphabet-us
+  company_name: Alphabet
+  items:
+  - name: Google搜索
+    category: 手机应用
+    keywords:
+    - 谷歌
+    - Google
+    - 谷歌搜索
+    - 搜索
+    - Chrome浏览器
+  - name: YouTube
+    category: 影视视频
+    keywords:
+    - YouTube
+    - 油管
+    - 看视频
+    - 刷视频
+    - YouTube Premium
+  - name: Gmail
+    category: 手机应用
+    keywords:
+    - Gmail
+    - 谷歌邮箱
+    - 邮箱
+    - 注册邮箱
+  - name: Google地图
+    category: 旅游出行
+    keywords:
+    - 谷歌地图
+    - Google Maps
+    - 导航
+    - 街景
+  - name: Android系统
+    category: 数码产品
+    keywords:
+    - 安卓
+    - Android
+    - 安卓手机
+    - 安卓系统
+  - name: Pixel手机
+    category: 数码产品
+    keywords:
+    - Pixel
+    - 谷歌Pixel
+    - 谷歌手机
+    - Pixel手机
+- company_id: internet-meta-us
+  company_name: Meta Platforms
+  items:
+  - name: Facebook
+    category: 手机应用
+    keywords:
+    - Facebook
+    - 脸书
+    - FB
+    - 脸书账号
+  - name: Instagram
+    category: 手机应用
+    keywords:
+    - Instagram
+    - ins
+    - IG
+    - 照片
+    - ins风
+  - name: WhatsApp
+    category: 手机应用
+    keywords:
+    - WhatsApp
+    - WA
+    - 聊天
+    - 国外微信
+  - name: Messenger
+    category: 手机应用
+    keywords:
+    - Messenger
+    - 脸书聊天
+    - 即时通讯
+  - name: Meta Quest头显
+    category: 数码产品
+    keywords:
+    - Quest
+    - Meta Quest
+    - VR眼镜
+    - VR头显
+    - 元宇宙
+- company_id: internet-amazon-us
+  company_name: Amazon
+  items:
+  - name: Amazon购物
+    category: 手机应用
+    keywords:
+    - 亚马逊
+    - Amazon
+    - 亚马逊购物
+    - 海淘
+    - 亚马逊海外购
+  - name: Prime会员
+    category: 其他
+    keywords:
+    - Prime
+    - 亚马逊Prime
+    - Prime会员
+    - 包邮
+    - 会员日
+  - name: Kindle电子书
+    category: 数码产品
+    keywords:
+    - Kindle
+    - 电子书
+    - 电纸书
+    - Kindle阅读器
+    - 看电子书
+  - name: Echo智能音箱
+    category: 数码产品
+    keywords:
+    - Echo
+    - Alexa
+    - 亚马逊音箱
+    - 智能音箱
+  - name: Amazon Fresh生鲜配送
+    category: 生鲜速食
+    keywords:
+    - Amazon Fresh
+    - 亚马逊生鲜
+    - 生鲜配送
+    - 买菜
+- company_id: communication-services-netflix-us
+  company_name: Netflix
+  items:
+  - name: Netflix会员
+    category: 影视视频
+    keywords:
+    - Netflix
+    - 奈飞
+    - 网飞
+    - 看剧
+    - 奈飞会员
+  - name: Netflix App
+    category: 影视视频
+    keywords:
+    - Netflix App
+    - 奈飞App
+    - 流媒体
+    - 剧集
+  - name: Netflix游戏
+    category: 游戏娱乐
+    keywords:
+    - Netflix游戏
+    - 奈飞游戏
+    - 会员游戏
+- company_id: internet-uber-us
+  company_name: Uber Technologies
+  items:
+  - name: Uber打车
+    category: 旅游出行
+    keywords:
+    - Uber
+    - 优步
+    - 打车
+    - 网约车
+    - 国外打车
+  - name: Uber Eats
+    category: 餐饮美食
+    keywords:
+    - Uber Eats
+    - 优食
+    - 外卖
+    - 点外卖
+    - 国外外卖
+- company_id: consumer_discretionary-airbnb-us
+  company_name: Airbnb
+  items:
+  - name: Airbnb民宿
+    category: 酒店住宿
+    keywords:
+    - Airbnb
+    - 爱彼迎
+    - 民宿
+    - 短租
+    - 民宿预订
+  - name: Airbnb体验
+    category: 旅游出行
+    keywords:
+    - Airbnb体验
+    - 当地体验
+    - 旅行体验
+    - 房东带队
+  - name: 爱彼迎出境游
+    category: 旅游出行
+    keywords:
+    - 爱彼迎出境游
+    - 海外民宿
+    - 境外短租
+    - 出境住宿
+- company_id: internet-ebay-us
+  company_name: eBay
+  items:
+  - name: eBay购物
+    category: 手机应用
+    keywords:
+    - eBay
+    - 易贝
+    - 海淘
+    - 二手拍卖
+    - 海外购物
+  - name: eBay拍卖
+    category: 其他
+    keywords:
+    - eBay拍卖
+    - 竞拍
+    - 网上拍卖
+    - 出价
+- company_id: internet-paypal-us
+  company_name: PayPal Holdings
+  items:
+  - name: PayPal钱包
+    category: 金融理财
+    keywords:
+    - PayPal
+    - 贝宝
+    - 国际支付
+    - 跨境支付
+    - 海淘支付
+  - name: PayPal转账
+    category: 金融理财
+    keywords:
+    - PayPal转账
+    - 跨境汇款
+    - 国际转账
+    - 收外币
+- company_id: internet-doordash-us
+  company_name: DoorDash
+  items:
+  - name: DoorDash外卖
+    category: 餐饮美食
+    keywords:
+    - DoorDash
+    - 外卖
+    - 点外卖
+    - 美国外卖
+  - name: DashPass会员
+    category: 餐饮美食
+    keywords:
+    - DashPass
+    - DoorDash会员
+    - 外卖会员
+    - 免配送费
+- company_id: internet-snap-us
+  company_name: Snap
+  items:
+  - name: Snapchat
+    category: 手机应用
+    keywords:
+    - Snapchat
+    - 阅后即焚
+    - Snap
+    - 快照
+    - 滤镜
+  - name: Spectacles智能眼镜
+    category: 数码产品
+    keywords:
+    - Spectacles
+    - Snap眼镜
+    - AR眼镜
+    - 智能眼镜
+- company_id: internet-pinterest-us
+  company_name: Pinterest
+  items:
+  - name: Pinterest
+    category: 手机应用
+    keywords:
+    - Pinterest
+    - 拼趣
+    - 图片收藏
+    - 灵感图库
+    - 美图
+  - name: Pinterest Lens视觉搜索
+    category: 手机应用
+    keywords:
+    - Pinterest Lens
+    - 视觉搜索
+    - 拍照搜图
+    - 识图
+- company_id: internet-reddit-us
+  company_name: Reddit
+  items:
+  - name: Reddit
+    category: 手机应用
+    keywords:
+    - Reddit
+    - 红迪
+    - 社区论坛
+    - subreddit
+    - 国外贴吧
+  - name: Reddit Premium会员
+    category: 手机应用
+    keywords:
+    - Reddit会员
+    - Reddit Premium
+    - 红迪会员
+    - 免广告
+- company_id: consumer_discretionary-booking-us
+  company_name: Booking Holdings
+  items:
+  - name: Booking.com
+    category: 酒店住宿
+    keywords:
+    - Booking
+    - 缤客
+    - 订酒店
+    - 海外酒店
+    - 缤客网
+  - name: Agoda
+    category: 酒店住宿
+    keywords:
+    - Agoda
+    - 安可达
+    - 订酒店
+    - 订机票
+    - 东南亚酒店
+  - name: Priceline
+    category: 旅游出行
+    keywords:
+    - Priceline
+    - 订机票酒店
+    - 旅行套餐
+  - name: Kayak
+    category: 旅游出行
+    keywords:
+    - Kayak
+    - 机票比价
+    - 酒店比价
+    - 便宜机票
+  - name: OpenTable
+    category: 餐饮美食
+    keywords:
+    - OpenTable
+    - 订座
+    - 餐厅订位
+    - 国外订位
+- company_id: internet-expedia-us
+  company_name: Expedia Group
+  items:
+  - name: Expedia旅行网
+    category: 旅游出行
+    keywords:
+    - Expedia
+    - 订机票
+    - 订酒店
+    - 自由行
+    - 旅行套餐
+  - name: Hotels.com
+    category: 酒店住宿
+    keywords:
+    - Hotels.com
+    - 订酒店
+    - 海外酒店
+    - 住十送一
+  - name: Vrbo度假屋
+    category: 酒店住宿
+    keywords:
+    - Vrbo
+    - 度假屋
+    - 短租民宿
+    - 整栋出租
+- company_id: internet-roblox-us
+  company_name: Roblox Corporation
+  items:
+  - name: Roblox游戏平台
+    category: 游戏娱乐
+    keywords:
+    - Roblox
+    - 罗布乐思
+    - 沙盒游戏
+    - 手游
+    - 玩家创作
+  - name: Robux虚拟货币
+    category: 游戏娱乐
+    keywords:
+    - Robux
+    - 罗宝
+    - 游戏币
+    - Roblox充值
+    - R币
+- company_id: internet-spotify-se
+  company_name: Spotify Technology
+  items:
+  - name: Spotify音乐
+    category: 音乐音频
+    keywords:
+    - Spotify
+    - 听歌
+    - 音乐
+    - 流媒体音乐
+    - 声田
+  - name: Spotify Premium
+    category: 音乐音频
+    keywords:
+    - Spotify会员
+    - Premium
+    - 音乐会员
+    - 免广告听歌
+  - name: Spotify播客
+    category: 音乐音频
+    keywords:
+    - Spotify播客
+    - 播客
+    - 听播客
+    - Podcast
+- company_id: internet-deliveryhero-de
+  company_name: Delivery Hero
+  items:
+  - name: foodpanda外卖
+    category: 餐饮美食
+    keywords:
+    - foodpanda
+    - 空腹熊猫
+    - 外卖
+    - 熊猫外卖
+    - 港澳台外卖
+  - name: Talabat外卖
+    category: 餐饮美食
+    keywords:
+    - Talabat
+    - 中东外卖
+    - 外卖
+    - 点外卖
+- company_id: internet-wise-gb
+  company_name: Wise
+  items:
+  - name: Wise跨境汇款
+    category: 金融理财
+    keywords:
+    - Wise
+    - 跨境汇款
+    - 国际汇款
+    - 换汇
+    - 汇钱
+  - name: Wise多币种账户
+    category: 金融理财
+    keywords:
+    - Wise账户
+    - 多币种账户
+    - 外币账户
+    - 境外收款
+  - name: Wise借记卡
+    category: 金融理财
+    keywords:
+    - Wise卡
+    - Wise借记卡
+    - 境外消费卡
+    - 取现卡
+- company_id: internet-rakuten-jp
+  company_name: Rakuten
+  items:
+  - name: 乐天市场
+    category: 手机应用
+    keywords:
+    - 乐天
+    - 乐天市场
+    - 日本电商
+    - 乐天购物
+    - 海淘
+  - name: 乐天旅行
+    category: 旅游出行
+    keywords:
+    - 乐天Travel
+    - 乐天旅行
+    - 订酒店
+    - 日本订房
+  - name: 乐天Pay
+    category: 金融理财
+    keywords:
+    - 乐天Pay
+    - 扫码支付
+    - 日本支付
+    - 乐天积分
+  - name: 乐天积分
+    category: 金融理财
+    keywords:
+    - 乐天积分
+    - 积分
+    - 返点
+    - 日本积分
+- company_id: internet-mercari-jp
+  company_name: Mercari
+  items:
+  - name: Mercari二手交易平台
+    category: 手机应用
+    keywords:
+    - Mercari
+    - 煤炉
+    - 二手交易
+    - 日本闲鱼
+    - 海淘二手
+  - name: らくらくメルカリ便
+    category: 快递物流
+    keywords:
+    - Mercari物流
+    - 日本快递
+    - 匿名配送
+    - 代收货款
+- company_id: internet-naver-kr
+  company_name: Naver
+  items:
+  - name: Naver搜索
+    category: 手机应用
+    keywords:
+    - Naver
+    - 네이버
+    - 韩国搜索
+    - 韩国百度
+  - name: LINE
+    category: 手机应用
+    keywords:
+    - LINE
+    - 连我
+    - 聊天
+    - 日本微信
+    - LINE表情包
+  - name: Naver Webtoon
+    category: 影视视频
+    keywords:
+    - Webtoon
+    - 韩漫
+    - 条漫
+    - 网络漫画
+    - 看漫画
+  - name: Naver地图
+    category: 旅游出行
+    keywords:
+    - Naver地图
+    - 韩国导航
+    - Naver Map
+    - 韩国打车
+  - name: Naver Pay
+    category: 金融理财
+    keywords:
+    - Naver Pay
+    - 韩国支付
+    - 扫码支付
+    - 转账
+- company_id: internet-kakao-kr
+  company_name: Kakao
+  items:
+  - name: KakaoTalk
+    category: 手机应用
+    keywords:
+    - KakaoTalk
+    - 韩国聊天软件
+    - 聊天
+    - Kakao表情包
+  - name: Kakao T打车
+    category: 旅游出行
+    keywords:
+    - Kakao T
+    - 韩国打车
+    - 打车
+    - 韩国网约车
+  - name: Kakao Pay
+    category: 金融理财
+    keywords:
+    - Kakao Pay
+    - 韩国支付
+    - 转账
+    - 扫码
+  - name: Kakao Webtoon
+    category: 影视视频
+    keywords:
+    - Kakao Webtoon
+    - 韩漫
+    - 漫画
+    - 条漫
+- company_id: internet-coupang-kr
+  company_name: Coupang
+  items:
+  - name: Coupang购物
+    category: 手机应用
+    keywords:
+    - Coupang
+    - 韩国亚马逊
+    - 韩国电商
+    - 海淘
+  - name: 火箭配送
+    category: 快递物流
+    keywords:
+    - 火箭配送
+    - Rocket Delivery
+    - 次日达
+    - Coupang快递
+  - name: Coupang Eats
+    category: 餐饮美食
+    keywords:
+    - Coupang Eats
+    - 韩国外卖
+    - 外卖
+    - 点外卖
+  - name: Coupang Play
+    category: 影视视频
+    keywords:
+    - Coupang Play
+    - 韩国流媒体
+    - 韩剧
+    - 看剧
+- company_id: internet-sea-sg
+  company_name: Sea Limited
+  items:
+  - name: Shopee
+    category: 手机应用
+    keywords:
+    - Shopee
+    - 虾皮
+    - 虾皮购物
+    - 东南亚电商
+    - 跨境电商
+  - name: Garena Free Fire
+    category: 游戏娱乐
+    keywords:
+    - Free Fire
+    - 自由之火
+    - 吃鸡手游
+    - 大逃杀
+    - 射击游戏
+  - name: SeaMoney电子钱包
+    category: 金融理财
+    keywords:
+    - SeaMoney
+    - 虾皮支付
+    - 电子钱包
+    - 东南亚支付
+- company_id: internet-grab-sg
+  company_name: Grab Holdings
+  items:
+  - name: Grab打车
+    category: 旅游出行
+    keywords:
+    - Grab
+    - 东南亚打车
+    - 打车
+    - 网约车
+    - 叫车
+  - name: GrabFood外卖
+    category: 餐饮美食
+    keywords:
+    - GrabFood
+    - 东南亚外卖
+    - 外卖
+    - 点外卖
+  - name: GrabPay
+    category: 金融理财
+    keywords:
+    - GrabPay
+    - 东南亚支付
+    - 电子钱包
+    - 扫码支付
+- company_id: internet-goto-id
+  company_name: GoTo Group
+  items:
+  - name: Gojek
+    category: 旅游出行
+    keywords:
+    - Gojek
+    - 印尼打车
+    - 摩的
+    - 网约车
+    - 印尼出行
+  - name: Tokopedia
+    category: 手机应用
+    keywords:
+    - Tokopedia
+    - 印尼电商
+    - 印尼淘宝
+    - 海淘
+  - name: GoPay
+    category: 金融理财
+    keywords:
+    - GoPay
+    - 印尼支付
+    - 电子钱包
+    - 扫码支付
+- company_id: internet-zomato-in
+  company_name: Zomato
+  items:
+  - name: Zomato外卖
+    category: 餐饮美食
+    keywords:
+    - Zomato
+    - 印度外卖
+    - 点外卖
+    - 找餐厅
+  - name: Blinkit即时配送
+    category: 生鲜速食
+    keywords:
+    - Blinkit
+    - 印度闪购
+    - 快速配送
+    - 杂货配送
+    - 十分钟送达
+- company_id: internet-paytm-in
+  company_name: Paytm
+  items:
+  - name: Paytm钱包
+    category: 金融理财
+    keywords:
+    - Paytm
+    - 印度支付宝
+    - 电子钱包
+    - 移动支付
+  - name: Paytm UPI支付
+    category: 金融理财
+    keywords:
+    - UPI
+    - Paytm支付
+    - 扫码支付
+    - 印度转账
+  - name: Paytm电影票
+    category: 其他
+    keywords:
+    - Paytm电影票
+    - 订电影票
+    - 印度订票
+- company_id: internet-mercadolibre-uy
+  company_name: Mercado Libre
+  items:
+  - name: Mercado Libre商城
+    category: 手机应用
+    keywords:
+    - Mercado Libre
+    - 美客多
+    - 拉美电商
+    - 跨境电商
+  - name: Mercado Pago
+    category: 金融理财
+    keywords:
+    - Mercado Pago
+    - 拉美支付
+    - 电子钱包
+    - 扫码支付
+  - name: Mercado Envíos物流
+    category: 快递物流
+    keywords:
+    - Mercado Envios
+    - 美客多物流
+    - 拉美快递
+    - 跨境物流

@@ -1,426 +1,742 @@
-# 交通物流行业面向消费者的产品/服务清单
-# 覆盖：快递物流、机票、火车票、地铁出行
 products:
-  - company_id: logistics-sf-cn
-    company_name: 顺丰控股
-    items:
-      - name: 顺丰标快
-        category: 快递物流
-        keywords: [顺丰, 快递, 寄快递, 顺丰速运]
-      - name: 顺丰特快
-        category: 快递物流
-        keywords: [特快, 加急快递, 顺丰特快]
-      - name: 顺丰同城急送
-        category: 快递物流
-        keywords: [同城配送, 闪送, 跑腿, 急送]
-      - name: 顺丰冷运
-        category: 快递物流
-        keywords: [冷链快递, 生鲜快递, 顺丰冷运]
-
-  - company_id: logistics-jdlogistics-cn
-    company_name: 京东物流
-    items:
-      - name: 京东快递
-        category: 快递物流
-        keywords: [京东快递, 寄件, 快递]
-      - name: 京东特快送
-        category: 快递物流
-        keywords: [特快送, 加急件]
-      - name: 京东物流仓储服务
-        category: 快递物流
-        keywords: [仓储, 云仓, 供应链]
-      - name: 京东送装服务
-        category: 快递物流
-        keywords: [大件配送, 送装一体, 家电安装]
-
-  - company_id: logistics-zto-cn
-    company_name: 中通快递
-    items:
-      - name: 中通标准快递
-        category: 快递物流
-        keywords: [中通, 快递, 寄快递, 中通快递]
-      - name: 中通快运
-        category: 快递物流
-        keywords: [快运, 大件物流, 中通快运]
-      - name: 中通国际快递
-        category: 快递物流
-        keywords: [国际快递, 跨境物流]
-
-  - company_id: logistics-yto-cn
-    company_name: 圆通速递
-    items:
-      - name: 圆通标准快递
-        category: 快递物流
-        keywords: [圆通, 快递, 寄快递, 圆通速递]
-      - name: 圆准达
-        category: 快递物流
-        keywords: [圆准达, 送货上门, 时效快递]
-      - name: 圆通国际快递
-        category: 快递物流
-        keywords: [国际快递, 跨境物流, 海外集运]
-
-  - company_id: logistics-yunda-cn
-    company_name: 韵达股份
-    items:
-      - name: 韵达标准快递
-        category: 快递物流
-        keywords: [韵达, 快递, 寄快递, 韵达快递]
-      - name: 韵达快运
-        category: 快递物流
-        keywords: [快运, 大件物流, 韵达快运]
-      - name: 韵达国际快递
-        category: 快递物流
-        keywords: [国际快递, 跨境物流]
-
-  - company_id: logistics-sto-cn
-    company_name: 申通快递
-    items:
-      - name: 申通标准快递
-        category: 快递物流
-        keywords: [申通, 快递, 寄快递, 申通快递]
-      - name: 申通尊享寄
-        category: 快递物流
-        keywords: [尊享寄, 上门取件, 时效快递]
-      - name: 申通国际快递
-        category: 快递物流
-        keywords: [国际快递, 跨境物流]
-
-  - company_id: logistics-cainiao-cn
-    company_name: 菜鸟集团
-    items:
-      - name: 菜鸟驿站
-        category: 快递物流
-        keywords: [菜鸟驿站, 代收, 取快递, 驿站]
-      - name: 菜鸟裹裹
-        category: 快递物流
-        keywords: [菜鸟裹裹, 上门取件, 寄快递, 查快递]
-      - name: 菜鸟直送
-        category: 快递物流
-        keywords: [菜鸟直送, 送货上门, 半日达]
-      - name: 菜鸟集运
-        category: 快递物流
-        keywords: [集运, 淘宝集运, 跨境转运]
-
-  - company_id: logistics-jinghuhsr-cn
-    company_name: 京沪高铁
-    items:
-      - name: 京沪高铁车票
-        category: 旅游出行
-        keywords: [高铁票, 火车票, 京沪高铁, 复兴号]
-      - name: 商务座服务
-        category: 旅游出行
-        keywords: [商务座, 一等座, 高铁座位]
-      - name: 高铁快运
-        category: 快递物流
-        keywords: [高铁快运, 当日达, 高铁送件]
-
-  - company_id: logistics-airchina-cn
-    company_name: 中国国航
-    items:
-      - name: 国航国内机票
-        category: 旅游出行
-        keywords: [机票, 飞机票, 国航, 中国国航]
-      - name: 国航国际机票
-        category: 旅游出行
-        keywords: [国际机票, 出国机票, 国航国际]
-      - name: 凤凰知音会员
-        category: 旅游出行
-        keywords: [凤凰知音, 里程, 积分兑换, 会员卡]
-      - name: 国航两舱服务
-        category: 旅游出行
-        keywords: [头等舱, 公务舱, 贵宾休息室]
-
-  - company_id: logistics-csn-cn
-    company_name: 中国南方航空
-    items:
-      - name: 南航国内机票
-        category: 旅游出行
-        keywords: [机票, 飞机票, 南航, 南方航空]
-      - name: 南航国际机票
-        category: 旅游出行
-        keywords: [国际机票, 出国机票, 南航国际]
-      - name: 明珠会员
-        category: 旅游出行
-        keywords: [南航明珠, 里程, 积分兑换, 会员卡]
-      - name: 南航快乐飞
-        category: 旅游出行
-        keywords: [随心飞, 快乐飞, 套票, 无限飞]
-
-  - company_id: logistics-ces-cn
-    company_name: 中国东方航空
-    items:
-      - name: 东航国内机票
-        category: 旅游出行
-        keywords: [机票, 飞机票, 东航, 东方航空]
-      - name: 东航国际机票
-        category: 旅游出行
-        keywords: [国际机票, 出国机票, 东航国际]
-      - name: 东方万里行会员
-        category: 旅游出行
-        keywords: [万里行, 里程, 积分兑换, 会员卡]
-      - name: 周末随心飞
-        category: 旅游出行
-        keywords: [随心飞, 周末飞, 套票, 无限飞]
-
-  - company_id: logistics-hainanairlines-cn
-    company_name: 海南航空
-    items:
-      - name: 海航国内机票
-        category: 旅游出行
-        keywords: [机票, 飞机票, 海航, 海南航空]
-      - name: 海航国际机票
-        category: 旅游出行
-        keywords: [国际机票, 出国机票, 海航国际]
-      - name: 金鹏俱乐部会员
-        category: 旅游出行
-        keywords: [金鹏俱乐部, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-mtr-cn
-    company_name: 港铁公司
-    items:
-      - name: 港铁车票
-        category: 旅游出行
-        keywords: [港铁, 地铁票, 香港地铁, 八达通]
-      - name: 机场快线
-        category: 旅游出行
-        keywords: [机场快线, 机场到市区, 香港机场交通]
-      - name: 城际直通车
-        category: 旅游出行
-        keywords: [直通车, 香港火车, 广九直通车]
-      - name: 高铁香港段
-        category: 旅游出行
-        keywords: [西九龙, 香港高铁, 广深港高铁]
-
-  - company_id: logistics-fedex-us
-    company_name: FedEx
-    items:
-      - name: FedEx国际快递
-        category: 快递物流
-        keywords: [联邦快递, FedEx, 国际快递, 寄美国]
-      - name: FedEx国内快递
-        category: 快递物流
-        keywords: [联邦快递, 国内快递, 加急件]
-      - name: FedEx Freight
-        category: 快递物流
-        keywords: [货运, 大件运输, 零担]
-
-  - company_id: logistics-ups-us
-    company_name: UPS
-    items:
-      - name: UPS国际快递
-        category: 快递物流
-        keywords: [UPS, 国际快递, 联合包裹, 寄美国]
-      - name: UPS国内快递
-        category: 快递物流
-        keywords: [UPS, 国内快递, 加急件]
-      - name: UPS Supply Chain
-        category: 快递物流
-        keywords: [供应链, 仓储物流, 第三方物流]
-
-  - company_id: logistics-delta-us
-    company_name: Delta Air Lines
-    items:
-      - name: 达美航空机票
-        category: 旅游出行
-        keywords: [达美航空, 机票, 美国机票, Delta]
-      - name: 达美国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴美机票, 中美航线]
-      - name: SkyMiles会员
-        category: 旅游出行
-        keywords: [SkyMiles, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-united-us
-    company_name: United Airlines
-    items:
-      - name: 美联航机票
-        category: 旅游出行
-        keywords: [美联航, 联合航空, 机票, 美国机票]
-      - name: 美联航国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴美机票, 中美航线]
-      - name: MileagePlus会员
-        category: 旅游出行
-        keywords: [MileagePlus, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-american-us
-    company_name: American Airlines
-    items:
-      - name: 美国航空机票
-        category: 旅游出行
-        keywords: [美国航空, 机票, 美国机票, AA航空]
-      - name: 美国航空国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴美机票, 中美航线]
-      - name: AAdvantage会员
-        category: 旅游出行
-        keywords: [AAdvantage, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-dhl-de
-    company_name: DHL Group
-    items:
-      - name: DHL国际快递
-        category: 快递物流
-        keywords: [DHL, 国际快递, 寄国外, 德国快递]
-      - name: DHL eCommerce
-        category: 快递物流
-        keywords: [电商物流, 跨境小包, 国际小包]
-      - name: DHL Express
-        category: 快递物流
-        keywords: [加急快递, 限时达, DHL特快]
-
-  - company_id: logistics-dbahn-de
-    company_name: Deutsche Bahn
-    items:
-      - name: DB火车票
-        category: 旅游出行
-        keywords: [德铁, 火车票, 德国火车, DB]
-      - name: ICE高速列车
-        category: 旅游出行
-        keywords: [ICE, 高铁, 高速列车]
-      - name: DB Navigator应用
-        category: 手机应用
-        keywords: [DB Navigator, 查车次, 买票app, 德国铁路app]
-      - name: 德铁通票
-        category: 旅游出行
-        keywords: [德国通票, 49欧票, 月票, 火车通票]
-
-  - company_id: logistics-lufthansa-de
-    company_name: Lufthansa Group
-    items:
-      - name: 汉莎航空机票
-        category: 旅游出行
-        keywords: [汉莎航空, 机票, 德国机票, Lufthansa]
-      - name: 汉莎国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴德机票, 欧洲机票]
-      - name: Miles & More会员
-        category: 旅游出行
-        keywords: [汉莎里程, Miles&More, 积分兑换, 会员卡]
-
-  - company_id: logistics-airfranceklm-fr
-    company_name: Air France-KLM
-    items:
-      - name: 法国航空机票
-        category: 旅游出行
-        keywords: [法航, 法国航空, 机票, 巴黎机票]
-      - name: 荷兰皇家航空机票
-        category: 旅游出行
-        keywords: [荷航, 荷兰皇家航空, KLM, 阿姆斯特丹机票]
-      - name: Flying Blue会员
-        category: 旅游出行
-        keywords: [蓝天飞行, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-sncf-fr
-    company_name: SNCF
-    items:
-      - name: TGV高铁票
-        category: 旅游出行
-        keywords: [TGV, 法国高铁, 火车票, 法国火车]
-      - name: 法国城际列车票
-        category: 旅游出行
-        keywords: [TER, 城际列车, 法国火车]
-      - name: SNCF Connect应用
-        category: 手机应用
-        keywords: [SNCF Connect, 买火车票, 法国铁路app, 查车次]
-
-  - company_id: logistics-iag-gb
-    company_name: International Airlines Group
-    items:
-      - name: 英国航空机票
-        category: 旅游出行
-        keywords: [英航, 英国航空, 机票, 伦敦机票]
-      - name: 伊比利亚航空机票
-        category: 旅游出行
-        keywords: [伊比利亚航空, 西班牙机票, 马德里机票, 廉航]
-      - name: Avios里程计划
-        category: 旅游出行
-        keywords: [Avios, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-nipponexpress-jp
-    company_name: Nippon Express
-    items:
-      - name: 引越し搬家服务
-        category: 快递物流
-        keywords: [搬家, 日式搬家, 国际搬家, 引越]
-      - name: 国际行李托运
-        category: 快递物流
-        keywords: [行李托运, 留学生行李, 海运搬家]
-
-  - company_id: logistics-yamato-jp
-    company_name: Yamato Holdings
-    items:
-      - name: 黑猫宅急便
-        category: 快递物流
-        keywords: [黑猫宅急便, 大和运输, 日本快递, 宅急便]
-      - name: 黑猫搬家服务
-        category: 快递物流
-        keywords: [搬家, 日式搬家, 黑猫搬家]
-      - name: 冷却宅急便
-        category: 快递物流
-        keywords: [生鲜快递, 冷链配送, 冷藏宅急便]
-
-  - company_id: logistics-ana-jp
-    company_name: ANA Holdings
-    items:
-      - name: 全日空机票
-        category: 旅游出行
-        keywords: [全日空, ANA, 机票, 日本机票]
-      - name: ANA国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴日机票, 中美航线]
-      - name: ANA里程俱乐部
-        category: 旅游出行
-        keywords: [ANA里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-jal-jp
-    company_name: Japan Airlines
-    items:
-      - name: 日本航空机票
-        category: 旅游出行
-        keywords: [日航, 日本航空, JAL, 机票]
-      - name: JAL国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴日机票, 中美航线]
-      - name: JAL Mileage Bank
-        category: 旅游出行
-        keywords: [日航里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-koreanair-kr
-    company_name: Korean Air
-    items:
-      - name: 大韩航空机票
-        category: 旅游出行
-        keywords: [大韩航空, 机票, 韩国机票, 首尔机票]
-      - name: 大韩国际机票
-        category: 旅游出行
-        keywords: [国际机票, 赴韩机票, 中美航线]
-      - name: SKYPASS会员
-        category: 旅游出行
-        keywords: [SKYPASS, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-singaporeairlines-sg
-    company_name: Singapore Airlines
-    items:
-      - name: 新航机票
-        category: 旅游出行
-        keywords: [新航, 新加坡航空, 机票, 新加坡机票]
-      - name: 新航国际机票
-        category: 旅游出行
-        keywords: [国际机票, 五星航空, 长途航线]
-      - name: KrisFlyer会员
-        category: 旅游出行
-        keywords: [KrisFlyer, 里程, 积分兑换, 会员卡]
-
-  - company_id: logistics-emirates-ae
-    company_name: Emirates
-    items:
-      - name: 阿联酋航空机票
-        category: 旅游出行
-        keywords: [阿联酋航空, 机票, 迪拜机票, Emirates]
-      - name: 阿联酋国际机票
-        category: 旅游出行
-        keywords: [国际机票, 中东航线, A380]
-      - name: Skywards会员
-        category: 旅游出行
-        keywords: [Skywards, 里程, 积分兑换, 会员卡]
+- company_id: logistics-sf-cn
+  company_name: 顺丰控股
+  items:
+  - name: 顺丰标快
+    category: 快递物流
+    keywords:
+    - 顺丰
+    - 快递
+    - 寄快递
+    - 顺丰速运
+  - name: 顺丰特快
+    category: 快递物流
+    keywords:
+    - 特快
+    - 加急快递
+    - 顺丰特快
+  - name: 顺丰同城急送
+    category: 快递物流
+    keywords:
+    - 同城配送
+    - 闪送
+    - 跑腿
+    - 急送
+  - name: 顺丰冷运
+    category: 快递物流
+    keywords:
+    - 冷链快递
+    - 生鲜快递
+    - 顺丰冷运
+- company_id: logistics-jdlogistics-cn
+  company_name: 京东物流
+  items:
+  - name: 京东快递
+    category: 快递物流
+    keywords:
+    - 京东快递
+    - 寄件
+    - 快递
+  - name: 京东特快送
+    category: 快递物流
+    keywords:
+    - 特快送
+    - 加急件
+  - name: 京东物流仓储服务
+    category: 快递物流
+    keywords:
+    - 仓储
+    - 云仓
+    - 供应链
+  - name: 京东送装服务
+    category: 快递物流
+    keywords:
+    - 大件配送
+    - 送装一体
+    - 家电安装
+- company_id: logistics-zto-cn
+  company_name: 中通快递
+  items:
+  - name: 中通标准快递
+    category: 快递物流
+    keywords:
+    - 中通
+    - 快递
+    - 寄快递
+    - 中通快递
+  - name: 中通快运
+    category: 快递物流
+    keywords:
+    - 快运
+    - 大件物流
+    - 中通快运
+  - name: 中通国际快递
+    category: 快递物流
+    keywords:
+    - 国际快递
+    - 跨境物流
+- company_id: logistics-yto-cn
+  company_name: 圆通速递
+  items:
+  - name: 圆通标准快递
+    category: 快递物流
+    keywords:
+    - 圆通
+    - 快递
+    - 寄快递
+    - 圆通速递
+  - name: 圆准达
+    category: 快递物流
+    keywords:
+    - 圆准达
+    - 送货上门
+    - 时效快递
+  - name: 圆通国际快递
+    category: 快递物流
+    keywords:
+    - 国际快递
+    - 跨境物流
+    - 海外集运
+- company_id: logistics-yunda-cn
+  company_name: 韵达股份
+  items:
+  - name: 韵达标准快递
+    category: 快递物流
+    keywords:
+    - 韵达
+    - 快递
+    - 寄快递
+    - 韵达快递
+  - name: 韵达快运
+    category: 快递物流
+    keywords:
+    - 快运
+    - 大件物流
+    - 韵达快运
+  - name: 韵达国际快递
+    category: 快递物流
+    keywords:
+    - 国际快递
+    - 跨境物流
+- company_id: logistics-sto-cn
+  company_name: 申通快递
+  items:
+  - name: 申通标准快递
+    category: 快递物流
+    keywords:
+    - 申通
+    - 快递
+    - 寄快递
+    - 申通快递
+  - name: 申通尊享寄
+    category: 快递物流
+    keywords:
+    - 尊享寄
+    - 上门取件
+    - 时效快递
+  - name: 申通国际快递
+    category: 快递物流
+    keywords:
+    - 国际快递
+    - 跨境物流
+- company_id: logistics-cainiao-cn
+  company_name: 菜鸟集团
+  items:
+  - name: 菜鸟驿站
+    category: 快递物流
+    keywords:
+    - 菜鸟驿站
+    - 代收
+    - 取快递
+    - 驿站
+  - name: 菜鸟裹裹
+    category: 快递物流
+    keywords:
+    - 菜鸟裹裹
+    - 上门取件
+    - 寄快递
+    - 查快递
+  - name: 菜鸟直送
+    category: 快递物流
+    keywords:
+    - 菜鸟直送
+    - 送货上门
+    - 半日达
+  - name: 菜鸟集运
+    category: 快递物流
+    keywords:
+    - 集运
+    - 淘宝集运
+    - 跨境转运
+- company_id: logistics-jinghuhsr-cn
+  company_name: 京沪高铁
+  items:
+  - name: 京沪高铁车票
+    category: 旅游出行
+    keywords:
+    - 高铁票
+    - 火车票
+    - 京沪高铁
+    - 复兴号
+  - name: 商务座服务
+    category: 旅游出行
+    keywords:
+    - 商务座
+    - 一等座
+    - 高铁座位
+  - name: 高铁快运
+    category: 快递物流
+    keywords:
+    - 高铁快运
+    - 当日达
+    - 高铁送件
+- company_id: logistics-airchina-cn
+  company_name: 中国国航
+  items:
+  - name: 国航国内机票
+    category: 旅游出行
+    keywords:
+    - 机票
+    - 飞机票
+    - 国航
+    - 中国国航
+  - name: 国航国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 出国机票
+    - 国航国际
+  - name: 凤凰知音会员
+    category: 旅游出行
+    keywords:
+    - 凤凰知音
+    - 里程
+    - 积分兑换
+    - 会员卡
+  - name: 国航两舱服务
+    category: 旅游出行
+    keywords:
+    - 头等舱
+    - 公务舱
+    - 贵宾休息室
+- company_id: logistics-csn-cn
+  company_name: 中国南方航空
+  items:
+  - name: 南航国内机票
+    category: 旅游出行
+    keywords:
+    - 机票
+    - 飞机票
+    - 南航
+    - 南方航空
+  - name: 南航国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 出国机票
+    - 南航国际
+  - name: 明珠会员
+    category: 旅游出行
+    keywords:
+    - 南航明珠
+    - 里程
+    - 积分兑换
+    - 会员卡
+  - name: 南航快乐飞
+    category: 旅游出行
+    keywords:
+    - 随心飞
+    - 快乐飞
+    - 套票
+    - 无限飞
+- company_id: logistics-ces-cn
+  company_name: 中国东方航空
+  items:
+  - name: 东航国内机票
+    category: 旅游出行
+    keywords:
+    - 机票
+    - 飞机票
+    - 东航
+    - 东方航空
+  - name: 东航国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 出国机票
+    - 东航国际
+  - name: 东方万里行会员
+    category: 旅游出行
+    keywords:
+    - 万里行
+    - 里程
+    - 积分兑换
+    - 会员卡
+  - name: 周末随心飞
+    category: 旅游出行
+    keywords:
+    - 随心飞
+    - 周末飞
+    - 套票
+    - 无限飞
+- company_id: logistics-hainanairlines-cn
+  company_name: 海南航空
+  items:
+  - name: 海航国内机票
+    category: 旅游出行
+    keywords:
+    - 机票
+    - 飞机票
+    - 海航
+    - 海南航空
+  - name: 海航国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 出国机票
+    - 海航国际
+  - name: 金鹏俱乐部会员
+    category: 旅游出行
+    keywords:
+    - 金鹏俱乐部
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-mtr-cn
+  company_name: 港铁公司
+  items:
+  - name: 港铁车票
+    category: 旅游出行
+    keywords:
+    - 港铁
+    - 地铁票
+    - 香港地铁
+    - 八达通
+  - name: 机场快线
+    category: 旅游出行
+    keywords:
+    - 机场快线
+    - 机场到市区
+    - 香港机场交通
+  - name: 城际直通车
+    category: 旅游出行
+    keywords:
+    - 直通车
+    - 香港火车
+    - 广九直通车
+  - name: 高铁香港段
+    category: 旅游出行
+    keywords:
+    - 西九龙
+    - 香港高铁
+    - 广深港高铁
+- company_id: logistics-fedex-us
+  company_name: FedEx
+  items:
+  - name: FedEx国际快递
+    category: 快递物流
+    keywords:
+    - 联邦快递
+    - FedEx
+    - 国际快递
+    - 寄美国
+  - name: FedEx国内快递
+    category: 快递物流
+    keywords:
+    - 联邦快递
+    - 国内快递
+    - 加急件
+  - name: FedEx Freight
+    category: 快递物流
+    keywords:
+    - 货运
+    - 大件运输
+    - 零担
+- company_id: logistics-ups-us
+  company_name: UPS
+  items:
+  - name: UPS国际快递
+    category: 快递物流
+    keywords:
+    - UPS
+    - 国际快递
+    - 联合包裹
+    - 寄美国
+  - name: UPS国内快递
+    category: 快递物流
+    keywords:
+    - UPS
+    - 国内快递
+    - 加急件
+  - name: UPS Supply Chain
+    category: 快递物流
+    keywords:
+    - 供应链
+    - 仓储物流
+    - 第三方物流
+- company_id: logistics-delta-us
+  company_name: Delta Air Lines
+  items:
+  - name: 达美航空机票
+    category: 旅游出行
+    keywords:
+    - 达美航空
+    - 机票
+    - 美国机票
+    - Delta
+  - name: 达美国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴美机票
+    - 中美航线
+  - name: SkyMiles会员
+    category: 旅游出行
+    keywords:
+    - SkyMiles
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-united-us
+  company_name: United Airlines
+  items:
+  - name: 美联航机票
+    category: 旅游出行
+    keywords:
+    - 美联航
+    - 联合航空
+    - 机票
+    - 美国机票
+  - name: 美联航国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴美机票
+    - 中美航线
+  - name: MileagePlus会员
+    category: 旅游出行
+    keywords:
+    - MileagePlus
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-american-us
+  company_name: American Airlines
+  items:
+  - name: 美国航空机票
+    category: 旅游出行
+    keywords:
+    - 美国航空
+    - 机票
+    - 美国机票
+    - AA航空
+  - name: 美国航空国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴美机票
+    - 中美航线
+  - name: AAdvantage会员
+    category: 旅游出行
+    keywords:
+    - AAdvantage
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-dhl-de
+  company_name: DHL Group
+  items:
+  - name: DHL国际快递
+    category: 快递物流
+    keywords:
+    - DHL
+    - 国际快递
+    - 寄国外
+    - 德国快递
+  - name: DHL eCommerce
+    category: 快递物流
+    keywords:
+    - 电商物流
+    - 跨境小包
+    - 国际小包
+  - name: DHL Express
+    category: 快递物流
+    keywords:
+    - 加急快递
+    - 限时达
+    - DHL特快
+- company_id: logistics-dbahn-de
+  company_name: Deutsche Bahn
+  items:
+  - name: DB火车票
+    category: 旅游出行
+    keywords:
+    - 德铁
+    - 火车票
+    - 德国火车
+    - DB
+  - name: ICE高速列车
+    category: 旅游出行
+    keywords:
+    - ICE
+    - 高铁
+    - 高速列车
+  - name: DB Navigator应用
+    category: 手机应用
+    keywords:
+    - DB Navigator
+    - 查车次
+    - 买票app
+    - 德国铁路app
+  - name: 德铁通票
+    category: 旅游出行
+    keywords:
+    - 德国通票
+    - 49欧票
+    - 月票
+    - 火车通票
+- company_id: logistics-lufthansa-de
+  company_name: Lufthansa Group
+  items:
+  - name: 汉莎航空机票
+    category: 旅游出行
+    keywords:
+    - 汉莎航空
+    - 机票
+    - 德国机票
+    - Lufthansa
+  - name: 汉莎国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴德机票
+    - 欧洲机票
+  - name: Miles & More会员
+    category: 旅游出行
+    keywords:
+    - 汉莎里程
+    - Miles&More
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-airfranceklm-fr
+  company_name: Air France-KLM
+  items:
+  - name: 法国航空机票
+    category: 旅游出行
+    keywords:
+    - 法航
+    - 法国航空
+    - 机票
+    - 巴黎机票
+  - name: 荷兰皇家航空机票
+    category: 旅游出行
+    keywords:
+    - 荷航
+    - 荷兰皇家航空
+    - KLM
+    - 阿姆斯特丹机票
+  - name: Flying Blue会员
+    category: 旅游出行
+    keywords:
+    - 蓝天飞行
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-sncf-fr
+  company_name: SNCF
+  items:
+  - name: TGV高铁票
+    category: 旅游出行
+    keywords:
+    - TGV
+    - 法国高铁
+    - 火车票
+    - 法国火车
+  - name: 法国城际列车票
+    category: 旅游出行
+    keywords:
+    - TER
+    - 城际列车
+    - 法国火车
+  - name: SNCF Connect应用
+    category: 手机应用
+    keywords:
+    - SNCF Connect
+    - 买火车票
+    - 法国铁路app
+    - 查车次
+- company_id: logistics-iag-gb
+  company_name: International Airlines Group
+  items:
+  - name: 英国航空机票
+    category: 旅游出行
+    keywords:
+    - 英航
+    - 英国航空
+    - 机票
+    - 伦敦机票
+  - name: 伊比利亚航空机票
+    category: 旅游出行
+    keywords:
+    - 伊比利亚航空
+    - 西班牙机票
+    - 马德里机票
+    - 廉航
+  - name: Avios里程计划
+    category: 旅游出行
+    keywords:
+    - Avios
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-nipponexpress-jp
+  company_name: Nippon Express
+  items:
+  - name: 引越し搬家服务
+    category: 快递物流
+    keywords:
+    - 搬家
+    - 日式搬家
+    - 国际搬家
+    - 引越
+  - name: 国际行李托运
+    category: 快递物流
+    keywords:
+    - 行李托运
+    - 留学生行李
+    - 海运搬家
+- company_id: logistics-yamato-jp
+  company_name: Yamato Holdings
+  items:
+  - name: 黑猫宅急便
+    category: 快递物流
+    keywords:
+    - 黑猫宅急便
+    - 大和运输
+    - 日本快递
+    - 宅急便
+  - name: 黑猫搬家服务
+    category: 快递物流
+    keywords:
+    - 搬家
+    - 日式搬家
+    - 黑猫搬家
+  - name: 冷却宅急便
+    category: 快递物流
+    keywords:
+    - 生鲜快递
+    - 冷链配送
+    - 冷藏宅急便
+- company_id: logistics-ana-jp
+  company_name: ANA Holdings
+  items:
+  - name: 全日空机票
+    category: 旅游出行
+    keywords:
+    - 全日空
+    - ANA
+    - 机票
+    - 日本机票
+  - name: ANA国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴日机票
+    - 中美航线
+  - name: ANA里程俱乐部
+    category: 旅游出行
+    keywords:
+    - ANA里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-jal-jp
+  company_name: Japan Airlines
+  items:
+  - name: 日本航空机票
+    category: 旅游出行
+    keywords:
+    - 日航
+    - 日本航空
+    - JAL
+    - 机票
+  - name: JAL国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴日机票
+    - 中美航线
+  - name: JAL Mileage Bank
+    category: 旅游出行
+    keywords:
+    - 日航里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-koreanair-kr
+  company_name: Korean Air
+  items:
+  - name: 大韩航空机票
+    category: 旅游出行
+    keywords:
+    - 大韩航空
+    - 机票
+    - 韩国机票
+    - 首尔机票
+  - name: 大韩国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 赴韩机票
+    - 中美航线
+  - name: SKYPASS会员
+    category: 旅游出行
+    keywords:
+    - SKYPASS
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-singaporeairlines-sg
+  company_name: Singapore Airlines
+  items:
+  - name: 新航机票
+    category: 旅游出行
+    keywords:
+    - 新航
+    - 新加坡航空
+    - 机票
+    - 新加坡机票
+  - name: 新航国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 五星航空
+    - 长途航线
+  - name: KrisFlyer会员
+    category: 旅游出行
+    keywords:
+    - KrisFlyer
+    - 里程
+    - 积分兑换
+    - 会员卡
+- company_id: logistics-emirates-ae
+  company_name: Emirates
+  items:
+  - name: 阿联酋航空机票
+    category: 旅游出行
+    keywords:
+    - 阿联酋航空
+    - 机票
+    - 迪拜机票
+    - Emirates
+  - name: 阿联酋国际机票
+    category: 旅游出行
+    keywords:
+    - 国际机票
+    - 中东航线
+    - A380
+  - name: Skywards会员
+    category: 旅游出行
+    keywords:
+    - Skywards
+    - 里程
+    - 积分兑换
+    - 会员卡

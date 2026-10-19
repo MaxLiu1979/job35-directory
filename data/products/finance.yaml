@@ -1,636 +1,1228 @@
-# 金融行业消费产品清单（银行/保险等面向普通消费者的零售金融产品）
-# 数据来源：基于 data/by-industry/finance.yaml 企业名录整理
 products:
-  - company_id: finance-icbc-cn
-    company_name: 中国工商银行
-    items:
-      - name: 工银信用卡
-        category: 金融理财
-        keywords: [信用卡, 工行信用卡, 办卡, 刷卡]
-      - name: 工行借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 银行卡, 工行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 贷款买房, 按揭, 住房贷款]
-      - name: 工银理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 工银理财]
-
-  - company_id: finance-ccb-cn
-    company_name: 中国建设银行
-    items:
-      - name: 龙卡信用卡
-        category: 金融理财
-        keywords: [信用卡, 建行信用卡, 龙卡, 办卡]
-      - name: 龙卡储蓄卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 建行卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 建行房贷]
-      - name: 建信理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 建信理财]
-
-  - company_id: finance-abc-cn
-    company_name: 中国农业银行
-    items:
-      - name: 金穗信用卡
-        category: 金融理财
-        keywords: [信用卡, 农行信用卡, 金穗卡, 办卡]
-      - name: 金穗借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 农行卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 农行房贷]
-      - name: 农银理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 农银理财]
-
-  - company_id: finance-boc-cn
-    company_name: 中国银行
-    items:
-      - name: 长城信用卡
-        category: 金融理财
-        keywords: [信用卡, 中行信用卡, 长城卡, 办卡]
-      - name: 长城借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 中行卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 中行房贷]
-      - name: 中银理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 中银理财]
-      - name: 个人结售汇
-        category: 金融理财
-        keywords: [换汇, 外汇, 购汇, 结汇, 出国换钱]
-
-  - company_id: finance-cmb-cn
-    company_name: 招商银行
-    items:
-      - name: 招商银行信用卡
-        category: 金融理财
-        keywords: [信用卡, 招行信用卡, 办卡, 掌上生活]
-      - name: 一卡通
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 招行卡, 一卡通]
-      - name: 金葵花理财
-        category: 金融理财
-        keywords: [理财, 招行理财, 金葵花, 存钱]
-      - name: 闪电贷
-        category: 金融理财
-        keywords: [消费贷, 信用贷, 贷款, 闪电贷]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 招行房贷]
-
-  - company_id: finance-bocom-cn
-    company_name: 交通银行
-    items:
-      - name: 太平洋信用卡
-        category: 金融理财
-        keywords: [信用卡, 交行信用卡, 太平洋卡, 办卡]
-      - name: 太平洋借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 交行卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 交行房贷]
-      - name: 交银理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 交银理财]
-
-  - company_id: finance-psbc-cn
-    company_name: 中国邮政储蓄银行
-    items:
-      - name: 邮储信用卡
-        category: 金融理财
-        keywords: [信用卡, 邮储信用卡, 邮储卡, 办卡]
-      - name: 绿卡通借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 绿卡通, 邮储卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 邮储房贷]
-      - name: 邮储理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 邮储理财]
-
-  - company_id: finance-cib-cn
-    company_name: 兴业银行
-    items:
-      - name: 兴业信用卡
-        category: 金融理财
-        keywords: [信用卡, 兴业信用卡, 办卡, 刷卡]
-      - name: 兴业借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 兴业卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 兴业房贷]
-      - name: 兴银理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 兴银理财]
-
-  - company_id: finance-spdb-cn
-    company_name: 上海浦东发展银行
-    items:
-      - name: 浦发信用卡
-        category: 金融理财
-        keywords: [信用卡, 浦发信用卡, 办卡, 刷卡]
-      - name: 浦发借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 浦发卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 浦发房贷]
-      - name: 浦发理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 浦发理财]
-
-  - company_id: finance-cmbs-cn
-    company_name: 中国民生银行
-    items:
-      - name: 民生信用卡
-        category: 金融理财
-        keywords: [信用卡, 民生信用卡, 办卡, 刷卡]
-      - name: 民生借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 民生卡, 银行卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 民生房贷]
-      - name: 民生理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 民生理财]
-
-  - company_id: finance-ceb-cn
-    company_name: 中国光大银行
-    items:
-      - name: 光大信用卡
-        category: 金融理财
-        keywords: [信用卡, 光大信用卡, 办卡, 刷卡]
-      - name: 阳光借记卡
-        category: 金融理财
-        keywords: [储蓄卡, 借记卡, 光大卡, 阳光卡]
-      - name: 个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 光大房贷]
-      - name: 光大理财产品
-        category: 金融理财
-        keywords: [理财, 银行理财, 存钱, 光大理财]
-
-  - company_id: finance-chinalife-cn
-    company_name: 中国人寿保险
-    items:
-      - name: 国寿福终身寿险
-        category: 保险服务
-        keywords: [重疾险, 国寿福, 终身寿险, 买保险]
-      - name: 康宁终身保险
-        category: 保险服务
-        keywords: [康宁保险, 重疾险, 大病保险, 康宁终身]
-      - name: 国寿养老年金保险
-        category: 保险服务
-        keywords: [年金险, 养老保险, 养老年金, 养老金]
-      - name: 学生平安保险
-        category: 保险服务
-        keywords: [学平险, 学生保险, 平安保险, 少儿保险]
-
-  - company_id: finance-pingan-cn
-    company_name: 中国平安保险
-    items:
-      - name: 平安车险
-        category: 保险服务
-        keywords: [车险, 汽车保险, 平安车险, 买车险]
-      - name: 平安福重疾险
-        category: 保险服务
-        keywords: [重疾险, 平安福, 大病保险, 保险]
-      - name: 平安e生保百万医疗险
-        category: 保险服务
-        keywords: [百万医疗, 医疗险, e生保, 住院保险]
-      - name: 平安银行信用卡
-        category: 金融理财
-        keywords: [信用卡, 平安信用卡, 办卡, 刷卡]
-      - name: 平安好车主
-        category: 保险服务
-        keywords: [好车主, 车主服务, 车险理赔, 查保单]
-
-  - company_id: finance-cpic-cn
-    company_name: 中国太平洋保险
-    items:
-      - name: 太平洋车险
-        category: 保险服务
-        keywords: [车险, 汽车保险, 太保车险, 买车险]
-      - name: 金佑人生重疾险
-        category: 保险服务
-        keywords: [重疾险, 金佑人生, 大病保险, 保险]
-      - name: 安享百万医疗保险
-        category: 保险服务
-        keywords: [百万医疗, 医疗险, 安享百万, 住院保险]
-      - name: 太保人寿保险
-        category: 保险服务
-        keywords: [人寿保险, 寿险, 太保寿险, 买保险]
-
-  - company_id: finance-picc-cn
-    company_name: 中国人民保险
-    items:
-      - name: 人保车险
-        category: 保险服务
-        keywords: [车险, 汽车保险, 人保车险, 买车险]
-      - name: 人保意外险
-        category: 保险服务
-        keywords: [意外险, 意外保险, 人身意外, 保险]
-      - name: 人保百万医疗险
-        category: 保险服务
-        keywords: [百万医疗, 医疗险, 住院保险, 保险]
-      - name: 家庭财产保险
-        category: 保险服务
-        keywords: [家财险, 财产保险, 房屋保险, 保险]
-
-  - company_id: finance-ncl-cn
-    company_name: 新华人寿保险
-    items:
-      - name: 健康无忧重疾险
-        category: 保险服务
-        keywords: [重疾险, 健康无忧, 大病保险, 保险]
-      - name: 多倍保重大疾病保险
-        category: 保险服务
-        keywords: [重疾险, 多倍保, 多次赔付, 保险]
-      - name: 新华养老年金保险
-        category: 保险服务
-        keywords: [年金险, 养老保险, 养老年金, 养老金]
-      - name: 新华人寿寿险
-        category: 保险服务
-        keywords: [寿险, 人寿保险, 定期寿险, 买保险]
-
-  - company_id: finance-jpmorgan-us
-    company_name: JPMorgan Chase
-    items:
-      - name: Chase Sapphire信用卡
-        category: 金融理财
-        keywords: [信用卡, Chase信用卡, 蓝宝石卡, 美国信用卡]
-      - name: Chase借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, Chase卡, 美国银行卡]
-      - name: Chase住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 美国买房贷款, 住房贷款]
-      - name: Chase储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 美国银行账户, 存款]
-
-  - company_id: finance-bofa-us
-    company_name: Bank of America
-    items:
-      - name: 美国银行信用卡
-        category: 金融理财
-        keywords: [信用卡, BofA信用卡, 美国信用卡, 办卡]
-      - name: 美国银行借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 美国银行卡, 银行卡]
-      - name: 美国银行住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 美国买房贷款, 住房贷款]
-      - name: 美国银行储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 银行账户, 存款]
-
-  - company_id: finance-citi-us
-    company_name: Citigroup
-    items:
-      - name: 花旗信用卡
-        category: 金融理财
-        keywords: [信用卡, 花旗卡, 办卡, 刷卡]
-      - name: 花旗借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 花旗银行卡, 银行卡]
-      - name: 花旗银行理财产品
-        category: 金融理财
-        keywords: [理财, 存钱, 美元理财, 存款]
-      - name: 花旗全球速汇
-        category: 金融理财
-        keywords: [汇款, 跨境转账, 国际汇款, 换汇]
-
-  - company_id: finance-wellsfargo-us
-    company_name: Wells Fargo
-    items:
-      - name: 富国银行信用卡
-        category: 金融理财
-        keywords: [信用卡, 富国信用卡, 美国信用卡, 办卡]
-      - name: 富国银行借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 美国银行卡, 银行卡]
-      - name: 富国银行住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 美国买房贷款, 住房贷款]
-      - name: 富国银行汽车贷款
-        category: 金融理财
-        keywords: [车贷, 买车贷款, 汽车贷款, 贷款]
-
-  - company_id: finance-berkshire-us
-    company_name: Berkshire Hathaway
-    items:
-      - name: GEICO车险
-        category: 保险服务
-        keywords: [车险, 汽车保险, GEICO, 美国车险]
-      - name: 金霸王电池
-        category: 数码产品
-        keywords: [电池, 金霸王, 碱性电池, Duracell]
-
-  - company_id: finance-amex-us
-    company_name: American Express
-    items:
-      - name: 美国运通百夫长卡
-        category: 金融理财
-        keywords: [百夫长, 黑金卡, 运通卡, 美国运通]
-      - name: 美国运通白金卡
-        category: 金融理财
-        keywords: [白金卡, 运通白金, 信用卡, 美国运通]
-      - name: 美国运通信用卡
-        category: 金融理财
-        keywords: [信用卡, 运通卡, Amex, 办卡]
-
-  - company_id: finance-visa-us
-    company_name: Visa
-    items:
-      - name: Visa信用卡
-        category: 金融理财
-        keywords: [信用卡, Visa卡, 维萨卡, 刷卡]
-      - name: Visa借记卡
-        category: 金融理财
-        keywords: [借记卡, Visa卡, 储蓄卡, 银行卡]
-      - name: Visa全球支付
-        category: 金融理财
-        keywords: [跨境支付, 刷卡, 出国消费, 海淘支付]
-
-  - company_id: finance-mastercard-us
-    company_name: Mastercard
-    items:
-      - name: Mastercard信用卡
-        category: 金融理财
-        keywords: [信用卡, 万事达卡, 万事达, 刷卡]
-      - name: Mastercard借记卡
-        category: 金融理财
-        keywords: [借记卡, 万事达卡, 储蓄卡, 银行卡]
-      - name: 万事达全球支付
-        category: 金融理财
-        keywords: [跨境支付, 刷卡, 出国消费, 海淘支付]
-
-  - company_id: finance-hsbc-gb
-    company_name: HSBC
-    items:
-      - name: 汇丰信用卡
-        category: 金融理财
-        keywords: [信用卡, 汇丰卡, 办卡, 刷卡]
-      - name: 汇丰卓越理财
-        category: 金融理财
-        keywords: [理财, 汇丰理财, 卓越理财, 存钱]
-      - name: 汇丰海外账户
-        category: 金融理财
-        keywords: [海外账户, 出国开户, 香港账户, 跨境银行]
-      - name: 汇丰个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 汇丰房贷]
-
-  - company_id: finance-barclays-gb
-    company_name: Barclays
-    items:
-      - name: Barclays信用卡
-        category: 金融理财
-        keywords: [信用卡, 巴克莱信用卡, 英国信用卡, 办卡]
-      - name: Barclays借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 巴克莱银行卡, 银行卡]
-      - name: Barclays住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 英国买房贷款, 住房贷款]
-      - name: Barclays储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 英国银行账户, 存款]
-
-  - company_id: finance-lloyds-gb
-    company_name: Lloyds Banking Group
-    items:
-      - name: Lloyds银行卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 劳埃德银行卡, 英国银行卡]
-      - name: Lloyds信用卡
-        category: 金融理财
-        keywords: [信用卡, 劳埃德信用卡, 英国信用卡, 办卡]
-      - name: Lloyds住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 英国买房贷款, 住房贷款]
-      - name: Lloyds储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 银行账户, 存款]
-
-  - company_id: finance-stanchart-gb
-    company_name: Standard Chartered
-    items:
-      - name: 渣打信用卡
-        category: 金融理财
-        keywords: [信用卡, 渣打卡, 办卡, 刷卡]
-      - name: 渣打优先理财
-        category: 金融理财
-        keywords: [理财, 渣打理财, 优先理财, 存钱]
-      - name: 渣打外币账户
-        category: 金融理财
-        keywords: [外币账户, 美元账户, 换汇, 跨境银行]
-      - name: 渣打个人住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 贷款买房, 渣打房贷]
-
-  - company_id: finance-allianz-de
-    company_name: Allianz
-    items:
-      - name: 安联旅行险
-        category: 保险服务
-        keywords: [旅行险, 旅游保险, 出境游保险, 安联保险]
-      - name: 安联车险
-        category: 保险服务
-        keywords: [车险, 汽车保险, 安联车险, 买车险]
-      - name: 安联健康险
-        category: 保险服务
-        keywords: [健康险, 医疗保险, 安联健康, 保险]
-      - name: 安联人寿保险
-        category: 保险服务
-        keywords: [寿险, 人寿保险, 安联寿险, 买保险]
-
-  - company_id: finance-bnpp-fr
-    company_name: BNP Paribas
-    items:
-      - name: BNP Paribas信用卡
-        category: 金融理财
-        keywords: [信用卡, 法国巴黎银行卡, 法国信用卡, 办卡]
-      - name: BNP Paribas银行账户
-        category: 金融理财
-        keywords: [银行账户, 借记卡, 法国银行, 开户]
-      - name: BNP Paribas住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 法国买房贷款, 住房贷款]
-      - name: BNP Paribas储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 银行账户, 存款]
-
-  - company_id: finance-axa-fr
-    company_name: AXA
-    items:
-      - name: 安盛车险
-        category: 保险服务
-        keywords: [车险, 汽车保险, 安盛车险, 买车险]
-      - name: 安盛健康险
-        category: 保险服务
-        keywords: [健康险, 医疗保险, 安盛健康, 保险]
-      - name: 安盛旅行险
-        category: 保险服务
-        keywords: [旅行险, 旅游保险, 出境游保险, 安盛保险]
-      - name: 安盛人寿保险
-        category: 保险服务
-        keywords: [寿险, 人寿保险, 安盛寿险, 买保险]
-
-  - company_id: finance-santander-es
-    company_name: Banco Santander
-    items:
-      - name: Santander信用卡
-        category: 金融理财
-        keywords: [信用卡, 桑坦德信用卡, 西班牙信用卡, 办卡]
-      - name: Santander借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 桑坦德银行卡, 银行卡]
-      - name: Santander住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 西班牙买房贷款, 住房贷款]
-      - name: Santander储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 银行账户, 存款]
-
-  - company_id: finance-ing-nl
-    company_name: ING Group
-    items:
-      - name: ING银行账户
-        category: 金融理财
-        keywords: [银行账户, 开户, ING银行, 荷兰银行]
-      - name: ING储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 高息存款, 存款]
-      - name: ING信用卡
-        category: 金融理财
-        keywords: [信用卡, ING信用卡, 办卡, 刷卡]
-      - name: ING住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 买房贷款, 住房贷款]
-
-  - company_id: finance-mufg-jp
-    company_name: Mitsubishi UFJ Financial Group
-    items:
-      - name: 三菱UFJ信用卡
-        category: 金融理财
-        keywords: [信用卡, MUFG卡, 三菱UFJ, 办卡]
-      - name: 三菱UFJ借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 日本银行卡, 银行卡]
-      - name: 三菱UFJ住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 日本买房贷款, 住房贷款]
-      - name: 三菱UFJ储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 日元存款, 银行账户]
-
-  - company_id: finance-smfg-jp
-    company_name: Sumitomo Mitsui Financial Group
-    items:
-      - name: 三井住友信用卡
-        category: 金融理财
-        keywords: [信用卡, SMBC卡, 三井住友, 办卡]
-      - name: 三井住友借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 日本银行卡, 银行卡]
-      - name: 三井住友住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 日本买房贷款, 住房贷款]
-      - name: 三井住友储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 日元存款, 银行账户]
-
-  - company_id: finance-mizuho-jp
-    company_name: Mizuho Financial Group
-    items:
-      - name: みずほ信用卡
-        category: 金融理财
-        keywords: [信用卡, 瑞穗信用卡, みずほ, 办卡]
-      - name: みずほ借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 日本银行卡, 银行卡]
-      - name: みずほ住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 日本买房贷款, 住房贷款]
-      - name: みずほ储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 日元存款, 银行账户]
-
-  - company_id: finance-shinhan-kr
-    company_name: Shinhan Financial Group
-    items:
-      - name: 新韩信用卡
-        category: 金融理财
-        keywords: [信用卡, 新韩卡, 韩国信用卡, 办卡]
-      - name: 新韩借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 韩国银行卡, 银行卡]
-      - name: 新韩住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 韩国买房贷款, 住房贷款]
-      - name: 新韩储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 韩元存款, 银行账户]
-
-  - company_id: finance-kb-kr
-    company_name: KB Financial Group
-    items:
-      - name: KB国民信用卡
-        category: 金融理财
-        keywords: [信用卡, KB卡, 国民信用卡, 办卡]
-      - name: KB借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 韩国银行卡, 银行卡]
-      - name: KB住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 韩国买房贷款, 住房贷款]
-      - name: KB储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 韩元存款, 银行账户]
-
-  - company_id: finance-dbs-sg
-    company_name: DBS Group
-    items:
-      - name: DBS信用卡
-        category: 金融理财
-        keywords: [信用卡, 星展信用卡, DBS卡, 办卡]
-      - name: DBS借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 新加坡银行卡, 银行卡]
-      - name: DBS理财产品
-        category: 金融理财
-        keywords: [理财, 存钱, 美元理财, 存款]
-      - name: DBS跨境汇款
-        category: 金融理财
-        keywords: [汇款, 跨境转账, 国际汇款, 换汇]
-
-  - company_id: finance-rbc-ca
-    company_name: Royal Bank of Canada
-    items:
-      - name: RBC信用卡
-        category: 金融理财
-        keywords: [信用卡, 皇家银行信用卡, 加拿大信用卡, 办卡]
-      - name: RBC借记卡
-        category: 金融理财
-        keywords: [借记卡, 储蓄卡, 加拿大银行卡, 银行卡]
-      - name: RBC住房贷款
-        category: 金融理财
-        keywords: [房贷, 按揭, 加拿大买房贷款, 住房贷款]
-      - name: RBC储蓄账户
-        category: 金融理财
-        keywords: [储蓄, 存钱, 加元存款, 银行账户]
+- company_id: finance-icbc-cn
+  company_name: 中国工商银行
+  items:
+  - name: 工银信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 工行信用卡
+    - 办卡
+    - 刷卡
+  - name: 工行借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 银行卡
+    - 工行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 贷款买房
+    - 按揭
+    - 住房贷款
+  - name: 工银理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 工银理财
+- company_id: finance-ccb-cn
+  company_name: 中国建设银行
+  items:
+  - name: 龙卡信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 建行信用卡
+    - 龙卡
+    - 办卡
+  - name: 龙卡储蓄卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 建行卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 建行房贷
+  - name: 建信理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 建信理财
+- company_id: finance-abc-cn
+  company_name: 中国农业银行
+  items:
+  - name: 金穗信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 农行信用卡
+    - 金穗卡
+    - 办卡
+  - name: 金穗借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 农行卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 农行房贷
+  - name: 农银理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 农银理财
+- company_id: finance-boc-cn
+  company_name: 中国银行
+  items:
+  - name: 长城信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 中行信用卡
+    - 长城卡
+    - 办卡
+  - name: 长城借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 中行卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 中行房贷
+  - name: 中银理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 中银理财
+  - name: 个人结售汇
+    category: 金融理财
+    keywords:
+    - 换汇
+    - 外汇
+    - 购汇
+    - 结汇
+    - 出国换钱
+- company_id: finance-cmb-cn
+  company_name: 招商银行
+  items:
+  - name: 招商银行信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 招行信用卡
+    - 办卡
+    - 掌上生活
+  - name: 一卡通
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 招行卡
+    - 一卡通
+  - name: 金葵花理财
+    category: 金融理财
+    keywords:
+    - 理财
+    - 招行理财
+    - 金葵花
+    - 存钱
+  - name: 闪电贷
+    category: 金融理财
+    keywords:
+    - 消费贷
+    - 信用贷
+    - 贷款
+    - 闪电贷
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 招行房贷
+- company_id: finance-bocom-cn
+  company_name: 交通银行
+  items:
+  - name: 太平洋信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 交行信用卡
+    - 太平洋卡
+    - 办卡
+  - name: 太平洋借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 交行卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 交行房贷
+  - name: 交银理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 交银理财
+- company_id: finance-psbc-cn
+  company_name: 中国邮政储蓄银行
+  items:
+  - name: 邮储信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 邮储信用卡
+    - 邮储卡
+    - 办卡
+  - name: 绿卡通借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 绿卡通
+    - 邮储卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 邮储房贷
+  - name: 邮储理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 邮储理财
+- company_id: finance-cib-cn
+  company_name: 兴业银行
+  items:
+  - name: 兴业信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 兴业信用卡
+    - 办卡
+    - 刷卡
+  - name: 兴业借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 兴业卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 兴业房贷
+  - name: 兴银理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 兴银理财
+- company_id: finance-spdb-cn
+  company_name: 上海浦东发展银行
+  items:
+  - name: 浦发信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 浦发信用卡
+    - 办卡
+    - 刷卡
+  - name: 浦发借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 浦发卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 浦发房贷
+  - name: 浦发理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 浦发理财
+- company_id: finance-cmbs-cn
+  company_name: 中国民生银行
+  items:
+  - name: 民生信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 民生信用卡
+    - 办卡
+    - 刷卡
+  - name: 民生借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 民生卡
+    - 银行卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 民生房贷
+  - name: 民生理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 民生理财
+- company_id: finance-ceb-cn
+  company_name: 中国光大银行
+  items:
+  - name: 光大信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 光大信用卡
+    - 办卡
+    - 刷卡
+  - name: 阳光借记卡
+    category: 金融理财
+    keywords:
+    - 储蓄卡
+    - 借记卡
+    - 光大卡
+    - 阳光卡
+  - name: 个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 光大房贷
+  - name: 光大理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 银行理财
+    - 存钱
+    - 光大理财
+- company_id: finance-chinalife-cn
+  company_name: 中国人寿保险
+  items:
+  - name: 国寿福终身寿险
+    category: 保险服务
+    keywords:
+    - 重疾险
+    - 国寿福
+    - 终身寿险
+    - 买保险
+  - name: 康宁终身保险
+    category: 保险服务
+    keywords:
+    - 康宁保险
+    - 重疾险
+    - 大病保险
+    - 康宁终身
+  - name: 国寿养老年金保险
+    category: 保险服务
+    keywords:
+    - 年金险
+    - 养老保险
+    - 养老年金
+    - 养老金
+  - name: 学生平安保险
+    category: 保险服务
+    keywords:
+    - 学平险
+    - 学生保险
+    - 平安保险
+    - 少儿保险
+- company_id: finance-pingan-cn
+  company_name: 中国平安保险
+  items:
+  - name: 平安车险
+    category: 保险服务
+    keywords:
+    - 车险
+    - 汽车保险
+    - 平安车险
+    - 买车险
+  - name: 平安福重疾险
+    category: 保险服务
+    keywords:
+    - 重疾险
+    - 平安福
+    - 大病保险
+    - 保险
+  - name: 平安e生保百万医疗险
+    category: 保险服务
+    keywords:
+    - 百万医疗
+    - 医疗险
+    - e生保
+    - 住院保险
+  - name: 平安银行信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 平安信用卡
+    - 办卡
+    - 刷卡
+  - name: 平安好车主
+    category: 保险服务
+    keywords:
+    - 好车主
+    - 车主服务
+    - 车险理赔
+    - 查保单
+- company_id: finance-cpic-cn
+  company_name: 中国太平洋保险
+  items:
+  - name: 太平洋车险
+    category: 保险服务
+    keywords:
+    - 车险
+    - 汽车保险
+    - 太保车险
+    - 买车险
+  - name: 金佑人生重疾险
+    category: 保险服务
+    keywords:
+    - 重疾险
+    - 金佑人生
+    - 大病保险
+    - 保险
+  - name: 安享百万医疗保险
+    category: 保险服务
+    keywords:
+    - 百万医疗
+    - 医疗险
+    - 安享百万
+    - 住院保险
+  - name: 太保人寿保险
+    category: 保险服务
+    keywords:
+    - 人寿保险
+    - 寿险
+    - 太保寿险
+    - 买保险
+- company_id: finance-picc-cn
+  company_name: 中国人民保险
+  items:
+  - name: 人保车险
+    category: 保险服务
+    keywords:
+    - 车险
+    - 汽车保险
+    - 人保车险
+    - 买车险
+  - name: 人保意外险
+    category: 保险服务
+    keywords:
+    - 意外险
+    - 意外保险
+    - 人身意外
+    - 保险
+  - name: 人保百万医疗险
+    category: 保险服务
+    keywords:
+    - 百万医疗
+    - 医疗险
+    - 住院保险
+    - 保险
+  - name: 家庭财产保险
+    category: 保险服务
+    keywords:
+    - 家财险
+    - 财产保险
+    - 房屋保险
+    - 保险
+- company_id: finance-ncl-cn
+  company_name: 新华人寿保险
+  items:
+  - name: 健康无忧重疾险
+    category: 保险服务
+    keywords:
+    - 重疾险
+    - 健康无忧
+    - 大病保险
+    - 保险
+  - name: 多倍保重大疾病保险
+    category: 保险服务
+    keywords:
+    - 重疾险
+    - 多倍保
+    - 多次赔付
+    - 保险
+  - name: 新华养老年金保险
+    category: 保险服务
+    keywords:
+    - 年金险
+    - 养老保险
+    - 养老年金
+    - 养老金
+  - name: 新华人寿寿险
+    category: 保险服务
+    keywords:
+    - 寿险
+    - 人寿保险
+    - 定期寿险
+    - 买保险
+- company_id: finance-jpmorgan-us
+  company_name: JPMorgan Chase
+  items:
+  - name: Chase Sapphire信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - Chase信用卡
+    - 蓝宝石卡
+    - 美国信用卡
+  - name: Chase借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - Chase卡
+    - 美国银行卡
+  - name: Chase住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 美国买房贷款
+    - 住房贷款
+  - name: Chase储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 美国银行账户
+    - 存款
+- company_id: finance-bofa-us
+  company_name: Bank of America
+  items:
+  - name: 美国银行信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - BofA信用卡
+    - 美国信用卡
+    - 办卡
+  - name: 美国银行借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 美国银行卡
+    - 银行卡
+  - name: 美国银行住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 美国买房贷款
+    - 住房贷款
+  - name: 美国银行储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 银行账户
+    - 存款
+- company_id: finance-citi-us
+  company_name: Citigroup
+  items:
+  - name: 花旗信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 花旗卡
+    - 办卡
+    - 刷卡
+  - name: 花旗借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 花旗银行卡
+    - 银行卡
+  - name: 花旗银行理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 存钱
+    - 美元理财
+    - 存款
+  - name: 花旗全球速汇
+    category: 金融理财
+    keywords:
+    - 汇款
+    - 跨境转账
+    - 国际汇款
+    - 换汇
+- company_id: finance-wellsfargo-us
+  company_name: Wells Fargo
+  items:
+  - name: 富国银行信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 富国信用卡
+    - 美国信用卡
+    - 办卡
+  - name: 富国银行借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 美国银行卡
+    - 银行卡
+  - name: 富国银行住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 美国买房贷款
+    - 住房贷款
+  - name: 富国银行汽车贷款
+    category: 金融理财
+    keywords:
+    - 车贷
+    - 买车贷款
+    - 汽车贷款
+    - 贷款
+- company_id: finance-berkshire-us
+  company_name: Berkshire Hathaway
+  items:
+  - name: GEICO车险
+    category: 保险服务
+    keywords:
+    - 车险
+    - 汽车保险
+    - GEICO
+    - 美国车险
+  - name: 金霸王电池
+    category: 数码产品
+    keywords:
+    - 电池
+    - 金霸王
+    - 碱性电池
+    - Duracell
+- company_id: finance-amex-us
+  company_name: American Express
+  items:
+  - name: 美国运通百夫长卡
+    category: 金融理财
+    keywords:
+    - 百夫长
+    - 黑金卡
+    - 运通卡
+    - 美国运通
+  - name: 美国运通白金卡
+    category: 金融理财
+    keywords:
+    - 白金卡
+    - 运通白金
+    - 信用卡
+    - 美国运通
+  - name: 美国运通信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 运通卡
+    - Amex
+    - 办卡
+- company_id: finance-visa-us
+  company_name: Visa
+  items:
+  - name: Visa信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - Visa卡
+    - 维萨卡
+    - 刷卡
+  - name: Visa借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - Visa卡
+    - 储蓄卡
+    - 银行卡
+  - name: Visa全球支付
+    category: 金融理财
+    keywords:
+    - 跨境支付
+    - 刷卡
+    - 出国消费
+    - 海淘支付
+- company_id: finance-mastercard-us
+  company_name: Mastercard
+  items:
+  - name: Mastercard信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 万事达卡
+    - 万事达
+    - 刷卡
+  - name: Mastercard借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 万事达卡
+    - 储蓄卡
+    - 银行卡
+  - name: 万事达全球支付
+    category: 金融理财
+    keywords:
+    - 跨境支付
+    - 刷卡
+    - 出国消费
+    - 海淘支付
+- company_id: finance-hsbc-gb
+  company_name: HSBC
+  items:
+  - name: 汇丰信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 汇丰卡
+    - 办卡
+    - 刷卡
+  - name: 汇丰卓越理财
+    category: 金融理财
+    keywords:
+    - 理财
+    - 汇丰理财
+    - 卓越理财
+    - 存钱
+  - name: 汇丰海外账户
+    category: 金融理财
+    keywords:
+    - 海外账户
+    - 出国开户
+    - 香港账户
+    - 跨境银行
+  - name: 汇丰个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 汇丰房贷
+- company_id: finance-barclays-gb
+  company_name: Barclays
+  items:
+  - name: Barclays信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 巴克莱信用卡
+    - 英国信用卡
+    - 办卡
+  - name: Barclays借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 巴克莱银行卡
+    - 银行卡
+  - name: Barclays住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 英国买房贷款
+    - 住房贷款
+  - name: Barclays储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 英国银行账户
+    - 存款
+- company_id: finance-lloyds-gb
+  company_name: Lloyds Banking Group
+  items:
+  - name: Lloyds银行卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 劳埃德银行卡
+    - 英国银行卡
+  - name: Lloyds信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 劳埃德信用卡
+    - 英国信用卡
+    - 办卡
+  - name: Lloyds住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 英国买房贷款
+    - 住房贷款
+  - name: Lloyds储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 银行账户
+    - 存款
+- company_id: finance-stanchart-gb
+  company_name: Standard Chartered
+  items:
+  - name: 渣打信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 渣打卡
+    - 办卡
+    - 刷卡
+  - name: 渣打优先理财
+    category: 金融理财
+    keywords:
+    - 理财
+    - 渣打理财
+    - 优先理财
+    - 存钱
+  - name: 渣打外币账户
+    category: 金融理财
+    keywords:
+    - 外币账户
+    - 美元账户
+    - 换汇
+    - 跨境银行
+  - name: 渣打个人住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 贷款买房
+    - 渣打房贷
+- company_id: finance-allianz-de
+  company_name: Allianz
+  items:
+  - name: 安联旅行险
+    category: 保险服务
+    keywords:
+    - 旅行险
+    - 旅游保险
+    - 出境游保险
+    - 安联保险
+  - name: 安联车险
+    category: 保险服务
+    keywords:
+    - 车险
+    - 汽车保险
+    - 安联车险
+    - 买车险
+  - name: 安联健康险
+    category: 保险服务
+    keywords:
+    - 健康险
+    - 医疗保险
+    - 安联健康
+    - 保险
+  - name: 安联人寿保险
+    category: 保险服务
+    keywords:
+    - 寿险
+    - 人寿保险
+    - 安联寿险
+    - 买保险
+- company_id: finance-bnpp-fr
+  company_name: BNP Paribas
+  items:
+  - name: BNP Paribas信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 法国巴黎银行卡
+    - 法国信用卡
+    - 办卡
+  - name: BNP Paribas银行账户
+    category: 金融理财
+    keywords:
+    - 银行账户
+    - 借记卡
+    - 法国银行
+    - 开户
+  - name: BNP Paribas住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 法国买房贷款
+    - 住房贷款
+  - name: BNP Paribas储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 银行账户
+    - 存款
+- company_id: finance-axa-fr
+  company_name: AXA
+  items:
+  - name: 安盛车险
+    category: 保险服务
+    keywords:
+    - 车险
+    - 汽车保险
+    - 安盛车险
+    - 买车险
+  - name: 安盛健康险
+    category: 保险服务
+    keywords:
+    - 健康险
+    - 医疗保险
+    - 安盛健康
+    - 保险
+  - name: 安盛旅行险
+    category: 保险服务
+    keywords:
+    - 旅行险
+    - 旅游保险
+    - 出境游保险
+    - 安盛保险
+  - name: 安盛人寿保险
+    category: 保险服务
+    keywords:
+    - 寿险
+    - 人寿保险
+    - 安盛寿险
+    - 买保险
+- company_id: finance-santander-es
+  company_name: Banco Santander
+  items:
+  - name: Santander信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 桑坦德信用卡
+    - 西班牙信用卡
+    - 办卡
+  - name: Santander借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 桑坦德银行卡
+    - 银行卡
+  - name: Santander住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 西班牙买房贷款
+    - 住房贷款
+  - name: Santander储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 银行账户
+    - 存款
+- company_id: finance-ing-nl
+  company_name: ING Group
+  items:
+  - name: ING银行账户
+    category: 金融理财
+    keywords:
+    - 银行账户
+    - 开户
+    - ING银行
+    - 荷兰银行
+  - name: ING储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 高息存款
+    - 存款
+  - name: ING信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - ING信用卡
+    - 办卡
+    - 刷卡
+  - name: ING住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 买房贷款
+    - 住房贷款
+- company_id: finance-mufg-jp
+  company_name: Mitsubishi UFJ Financial Group
+  items:
+  - name: 三菱UFJ信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - MUFG卡
+    - 三菱UFJ
+    - 办卡
+  - name: 三菱UFJ借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 日本银行卡
+    - 银行卡
+  - name: 三菱UFJ住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 日本买房贷款
+    - 住房贷款
+  - name: 三菱UFJ储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 日元存款
+    - 银行账户
+- company_id: finance-smfg-jp
+  company_name: Sumitomo Mitsui Financial Group
+  items:
+  - name: 三井住友信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - SMBC卡
+    - 三井住友
+    - 办卡
+  - name: 三井住友借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 日本银行卡
+    - 银行卡
+  - name: 三井住友住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 日本买房贷款
+    - 住房贷款
+  - name: 三井住友储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 日元存款
+    - 银行账户
+- company_id: finance-mizuho-jp
+  company_name: Mizuho Financial Group
+  items:
+  - name: みずほ信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 瑞穗信用卡
+    - みずほ
+    - 办卡
+  - name: みずほ借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 日本银行卡
+    - 银行卡
+  - name: みずほ住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 日本买房贷款
+    - 住房贷款
+  - name: みずほ储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 日元存款
+    - 银行账户
+- company_id: finance-shinhan-kr
+  company_name: Shinhan Financial Group
+  items:
+  - name: 新韩信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 新韩卡
+    - 韩国信用卡
+    - 办卡
+  - name: 新韩借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 韩国银行卡
+    - 银行卡
+  - name: 新韩住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 韩国买房贷款
+    - 住房贷款
+  - name: 新韩储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 韩元存款
+    - 银行账户
+- company_id: finance-kb-kr
+  company_name: KB Financial Group
+  items:
+  - name: KB国民信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - KB卡
+    - 国民信用卡
+    - 办卡
+  - name: KB借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 韩国银行卡
+    - 银行卡
+  - name: KB住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 韩国买房贷款
+    - 住房贷款
+  - name: KB储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 韩元存款
+    - 银行账户
+- company_id: finance-dbs-sg
+  company_name: DBS Group
+  items:
+  - name: DBS信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 星展信用卡
+    - DBS卡
+    - 办卡
+  - name: DBS借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 新加坡银行卡
+    - 银行卡
+  - name: DBS理财产品
+    category: 金融理财
+    keywords:
+    - 理财
+    - 存钱
+    - 美元理财
+    - 存款
+  - name: DBS跨境汇款
+    category: 金融理财
+    keywords:
+    - 汇款
+    - 跨境转账
+    - 国际汇款
+    - 换汇
+- company_id: finance-rbc-ca
+  company_name: Royal Bank of Canada
+  items:
+  - name: RBC信用卡
+    category: 金融理财
+    keywords:
+    - 信用卡
+    - 皇家银行信用卡
+    - 加拿大信用卡
+    - 办卡
+  - name: RBC借记卡
+    category: 金融理财
+    keywords:
+    - 借记卡
+    - 储蓄卡
+    - 加拿大银行卡
+    - 银行卡
+  - name: RBC住房贷款
+    category: 金融理财
+    keywords:
+    - 房贷
+    - 按揭
+    - 加拿大买房贷款
+    - 住房贷款
+  - name: RBC储蓄账户
+    category: 金融理财
+    keywords:
+    - 储蓄
+    - 存钱
+    - 加元存款
+    - 银行账户

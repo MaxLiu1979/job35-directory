@@ -1,0 +1,32 @@
+name: sync-votes
+
+on:
+  schedule:
+    - cron: "53 2 * * 1"   # 每周一 02:53 UTC，先于爬虫与网页构建
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  sync:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install pyyaml
+      - name: Sync anonymous votes from Abacus counter
+        run: python scripts/sync_votes.py
+      - name: Commit updated vote counts
+        run: |
+          git config user.name "job35-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add data/votes.json
+          if git diff --quiet --cached; then
+            echo "票数无变化"
+          else
+            git commit -m "chore: weekly vote count sync $(date -u +%F)"
+            git push
+          fi

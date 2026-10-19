@@ -1,760 +1,1517 @@
 products:
-  - company_id: consumer_discretionary-byd-cn
-    company_name: 比亚迪
-    items:
-      - name: 汉EV
-        category: 汽车整车
-        keywords: [比亚迪汉, 汉, 电动车, 新能源车]
-      - name: 海豚
-        category: 汽车整车
-        keywords: [海豚, 比亚迪海豚, 代步车, 纯电车]
-      - name: 宋PLUS DM-i
-        category: 汽车整车
-        keywords: [宋PLUS, 插混, 混动SUV, 比亚迪宋]
-      - name: 唐DM-p
-        category: 汽车整车
-        keywords: [比亚迪唐, 唐, 七座SUV, 混动]
-      - name: 海鸥
-        category: 汽车整车
-        keywords: [海鸥, 比亚迪海鸥, 小型电动车, 买菜车]
-      - name: 海豹
-        category: 汽车整车
-        keywords: [海豹, 比亚迪海豹, 纯电轿车]
-  - company_id: consumer_discretionary-saic-cn
-    company_name: 上汽集团
-    items:
-      - name: 荣威RX5
-        category: 汽车整车
-        keywords: [荣威, RX5, 国产SUV]
-      - name: 名爵MG5
-        category: 汽车整车
-        keywords: [名爵, MG5, 轿车]
-      - name: 大众朗逸
-        category: 汽车整车
-        keywords: [朗逸, 大众, 家用轿车]
-      - name: 别克GL8
-        category: 汽车整车
-        keywords: [GL8, 别克, 商务车, MPV]
-      - name: 智己L7
-        category: 汽车整车
-        keywords: [智己, L7, 智能电动车]
-  - company_id: consumer_discretionary-geely-cn
-    company_name: 吉利汽车
-    items:
-      - name: 星越L
-        category: 汽车整车
-        keywords: [星越L, 吉利, SUV]
-      - name: 博越L
-        category: 汽车整车
-        keywords: [博越, 博越L, 吉利SUV]
-      - name: 帝豪
-        category: 汽车整车
-        keywords: [帝豪, 吉利帝豪, 家用轿车]
-      - name: 极氪001
-        category: 汽车整车
-        keywords: [极氪, 001, 极氪汽车, 猎装车]
-      - name: 领克03
-        category: 汽车整车
-        keywords: [领克, 领克03, 运动轿车]
-  - company_id: consumer_discretionary-gwm-cn
-    company_name: 长城汽车
-    items:
-      - name: 哈弗H6
-        category: 汽车整车
-        keywords: [哈弗H6, 哈弗, H6, 国产SUV]
-      - name: 坦克300
-        category: 汽车整车
-        keywords: [坦克300, 坦克, 越野车, 硬派SUV]
-      - name: 欧拉好猫
-        category: 汽车整车
-        keywords: [欧拉好猫, 欧拉, 女性电动车, 复古车]
-      - name: 魏牌蓝山
-        category: 汽车整车
-        keywords: [魏牌, 蓝山, 混动SUV, 六座SUV]
-  - company_id: consumer_discretionary-nio-cn
-    company_name: 蔚来
-    items:
-      - name: 蔚来ET5
-        category: 汽车整车
-        keywords: [ET5, 蔚来, 换电, 电动轿车]
-      - name: 蔚来ES6
-        category: 汽车整车
-        keywords: [ES6, 蔚来ES6, 电动SUV]
-      - name: 蔚来ET7
-        category: 汽车整车
-        keywords: [ET7, 蔚来ET7, 旗舰轿车]
-      - name: 蔚来换电服务
-        category: 汽车服务
-        keywords: [换电, 换电站, 蔚来换电, 电池租用]
-  - company_id: consumer_discretionary-liauto-cn
-    company_name: 理想汽车
-    items:
-      - name: 理想L7
-        category: 汽车整车
-        keywords: [理想L7, L7, 增程, 大五座SUV]
-      - name: 理想L8
-        category: 汽车整车
-        keywords: [理想L8, L8, 六座SUV, 奶爸车]
-      - name: 理想L9
-        category: 汽车整车
-        keywords: [理想L9, L9, 旗舰SUV, 家用SUV]
-      - name: 理想MEGA
-        category: 汽车整车
-        keywords: [MEGA, 理想MEGA, 纯电MPV, 七座车]
-  - company_id: consumer_discretionary-xpeng-cn
-    company_name: 小鹏汽车
-    items:
-      - name: 小鹏P7
-        category: 汽车整车
-        keywords: [小鹏P7, P7, 电动轿跑, 智能驾驶]
-      - name: 小鹏G6
-        category: 汽车整车
-        keywords: [G6, 小鹏G6, 纯电SUV]
-      - name: 小鹏X9
-        category: 汽车整车
-        keywords: [X9, 小鹏X9, 纯电MPV]
-      - name: 小鹏MONA M03
-        category: 汽车整车
-        keywords: [MONA, M03, 小鹏MONA, 便宜电动车]
-  - company_id: consumer_discretionary-seres-cn
-    company_name: 赛力斯
-    items:
-      - name: 问界M7
-        category: 汽车整车
-        keywords: [问界M7, 问界, AITO, 华为汽车, 增程SUV]
-      - name: 问界M9
-        category: 汽车整车
-        keywords: [问界M9, M9, 旗舰SUV, 华为智选]
-      - name: 问界M5
-        category: 汽车整车
-        keywords: [问界M5, M5, 智能电动车]
-  - company_id: consumer_discretionary-haier-cn
-    company_name: 海尔智家
-    items:
-      - name: 海尔冰箱
-        category: 家电
-        keywords: [冰箱, 海尔冰箱, 对开门冰箱, 保鲜]
-      - name: 卡萨帝洗衣机
-        category: 家电
-        keywords: [洗衣机, 卡萨帝, 滚筒洗衣机, 洗烘一体]
-      - name: 海尔空调
-        category: 家电
-        keywords: [空调, 海尔空调, 挂机, 变频]
-      - name: 海尔热水器
-        category: 家电
-        keywords: [热水器, 电热水器, 海尔热水器]
-      - name: 三翼鸟智慧家庭
-        category: 家居家装
-        keywords: [全屋智能, 智慧家庭, 三翼鸟, 智能家居]
-  - company_id: consumer_discretionary-midea-cn
-    company_name: 美的集团
-    items:
-      - name: 美的空调
-        category: 家电
-        keywords: [空调, 美的空调, 美的, 变频空调]
-      - name: 美的微波炉
-        category: 家电
-        keywords: [微波炉, 美的微波炉, 光波炉]
-      - name: 小天鹅洗衣机
-        category: 家电
-        keywords: [洗衣机, 小天鹅, 滚筒, 洗烘套装]
-      - name: 美的电饭煲
-        category: 家电
-        keywords: [电饭煲, 美的电饭煲, 电饭锅]
-      - name: 美的冰箱
-        category: 家电
-        keywords: [冰箱, 美的冰箱, 对开门]
-  - company_id: consumer_discretionary-gree-cn
-    company_name: 格力电器
-    items:
-      - name: 格力空调
-        category: 家电
-        keywords: [空调, 格力空调, 格力, 好空调]
-      - name: 格力电风扇
-        category: 家电
-        keywords: [电风扇, 落地扇, 格力风扇]
-      - name: 格力冰箱
-        category: 家电
-        keywords: [冰箱, 格力冰箱, 晶弘冰箱]
-      - name: 格力空气炸锅
-        category: 家电
-        keywords: [空气炸锅, 格力小家电, 厨房电器]
-  - company_id: consumer_discretionary-anta-cn
-    company_name: 安踏体育
-    items:
-      - name: 安踏跑鞋
-        category: 鞋帽箱包
-        keywords: [跑鞋, 安踏, 跑步鞋, 运动鞋]
-      - name: 安踏篮球鞋
-        category: 鞋帽箱包
-        keywords: [篮球鞋, 安踏篮球鞋, 球鞋, KT]
-      - name: FILA运动鞋服
-        category: 服装
-        keywords: [斐乐, FILA, 运动服, 老爹鞋]
-      - name: 安踏运动服
-        category: 服装
-        keywords: [运动服, 运动裤, 安踏卫衣, 冲锋衣]
-  - company_id: consumer_discretionary-lining-cn
-    company_name: 李宁
-    items:
-      - name: 李宁韦德之道篮球鞋
-        category: 鞋帽箱包
-        keywords: [篮球鞋, 韦德之道, 李宁球鞋, 实战鞋]
-      - name: 李宁超轻跑鞋
-        category: 鞋帽箱包
-        keywords: [跑鞋, 超轻, 李宁跑鞋, 轻量跑鞋]
-      - name: 中国李宁系列服装
-        category: 服装
-        keywords: [中国李宁, 国潮, 李宁卫衣, 运动服]
-      - name: 李宁运动服
-        category: 服装
-        keywords: [运动服, 李宁, 运动裤, 羽绒服]
-  - company_id: consumer_discretionary-bosideng-cn
-    company_name: 波司登
-    items:
-      - name: 波司登羽绒服
-        category: 服装
-        keywords: [羽绒服, 波司登, 防寒服, 鹅绒服]
-      - name: 雪中飞羽绒服
-        category: 服装
-        keywords: [雪中飞, 羽绒服, 平价羽绒服]
-      - name: 波司登轻薄羽绒服
-        category: 服装
-        keywords: [轻薄羽绒服, 薄款羽绒, 波司登轻薄]
-  - company_id: consumer_discretionary-haidilao-cn
-    company_name: 海底捞
-    items:
-      - name: 海底捞火锅堂食
-        category: 餐饮美食
-        keywords: [火锅, 海底捞, 吃火锅, 聚餐]
-      - name: 海底捞外送
-        category: 餐饮美食
-        keywords: [火锅外卖, 海底捞外送, 到家火锅]
-      - name: 海底捞自热火锅
-        category: 生鲜速食
-        keywords: [自热火锅, 自热食品, 方便火锅, 速食]
-  - company_id: consumer_discretionary-trip-cn
-    company_name: 携程集团
-    items:
-      - name: 携程机票预订
-        category: 旅游出行
-        keywords: [订机票, 机票, 携程, 飞机票]
-      - name: 携程酒店预订
-        category: 酒店住宿
-        keywords: [订酒店, 酒店预订, 携程酒店, 开房]
-      - name: 携程火车票
-        category: 旅游出行
-        keywords: [火车票, 抢票, 高铁票, 携程抢票]
-      - name: 携程跟团游
-        category: 旅游出行
-        keywords: [跟团游, 旅行团, 旅游, 携程旅游]
-      - name: 携程包车/租车
-        category: 旅游出行
-        keywords: [租车, 包车, 自驾游, 携程租车]
-  - company_id: consumer_discretionary-ctgdf-cn
-    company_name: 中国中免
-    items:
-      - name: 三亚国际免税城
-        category: 其他
-        keywords: [免税店, 三亚免税, 免税城, 海南免税]
-      - name: cdf会员购
-        category: 其他
-        keywords: [cdf, 会员购, 免税商品, 线上免税]
-      - name: 日上免税行
-        category: 其他
-        keywords: [日上, 机场免税, 日上优选, 出境免税]
-  - company_id: consumer_discretionary-hworld-cn
-    company_name: 华住集团
-    items:
-      - name: 汉庭酒店
-        category: 酒店住宿
-        keywords: [汉庭, 快捷酒店, 连锁酒店, 住酒店]
-      - name: 全季酒店
-        category: 酒店住宿
-        keywords: [全季, 全季酒店, 中端酒店, 商务酒店]
-      - name: 桔子酒店
-        category: 酒店住宿
-        keywords: [桔子酒店, 桔子, 设计感酒店]
-      - name: 海友酒店
-        category: 酒店住宿
-        keywords: [海友, 海友酒店, 平价酒店, 青旅]
-  - company_id: consumer_discretionary-jinjiang-cn
-    company_name: 锦江酒店
-    items:
-      - name: 维也纳酒店
-        category: 酒店住宿
-        keywords: [维也纳酒店, 维也纳, 中端连锁酒店]
-      - name: 锦江之星
-        category: 酒店住宿
-        keywords: [锦江之星, 快捷酒店, 经济型酒店]
-      - name: 7天酒店
-        category: 酒店住宿
-        keywords: [7天, 七天酒店, 平价住宿]
-      - name: 丽笙酒店
-        category: 酒店住宿
-        keywords: [丽笙, 丽笙酒店, 高端酒店]
-  - company_id: consumer_discretionary-toyota-jp
-    company_name: Toyota Motor
-    items:
-      - name: 卡罗拉
-        category: 汽车整车
-        keywords: [卡罗拉, 丰田, 家用轿车, 省油]
-      - name: 凯美瑞
-        category: 汽车整车
-        keywords: [凯美瑞, 丰田凯美瑞, 中级车, 轿车]
-      - name: RAV4荣放
-        category: 汽车整车
-        keywords: [荣放, RAV4, 丰田SUV, 城市SUV]
-      - name: 汉兰达
-        category: 汽车整车
-        keywords: [汉兰达, 丰田汉兰达, 七座SUV, 大SUV]
-      - name: 雷克萨斯ES
-        category: 汽车整车
-        keywords: [雷克萨斯, 凌志, ES, 豪华轿车]
-  - company_id: consumer_discretionary-volkswagen-de
-    company_name: Volkswagen Group
-    items:
-      - name: 高尔夫
-        category: 汽车整车
-        keywords: [高尔夫, 大众高尔夫, 两厢车, 小钢炮]
-      - name: 帕萨特
-        category: 汽车整车
-        keywords: [帕萨特, 大众帕萨特, 中级轿车]
-      - name: 途观L
-        category: 汽车整车
-        keywords: [途观, 途观L, 大众SUV]
-      - name: 速腾
-        category: 汽车整车
-        keywords: [速腾, 大众速腾, 家轿]
-      - name: 保时捷911
-        category: 汽车整车
-        keywords: [保时捷, 911, 跑车, 保时捷跑车]
-  - company_id: consumer_discretionary-tesla-us
-    company_name: Tesla
-    items:
-      - name: Model 3
-        category: 汽车整车
-        keywords: [Model 3, 特斯拉, 毛豆3, 电动车]
-      - name: Model Y
-        category: 汽车整车
-        keywords: [Model Y, 特斯拉Y, 毛豆Y, 电动SUV]
-      - name: Model S
-        category: 汽车整车
-        keywords: [Model S, 特斯拉S, 豪华电动车]
-      - name: 特斯拉超级充电
-        category: 汽车服务
-        keywords: [超级充电, 充电桩, 特斯拉充电, 快充]
-  - company_id: consumer_discretionary-bmw-de
-    company_name: BMW Group
-    items:
-      - name: 宝马3系
-        category: 汽车整车
-        keywords: [3系, 宝马3系, 三系, 运动轿车]
-      - name: 宝马5系
-        category: 汽车整车
-        keywords: [5系, 宝马5系, 行政轿车]
-      - name: 宝马X3
-        category: 汽车整车
-        keywords: [X3, 宝马X3, 豪华SUV]
-      - name: MINI
-        category: 汽车整车
-        keywords: [MINI, 迷你, 宝马MINI, 小型车]
-  - company_id: consumer_discretionary-mercedes-de
-    company_name: Mercedes-Benz Group
-    items:
-      - name: 奔驰C级
-        category: 汽车整车
-        keywords: [C级, 奔驰C, 奔驰C级, 豪华轿车]
-      - name: 奔驰E级
-        category: 汽车整车
-        keywords: [E级, 奔驰E, 奔驰E级, 商务轿车]
-      - name: 奔驰GLC
-        category: 汽车整车
-        keywords: [GLC, 奔驰GLC, 豪华SUV]
-      - name: 迈巴赫S级
-        category: 汽车整车
-        keywords: [迈巴赫, 奔驰S级, 顶级豪车, 豪华轿车]
-  - company_id: consumer_discretionary-honda-jp
-    company_name: Honda Motor
-    items:
-      - name: 雅阁
-        category: 汽车整车
-        keywords: [雅阁, 本田雅阁, 中级车, 轿车]
-      - name: 思域
-        category: 汽车整车
-        keywords: [思域, 本田思域, 运动轿车, 小钢炮]
-      - name: CR-V
-        category: 汽车整车
-        keywords: [CRV, CR-V, 本田SUV, 城市SUV]
-      - name: 飞度
-        category: 汽车整车
-        keywords: [飞度, 本田飞度, 代步车, 小型车]
-  - company_id: consumer_discretionary-hyundai-kr
-    company_name: Hyundai Motor
-    items:
-      - name: 伊兰特
-        category: 汽车整车
-        keywords: [伊兰特, 现代伊兰特, 家用轿车]
-      - name: 途胜
-        category: 汽车整车
-        keywords: [途胜, 现代途胜, 韩系SUV]
-      - name: 索纳塔
-        category: 汽车整车
-        keywords: [索纳塔, 现代索纳塔, 中级轿车]
-      - name: ix35
-        category: 汽车整车
-        keywords: [ix35, 现代ix35, 紧凑SUV]
-  - company_id: consumer_discretionary-ford-us
-    company_name: Ford Motor
-    items:
-      - name: 蒙迪欧
-        category: 汽车整车
-        keywords: [蒙迪欧, 福特蒙迪欧, 中级轿车]
-      - name: 锐界
-        category: 汽车整车
-        keywords: [锐界, 福特锐界, 七座SUV]
-      - name: 福克斯
-        category: 汽车整车
-        keywords: [福克斯, 福特福克斯, 两厢车]
-      - name: F-150皮卡
-        category: 汽车整车
-        keywords: [F150, 福特皮卡, 猛禽, 皮卡]
-  - company_id: consumer_discretionary-gm-us
-    company_name: General Motors
-    items:
-      - name: 别克昂科威
-        category: 汽车整车
-        keywords: [昂科威, 别克, 别克SUV, 美系SUV]
-      - name: 凯迪拉克XT5
-        category: 汽车整车
-        keywords: [凯迪拉克, XT5, 凯迪拉克SUV, 豪华车]
-      - name: 雪佛兰探界者
-        category: 汽车整车
-        keywords: [探界者, 雪佛兰, 雪佛兰SUV]
-      - name: 五菱宏光
-        category: 汽车整车
-        keywords: [五菱宏光, 五菱, 神车, 面包车, MPV]
-  - company_id: consumer_discretionary-stellantis-nl
-    company_name: Stellantis
-    items:
-      - name: Jeep牧马人
-        category: 汽车整车
-        keywords: [牧马人, Jeep, 吉普, 越野车]
-      - name: 标致408
-        category: 汽车整车
-        keywords: [标致408, 标致, 法系车, 轿车]
-      - name: 雪铁龙凡尔赛C5 X
-        category: 汽车整车
-        keywords: [凡尔赛, 雪铁龙, C5X, 旅行车]
-      - name: 玛莎拉蒂Ghibli
-        category: 汽车整车
-        keywords: [玛莎拉蒂, 吉博力, 豪华车, 跑车]
-  - company_id: consumer_discretionary-nissan-jp
-    company_name: Nissan Motor
-    items:
-      - name: 轩逸
-        category: 汽车整车
-        keywords: [轩逸, 日产轩逸, 家用轿车, 省油]
-      - name: 天籁
-        category: 汽车整车
-        keywords: [天籁, 日产天籁, 中级轿车, 大沙发]
-      - name: 逍客
-        category: 汽车整车
-        keywords: [逍客, 日产逍客, 紧凑SUV]
-      - name: 奇骏
-        category: 汽车整车
-        keywords: [奇骏, 日产奇骏, SUV]
-  - company_id: consumer_discretionary-sony-jp
-    company_name: Sony Group
-    items:
-      - name: PlayStation 5
-        category: 游戏娱乐
-        keywords: [PS5, 游戏机, 索尼游戏机, 主机]
-      - name: 索尼Bravia电视
-        category: 家电
-        keywords: [索尼电视, 电视机, Bravia, 大屏电视]
-      - name: 索尼微单相机A7系列
-        category: 数码产品
-        keywords: [微单, 索尼相机, A7, 全画幅相机]
-      - name: 索尼WH-1000XM5降噪耳机
-        category: 数码产品
-        keywords: [降噪耳机, 索尼耳机, 头戴耳机, 蓝牙耳机]
-      - name: Xperia手机
-        category: 数码产品
-        keywords: [索尼手机, Xperia, 索尼手机]
-  - company_id: consumer_discretionary-samsung-kr
-    company_name: Samsung Electronics
-    items:
-      - name: Galaxy S24
-        category: 数码产品
-        keywords: [三星手机, Galaxy, S24, 安卓旗舰]
-      - name: Galaxy Z Fold5
-        category: 数码产品
-        keywords: [折叠屏, 折叠手机, 三星Fold, Fold5]
-      - name: 三星QLED电视
-        category: 家电
-        keywords: [三星电视, QLED, 电视机, 大屏]
-      - name: 三星冰箱
-        category: 家电
-        keywords: [三星冰箱, 对开门冰箱, 进口冰箱]
-  - company_id: consumer_discretionary-lg-kr
-    company_name: LG Electronics
-    items:
-      - name: LG OLED电视
-        category: 家电
-        keywords: [LG电视, OLED电视, 电视机, 大屏电视]
-      - name: LG冰箱
-        category: 家电
-        keywords: [LG冰箱, 对开门冰箱, 冰箱]
-      - name: LG洗衣机
-        category: 家电
-        keywords: [LG洗衣机, 滚筒洗衣机, 洗烘一体]
-  - company_id: consumer_discretionary-whirlpool-us
-    company_name: Whirlpool
-    items:
-      - name: 惠而浦洗衣机
-        category: 家电
-        keywords: [惠而浦, 洗衣机, 滚筒洗衣机, 洗烘]
-      - name: 惠而浦冰箱
-        category: 家电
-        keywords: [惠而浦冰箱, 冰箱, 多门冰箱]
-      - name: 惠而浦微波炉
-        category: 家电
-        keywords: [惠而浦微波炉, 微波炉, 烤箱]
-  - company_id: consumer_discretionary-electrolux-se
-    company_name: Electrolux
-    items:
-      - name: 伊莱克斯吸尘器
-        category: 家电
-        keywords: [伊莱克斯, 吸尘器, 手持吸尘器, 除螨]
-      - name: 伊莱克斯冰箱
-        category: 家电
-        keywords: [伊莱克斯冰箱, 冰箱, 嵌入式冰箱]
-      - name: 伊莱克斯烤箱
-        category: 家电
-        keywords: [伊莱克斯烤箱, 烤箱, 嵌入式烤箱]
-  - company_id: consumer_discretionary-nike-us
-    company_name: Nike
-    items:
-      - name: Air Force 1
-        category: 鞋帽箱包
-        keywords: [空军一号, AF1, 耐克板鞋, 小白鞋]
-      - name: Air Jordan 1
-        category: 鞋帽箱包
-        keywords: [AJ1, 乔丹鞋, 耐克篮球鞋, 球鞋]
-      - name: Air Max系列
-        category: 鞋帽箱包
-        keywords: [Air Max, 耐克气垫鞋, 跑步鞋, 运动鞋]
-      - name: Nike Dunk
-        category: 鞋帽箱包
-        keywords: [Dunk, 耐克Dunk, 滑板鞋, 潮鞋]
-  - company_id: consumer_discretionary-adidas-de
-    company_name: adidas
-    items:
-      - name: Superstar贝壳头
-        category: 鞋帽箱包
-        keywords: [贝壳头, Superstar, 阿迪达斯板鞋, 小白鞋]
-      - name: UltraBOOST跑鞋
-        category: 鞋帽箱包
-        keywords: [UltraBOOST, UB, 阿迪达斯跑鞋, 爆米花鞋]
-      - name: 阿迪达斯Stan Smith
-        category: 鞋帽箱包
-        keywords: [Stan Smith, 史密斯, 阿迪达斯绿尾, 板鞋]
-      - name: 阿迪达斯运动服
-        category: 服装
-        keywords: [运动服, 阿迪达斯, 三条杠, 运动裤]
-  - company_id: consumer_discretionary-lvmh-fr
-    company_name: LVMH
-    items:
-      - name: 路易威登手袋
-        category: 鞋帽箱包
-        keywords: [LV, 路易威登, 名牌包, 奢侈品包, Neverfull]
-      - name: 迪奥小姐香水
-        category: 美妆个护
-        keywords: [迪奥, Dior, 香水, 大牌香水, Miss Dior]
-      - name: 酩悦香槟
-        category: 酒水
-        keywords: [香槟, 酩悦, 起泡酒, 庆祝酒]
-      - name: 轩尼诗干邑
-        category: 酒水
-        keywords: [轩尼诗, 干邑, 洋酒, 白兰地, XO]
-      - name: 蒂芙尼钻戒
-        category: 美妆个护
-        keywords: [蒂芙尼, Tiffany, 钻戒, 银饰, 蓝盒子]
-  - company_id: consumer_discretionary-hermes-fr
-    company_name: Hermès International
-    items:
-      - name: 爱马仕铂金包
-        category: 鞋帽箱包
-        keywords: [爱马仕, 铂金包, Birkin, 名牌包, 奢侈品]
-      - name: 爱马仕凯莉包
-        category: 鞋帽箱包
-        keywords: [凯莉包, Kelly包, 爱马仕包, 手提包]
-      - name: 爱马仕丝巾
-        category: 服装
-        keywords: [爱马仕丝巾, 丝巾, 真丝丝巾]
-      - name: 爱马仕大地香水
-        category: 美妆个护
-        keywords: [大地香水, 爱马仕香水, 男香, 木质香]
-  - company_id: consumer_discretionary-inditex-es
-    company_name: Inditex
-    items:
-      - name: Zara服装
-        category: 服装
-        keywords: [Zara, 快时尚, 女装, 潮流服装]
-      - name: Zara Home家居
-        category: 家居家装
-        keywords: [Zara Home, 家居用品, 床上四件套, 餐具]
-      - name: Massimo Dutti
-        category: 服装
-        keywords: [Massimo Dutti, 麦西姆杜特, 商务休闲, 通勤装]
-      - name: Bershka
-        category: 服装
-        keywords: [Bershka, 年轻女装, 潮牌, 快时尚]
-  - company_id: consumer_discretionary-hm-se
-    company_name: H&M Group
-    items:
-      - name: H&M服装
-        category: 服装
-        keywords: [HM, H&M, 快时尚, 平价女装]
-      - name: COS
-        category: 服装
-        keywords: [COS, 极简风, 高级感穿搭, 通勤装]
-      - name: Arket
-        category: 服装
-        keywords: [Arket, 北欧风, 简约服装, 基础款]
-  - company_id: consumer_discretionary-fastretailing-jp
-    company_name: Fast Retailing
-    items:
-      - name: 优衣库
-        category: 服装
-        keywords: [优衣库, 基础款, 平价服装, 打底衫]
-      - name: 优衣库摇粒绒外套
-        category: 服装
-        keywords: [摇粒绒, 优衣库摇粒绒, 抓绒外套]
-      - name: 优衣库HEATTECH保暖内衣
-        category: 服装
-        keywords: [保暖内衣, 优衣库内衣, HEATTECH, 秋衣秋裤]
-      - name: GU极优
-        category: 服装
-        keywords: [GU, 极优, 平价女装, 日系服装]
-  - company_id: consumer_discretionary-mcdonalds-us
-    company_name: McDonald's
-    items:
-      - name: 巨无霸汉堡
-        category: 餐饮美食
-        keywords: [麦当劳, 汉堡, 巨无霸, 快餐]
-      - name: 麦辣鸡腿堡
-        category: 餐饮美食
-        keywords: [麦辣鸡腿堡, 鸡腿堡, 辣堡]
-      - name: 麦乐鸡
-        category: 餐饮美食
-        keywords: [麦乐鸡, 鸡块, 炸鸡块, 小吃]
-      - name: 薯条
-        category: 餐饮美食
-        keywords: [薯条, 麦当劳薯条, 炸薯条]
-      - name: 麦咖啡
-        category: 餐饮美食
-        keywords: [麦咖啡, 麦当劳咖啡, 拿铁, 平价咖啡]
-  - company_id: consumer_discretionary-starbucks-us
-    company_name: Starbucks
-    items:
-      - name: 拿铁咖啡
-        category: 餐饮美食
-        keywords: [星巴克, 拿铁, 咖啡, 喝咖啡]
-      - name: 星冰乐
-        category: 餐饮美食
-        keywords: [星冰乐, 冰沙, 星巴克冰饮, Frappuccino]
-      - name: 焦糖玛奇朵
-        category: 餐饮美食
-        keywords: [焦糖玛奇朵, 玛奇朵, 花式咖啡]
-      - name: 冷萃咖啡
-        category: 餐饮美食
-        keywords: [冷萃, 冷萃咖啡, 冰咖啡, 黑咖啡]
-  - company_id: consumer_discretionary-yum-us
-    company_name: Yum! Brands
-    items:
-      - name: 肯德基吮指原味鸡
-        category: 餐饮美食
-        keywords: [肯德基, KFC, 炸鸡, 原味鸡]
-      - name: 肯德基全家桶
-        category: 餐饮美食
-        keywords: [全家桶, 肯德基套餐, 桶餐, 聚餐]
-      - name: 必胜客披萨
-        category: 餐饮美食
-        keywords: [必胜客, 披萨, 比萨, 意面]
-      - name: 必胜客外送
-        category: 餐饮美食
-        keywords: [披萨外卖, 必胜客外送, 宅急送]
-  - company_id: consumer_discretionary-marriott-us
-    company_name: Marriott International
-    items:
-      - name: 万豪酒店
-        category: 酒店住宿
-        keywords: [万豪, 万豪酒店, 五星酒店, 商务酒店]
-      - name: 丽思卡尔顿酒店
-        category: 酒店住宿
-        keywords: [丽思卡尔顿, ritz, 奢华酒店, 顶级酒店]
-      - name: 喜来登酒店
-        category: 酒店住宿
-        keywords: [喜来登, 喜来登酒店, 高端酒店]
-      - name: W酒店
-        category: 酒店住宿
-        keywords: [W酒店, 潮牌酒店, 设计师酒店]
-      - name: 万豪旅享家
-        category: 酒店住宿
-        keywords: [万豪会员, 旅享家, 酒店积分, 会员卡]
-  - company_id: consumer_discretionary-hilton-us
-    company_name: Hilton Worldwide
-    items:
-      - name: 希尔顿酒店
-        category: 酒店住宿
-        keywords: [希尔顿, 希尔顿酒店, 五星酒店, 商务酒店]
-      - name: 华尔道夫酒店
-        category: 酒店住宿
-        keywords: [华尔道夫, 奢华酒店, 顶级酒店]
-      - name: 康莱德酒店
-        category: 酒店住宿
-        keywords: [康莱德, 高端酒店, 五星级酒店]
-      - name: 希尔顿欢朋酒店
-        category: 酒店住宿
-        keywords: [欢朋, 希尔顿欢朋, 中端酒店]
-  - company_id: consumer_discretionary-booking-us
-    company_name: Booking Holdings
-    items:
-      - name: Booking.com酒店预订
-        category: 酒店住宿
-        keywords: [Booking, 缤客, 订酒店, 海外酒店]
-      - name: Priceline机票预订
-        category: 旅游出行
-        keywords: [Priceline, 订机票, 国际机票, 特价机票]
-      - name: OpenTable餐厅订位
-        category: 餐饮美食
-        keywords: [OpenTable, 餐厅订位, 订座, 海外餐厅]
-  - company_id: consumer_discretionary-airbnb-us
-    company_name: Airbnb
-    items:
-      - name: Airbnb民宿短租
-        category: 酒店住宿
-        keywords: [爱彼迎, Airbnb, 民宿, 短租, 特色住宿]
-      - name: Airbnb体验
-        category: 旅游出行
-        keywords: [当地体验, Airbnb体验, 特色活动, 城市漫游]
-      - name: Airbnb长租
-        category: 酒店住宿
-        keywords: [爱彼迎长租, 月租民宿, 旅居, 远程办公住宿]
-  - company_id: consumer_discretionary-disney-us
-    company_name: Walt Disney
-    items:
-      - name: 上海迪士尼乐园门票
-        category: 旅游出行
-        keywords: [迪士尼, 迪士尼乐园, 迪士尼门票, 游乐园, 亲子游]
-      - name: 迪士尼动画电影
-        category: 影视视频
-        keywords: [迪士尼电影, 动画电影, 皮克斯, 漫威电影]
-      - name: 迪士尼周边商品
-        category: 其他
-        keywords: [迪士尼玩偶, 米奇, 周边, 玲娜贝儿, 星黛露]
-      - name: 迪士尼邮轮
-        category: 旅游出行
-        keywords: [迪士尼邮轮, 游轮, 海上度假, 家庭旅行]
+- company_id: consumer_discretionary-byd-cn
+  company_name: 比亚迪
+  items:
+  - name: 汉EV
+    category: 汽车整车
+    keywords:
+    - 比亚迪汉
+    - 汉
+    - 电动车
+    - 新能源车
+  - name: 海豚
+    category: 汽车整车
+    keywords:
+    - 海豚
+    - 比亚迪海豚
+    - 代步车
+    - 纯电车
+  - name: 宋PLUS DM-i
+    category: 汽车整车
+    keywords:
+    - 宋PLUS
+    - 插混
+    - 混动SUV
+    - 比亚迪宋
+  - name: 唐DM-p
+    category: 汽车整车
+    keywords:
+    - 比亚迪唐
+    - 唐
+    - 七座SUV
+    - 混动
+  - name: 海鸥
+    category: 汽车整车
+    keywords:
+    - 海鸥
+    - 比亚迪海鸥
+    - 小型电动车
+    - 买菜车
+  - name: 海豹
+    category: 汽车整车
+    keywords:
+    - 海豹
+    - 比亚迪海豹
+    - 纯电轿车
+- company_id: consumer_discretionary-saic-cn
+  company_name: 上汽集团
+  items:
+  - name: 荣威RX5
+    category: 汽车整车
+    keywords:
+    - 荣威
+    - RX5
+    - 国产SUV
+  - name: 名爵MG5
+    category: 汽车整车
+    keywords:
+    - 名爵
+    - MG5
+    - 轿车
+  - name: 大众朗逸
+    category: 汽车整车
+    keywords:
+    - 朗逸
+    - 大众
+    - 家用轿车
+  - name: 别克GL8
+    category: 汽车整车
+    keywords:
+    - GL8
+    - 别克
+    - 商务车
+    - MPV
+  - name: 智己L7
+    category: 汽车整车
+    keywords:
+    - 智己
+    - L7
+    - 智能电动车
+- company_id: consumer_discretionary-geely-cn
+  company_name: 吉利汽车
+  items:
+  - name: 星越L
+    category: 汽车整车
+    keywords:
+    - 星越L
+    - 吉利
+    - SUV
+  - name: 博越L
+    category: 汽车整车
+    keywords:
+    - 博越
+    - 博越L
+    - 吉利SUV
+  - name: 帝豪
+    category: 汽车整车
+    keywords:
+    - 帝豪
+    - 吉利帝豪
+    - 家用轿车
+  - name: 极氪001
+    category: 汽车整车
+    keywords:
+    - 极氪
+    - 1
+    - 极氪汽车
+    - 猎装车
+  - name: 领克03
+    category: 汽车整车
+    keywords:
+    - 领克
+    - 领克03
+    - 运动轿车
+- company_id: consumer_discretionary-gwm-cn
+  company_name: 长城汽车
+  items:
+  - name: 哈弗H6
+    category: 汽车整车
+    keywords:
+    - 哈弗H6
+    - 哈弗
+    - H6
+    - 国产SUV
+  - name: 坦克300
+    category: 汽车整车
+    keywords:
+    - 坦克300
+    - 坦克
+    - 越野车
+    - 硬派SUV
+  - name: 欧拉好猫
+    category: 汽车整车
+    keywords:
+    - 欧拉好猫
+    - 欧拉
+    - 女性电动车
+    - 复古车
+  - name: 魏牌蓝山
+    category: 汽车整车
+    keywords:
+    - 魏牌
+    - 蓝山
+    - 混动SUV
+    - 六座SUV
+- company_id: consumer_discretionary-nio-cn
+  company_name: 蔚来
+  items:
+  - name: 蔚来ET5
+    category: 汽车整车
+    keywords:
+    - ET5
+    - 蔚来
+    - 换电
+    - 电动轿车
+  - name: 蔚来ES6
+    category: 汽车整车
+    keywords:
+    - ES6
+    - 蔚来ES6
+    - 电动SUV
+  - name: 蔚来ET7
+    category: 汽车整车
+    keywords:
+    - ET7
+    - 蔚来ET7
+    - 旗舰轿车
+  - name: 蔚来换电服务
+    category: 汽车服务
+    keywords:
+    - 换电
+    - 换电站
+    - 蔚来换电
+    - 电池租用
+- company_id: consumer_discretionary-liauto-cn
+  company_name: 理想汽车
+  items:
+  - name: 理想L7
+    category: 汽车整车
+    keywords:
+    - 理想L7
+    - L7
+    - 增程
+    - 大五座SUV
+  - name: 理想L8
+    category: 汽车整车
+    keywords:
+    - 理想L8
+    - L8
+    - 六座SUV
+    - 奶爸车
+  - name: 理想L9
+    category: 汽车整车
+    keywords:
+    - 理想L9
+    - L9
+    - 旗舰SUV
+    - 家用SUV
+  - name: 理想MEGA
+    category: 汽车整车
+    keywords:
+    - MEGA
+    - 理想MEGA
+    - 纯电MPV
+    - 七座车
+- company_id: consumer_discretionary-xpeng-cn
+  company_name: 小鹏汽车
+  items:
+  - name: 小鹏P7
+    category: 汽车整车
+    keywords:
+    - 小鹏P7
+    - P7
+    - 电动轿跑
+    - 智能驾驶
+  - name: 小鹏G6
+    category: 汽车整车
+    keywords:
+    - G6
+    - 小鹏G6
+    - 纯电SUV
+  - name: 小鹏X9
+    category: 汽车整车
+    keywords:
+    - X9
+    - 小鹏X9
+    - 纯电MPV
+  - name: 小鹏MONA M03
+    category: 汽车整车
+    keywords:
+    - MONA
+    - M03
+    - 小鹏MONA
+    - 便宜电动车
+- company_id: consumer_discretionary-seres-cn
+  company_name: 赛力斯
+  items:
+  - name: 问界M7
+    category: 汽车整车
+    keywords:
+    - 问界M7
+    - 问界
+    - AITO
+    - 华为汽车
+    - 增程SUV
+  - name: 问界M9
+    category: 汽车整车
+    keywords:
+    - 问界M9
+    - M9
+    - 旗舰SUV
+    - 华为智选
+  - name: 问界M5
+    category: 汽车整车
+    keywords:
+    - 问界M5
+    - M5
+    - 智能电动车
+- company_id: consumer_discretionary-haier-cn
+  company_name: 海尔智家
+  items:
+  - name: 海尔冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 海尔冰箱
+    - 对开门冰箱
+    - 保鲜
+  - name: 卡萨帝洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 卡萨帝
+    - 滚筒洗衣机
+    - 洗烘一体
+  - name: 海尔空调
+    category: 家电
+    keywords:
+    - 空调
+    - 海尔空调
+    - 挂机
+    - 变频
+  - name: 海尔热水器
+    category: 家电
+    keywords:
+    - 热水器
+    - 电热水器
+    - 海尔热水器
+  - name: 三翼鸟智慧家庭
+    category: 家居家装
+    keywords:
+    - 全屋智能
+    - 智慧家庭
+    - 三翼鸟
+    - 智能家居
+- company_id: consumer_discretionary-midea-cn
+  company_name: 美的集团
+  items:
+  - name: 美的空调
+    category: 家电
+    keywords:
+    - 空调
+    - 美的空调
+    - 美的
+    - 变频空调
+  - name: 美的微波炉
+    category: 家电
+    keywords:
+    - 微波炉
+    - 美的微波炉
+    - 光波炉
+  - name: 小天鹅洗衣机
+    category: 家电
+    keywords:
+    - 洗衣机
+    - 小天鹅
+    - 滚筒
+    - 洗烘套装
+  - name: 美的电饭煲
+    category: 家电
+    keywords:
+    - 电饭煲
+    - 美的电饭煲
+    - 电饭锅
+  - name: 美的冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 美的冰箱
+    - 对开门
+- company_id: consumer_discretionary-gree-cn
+  company_name: 格力电器
+  items:
+  - name: 格力空调
+    category: 家电
+    keywords:
+    - 空调
+    - 格力空调
+    - 格力
+    - 好空调
+  - name: 格力电风扇
+    category: 家电
+    keywords:
+    - 电风扇
+    - 落地扇
+    - 格力风扇
+  - name: 格力冰箱
+    category: 家电
+    keywords:
+    - 冰箱
+    - 格力冰箱
+    - 晶弘冰箱
+  - name: 格力空气炸锅
+    category: 家电
+    keywords:
+    - 空气炸锅
+    - 格力小家电
+    - 厨房电器
+- company_id: consumer_discretionary-anta-cn
+  company_name: 安踏体育
+  items:
+  - name: 安踏跑鞋
+    category: 鞋帽箱包
+    keywords:
+    - 跑鞋
+    - 安踏
+    - 跑步鞋
+    - 运动鞋
+  - name: 安踏篮球鞋
+    category: 鞋帽箱包
+    keywords:
+    - 篮球鞋
+    - 安踏篮球鞋
+    - 球鞋
+    - KT
+  - name: FILA运动鞋服
+    category: 服装
+    keywords:
+    - 斐乐
+    - FILA
+    - 运动服
+    - 老爹鞋
+  - name: 安踏运动服
+    category: 服装
+    keywords:
+    - 运动服
+    - 运动裤
+    - 安踏卫衣
+    - 冲锋衣
+- company_id: consumer_discretionary-lining-cn
+  company_name: 李宁
+  items:
+  - name: 李宁韦德之道篮球鞋
+    category: 鞋帽箱包
+    keywords:
+    - 篮球鞋
+    - 韦德之道
+    - 李宁球鞋
+    - 实战鞋
+  - name: 李宁超轻跑鞋
+    category: 鞋帽箱包
+    keywords:
+    - 跑鞋
+    - 超轻
+    - 李宁跑鞋
+    - 轻量跑鞋
+  - name: 中国李宁系列服装
+    category: 服装
+    keywords:
+    - 中国李宁
+    - 国潮
+    - 李宁卫衣
+    - 运动服
+  - name: 李宁运动服
+    category: 服装
+    keywords:
+    - 运动服
+    - 李宁
+    - 运动裤
+    - 羽绒服
+- company_id: consumer_discretionary-bosideng-cn
+  company_name: 波司登
+  items:
+  - name: 波司登羽绒服
+    category: 服装
+    keywords:
+    - 羽绒服
+    - 波司登
+    - 防寒服
+    - 鹅绒服
+  - name: 雪中飞羽绒服
+    category: 服装
+    keywords:
+    - 雪中飞
+    - 羽绒服
+    - 平价羽绒服
+  - name: 波司登轻薄羽绒服
+    category: 服装
+    keywords:
+    - 轻薄羽绒服
+    - 薄款羽绒
+    - 波司登轻薄
+- company_id: consumer_discretionary-haidilao-cn
+  company_name: 海底捞
+  items:
+  - name: 海底捞火锅堂食
+    category: 餐饮美食
+    keywords:
+    - 火锅
+    - 海底捞
+    - 吃火锅
+    - 聚餐
+  - name: 海底捞外送
+    category: 餐饮美食
+    keywords:
+    - 火锅外卖
+    - 海底捞外送
+    - 到家火锅
+  - name: 海底捞自热火锅
+    category: 生鲜速食
+    keywords:
+    - 自热火锅
+    - 自热食品
+    - 方便火锅
+    - 速食
+- company_id: consumer_discretionary-trip-cn
+  company_name: 携程集团
+  items:
+  - name: 携程机票预订
+    category: 旅游出行
+    keywords:
+    - 订机票
+    - 机票
+    - 携程
+    - 飞机票
+  - name: 携程酒店预订
+    category: 酒店住宿
+    keywords:
+    - 订酒店
+    - 酒店预订
+    - 携程酒店
+    - 开房
+  - name: 携程火车票
+    category: 旅游出行
+    keywords:
+    - 火车票
+    - 抢票
+    - 高铁票
+    - 携程抢票
+  - name: 携程跟团游
+    category: 旅游出行
+    keywords:
+    - 跟团游
+    - 旅行团
+    - 旅游
+    - 携程旅游
+  - name: 携程包车/租车
+    category: 旅游出行
+    keywords:
+    - 租车
+    - 包车
+    - 自驾游
+    - 携程租车
+- company_id: consumer_discretionary-ctgdf-cn
+  company_name: 中国中免
+  items:
+  - name: 三亚国际免税城
+    category: 其他
+    keywords:
+    - 免税店
+    - 三亚免税
+    - 免税城
+    - 海南免税
+  - name: cdf会员购
+    category: 其他
+    keywords:
+    - cdf
+    - 会员购
+    - 免税商品
+    - 线上免税
+  - name: 日上免税行
+    category: 其他
+    keywords:
+    - 日上
+    - 机场免税
+    - 日上优选
+    - 出境免税
+- company_id: consumer_discretionary-hworld-cn
+  company_name: 华住集团
+  items:
+  - name: 汉庭酒店
+    category: 酒店住宿
+    keywords:
+    - 汉庭
+    - 快捷酒店
+    - 连锁酒店
+    - 住酒店
+  - name: 全季酒店
+    category: 酒店住宿
+    keywords:
+    - 全季
+    - 全季酒店
+    - 中端酒店
+    - 商务酒店
+  - name: 桔子酒店
+    category: 酒店住宿
+    keywords:
+    - 桔子酒店
+    - 桔子
+    - 设计感酒店
+  - name: 海友酒店
+    category: 酒店住宿
+    keywords:
+    - 海友
+    - 海友酒店
+    - 平价酒店
+    - 青旅
+- company_id: consumer_discretionary-jinjiang-cn
+  company_name: 锦江酒店
+  items:
+  - name: 维也纳酒店
+    category: 酒店住宿
+    keywords:
+    - 维也纳酒店
+    - 维也纳
+    - 中端连锁酒店
+  - name: 锦江之星
+    category: 酒店住宿
+    keywords:
+    - 锦江之星
+    - 快捷酒店
+    - 经济型酒店
+  - name: 7天酒店
+    category: 酒店住宿
+    keywords:
+    - 7天
+    - 七天酒店
+    - 平价住宿
+  - name: 丽笙酒店
+    category: 酒店住宿
+    keywords:
+    - 丽笙
+    - 丽笙酒店
+    - 高端酒店
+- company_id: consumer_discretionary-toyota-jp
+  company_name: Toyota Motor
+  items:
+  - name: 卡罗拉
+    category: 汽车整车
+    keywords:
+    - 卡罗拉
+    - 丰田
+    - 家用轿车
+    - 省油
+  - name: 凯美瑞
+    category: 汽车整车
+    keywords:
+    - 凯美瑞
+    - 丰田凯美瑞
+    - 中级车
+    - 轿车
+  - name: RAV4荣放
+    category: 汽车整车
+    keywords:
+    - 荣放
+    - RAV4
+    - 丰田SUV
+    - 城市SUV
+  - name: 汉兰达
+    category: 汽车整车
+    keywords:
+    - 汉兰达
+    - 丰田汉兰达
+    - 七座SUV
+    - 大SUV
+  - name: 雷克萨斯ES
+    category: 汽车整车
+    keywords:
+    - 雷克萨斯
+    - 凌志
+    - ES
+    - 豪华轿车
+- company_id: consumer_discretionary-volkswagen-de
+  company_name: Volkswagen Group
+  items:
+  - name: 高尔夫
+    category: 汽车整车
+    keywords:
+    - 高尔夫
+    - 大众高尔夫
+    - 两厢车
+    - 小钢炮
+  - name: 帕萨特
+    category: 汽车整车
+    keywords:
+    - 帕萨特
+    - 大众帕萨特
+    - 中级轿车
+  - name: 途观L
+    category: 汽车整车
+    keywords:
+    - 途观
+    - 途观L
+    - 大众SUV
+  - name: 速腾
+    category: 汽车整车
+    keywords:
+    - 速腾
+    - 大众速腾
+    - 家轿
+  - name: 保时捷911
+    category: 汽车整车
+    keywords:
+    - 保时捷
+    - 911
+    - 跑车
+    - 保时捷跑车
+- company_id: consumer_discretionary-tesla-us
+  company_name: Tesla
+  items:
+  - name: Model 3
+    category: 汽车整车
+    keywords:
+    - Model 3
+    - 特斯拉
+    - 毛豆3
+    - 电动车
+  - name: Model Y
+    category: 汽车整车
+    keywords:
+    - Model Y
+    - 特斯拉Y
+    - 毛豆Y
+    - 电动SUV
+  - name: Model S
+    category: 汽车整车
+    keywords:
+    - Model S
+    - 特斯拉S
+    - 豪华电动车
+  - name: 特斯拉超级充电
+    category: 汽车服务
+    keywords:
+    - 超级充电
+    - 充电桩
+    - 特斯拉充电
+    - 快充
+- company_id: consumer_discretionary-bmw-de
+  company_name: BMW Group
+  items:
+  - name: 宝马3系
+    category: 汽车整车
+    keywords:
+    - 3系
+    - 宝马3系
+    - 三系
+    - 运动轿车
+  - name: 宝马5系
+    category: 汽车整车
+    keywords:
+    - 5系
+    - 宝马5系
+    - 行政轿车
+  - name: 宝马X3
+    category: 汽车整车
+    keywords:
+    - X3
+    - 宝马X3
+    - 豪华SUV
+  - name: MINI
+    category: 汽车整车
+    keywords:
+    - MINI
+    - 迷你
+    - 宝马MINI
+    - 小型车
+- company_id: consumer_discretionary-mercedes-de
+  company_name: Mercedes-Benz Group
+  items:
+  - name: 奔驰C级
+    category: 汽车整车
+    keywords:
+    - C级
+    - 奔驰C
+    - 奔驰C级
+    - 豪华轿车
+  - name: 奔驰E级
+    category: 汽车整车
+    keywords:
+    - E级
+    - 奔驰E
+    - 奔驰E级
+    - 商务轿车
+  - name: 奔驰GLC
+    category: 汽车整车
+    keywords:
+    - GLC
+    - 奔驰GLC
+    - 豪华SUV
+  - name: 迈巴赫S级
+    category: 汽车整车
+    keywords:
+    - 迈巴赫
+    - 奔驰S级
+    - 顶级豪车
+    - 豪华轿车
+- company_id: consumer_discretionary-honda-jp
+  company_name: Honda Motor
+  items:
+  - name: 雅阁
+    category: 汽车整车
+    keywords:
+    - 雅阁
+    - 本田雅阁
+    - 中级车
+    - 轿车
+  - name: 思域
+    category: 汽车整车
+    keywords:
+    - 思域
+    - 本田思域
+    - 运动轿车
+    - 小钢炮
+  - name: CR-V
+    category: 汽车整车
+    keywords:
+    - CRV
+    - CR-V
+    - 本田SUV
+    - 城市SUV
+  - name: 飞度
+    category: 汽车整车
+    keywords:
+    - 飞度
+    - 本田飞度
+    - 代步车
+    - 小型车
+- company_id: consumer_discretionary-hyundai-kr
+  company_name: Hyundai Motor
+  items:
+  - name: 伊兰特
+    category: 汽车整车
+    keywords:
+    - 伊兰特
+    - 现代伊兰特
+    - 家用轿车
+  - name: 途胜
+    category: 汽车整车
+    keywords:
+    - 途胜
+    - 现代途胜
+    - 韩系SUV
+  - name: 索纳塔
+    category: 汽车整车
+    keywords:
+    - 索纳塔
+    - 现代索纳塔
+    - 中级轿车
+  - name: ix35
+    category: 汽车整车
+    keywords:
+    - ix35
+    - 现代ix35
+    - 紧凑SUV
+- company_id: consumer_discretionary-ford-us
+  company_name: Ford Motor
+  items:
+  - name: 蒙迪欧
+    category: 汽车整车
+    keywords:
+    - 蒙迪欧
+    - 福特蒙迪欧
+    - 中级轿车
+  - name: 锐界
+    category: 汽车整车
+    keywords:
+    - 锐界
+    - 福特锐界
+    - 七座SUV
+  - name: 福克斯
+    category: 汽车整车
+    keywords:
+    - 福克斯
+    - 福特福克斯
+    - 两厢车
+  - name: F-150皮卡
+    category: 汽车整车
+    keywords:
+    - F150
+    - 福特皮卡
+    - 猛禽
+    - 皮卡
+- company_id: consumer_discretionary-gm-us
+  company_name: General Motors
+  items:
+  - name: 别克昂科威
+    category: 汽车整车
+    keywords:
+    - 昂科威
+    - 别克
+    - 别克SUV
+    - 美系SUV
+  - name: 凯迪拉克XT5
+    category: 汽车整车
+    keywords:
+    - 凯迪拉克
+    - XT5
+    - 凯迪拉克SUV
+    - 豪华车
+  - name: 雪佛兰探界者
+    category: 汽车整车
+    keywords:
+    - 探界者
+    - 雪佛兰
+    - 雪佛兰SUV
+  - name: 五菱宏光
+    category: 汽车整车
+    keywords:
+    - 五菱宏光
+    - 五菱
+    - 神车
+    - 面包车
+    - MPV
+- company_id: consumer_discretionary-stellantis-nl
+  company_name: Stellantis
+  items:
+  - name: Jeep牧马人
+    category: 汽车整车
+    keywords:
+    - 牧马人
+    - Jeep
+    - 吉普
+    - 越野车
+  - name: 标致408
+    category: 汽车整车
+    keywords:
+    - 标致408
+    - 标致
+    - 法系车
+    - 轿车
+  - name: 雪铁龙凡尔赛C5 X
+    category: 汽车整车
+    keywords:
+    - 凡尔赛
+    - 雪铁龙
+    - C5X
+    - 旅行车
+  - name: 玛莎拉蒂Ghibli
+    category: 汽车整车
+    keywords:
+    - 玛莎拉蒂
+    - 吉博力
+    - 豪华车
+    - 跑车
+- company_id: consumer_discretionary-nissan-jp
+  company_name: Nissan Motor
+  items:
+  - name: 轩逸
+    category: 汽车整车
+    keywords:
+    - 轩逸
+    - 日产轩逸
+    - 家用轿车
+    - 省油
+  - name: 天籁
+    category: 汽车整车
+    keywords:
+    - 天籁
+    - 日产天籁
+    - 中级轿车
+    - 大沙发
+  - name: 逍客
+    category: 汽车整车
+    keywords:
+    - 逍客
+    - 日产逍客
+    - 紧凑SUV
+  - name: 奇骏
+    category: 汽车整车
+    keywords:
+    - 奇骏
+    - 日产奇骏
+    - SUV
+- company_id: communication-services-sony-jp
+  company_name: Sony Group
+  items:
+  - name: PlayStation 5
+    category: 游戏娱乐
+    keywords:
+    - PS5
+    - 游戏机
+    - 索尼游戏机
+    - 主机
+  - name: 索尼Bravia电视
+    category: 家电
+    keywords:
+    - 索尼电视
+    - 电视机
+    - Bravia
+    - 大屏电视
+  - name: 索尼微单相机A7系列
+    category: 数码产品
+    keywords:
+    - 微单
+    - 索尼相机
+    - A7
+    - 全画幅相机
+  - name: 索尼WH-1000XM5降噪耳机
+    category: 数码产品
+    keywords:
+    - 降噪耳机
+    - 索尼耳机
+    - 头戴耳机
+    - 蓝牙耳机
+  - name: Xperia手机
+    category: 数码产品
+    keywords:
+    - 索尼手机
+    - Xperia
+    - 索尼手机
+- company_id: consumer_discretionary-samsung-kr
+  company_name: Samsung Electronics
+  items:
+  - name: Galaxy S24
+    category: 数码产品
+    keywords:
+    - 三星手机
+    - Galaxy
+    - S24
+    - 安卓旗舰
+  - name: Galaxy Z Fold5
+    category: 数码产品
+    keywords:
+    - 折叠屏
+    - 折叠手机
+    - 三星Fold
+    - Fold5
+  - name: 三星QLED电视
+    category: 家电
+    keywords:
+    - 三星电视
+    - QLED
+    - 电视机
+    - 大屏
+  - name: 三星冰箱
+    category: 家电
+    keywords:
+    - 三星冰箱
+    - 对开门冰箱
+    - 进口冰箱
+- company_id: consumer_discretionary-lg-kr
+  company_name: LG Electronics
+  items:
+  - name: LG OLED电视
+    category: 家电
+    keywords:
+    - LG电视
+    - OLED电视
+    - 电视机
+    - 大屏电视
+  - name: LG冰箱
+    category: 家电
+    keywords:
+    - LG冰箱
+    - 对开门冰箱
+    - 冰箱
+  - name: LG洗衣机
+    category: 家电
+    keywords:
+    - LG洗衣机
+    - 滚筒洗衣机
+    - 洗烘一体
+- company_id: consumer_discretionary-whirlpool-us
+  company_name: Whirlpool
+  items:
+  - name: 惠而浦洗衣机
+    category: 家电
+    keywords:
+    - 惠而浦
+    - 洗衣机
+    - 滚筒洗衣机
+    - 洗烘
+  - name: 惠而浦冰箱
+    category: 家电
+    keywords:
+    - 惠而浦冰箱
+    - 冰箱
+    - 多门冰箱
+  - name: 惠而浦微波炉
+    category: 家电
+    keywords:
+    - 惠而浦微波炉
+    - 微波炉
+    - 烤箱
+- company_id: consumer_discretionary-electrolux-se
+  company_name: Electrolux
+  items:
+  - name: 伊莱克斯吸尘器
+    category: 家电
+    keywords:
+    - 伊莱克斯
+    - 吸尘器
+    - 手持吸尘器
+    - 除螨
+  - name: 伊莱克斯冰箱
+    category: 家电
+    keywords:
+    - 伊莱克斯冰箱
+    - 冰箱
+    - 嵌入式冰箱
+  - name: 伊莱克斯烤箱
+    category: 家电
+    keywords:
+    - 伊莱克斯烤箱
+    - 烤箱
+    - 嵌入式烤箱
+- company_id: consumer_discretionary-nike-us
+  company_name: Nike
+  items:
+  - name: Air Force 1
+    category: 鞋帽箱包
+    keywords:
+    - 空军一号
+    - AF1
+    - 耐克板鞋
+    - 小白鞋
+  - name: Air Jordan 1
+    category: 鞋帽箱包
+    keywords:
+    - AJ1
+    - 乔丹鞋
+    - 耐克篮球鞋
+    - 球鞋
+  - name: Air Max系列
+    category: 鞋帽箱包
+    keywords:
+    - Air Max
+    - 耐克气垫鞋
+    - 跑步鞋
+    - 运动鞋
+  - name: Nike Dunk
+    category: 鞋帽箱包
+    keywords:
+    - Dunk
+    - 耐克Dunk
+    - 滑板鞋
+    - 潮鞋
+- company_id: consumer_discretionary-adidas-de
+  company_name: adidas
+  items:
+  - name: Superstar贝壳头
+    category: 鞋帽箱包
+    keywords:
+    - 贝壳头
+    - Superstar
+    - 阿迪达斯板鞋
+    - 小白鞋
+  - name: UltraBOOST跑鞋
+    category: 鞋帽箱包
+    keywords:
+    - UltraBOOST
+    - UB
+    - 阿迪达斯跑鞋
+    - 爆米花鞋
+  - name: 阿迪达斯Stan Smith
+    category: 鞋帽箱包
+    keywords:
+    - Stan Smith
+    - 史密斯
+    - 阿迪达斯绿尾
+    - 板鞋
+  - name: 阿迪达斯运动服
+    category: 服装
+    keywords:
+    - 运动服
+    - 阿迪达斯
+    - 三条杠
+    - 运动裤
+- company_id: consumer_discretionary-lvmh-fr
+  company_name: LVMH
+  items:
+  - name: 路易威登手袋
+    category: 鞋帽箱包
+    keywords:
+    - LV
+    - 路易威登
+    - 名牌包
+    - 奢侈品包
+    - Neverfull
+  - name: 迪奥小姐香水
+    category: 美妆个护
+    keywords:
+    - 迪奥
+    - Dior
+    - 香水
+    - 大牌香水
+    - Miss Dior
+  - name: 酩悦香槟
+    category: 酒水
+    keywords:
+    - 香槟
+    - 酩悦
+    - 起泡酒
+    - 庆祝酒
+  - name: 轩尼诗干邑
+    category: 酒水
+    keywords:
+    - 轩尼诗
+    - 干邑
+    - 洋酒
+    - 白兰地
+    - XO
+  - name: 蒂芙尼钻戒
+    category: 美妆个护
+    keywords:
+    - 蒂芙尼
+    - Tiffany
+    - 钻戒
+    - 银饰
+    - 蓝盒子
+- company_id: consumer_discretionary-hermes-fr
+  company_name: Hermès International
+  items:
+  - name: 爱马仕铂金包
+    category: 鞋帽箱包
+    keywords:
+    - 爱马仕
+    - 铂金包
+    - Birkin
+    - 名牌包
+    - 奢侈品
+  - name: 爱马仕凯莉包
+    category: 鞋帽箱包
+    keywords:
+    - 凯莉包
+    - Kelly包
+    - 爱马仕包
+    - 手提包
+  - name: 爱马仕丝巾
+    category: 服装
+    keywords:
+    - 爱马仕丝巾
+    - 丝巾
+    - 真丝丝巾
+  - name: 爱马仕大地香水
+    category: 美妆个护
+    keywords:
+    - 大地香水
+    - 爱马仕香水
+    - 男香
+    - 木质香
+- company_id: consumer_discretionary-inditex-es
+  company_name: Inditex
+  items:
+  - name: Zara服装
+    category: 服装
+    keywords:
+    - Zara
+    - 快时尚
+    - 女装
+    - 潮流服装
+  - name: Zara Home家居
+    category: 家居家装
+    keywords:
+    - Zara Home
+    - 家居用品
+    - 床上四件套
+    - 餐具
+  - name: Massimo Dutti
+    category: 服装
+    keywords:
+    - Massimo Dutti
+    - 麦西姆杜特
+    - 商务休闲
+    - 通勤装
+  - name: Bershka
+    category: 服装
+    keywords:
+    - Bershka
+    - 年轻女装
+    - 潮牌
+    - 快时尚
+- company_id: consumer_discretionary-hm-se
+  company_name: H&M Group
+  items:
+  - name: H&M服装
+    category: 服装
+    keywords:
+    - HM
+    - H&M
+    - 快时尚
+    - 平价女装
+  - name: COS
+    category: 服装
+    keywords:
+    - COS
+    - 极简风
+    - 高级感穿搭
+    - 通勤装
+  - name: Arket
+    category: 服装
+    keywords:
+    - Arket
+    - 北欧风
+    - 简约服装
+    - 基础款
+- company_id: consumer_discretionary-fastretailing-jp
+  company_name: Fast Retailing
+  items:
+  - name: 优衣库
+    category: 服装
+    keywords:
+    - 优衣库
+    - 基础款
+    - 平价服装
+    - 打底衫
+  - name: 优衣库摇粒绒外套
+    category: 服装
+    keywords:
+    - 摇粒绒
+    - 优衣库摇粒绒
+    - 抓绒外套
+  - name: 优衣库HEATTECH保暖内衣
+    category: 服装
+    keywords:
+    - 保暖内衣
+    - 优衣库内衣
+    - HEATTECH
+    - 秋衣秋裤
+  - name: GU极优
+    category: 服装
+    keywords:
+    - GU
+    - 极优
+    - 平价女装
+    - 日系服装
+- company_id: consumer_discretionary-mcdonalds-us
+  company_name: McDonald's
+  items:
+  - name: 巨无霸汉堡
+    category: 餐饮美食
+    keywords:
+    - 麦当劳
+    - 汉堡
+    - 巨无霸
+    - 快餐
+  - name: 麦辣鸡腿堡
+    category: 餐饮美食
+    keywords:
+    - 麦辣鸡腿堡
+    - 鸡腿堡
+    - 辣堡
+  - name: 麦乐鸡
+    category: 餐饮美食
+    keywords:
+    - 麦乐鸡
+    - 鸡块
+    - 炸鸡块
+    - 小吃
+  - name: 薯条
+    category: 餐饮美食
+    keywords:
+    - 薯条
+    - 麦当劳薯条
+    - 炸薯条
+  - name: 麦咖啡
+    category: 餐饮美食
+    keywords:
+    - 麦咖啡
+    - 麦当劳咖啡
+    - 拿铁
+    - 平价咖啡
+- company_id: consumer_discretionary-starbucks-us
+  company_name: Starbucks
+  items:
+  - name: 拿铁咖啡
+    category: 餐饮美食
+    keywords:
+    - 星巴克
+    - 拿铁
+    - 咖啡
+    - 喝咖啡
+  - name: 星冰乐
+    category: 餐饮美食
+    keywords:
+    - 星冰乐
+    - 冰沙
+    - 星巴克冰饮
+    - Frappuccino
+  - name: 焦糖玛奇朵
+    category: 餐饮美食
+    keywords:
+    - 焦糖玛奇朵
+    - 玛奇朵
+    - 花式咖啡
+  - name: 冷萃咖啡
+    category: 餐饮美食
+    keywords:
+    - 冷萃
+    - 冷萃咖啡
+    - 冰咖啡
+    - 黑咖啡
+- company_id: consumer_discretionary-yum-us
+  company_name: Yum! Brands
+  items:
+  - name: 肯德基吮指原味鸡
+    category: 餐饮美食
+    keywords:
+    - 肯德基
+    - KFC
+    - 炸鸡
+    - 原味鸡
+  - name: 肯德基全家桶
+    category: 餐饮美食
+    keywords:
+    - 全家桶
+    - 肯德基套餐
+    - 桶餐
+    - 聚餐
+  - name: 必胜客披萨
+    category: 餐饮美食
+    keywords:
+    - 必胜客
+    - 披萨
+    - 比萨
+    - 意面
+  - name: 必胜客外送
+    category: 餐饮美食
+    keywords:
+    - 披萨外卖
+    - 必胜客外送
+    - 宅急送
+- company_id: consumer_discretionary-marriott-us
+  company_name: Marriott International
+  items:
+  - name: 万豪酒店
+    category: 酒店住宿
+    keywords:
+    - 万豪
+    - 万豪酒店
+    - 五星酒店
+    - 商务酒店
+  - name: 丽思卡尔顿酒店
+    category: 酒店住宿
+    keywords:
+    - 丽思卡尔顿
+    - ritz
+    - 奢华酒店
+    - 顶级酒店
+  - name: 喜来登酒店
+    category: 酒店住宿
+    keywords:
+    - 喜来登
+    - 喜来登酒店
+    - 高端酒店
+  - name: W酒店
+    category: 酒店住宿
+    keywords:
+    - W酒店
+    - 潮牌酒店
+    - 设计师酒店
+  - name: 万豪旅享家
+    category: 酒店住宿
+    keywords:
+    - 万豪会员
+    - 旅享家
+    - 酒店积分
+    - 会员卡
+- company_id: consumer_discretionary-hilton-us
+  company_name: Hilton Worldwide
+  items:
+  - name: 希尔顿酒店
+    category: 酒店住宿
+    keywords:
+    - 希尔顿
+    - 希尔顿酒店
+    - 五星酒店
+    - 商务酒店
+  - name: 华尔道夫酒店
+    category: 酒店住宿
+    keywords:
+    - 华尔道夫
+    - 奢华酒店
+    - 顶级酒店
+  - name: 康莱德酒店
+    category: 酒店住宿
+    keywords:
+    - 康莱德
+    - 高端酒店
+    - 五星级酒店
+  - name: 希尔顿欢朋酒店
+    category: 酒店住宿
+    keywords:
+    - 欢朋
+    - 希尔顿欢朋
+    - 中端酒店
+- company_id: consumer_discretionary-booking-us
+  company_name: Booking Holdings
+  items:
+  - name: Booking.com酒店预订
+    category: 酒店住宿
+    keywords:
+    - Booking
+    - 缤客
+    - 订酒店
+    - 海外酒店
+  - name: Priceline机票预订
+    category: 旅游出行
+    keywords:
+    - Priceline
+    - 订机票
+    - 国际机票
+    - 特价机票
+  - name: OpenTable餐厅订位
+    category: 餐饮美食
+    keywords:
+    - OpenTable
+    - 餐厅订位
+    - 订座
+    - 海外餐厅
+- company_id: consumer_discretionary-airbnb-us
+  company_name: Airbnb
+  items:
+  - name: Airbnb民宿短租
+    category: 酒店住宿
+    keywords:
+    - 爱彼迎
+    - Airbnb
+    - 民宿
+    - 短租
+    - 特色住宿
+  - name: Airbnb体验
+    category: 旅游出行
+    keywords:
+    - 当地体验
+    - Airbnb体验
+    - 特色活动
+    - 城市漫游
+  - name: Airbnb长租
+    category: 酒店住宿
+    keywords:
+    - 爱彼迎长租
+    - 月租民宿
+    - 旅居
+    - 远程办公住宿
+- company_id: consumer_discretionary-disney-us
+  company_name: Walt Disney
+  items:
+  - name: 上海迪士尼乐园门票
+    category: 旅游出行
+    keywords:
+    - 迪士尼
+    - 迪士尼乐园
+    - 迪士尼门票
+    - 游乐园
+    - 亲子游
+  - name: 迪士尼动画电影
+    category: 影视视频
+    keywords:
+    - 迪士尼电影
+    - 动画电影
+    - 皮克斯
+    - 漫威电影
+  - name: 迪士尼周边商品
+    category: 其他
+    keywords:
+    - 迪士尼玩偶
+    - 米奇
+    - 周边
+    - 玲娜贝儿
+    - 星黛露
+  - name: 迪士尼邮轮
+    category: 旅游出行
+    keywords:
+    - 迪士尼邮轮
+    - 游轮
+    - 海上度假
+    - 家庭旅行
