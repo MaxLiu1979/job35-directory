@@ -21,18 +21,31 @@ ROOT = Path(__file__).resolve().parent.parent
 OUT = ROOT / "data" / "votes.json"
 
 
-def get_count(key: str, retries: int = 3) -> int | None:
+def get_count(key: str) -> int | None:
+    """返回计数值；404 视为 0（尚无人投票）。429/网络错误重试，其余错误返回 None（保留旧值）。"""
     url = f"https://abacus.jasoncameron.dev/get/job35-v1/{key}"
-    for attempt in range(retries):
+    for attempt in range(4):
         try:
             req = urllib.request.Request(
                 url, headers={"User-Agent": "job35-votesync/0.1 (github.com/MaxLiu1979/job35-directory)"}
             )
             with urllib.request.urlopen(req, timeout=15) as resp:
                 return int(json.loads(resp.read()).get("value", 0))
+        except urllib.error.HTTPError as exc:
+            if exc.code == 404:
+                return 0
+            if exc.code == 429:
+                time.sleep(5)
+                continue
+            if exc.code >= 500 and attempt < 3:
+                time.sleep(2)
+                continue
+            return None
         except Exception:
-            if attempt < retries - 1:
-                time.sleep(2 * (attempt + 1))
+            if attempt < 3:
+                time.sleep(2)
+                continue
+            return None
     return None
 
 
@@ -47,7 +60,6 @@ def main() -> None:
     def fetch(item):
         cid, _ = item
         yes = get_count(f"{cid}-yes")
-        time.sleep(0.05)  # 尊重限流（30次/10秒）
         no = get_count(f"{cid}-no")
         return cid, yes, no
 
