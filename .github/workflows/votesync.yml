@@ -29,4 +29,8 @@ jobs:
           else
             git commit -m "chore: weekly vote count sync $(date -u +%F)"
             git push
+            # GITHUB_TOKEN 的推送不会触发其他工作流，显式触发网页重建
+            gh workflow run pages.yml -R MaxLiu1979/job35-directory
           fi
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
