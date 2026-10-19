@@ -1,409 +1,408 @@
 companies:
-  - id: materials-wanhua-cn
-    name: 万华化学
-    name_en: Wanhua Chemical
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.whchem.com/column/307/
-    status: pending
-  - id: materials-sinopec-cn
-    name: 中国石化
-    name_en: Sinopec
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://job.sinopec.com
-    status: pending
-  - id: materials-cnbm-cn
-    name: 中国建材集团
-    name_en: China National Building Material Group
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-baowu-cn
-    name: 中国宝武
-    name_en: Baowu Steel Group
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-shagang-cn
-    name: 沙钢集团
-    name_en: Jiangsu Shagang Group
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-zijin-cn
-    name: 紫金矿业
-    name_en: Zijin Mining Group
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.zjky.cn/join/join-us.htm
-    status: pending
-  - id: materials-cmoc-cn
-    name: 洛阳钼业
-    name_en: CMOC Group
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.cmoc.com/html/CareerDevelopment/
-    status: pending
-  - id: materials-chalco-cn
-    name: 中国铝业
-    name_en: Aluminum Corporation of China
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.chalco.com.cn/rlzy/rczp/
-    status: pending
-  - id: materials-conch-cn
-    name: 海螺水泥
-    name_en: Anhui Conch Cement
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-huaxin-cn
-    name: 华新水泥
-    name_en: Huaxin Cement
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.huaxincem.com/rencaizhaopin/
-    status: pending
-  - id: materials-jushi-cn
-    name: 中国巨石
-    name_en: China Jushi
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.jushi.com/recruit
-    status: pending
-  - id: materials-rareearth-north-cn
-    name: 北方稀土
-    name_en: China Northern Rare Earth Group
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-sinochem-cn
-    name: 中国中化
-    name_en: Sinochem Holdings
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.sinochem.com/sinochem/jrwm/rc11/A031008001Gone1.html
-    status: pending
-  - id: materials-hengli-cn
-    name: 恒力石化
-    name_en: Hengli Petrochemical
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-rongsheng-cn
-    name: 荣盛石化
-    name_en: Rongsheng Petrochemical
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-hualuhengheng-cn
-    name: 华鲁恒升
-    name_en: Hualu-Hengsheng Chemical
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-yuhong-cn
-    name: 东方雨虹
-    name_en: Beijing Oriental Yuhong
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-bnbm-cn
-    name: 北新建材
-    name_en: Beijing New Building Materials
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.bnbm.com.cn/category/talent_join.html
-    status: pending
-  - id: materials-ndpaper-cn
-    name: 玖龙纸业
-    name_en: Nine Dragons Paper
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-sunpaper-cn
-    name: 太阳纸业
-    name_en: Shandong Sun Paper
-    industry: materials
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: materials-dow-us
-    name: Dow
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.dow.com/careers
-    status: pending
-  - id: materials-dupont-us
-    name: DuPont
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.dupont.com
-    status: pending
-  - id: materials-lyondellbasell-us
-    name: LyondellBasell
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.lyondellbasell.com/careers
-    status: pending
-  - id: materials-airproducts-us
-    name: Air Products
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.airproducts.com/careers
-    status: pending
-  - id: materials-nucor-us
-    name: Nucor
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.nucor.com/careers
-    status: pending
-  - id: materials-freeportmcmoran-us
-    name: Freeport-McMoRan
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.fcx.com/careers
-    status: pending
-  - id: materials-alcoa-us
-    name: Alcoa
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.alcoa.com/careers
-    status: pending
-  - id: materials-internationalpaper-us
-    name: International Paper
-    industry: materials
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.internationalpaper.com/careers
-    status: pending
-  - id: materials-basf-de
-    name: BASF
-    industry: materials
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.basf.com/careers
-    status: pending
-  - id: materials-covestro-de
-    name: Covestro
-    industry: materials
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.covestro.com/en/career
-    status: pending
-  - id: materials-evonik-de
-    name: Evonik Industries
-    industry: materials
-    tier: top50
-    country: DE
-    sources: []
-    link: https://careers.evonik.com
-    status: pending
-  - id: materials-heidelbergmaterials-de
-    name: Heidelberg Materials
-    industry: materials
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.heidelbergmaterials.com/careers
-    status: pending
-  - id: materials-thyssenkrupp-de
-    name: Thyssenkrupp
-    industry: materials
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.thyssenkrupp.com/en/career
-    status: pending
-  - id: materials-arcelormittal-lu
-    name: ArcelorMittal
-    industry: materials
-    tier: top50
-    country: LU
-    sources: []
-    link: https://corporate.arcelormittal.com/careers
-    status: pending
-  - id: materials-riotinto-gb
-    name: Rio Tinto
-    industry: materials
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.riotinto.com/careers
-    status: pending
-  - id: materials-glencore-ch
-    name: Glencore
-    industry: materials
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.glencore.com/careers
-    status: pending
-  - id: materials-holcim-ch
-    name: Holcim
-    industry: materials
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.holcim.com/careers
-    status: pending
-  - id: materials-sika-ch
-    name: Sika
-    industry: materials
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.sika.com/en/career.html
-    status: pending
-  - id: materials-saintgobain-fr
-    name: Saint-Gobain
-    industry: materials
-    tier: top50
-    country: FR
-    sources: []
-    link: https://joinus.saint-gobain.com/en
-    status: pending
-  - id: materials-crh-ie
-    name: CRH
-    industry: materials
-    tier: top50
-    country: IE
-    sources: []
-    link: https://www.crh.com/careers
-    status: pending
-  - id: materials-upm-fi
-    name: UPM-Kymmene
-    industry: materials
-    tier: top50
-    country: FI
-    sources: []
-    link: https://www.upm.com/careers
-    status: pending
-  - id: materials-storaenso-fi
-    name: Stora Enso
-    industry: materials
-    tier: top50
-    country: FI
-    sources: []
-    link: https://www.storaenso.com/en/careers
-    status: pending
-  - id: materials-bhp-au
-    name: BHP
-    industry: materials
-    tier: top50
-    country: AU
-    sources: []
-    link: https://www.bhp.com/careers
-    status: pending
-  - id: materials-vale-br
-    name: Vale
-    industry: materials
-    tier: top50
-    country: BR
-    sources: []
-    link: https://www.vale.com/career-opportunities
-    status: pending
-  - id: materials-posco-kr
-    name: POSCO
-    industry: materials
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-  - id: materials-lgchem-kr
-    name: LG Chem
-    industry: materials
-    tier: top50
-    country: KR
-    sources: []
-    link: https://www.lgchem.com/career
-    status: pending
-  - id: materials-nipponsteel-jp
-    name: Nippon Steel
-    industry: materials
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.nipponsteel.com/recruit/
-    status: pending
-  - id: materials-toray-jp
-    name: Toray Industries
-    industry: materials
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.toray.co.jp/saiyou/
-    status: pending
-  - id: materials-sabic-sa
-    name: SABIC
-    industry: materials
-    tier: top50
-    country: SA
-    sources: []
-    link: https://www.sabic.com/en/careers
-    status: pending
-  - id: materials-tatasteel-in
-    name: Tata Steel
-    industry: materials
-    tier: top50
-    country: IN
-    sources: []
-    link: https://www.tatasteel.com/careers/
-    status: pending
+- id: materials-wanhua-cn
+  name: 万华化学
+  name_en: Wanhua Chemical
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.whchem.com/column/307/
+  status: pending
+- id: materials-sinopec-cn
+  name: 中国石化
+  name_en: Sinopec
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://job.sinopec.com
+  status: pending
+- id: materials-cnbm-cn
+  name: 中国建材集团
+  name_en: China National Building Material Group
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-baowu-cn
+  name: 中国宝武
+  name_en: Baowu Steel Group
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-shagang-cn
+  name: 沙钢集团
+  name_en: Jiangsu Shagang Group
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-zijin-cn
+  name: 紫金矿业
+  name_en: Zijin Mining Group
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.zjky.cn/join/join-us.htm
+  status: pending
+- id: materials-cmoc-cn
+  name: 洛阳钼业
+  name_en: CMOC Group
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.cmoc.com/html/CareerDevelopment/
+  status: pending
+- id: materials-chalco-cn
+  name: 中国铝业
+  name_en: Aluminum Corporation of China
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.chalco.com.cn/rlzy/rczp/
+  status: pending
+- id: materials-conch-cn
+  name: 海螺水泥
+  name_en: Anhui Conch Cement
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-huaxin-cn
+  name: 华新水泥
+  name_en: Huaxin Cement
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.huaxincem.com/rencaizhaopin/
+  status: pending
+- id: materials-jushi-cn
+  name: 中国巨石
+  name_en: China Jushi
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.jushi.com/recruit
+  status: pending
+- id: materials-rareearth-north-cn
+  name: 北方稀土
+  name_en: China Northern Rare Earth Group
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-sinochem-cn
+  name: 中国中化
+  name_en: Sinochem Holdings
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.sinochem.com/sinochem/jrwm/rc11/A031008001Gone1.html
+  status: pending
+- id: materials-hengli-cn
+  name: 恒力石化
+  name_en: Hengli Petrochemical
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-rongsheng-cn
+  name: 荣盛石化
+  name_en: Rongsheng Petrochemical
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-hualuhengheng-cn
+  name: 华鲁恒升
+  name_en: Hualu-Hengsheng Chemical
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-yuhong-cn
+  name: 东方雨虹
+  name_en: Beijing Oriental Yuhong
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-bnbm-cn
+  name: 北新建材
+  name_en: Beijing New Building Materials
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.bnbm.com.cn/category/talent_join.html
+  status: pending
+- id: materials-ndpaper-cn
+  name: 玖龙纸业
+  name_en: Nine Dragons Paper
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-sunpaper-cn
+  name: 太阳纸业
+  name_en: Shandong Sun Paper
+  industry: materials
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: materials-dow-us
+  name: Dow
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.dow.com/careers
+  status: pending
+- id: materials-dupont-us
+  name: DuPont
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.dupont.com
+  status: pending
+- id: materials-lyondellbasell-us
+  name: LyondellBasell
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.lyondellbasell.com/careers
+  status: pending
+- id: materials-airproducts-us
+  name: Air Products
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.airproducts.com/careers
+  status: pending
+- id: materials-nucor-us
+  name: Nucor
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.nucor.com/careers
+  status: pending
+- id: materials-freeportmcmoran-us
+  name: Freeport-McMoRan
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.fcx.com/careers
+  status: pending
+- id: materials-alcoa-us
+  name: Alcoa
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.alcoa.com/careers
+  status: pending
+- id: materials-internationalpaper-us
+  name: International Paper
+  industry: materials
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.internationalpaper.com/careers
+  status: pending
+- id: materials-basf-de
+  name: BASF
+  industry: materials
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.basf.com/careers
+  status: pending
+- id: materials-covestro-de
+  name: Covestro
+  industry: materials
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.covestro.com/en/career
+  status: pending
+- id: materials-evonik-de
+  name: Evonik Industries
+  industry: materials
+  tier: top50
+  country: DE
+  sources: []
+  link: https://careers.evonik.com
+  status: pending
+- id: materials-heidelbergmaterials-de
+  name: Heidelberg Materials
+  industry: materials
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.heidelbergmaterials.com/careers
+  status: pending
+- id: materials-thyssenkrupp-de
+  name: Thyssenkrupp
+  industry: materials
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.thyssenkrupp.com/en/career
+  status: pending
+- id: materials-arcelormittal-lu
+  name: ArcelorMittal
+  industry: materials
+  tier: top50
+  country: LU
+  sources: []
+  link: https://corporate.arcelormittal.com/careers
+  status: pending
+- id: materials-riotinto-gb
+  name: Rio Tinto
+  industry: materials
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.riotinto.com/careers
+  status: pending
+- id: materials-glencore-ch
+  name: Glencore
+  industry: materials
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.glencore.com/careers
+  status: pending
+- id: materials-holcim-ch
+  name: Holcim
+  industry: materials
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.holcim.com/careers
+  status: pending
+- id: materials-sika-ch
+  name: Sika
+  industry: materials
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.sika.com/en/career.html
+  status: pending
+- id: materials-saintgobain-fr
+  name: Saint-Gobain
+  industry: materials
+  tier: top50
+  country: FR
+  sources: []
+  link: https://joinus.saint-gobain.com/en
+  status: pending
+- id: materials-crh-ie
+  name: CRH
+  industry: materials
+  tier: top50
+  country: IE
+  sources: []
+  link: https://www.crh.com/careers
+  status: pending
+- id: materials-upm-fi
+  name: UPM-Kymmene
+  industry: materials
+  tier: top50
+  country: FI
+  sources: []
+  link: https://www.upm.com/careers
+  status: pending
+- id: materials-storaenso-fi
+  name: Stora Enso
+  industry: materials
+  tier: top50
+  country: FI
+  sources: []
+  link: https://www.storaenso.com/en/careers
+  status: pending
+- id: materials-bhp-au
+  name: BHP
+  industry: materials
+  tier: top50
+  country: AU
+  sources: []
+  link: https://www.bhp.com/careers
+  status: pending
+- id: materials-vale-br
+  name: Vale
+  industry: materials
+  tier: top50
+  country: BR
+  sources: []
+  link: https://www.vale.com/career-opportunities
+  status: pending
+- id: materials-posco-kr
+  name: POSCO
+  industry: materials
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: materials-lgchem-kr
+  name: LG Chem
+  industry: materials
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: materials-nipponsteel-jp
+  name: Nippon Steel
+  industry: materials
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.nipponsteel.com/recruit/
+  status: pending
+- id: materials-toray-jp
+  name: Toray Industries
+  industry: materials
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.toray.co.jp/saiyou/
+  status: pending
+- id: materials-sabic-sa
+  name: SABIC
+  industry: materials
+  tier: top50
+  country: SA
+  sources: []
+  link: https://www.sabic.com/en/careers
+  status: pending
+- id: materials-tatasteel-in
+  name: Tata Steel
+  industry: materials
+  tier: top50
+  country: IN
+  sources: []
+  link: https://www.tatasteel.com/careers/
+  status: pending

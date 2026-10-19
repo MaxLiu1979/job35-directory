@@ -1,421 +1,420 @@
 companies:
-  - id: healthcare-hengrui-cn
-    name: 恒瑞医药
-    name_en: Jiangsu Hengrui Pharmaceuticals
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.hengrui.com/development/recruit.html
-    status: pending
-  - id: healthcare-wuxiapp-cn
-    name: 药明康德
-    name_en: WuXi AppTec
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.wuxiapptec.cn/careers/career
-    status: pending
-  - id: healthcare-mindray-cn
-    name: 迈瑞医疗
-    name_en: Mindray Medical
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://career.mindray.com
-    status: pending
-  - id: healthcare-fosun-cn
-    name: 复星医药
-    name_en: Shanghai Fosun Pharmaceutical
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://fosunpharma.zhiye.com/
-    status: pending
-  - id: healthcare-sinopharm-cn
-    name: 国药控股
-    name_en: Sinopharm Group
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-crpharma-cn
-    name: 华润医药
-    name_en: China Resources Pharmaceutical Group
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-yunnanbaiyao-cn
-    name: 云南白药
-    name_en: Yunnan Baiyao Group
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.yunnanbaiyao.com.cn/list/ynbyM/1/229/auto/20/0.html
-    status: pending
-  - id: healthcare-tongrentang-cn
-    name: 同仁堂
-    name_en: Beijing Tong Ren Tang
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-zhifei-cn
-    name: 智飞生物
-    name_en: Chongqing Zhifei Biological Products
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-pienzehuang-cn
-    name: 片仔癀
-    name_en: Zhangzhou Pientzehuang Pharmaceutical
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-tigermed-cn
-    name: 泰格医药
-    name_en: Hangzhou Tigermed Consulting
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-beigene-cn
-    name: 百济神州
-    name_en: BeiGene
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.beonemedicines.com.cn/careers/
-    status: pending
-  - id: healthcare-wuxibio-cn
-    name: 药明生物
-    name_en: WuXi Biologics
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.wuxibiologics.com/join-us/
-    status: pending
-  - id: healthcare-sinobio-cn
-    name: 中国生物制药
-    name_en: Sino Biopharmaceutical
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-cspc-cn
-    name: 石药集团
-    name_en: CSPC Pharmaceutical Group
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-bgi-cn
-    name: 华大基因
-    name_en: BGI Genomics
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://genomics.zhiye.com/
-    status: pending
-  - id: healthcare-aier-cn
-    name: 爱尔眼科
-    name_en: Aier Eye Hospital Group
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.aierchina.com/
-    status: pending
-  - id: healthcare-unitedimaging-cn
-    name: 联影医疗
-    name_en: United Imaging Healthcare
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    link: https://global.united-imaging.com/zh-cn/careers
-    status: pending
-  - id: healthcare-wego-cn
-    name: 威高集团
-    name_en: Shandong Weigao Group Medical Polymer
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-microport-cn
-    name: 微创医疗
-    name_en: MicroPort Scientific
-    industry: healthcare
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: healthcare-pfizer-us
-    name: Pfizer
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.pfizer.com/about/careers
-    status: pending
-  - id: healthcare-jnj-us
-    name: Johnson & Johnson
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.careers.jnj.com
-    status: pending
-  - id: healthcare-merck-us
-    name: Merck & Co.
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.merck.com
-    status: pending
-  - id: healthcare-abbvie-us
-    name: AbbVie
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.abbvie.com
-    status: pending
-  - id: healthcare-lilly-us
-    name: Eli Lilly and Company
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.lilly.com
-    status: pending
-  - id: healthcare-amgen-us
-    name: Amgen
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.amgen.com
-    status: pending
-  - id: healthcare-bms-us
-    name: Bristol Myers Squibb
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.bms.com
-    status: pending
-  - id: healthcare-gilead-us
-    name: Gilead Sciences
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.gilead.com/careers
-    status: pending
-  - id: healthcare-medtronic-us
-    name: Medtronic
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.medtronic.com
-    status: pending
-  - id: healthcare-abbott-us
-    name: Abbott Laboratories
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.abbott.com/careers.html
-    status: pending
-  - id: healthcare-bostonsci-us
-    name: Boston Scientific
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.bostonscientific.com
-    status: pending
-  - id: healthcare-stryker-us
-    name: Stryker
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.stryker.com
-    status: pending
-  - id: healthcare-thermofisher-us
-    name: Thermo Fisher Scientific
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.thermofisher.com
-    status: pending
-  - id: healthcare-danaher-us
-    name: Danaher
-    industry: healthcare
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.danaher.com
-    status: pending
-  - id: healthcare-roche-ch
-    name: Roche
-    industry: healthcare
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.roche.com/careers
-    status: pending
-  - id: healthcare-novartis-ch
-    name: Novartis
-    industry: healthcare
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.novartis.com/careers
-    status: pending
-  - id: healthcare-novonordisk-dk
-    name: Novo Nordisk
-    industry: healthcare
-    tier: top50
-    country: DK
-    sources: []
-    link: https://careers.novonordisk.com
-    status: pending
-  - id: healthcare-sanofi-fr
-    name: Sanofi
-    industry: healthcare
-    tier: top50
-    country: FR
-    sources: []
-    link: https://www.sanofi.com/en/careers
-    status: pending
-  - id: healthcare-servier-fr
-    name: Servier
-    industry: healthcare
-    tier: top50
-    country: FR
-    sources: []
-    status: pending
-  - id: healthcare-gsk-gb
-    name: GSK
-    industry: healthcare
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.gsk.com/en-gb/careers/
-    status: pending
-  - id: healthcare-astrazeneca-gb
-    name: AstraZeneca
-    industry: healthcare
-    tier: top50
-    country: GB
-    sources: []
-    link: https://careers.astrazeneca.com
-    status: pending
-  - id: healthcare-bayer-de
-    name: Bayer
-    industry: healthcare
-    tier: top50
-    country: DE
-    sources: []
-    link: https://career.bayer.com
-    status: pending
-  - id: healthcare-boehringer-de
-    name: Boehringer Ingelheim
-    industry: healthcare
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.boehringer-ingelheim.com/careers
-    status: pending
-  - id: healthcare-siemenshealth-de
-    name: Siemens Healthineers
-    industry: healthcare
-    tier: top50
-    country: DE
-    sources: []
-    link: https://jobs.siemens-healthineers.com
-    status: pending
-  - id: healthcare-fresenius-de
-    name: Fresenius
-    industry: healthcare
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.fresenius.com/careers
-    status: pending
-  - id: healthcare-takeda-jp
-    name: Takeda Pharmaceutical
-    industry: healthcare
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.takeda.com/careers
-    status: pending
-  - id: healthcare-otsuka-jp
-    name: Otsuka Holdings
-    industry: healthcare
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-  - id: healthcare-daiichisankyo-jp
-    name: Daiichi Sankyo
-    industry: healthcare
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-  - id: healthcare-terumo-jp
-    name: Terumo
-    industry: healthcare
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-  - id: healthcare-samsungbio-kr
-    name: Samsung Biologics
-    industry: healthcare
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-  - id: healthcare-csl-au
-    name: CSL
-    industry: healthcare
-    tier: top50
-    country: AU
-    sources: []
-    status: pending
-  - id: healthcare-philips-nl
-    name: Philips
-    industry: healthcare
-    tier: top50
-    country: NL
-    sources: []
-    link: https://www.philips.com/careers
-    status: pending
+- id: healthcare-hengrui-cn
+  name: 恒瑞医药
+  name_en: Jiangsu Hengrui Pharmaceuticals
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.hengrui.com/development/recruit.html
+  status: pending
+- id: healthcare-wuxiapp-cn
+  name: 药明康德
+  name_en: WuXi AppTec
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.wuxiapptec.cn/careers/career
+  status: pending
+- id: healthcare-mindray-cn
+  name: 迈瑞医疗
+  name_en: Mindray Medical
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://career.mindray.com
+  status: pending
+- id: healthcare-fosun-cn
+  name: 复星医药
+  name_en: Shanghai Fosun Pharmaceutical
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://fosunpharma.zhiye.com/
+  status: pending
+- id: healthcare-sinopharm-cn
+  name: 国药控股
+  name_en: Sinopharm Group
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-crpharma-cn
+  name: 华润医药
+  name_en: China Resources Pharmaceutical Group
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-yunnanbaiyao-cn
+  name: 云南白药
+  name_en: Yunnan Baiyao Group
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.yunnanbaiyao.com.cn/list/ynbyM/1/229/auto/20/0.html
+  status: pending
+- id: healthcare-tongrentang-cn
+  name: 同仁堂
+  name_en: Beijing Tong Ren Tang
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-zhifei-cn
+  name: 智飞生物
+  name_en: Chongqing Zhifei Biological Products
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-pienzehuang-cn
+  name: 片仔癀
+  name_en: Zhangzhou Pientzehuang Pharmaceutical
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-tigermed-cn
+  name: 泰格医药
+  name_en: Hangzhou Tigermed Consulting
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-beigene-cn
+  name: 百济神州
+  name_en: BeiGene
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.beonemedicines.com.cn/careers/
+  status: pending
+- id: healthcare-wuxibio-cn
+  name: 药明生物
+  name_en: WuXi Biologics
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.wuxibiologics.com/join-us/
+  status: pending
+- id: healthcare-sinobio-cn
+  name: 中国生物制药
+  name_en: Sino Biopharmaceutical
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-cspc-cn
+  name: 石药集团
+  name_en: CSPC Pharmaceutical Group
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-bgi-cn
+  name: 华大基因
+  name_en: BGI Genomics
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://genomics.zhiye.com/
+  status: pending
+- id: healthcare-aier-cn
+  name: 爱尔眼科
+  name_en: Aier Eye Hospital Group
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.aierchina.com/
+  status: pending
+- id: healthcare-unitedimaging-cn
+  name: 联影医疗
+  name_en: United Imaging Healthcare
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  link: https://global.united-imaging.com/zh-cn/careers
+  status: pending
+- id: healthcare-wego-cn
+  name: 威高集团
+  name_en: Shandong Weigao Group Medical Polymer
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-microport-cn
+  name: 微创医疗
+  name_en: MicroPort Scientific
+  industry: healthcare
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: healthcare-pfizer-us
+  name: Pfizer
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.pfizer.com/about/careers
+  status: pending
+- id: healthcare-jnj-us
+  name: Johnson & Johnson
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.careers.jnj.com
+  status: pending
+- id: healthcare-merck-us
+  name: Merck & Co.
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.merck.com
+  status: pending
+- id: healthcare-abbvie-us
+  name: AbbVie
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.abbvie.com
+  status: pending
+- id: healthcare-lilly-us
+  name: Eli Lilly and Company
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.lilly.com
+  status: pending
+- id: healthcare-amgen-us
+  name: Amgen
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.amgen.com
+  status: pending
+- id: healthcare-bms-us
+  name: Bristol Myers Squibb
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.bms.com
+  status: pending
+- id: healthcare-gilead-us
+  name: Gilead Sciences
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.gilead.com/careers
+  status: pending
+- id: healthcare-medtronic-us
+  name: Medtronic
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: healthcare-abbott-us
+  name: Abbott Laboratories
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.abbott.com/careers.html
+  status: pending
+- id: healthcare-bostonsci-us
+  name: Boston Scientific
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.bostonscientific.com
+  status: pending
+- id: healthcare-stryker-us
+  name: Stryker
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.stryker.com
+  status: pending
+- id: healthcare-thermofisher-us
+  name: Thermo Fisher Scientific
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.thermofisher.com
+  status: pending
+- id: healthcare-danaher-us
+  name: Danaher
+  industry: healthcare
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.danaher.com
+  status: pending
+- id: healthcare-roche-ch
+  name: Roche
+  industry: healthcare
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.roche.com/careers
+  status: pending
+- id: healthcare-novartis-ch
+  name: Novartis
+  industry: healthcare
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.novartis.com/careers
+  status: pending
+- id: healthcare-novonordisk-dk
+  name: Novo Nordisk
+  industry: healthcare
+  tier: top50
+  country: DK
+  sources: []
+  link: https://careers.novonordisk.com
+  status: pending
+- id: healthcare-sanofi-fr
+  name: Sanofi
+  industry: healthcare
+  tier: top50
+  country: FR
+  sources: []
+  link: https://www.sanofi.com/en/careers
+  status: pending
+- id: healthcare-servier-fr
+  name: Servier
+  industry: healthcare
+  tier: top50
+  country: FR
+  sources: []
+  status: pending
+- id: healthcare-gsk-gb
+  name: GSK
+  industry: healthcare
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.gsk.com/en-gb/careers/
+  status: pending
+- id: healthcare-astrazeneca-gb
+  name: AstraZeneca
+  industry: healthcare
+  tier: top50
+  country: GB
+  sources: []
+  link: https://careers.astrazeneca.com
+  status: pending
+- id: healthcare-bayer-de
+  name: Bayer
+  industry: healthcare
+  tier: top50
+  country: DE
+  sources: []
+  link: https://career.bayer.com
+  status: pending
+- id: healthcare-boehringer-de
+  name: Boehringer Ingelheim
+  industry: healthcare
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.boehringer-ingelheim.com/careers
+  status: pending
+- id: healthcare-siemenshealth-de
+  name: Siemens Healthineers
+  industry: healthcare
+  tier: top50
+  country: DE
+  sources: []
+  link: https://jobs.siemens-healthineers.com
+  status: pending
+- id: healthcare-fresenius-de
+  name: Fresenius
+  industry: healthcare
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.fresenius.com/careers
+  status: pending
+- id: healthcare-takeda-jp
+  name: Takeda Pharmaceutical
+  industry: healthcare
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.takeda.com/careers
+  status: pending
+- id: healthcare-otsuka-jp
+  name: Otsuka Holdings
+  industry: healthcare
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: healthcare-daiichisankyo-jp
+  name: Daiichi Sankyo
+  industry: healthcare
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: healthcare-terumo-jp
+  name: Terumo
+  industry: healthcare
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: healthcare-samsungbio-kr
+  name: Samsung Biologics
+  industry: healthcare
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: healthcare-csl-au
+  name: CSL
+  industry: healthcare
+  tier: top50
+  country: AU
+  sources: []
+  status: pending
+- id: healthcare-philips-nl
+  name: Philips
+  industry: healthcare
+  tier: top50
+  country: NL
+  sources: []
+  link: https://www.philips.com/careers
+  status: pending
