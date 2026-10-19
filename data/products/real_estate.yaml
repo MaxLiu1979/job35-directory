@@ -1,0 +1,364 @@
+products:
+  - company_id: real_estate-vanke-cn
+    company_name: 万科
+    items:
+      - name: 万科城市之光
+        category: 房产服务
+        keywords: [万科城市之光, 城市之光, 万科楼盘, 买房, 新房]
+      - name: 万科翡翠公园
+        category: 房产服务
+        keywords: [翡翠公园, 万科楼盘, 买房, 住宅]
+      - name: 泊寓长租公寓
+        category: 房产服务
+        keywords: [泊寓, 长租公寓, 租房, 万科租房]
+      - name: 万科物业
+        category: 物业服务
+        keywords: [万科物业, 物业管理, 小区物业, 万物云]
+  - company_id: real_estate-poly-cn
+    company_name: 保利发展
+    items:
+      - name: 保利天悦
+        category: 房产服务
+        keywords: [保利天悦, 保利楼盘, 豪宅, 买房]
+      - name: 保利和光尘樾
+        category: 房产服务
+        keywords: [和光尘樾, 保利楼盘, 买房, 住宅]
+      - name: 保利物业
+        category: 物业服务
+        keywords: [保利物业, 物业管理, 小区物业]
+  - company_id: real_estate-crland-cn
+    company_name: 华润置地
+    items:
+      - name: 万象城购物中心
+        category: 其他
+        keywords: [万象城, 华润万象城, 商场, 购物, 逛街]
+      - name: 华润悦府
+        category: 房产服务
+        keywords: [悦府, 华润悦府, 华润楼盘, 买房]
+      - name: 华润置地橡树湾
+        category: 房产服务
+        keywords: [橡树湾, 华润楼盘, 买房, 住宅]
+  - company_id: real_estate-coli-cn
+    company_name: 中国海外发展
+    items:
+      - name: 中海国际社区
+        category: 房产服务
+        keywords: [中海国际社区, 中海楼盘, 买房, 住宅]
+      - name: 中海寰宇天下
+        category: 房产服务
+        keywords: [寰宇天下, 中海楼盘, 豪宅, 买房]
+      - name: 中海物业
+        category: 物业服务
+        keywords: [中海物业, 物业管理, 小区物业]
+  - company_id: real_estate-cmsk-cn
+    company_name: 招商蛇口
+    items:
+      - name: 海上世界
+        category: 其他
+        keywords: [海上世界, 深圳海上世界, 商场, 观光, 打卡]
+      - name: 招商雍华府
+        category: 房产服务
+        keywords: [雍华府, 招商蛇口楼盘, 买房, 住宅]
+      - name: 招商积余物业
+        category: 物业服务
+        keywords: [招商积余, 招商物业, 物业管理, 小区物业]
+  - company_id: real_estate-longfor-cn
+    company_name: 龙湖集团
+    items:
+      - name: 龙湖天街
+        category: 其他
+        keywords: [天街, 龙湖天街, 商场, 购物, 逛街]
+      - name: 龙湖滟澜山
+        category: 房产服务
+        keywords: [滟澜山, 龙湖楼盘, 买房, 住宅]
+      - name: 冠寓长租公寓
+        category: 房产服务
+        keywords: [冠寓, 龙湖冠寓, 长租公寓, 租房]
+      - name: 龙湖智创生活物业
+        category: 物业服务
+        keywords: [龙湖物业, 智创生活, 物业管理, 小区物业]
+  - company_id: real_estate-greenland-cn
+    company_name: 绿地控股
+    items:
+      - name: 绿地中心
+        category: 房产服务
+        keywords: [绿地中心, 绿地楼盘, 摩天大楼, 买房]
+      - name: 绿地缤纷城
+        category: 其他
+        keywords: [缤纷城, 绿地缤纷城, 商场, 购物]
+      - name: 绿地国际花都
+        category: 房产服务
+        keywords: [国际花都, 绿地楼盘, 买房, 住宅]
+  - company_id: real_estate-gemdale-cn
+    company_name: 金地集团
+    items:
+      - name: 金地格林小镇
+        category: 房产服务
+        keywords: [格林小镇, 金地楼盘, 买房, 住宅]
+      - name: 金地未未来
+        category: 房产服务
+        keywords: [未未来, 金地楼盘, 买房, 住宅]
+      - name: 金地物业
+        category: 物业服务
+        keywords: [金地物业, 物业管理, 小区物业]
+  - company_id: real_estate-greentown-cn
+    company_name: 绿城中国
+    items:
+      - name: 绿城桃花源
+        category: 房产服务
+        keywords: [桃花源, 绿城桃花源, 别墅, 豪宅, 买房]
+      - name: 绿城桃李春风
+        category: 房产服务
+        keywords: [桃李春风, 绿城楼盘, 中式合院, 买房]
+      - name: 绿城物业
+        category: 物业服务
+        keywords: [绿城物业, 物业管理, 小区物业]
+  - company_id: real_estate-seazen-cn
+    company_name: 新城控股
+    items:
+      - name: 吾悦广场
+        category: 其他
+        keywords: [吾悦广场, 新城吾悦, 商场, 购物, 逛街]
+      - name: 吾悦华府
+        category: 房产服务
+        keywords: [吾悦华府, 新城楼盘, 买房, 住宅]
+  - company_id: real_estate-yuexiu-cn
+    company_name: 越秀地产
+    items:
+      - name: 越秀星汇云城
+        category: 房产服务
+        keywords: [星汇云城, 越秀楼盘, 买房, 住宅]
+      - name: 越秀天悦江湾
+        category: 房产服务
+        keywords: [天悦江湾, 越秀楼盘, 江景房, 买房]
+      - name: 越秀服务物业
+        category: 物业服务
+        keywords: [越秀物业, 越秀服务, 物业管理, 小区物业]
+  - company_id: real_estate-huafa-cn
+    company_name: 华发股份
+    items:
+      - name: 华发新城
+        category: 房产服务
+        keywords: [华发新城, 华发楼盘, 珠海买房, 住宅]
+      - name: 华发商都
+        category: 其他
+        keywords: [华发商都, 珠海商场, 商场, 购物]
+  - company_id: real_estate-countrygarden-cn
+    company_name: 碧桂园
+    items:
+      - name: 碧桂园凤凰城
+        category: 房产服务
+        keywords: [凤凰城, 碧桂园凤凰城, 碧桂园楼盘, 买房]
+      - name: 碧桂园森林城市
+        category: 房产服务
+        keywords: [森林城市, 碧桂园森林城市, 海外房产, 买房]
+      - name: 碧桂园服务物业
+        category: 物业服务
+        keywords: [碧桂园服务, 碧桂园物业, 物业管理, 小区物业]
+  - company_id: real_estate-shkp-hk
+    company_name: 新鸿基地产
+    items:
+      - name: 香港国际金融中心商场
+        category: 其他
+        keywords: [IFC, 国金中心, 香港IFC, 商场, 购物]
+      - name: 新城市广场
+        category: 其他
+        keywords: [新城市广场, 沙田新城市广场, 香港商场, 购物]
+      - name: 凯旋门
+        category: 房产服务
+        keywords: [凯旋门, 新鸿基豪宅, 香港楼盘, 买房]
+  - company_id: real_estate-ckasset-hk
+    company_name: 长江实业集团
+    items:
+      - name: 名城
+        category: 房产服务
+        keywords: [名城, 大围名城, 香港楼盘, 买房]
+      - name: 盈翠半岛
+        category: 房产服务
+        keywords: [盈翠半岛, 青衣盈翠半岛, 香港住宅, 买房]
+  - company_id: real_estate-wharf-hk
+    company_name: 九龙仓集团
+    items:
+      - name: 海港城
+        category: 其他
+        keywords: [海港城, 尖沙咀海港城, 香港商场, 购物]
+      - name: 时代广场
+        category: 其他
+        keywords: [时代广场, 铜锣湾时代广场, 香港商场, 购物, 逛街]
+  - company_id: real_estate-swire-hk
+    company_name: 太古地产
+    items:
+      - name: 三里屯太古里
+        category: 其他
+        keywords: [太古里, 三里屯太古里, 商场, 逛街, 打卡]
+      - name: 成都远洋太古里
+        category: 其他
+        keywords: [成都太古里, 太古里, 商场, 逛街]
+      - name: 太古广场
+        category: 其他
+        keywords: [太古广场, 金钟太古广场, 香港商场, 购物]
+  - company_id: real_estate-hanglung-hk
+    company_name: 恒隆地产
+    items:
+      - name: 上海恒隆广场
+        category: 其他
+        keywords: [恒隆广场, 上海恒隆, 商场, 奢侈品, 购物]
+      - name: 港汇恒隆广场
+        category: 其他
+        keywords: [港汇广场, 港汇恒隆, 徐家汇, 商场]
+  - company_id: real_estate-hld-hk
+    company_name: 恒基兆业地产
+    items:
+      - name: 翔龙湾
+        category: 房产服务
+        keywords: [翔龙湾, 土瓜湾翔龙湾, 香港楼盘, 买房]
+      - name: 比华利山别墅
+        category: 房产服务
+        keywords: [比华利山, 大埔比华利山, 香港别墅, 豪宅]
+  - company_id: real_estate-publicstorage-us
+    company_name: Public Storage
+    items:
+      - name: 自助仓储服务
+        category: 其他
+        keywords: [迷你仓, 自助仓储, 储物仓, 个人仓储]
+      - name: 搬家仓储套餐
+        category: 其他
+        keywords: [搬家储物, 临时仓储, 寄存家具, storage]
+  - company_id: real_estate-avalonbay-us
+    company_name: AvalonBay Communities
+    items:
+      - name: Avalon 公寓租赁
+        category: 房产服务
+        keywords: [公寓出租, 长租公寓, 美国租房, 公寓]
+  - company_id: real_estate-eqresidential-us
+    company_name: Equity Residential
+    items:
+      - name: 高端公寓租赁
+        category: 房产服务
+        keywords: [公寓出租, 长租公寓, 美国租房, 高端公寓]
+  - company_id: real_estate-mitsuifudosan-jp
+    company_name: 三井不动产
+    items:
+      - name: Park Court 公寓
+        category: 房产服务
+        keywords: [Park Court, 日本公寓, 东京房产, 买房]
+      - name: Park Tower 塔楼公寓
+        category: 房产服务
+        keywords: [Park Tower, 塔楼, 日本房产, 买房]
+      - name: 三井奥特莱斯购物城
+        category: 其他
+        keywords: [三井奥特莱斯, 奥特莱斯, 打折购物, outlet]
+  - company_id: real_estate-mitsubishiestate-jp
+    company_name: 三菱地所
+    items:
+      - name: The Parkhouse 公寓
+        category: 房产服务
+        keywords: [Parkhouse, 日本公寓, 东京房产, 买房]
+      - name: CITY TOWER 塔楼公寓
+        category: 房产服务
+        keywords: [City Tower, 塔楼公寓, 日本房产, 买房]
+  - company_id: real_estate-sumitomorlty-jp
+    company_name: 住友不动产
+    items:
+      - name: Brillia 公寓
+        category: 房产服务
+        keywords: [Brillia, 日本公寓, 东京房产, 买房]
+      - name: 住友不动产塔楼住宅
+        category: 房产服务
+        keywords: [塔楼, 日本房产, 东京买房, 住宅]
+  - company_id: real_estate-nomurarealestate-jp
+    company_name: 野村不动产控股
+    items:
+      - name: PROUD 公寓
+        category: 房产服务
+        keywords: [PROUD, 普拉ウド, 日本公寓, 买房]
+      - name: 野村不动产新建住宅
+        category: 房产服务
+        keywords: [新建住宅, 日本房产, 买房, 一户建]
+  - company_id: real_estate-tokyuland-jp
+    company_name: 东急不动产控股
+    items:
+      - name: Branz 公寓
+        category: 房产服务
+        keywords: [Branz, 日本公寓, 东京房产, 买房]
+      - name: 二子玉川RISE综合体
+        category: 其他
+        keywords: [二子玉川, 二子玉川RISE, 商场, 东京购物]
+  - company_id: real_estate-vonovia-de
+    company_name: Vonovia
+    items:
+      - name: 公寓租赁服务
+        category: 房产服务
+        keywords: [德国租房, 公寓出租, 长租公寓, 租房]
+      - name: 房屋维修服务
+        category: 房产服务
+        keywords: [房屋维修, 房东服务, 修房子, 报修]
+  - company_id: real_estate-leg-de
+    company_name: LEG Immobilien
+    items:
+      - name: 公寓租赁服务
+        category: 房产服务
+        keywords: [德国租房, 公寓出租, 长租公寓, 租房]
+      - name: 学生公寓
+        category: 房产服务
+        keywords: [学生公寓, 学生租房, 德国留学租房, 宿舍]
+  - company_id: real_estate-capitaland-sg
+    company_name: 凯德集团
+    items:
+      - name: 来福士广场
+        category: 其他
+        keywords: [来福士, 来福士广场, 商场, 购物, 逛街]
+      - name: 凯德广场
+        category: 其他
+        keywords: [凯德广场, 凯德MALL, 商场, 购物]
+      - name: 雅诗阁服务公寓
+        category: 酒店住宿
+        keywords: [雅诗阁, 服务式公寓, 公寓酒店, 长住酒店]
+  - company_id: real_estate-cdl-sg
+    company_name: 城市发展有限公司
+    items:
+      - name: New Futura 御峰
+        category: 房产服务
+        keywords: [御峰, New Futura, 新加坡豪宅, 买房]
+      - name: The Sail 滨海舫
+        category: 房产服务
+        keywords: [滨海舫, The Sail, 新加坡公寓, 买房]
+  - company_id: real_estate-uol-sg
+    company_name: 华业集团
+    items:
+      - name: Avenue South Residence 南峰雅苑
+        category: 房产服务
+        keywords: [南峰雅苑, Avenue South, 新加坡公寓, 买房]
+      - name: The Clement Canopy
+        category: 房产服务
+        keywords: [Clement Canopy, 新加坡公寓, 金文泰, 买房]
+  - company_id: real_estate-mirvac-au
+    company_name: Mirvac
+    items:
+      - name: Harold Park 住宅社区
+        category: 房产服务
+        keywords: [Harold Park, 悉尼房产, 澳洲买房, 住宅]
+      - name: St Leonards Square
+        category: 房产服务
+        keywords: [St Leonards, 悉尼公寓, 澳洲房产, 买房]
+  - company_id: real_estate-emaar-ae
+    company_name: Emaar Properties
+    items:
+      - name: 迪拜购物中心
+        category: 其他
+        keywords: [迪拜购物中心, Dubai Mall, 商场, 购物]
+      - name: 哈利法塔观光
+        category: 旅游出行
+        keywords: [哈利法塔, 迪拜塔, 观光门票, 景点]
+      - name: 迪拜市中心住宅
+        category: 房产服务
+        keywords: [迪拜房产, 市中心公寓, 海外买房, 投资房]
+  - company_id: real_estate-dlf-in
+    company_name: DLF
+    items:
+      - name: DLF Camellias 豪宅
+        category: 房产服务
+        keywords: [Camellias, DLF豪宅, 印度房产, 德里买房]
+      - name: DLF Emporio 购物中心
+        category: 其他
+        keywords: [Emporio, DLF商场, 德里购物, 奢侈品]

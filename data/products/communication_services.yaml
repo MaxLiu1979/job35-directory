@@ -1,0 +1,637 @@
+products:
+  - company_id: communication_services-china-mobile-cn
+    company_name: 中国移动
+    items:
+      - name: 5G套餐
+        category: 通讯服务
+        keywords: [5G套餐, 移动套餐, 手机套餐, 话费, 流量套餐]
+      - name: 移动宽带
+        category: 宽带网络
+        keywords: [宽带, 移动宽带, 光宽带, 装宽带]
+      - name: 咪咕视频
+        category: 影视视频
+        keywords: [咪咕, 咪咕视频, 看球, 体育直播]
+      - name: 咪咕音乐
+        category: 音乐音频
+        keywords: [咪咕音乐, 听歌, 彩铃]
+      - name: 和包支付
+        category: 金融理财
+        keywords: [和包, 和包支付, 手机支付]
+
+  - company_id: communication-services-china-telecom-cn
+    company_name: 中国电信
+    items:
+      - name: 天翼5G套餐
+        category: 通讯服务
+        keywords: [电信套餐, 天翼, 手机套餐, 话费]
+      - name: 天翼宽带
+        category: 宽带网络
+        keywords: [电信宽带, 天翼宽带, 光宽带, 装宽带]
+      - name: 天翼云盘
+        category: 手机应用
+        keywords: [天翼云盘, 云盘, 网盘]
+      - name: 天翼超高清
+        category: 影视视频
+        keywords: [天翼超高清, 电信电视, 看剧]
+
+  - company_id: communication-services-china-unicom-cn
+    company_name: 中国联通
+    items:
+      - name: 5G套餐
+        category: 通讯服务
+        keywords: [联通套餐, 手机套餐, 话费, 流量套餐]
+      - name: 联通宽带
+        category: 宽带网络
+        keywords: [联通宽带, 光宽带, 装宽带]
+      - name: 腾讯大王卡
+        category: 通讯服务
+        keywords: [大王卡, 腾讯大王卡, 流量卡, 免流量]
+
+  - company_id: communication-services-tencent-cn
+    company_name: 腾讯
+    items:
+      - name: 微信
+        category: 手机应用
+        keywords: [微信, 聊天, 发朋友圈, 视频号]
+      - name: QQ
+        category: 手机应用
+        keywords: [QQ, 发消息, 空间]
+      - name: 王者荣耀
+        category: 游戏娱乐
+        keywords: [王者, 王者荣耀, 开黑, 打排位]
+      - name: 和平精英
+        category: 游戏娱乐
+        keywords: [和平精英, 吃鸡, 手游]
+      - name: 腾讯视频
+        category: 影视视频
+        keywords: [腾讯视频, 腾讯会员, 看剧, 追剧]
+      - name: QQ音乐
+        category: 音乐音频
+        keywords: [QQ音乐, 听歌, 绿钻]
+
+  - company_id: communication-services-netease-cn
+    company_name: 网易
+    items:
+      - name: 网易云音乐
+        category: 音乐音频
+        keywords: [网易云, 网易云音乐, 听歌, 黑胶会员]
+      - name: 梦幻西游
+        category: 游戏娱乐
+        keywords: [梦幻, 梦幻西游, 回合制, 网游]
+      - name: 蛋仔派对
+        category: 游戏娱乐
+        keywords: [蛋仔, 蛋仔派对, 派对游戏]
+      - name: 第五人格
+        category: 游戏娱乐
+        keywords: [第五人格, 非对称对抗, 手游]
+      - name: 网易邮箱
+        category: 手机应用
+        keywords: [163邮箱, 网易邮箱, 邮箱]
+
+  - company_id: communication-services-kuaishou-cn
+    company_name: 快手
+    items:
+      - name: 快手短视频
+        category: 手机应用
+        keywords: [快手, 短视频, 刷视频]
+      - name: 快手直播
+        category: 手机应用
+        keywords: [快手直播, 直播, 带货直播]
+      - name: 快影剪辑
+        category: 手机应用
+        keywords: [快影, 剪辑, 剪视频]
+
+  - company_id: communication-services-bilibili-cn
+    company_name: 哔哩哔哩
+    items:
+      - name: 哔哩哔哩大会员
+        category: 影视视频
+        keywords: [B站大会员, 哔哩哔哩会员, 大会员, B站]
+      - name: 哔哩哔哩App
+        category: 手机应用
+        keywords: [B站, 哔哩哔哩, 刷视频, 弹幕]
+      - name: B站直播
+        category: 手机应用
+        keywords: [B站直播, 直播, 虚拟主播]
+
+  - company_id: communication-services-iqiyi-cn
+    company_name: 爱奇艺
+    items:
+      - name: 爱奇艺VIP会员
+        category: 影视视频
+        keywords: [爱奇艺会员, 爱奇艺VIP, 看剧, 追剧]
+      - name: 爱奇艺App
+        category: 手机应用
+        keywords: [爱奇艺, 看视频, 迷雾剧场]
+      - name: 奇异果TV
+        category: 影视视频
+        keywords: [奇异果, 银河奇异果, 电视盒子]
+
+  - company_id: communication-services-weibo-cn
+    company_name: 微博
+    items:
+      - name: 微博App
+        category: 手机应用
+        keywords: [微博, 刷微博, 热搜, 发微博]
+      - name: 微博会员
+        category: 手机应用
+        keywords: [微博会员, 橙V, 会员]
+      - name: 微博热搜
+        category: 手机应用
+        keywords: [热搜, 热点, 吃瓜]
+
+  - company_id: communication-services-mango-excellent-media-cn
+    company_name: 芒果超媒
+    items:
+      - name: 芒果TV会员
+        category: 影视视频
+        keywords: [芒果TV, 芒果会员, 看综艺, 追剧]
+      - name: 芒果TV App
+        category: 手机应用
+        keywords: [芒果TV, 湖南卫视, 综艺]
+
+  - company_id: communication-services-china-literature-cn
+    company_name: 阅文集团
+    items:
+      - name: QQ阅读
+        category: 手机应用
+        keywords: [QQ阅读, 看小说, 网文, 电子书]
+      - name: 起点中文网
+        category: 手机应用
+        keywords: [起点, 起点读书, 网络小说]
+      - name: 潇湘书院
+        category: 手机应用
+        keywords: [潇湘书院, 女频小说, 言情]
+
+  - company_id: communication-services-tencent-music-cn
+    company_name: 腾讯音乐娱乐
+    items:
+      - name: QQ音乐
+        category: 音乐音频
+        keywords: [QQ音乐, 听歌, 绿钻, 数字专辑]
+      - name: 酷狗音乐
+        category: 音乐音频
+        keywords: [酷狗, 酷狗音乐, 听歌]
+      - name: 酷我音乐
+        category: 音乐音频
+        keywords: [酷我, 酷我音乐, 听歌]
+      - name: 全民K歌
+        category: 音乐音频
+        keywords: [全民K歌, K歌, 唱歌, 录歌]
+
+  - company_id: communication-services-oriental-pearl-cn
+    company_name: 东方明珠
+    items:
+      - name: 东方明珠广播电视塔观光
+        category: 旅游出行
+        keywords: [东方明珠, 电视塔, 上海景点, 观光, 登塔]
+      - name: 明珠塔空中旋转餐厅
+        category: 餐饮美食
+        keywords: [旋转餐厅, 东方明珠餐厅, 景观餐厅]
+      - name: 浦江游览
+        category: 旅游出行
+        keywords: [浦江游览, 黄浦江游船, 夜游船]
+
+  - company_id: communication-services-phoenix-tv-cn
+    company_name: 凤凰卫视
+    items:
+      - name: 凤凰卫视中文台
+        category: 影视视频
+        keywords: [凤凰卫视, 凤凰台, 中文台, 新闻]
+      - name: 凤凰秀App
+        category: 手机应用
+        keywords: [凤凰秀, 凤凰新闻, 看新闻]
+      - name: 凤凰卫视资讯台
+        category: 影视视频
+        keywords: [资讯台, 凤凰资讯, 时事新闻]
+
+  - company_id: communication-services-wasu-media-cn
+    company_name: 华数传媒
+    items:
+      - name: 华数TV
+        category: 影视视频
+        keywords: [华数, 华数TV, 看电视, 点播]
+      - name: 华数宽带
+        category: 宽带网络
+        keywords: [华数宽带, 杭州宽带, 装宽带]
+      - name: 华数电视盒子
+        category: 家电
+        keywords: [机顶盒, 电视盒子, 华数盒子]
+
+  - company_id: communication-services-37games-cn
+    company_name: 三七互娱
+    items:
+      - name: 斗罗大陆魂师对决
+        category: 游戏娱乐
+        keywords: [斗罗大陆, 魂师对决, 斗罗手游]
+      - name: Puzzles & Survival
+        category: 游戏娱乐
+        keywords: [末日喧嚣, Puzzles Survival, 三消手游]
+      - name: 叫我大掌柜
+        category: 游戏娱乐
+        keywords: [叫我大掌柜, 大掌柜, 经营手游]
+
+  - company_id: communication-services-perfect-world-cn
+    company_name: 完美世界
+    items:
+      - name: 诛仙手游
+        category: 游戏娱乐
+        keywords: [诛仙, 诛仙手游, 仙侠游戏]
+      - name: 完美世界手游
+        category: 游戏娱乐
+        keywords: [完美世界, 完美手游, 玄幻游戏]
+      - name: 幻塔
+        category: 游戏娱乐
+        keywords: [幻塔, 开放世界, 二次元手游]
+      - name: 新笑傲江湖
+        category: 游戏娱乐
+        keywords: [笑傲江湖, 新笑傲江湖, 武侠游戏]
+
+  - company_id: communication-services-att-us
+    company_name: AT&T
+    items:
+      - name: AT&T无限流量套餐
+        category: 通讯服务
+        keywords: [AT&T, 美国电话卡, 手机套餐, 无限流量]
+      - name: AT&T Fiber光纤宽带
+        category: 宽带网络
+        keywords: [AT&T宽带, 光纤, 美国宽带]
+      - name: AT&T预付费电话卡
+        category: 通讯服务
+        keywords: [预付费, 美国手机卡, 游客电话卡]
+
+  - company_id: communication-services-verizon-us
+    company_name: Verizon
+    items:
+      - name: Verizon无限套餐
+        category: 通讯服务
+        keywords: [Verizon, 美国电话卡, 手机套餐, 无限流量]
+      - name: Verizon Fios宽带
+        category: 宽带网络
+        keywords: [Fios, Verizon宽带, 光纤宽带]
+      - name: Verizon 5G家庭宽带
+        category: 宽带网络
+        keywords: [5G宽带, 家庭网络, 无线上网]
+
+  - company_id: communication-services-tmobile-us
+    company_name: T-Mobile US
+    items:
+      - name: Magenta无限套餐
+        category: 通讯服务
+        keywords: [T-Mobile, 美国电话卡, 无限流量, 手机套餐]
+      - name: T-Mobile预付费卡
+        category: 通讯服务
+        keywords: [预付费电话卡, 美国手机卡, 游客卡]
+      - name: T-Mobile 5G家庭上网
+        category: 宽带网络
+        keywords: [5G家庭宽带, 无线上网, T-Mobile宽带]
+
+  - company_id: communication-services-comcast-us
+    company_name: Comcast
+    items:
+      - name: Xfinity宽带
+        category: 宽带网络
+        keywords: [Xfinity, 美国宽带, 有线电视宽带]
+      - name: Xfinity TV
+        category: 影视视频
+        keywords: [Xfinity电视, 有线电视, 电视套餐]
+      - name: Xfinity Mobile
+        category: 通讯服务
+        keywords: [Xfinity手机, 美国电话卡, 手机套餐]
+
+  - company_id: communication-services-charter-us
+    company_name: Charter Communications
+    items:
+      - name: Spectrum Internet宽带
+        category: 宽带网络
+        keywords: [Spectrum, 美国宽带, 宽带上网]
+      - name: Spectrum TV
+        category: 影视视频
+        keywords: [Spectrum电视, 有线电视, 电视套餐]
+      - name: Spectrum Mobile
+        category: 通讯服务
+        keywords: [Spectrum手机, 美国电话卡, 手机套餐]
+
+  - company_id: communication-services-disney-us
+    company_name: Disney
+    items:
+      - name: Disney+流媒体
+        category: 影视视频
+        keywords: [迪士尼, Disney+, 迪士尼电影, 看剧]
+      - name: 迪士尼乐园门票
+        category: 旅游出行
+        keywords: [迪士尼门票, 迪士尼乐园, 迪士尼度假区, 游乐园]
+      - name: ESPN+
+        category: 影视视频
+        keywords: [ESPN, 体育直播, 看球]
+      - name: 迪士尼动画电影
+        category: 影视视频
+        keywords: [迪士尼电影, 动画电影, 皮克斯, 漫威]
+
+  - company_id: communication-services-netflix-us
+    company_name: Netflix
+    items:
+      - name: Netflix会员
+        category: 影视视频
+        keywords: [网飞, Netflix, 看剧, 美剧, 追剧]
+      - name: Netflix广告套餐
+        category: 影视视频
+        keywords: [奈飞, 便宜会员, 看剧]
+
+  - company_id: communication-services-warner-bros-discovery-us
+    company_name: Warner Bros. Discovery
+    items:
+      - name: Max流媒体（原HBO Max）
+        category: 影视视频
+        keywords: [HBO, Max, HBO Max, 美剧]
+      - name: Discovery+流媒体
+        category: 影视视频
+        keywords: [Discovery, 纪录片, 真人秀]
+      - name: 华纳兄弟电影
+        category: 影视视频
+        keywords: [华纳, 好莱坞电影, DC电影]
+
+  - company_id: communication-services-paramount-us
+    company_name: Paramount Global
+    items:
+      - name: Paramount+流媒体
+        category: 影视视频
+        keywords: [Paramount, 派拉蒙, 美剧, 电影]
+      - name: CBS电视频道
+        category: 影视视频
+        keywords: [CBS, 美剧, 美国电视]
+      - name: Nickelodeon少儿频道
+        category: 影视视频
+        keywords: [尼克儿童, 少儿节目, 动画片]
+
+  - company_id: communication-services-activision-blizzard-us
+    company_name: Activision Blizzard
+    items:
+      - name: 魔兽世界
+        category: 游戏娱乐
+        keywords: [魔兽, 魔兽世界, 怀旧服, 打副本]
+      - name: 使命召唤
+        category: 游戏娱乐
+        keywords: [COD, 使命召唤, 射击游戏]
+      - name: 暗黑破坏神
+        category: 游戏娱乐
+        keywords: [暗黑, 暗黑破坏神, 大菠萝]
+      - name: 守望先锋
+        category: 游戏娱乐
+        keywords: [守望先锋, 守望, 射击游戏]
+      - name: 炉石传说
+        category: 游戏娱乐
+        keywords: [炉石, 炉石传说, 卡牌游戏]
+
+  - company_id: communication-services-ea-us
+    company_name: Electronic Arts
+    items:
+      - name: EA Sports FC（原FIFA）
+        category: 游戏娱乐
+        keywords: [FIFA, FC24, 足球游戏, 实况]
+      - name: 模拟人生
+        category: 游戏娱乐
+        keywords: [模拟人生, 模拟市民, 建房游戏]
+      - name: Apex英雄
+        category: 游戏娱乐
+        keywords: [Apex, 吃鸡, 大逃杀]
+      - name: 战地
+        category: 游戏娱乐
+        keywords: [战地, 战地风云, 射击游戏]
+
+  - company_id: communication-services-sony-jp
+    company_name: Sony Group
+    items:
+      - name: PlayStation 5
+        category: 数码产品
+        keywords: [PS5, 游戏机, 索尼游戏机, 主机]
+      - name: PlayStation Plus会员
+        category: 游戏娱乐
+        keywords: [PSN, PS Plus, 会免, 联机]
+      - name: WF-1000XM5降噪耳机
+        category: 数码产品
+        keywords: [索尼耳机, 降噪豆, 蓝牙耳机]
+      - name: 索尼电视（BRAVIA）
+        category: 家电
+        keywords: [索尼电视, 大法电视, BRAVIA]
+
+  - company_id: communication-services-ntt-jp
+    company_name: Nippon Telegraph and Telephone
+    items:
+      - name: NTT DoCoMo手机套餐
+        category: 通讯服务
+        keywords: [docomo, 日本电话卡, 手机套餐, 日本留学]
+      - name: OCN宽带
+        category: 宽带网络
+        keywords: [OCN, 日本宽带, 光纤]
+      - name: DoCoMo预付费SIM卡
+        category: 通讯服务
+        keywords: [日本流量卡, 游客卡, 预付费]
+
+  - company_id: communication-services-kddi-jp
+    company_name: KDDI
+    items:
+      - name: au手机套餐
+        category: 通讯服务
+        keywords: [au, 日本电话卡, 手机套餐, 日本留学]
+      - name: au光宽带
+        category: 宽带网络
+        keywords: [au光, 日本宽带, 光纤]
+      - name: UQ Mobile
+        category: 通讯服务
+        keywords: [UQ, 格安卡, 日本便宜手机卡]
+
+  - company_id: communication-services-sk-telecom-kr
+    company_name: SK Telecom
+    items:
+      - name: 移动通信套餐
+        category: 通讯服务
+        keywords: [SKT, 韩国电话卡, 手机套餐, 韩国旅游]
+      - name: B tv电视服务
+        category: 影视视频
+        keywords: [B tv, 韩国电视, IPTV]
+      - name: 漫游套餐
+        category: 通讯服务
+        keywords: [漫游, 出国流量, 国际漫游]
+
+  - company_id: communication-services-kt-kr
+    company_name: KT
+    items:
+      - name: KT手机套餐
+        category: 通讯服务
+        keywords: [KT, 韩国电话卡, 手机套餐, 韩国旅游]
+      - name: KT宽带
+        category: 宽带网络
+        keywords: [KT宽带, 韩国宽带, 光纤]
+      - name: Genie音乐
+        category: 音乐音频
+        keywords: [Genie, 韩国音乐, 听歌]
+
+  - company_id: communication-services-lg-uplus-kr
+    company_name: LG Uplus
+    items:
+      - name: U+手机套餐
+        category: 通讯服务
+        keywords: [LG U+, 韩国电话卡, 手机套餐, 韩国旅游]
+      - name: U+宽带
+        category: 宽带网络
+        keywords: [U+宽带, 韩国宽带, 光纤]
+      - name: U+tv电视服务
+        category: 影视视频
+        keywords: [U+tv, 韩国电视, IPTV]
+
+  - company_id: communication-services-deutsche-telekom-de
+    company_name: Deutsche Telekom
+    items:
+      - name: MagentaMobil手机套餐
+        category: 通讯服务
+        keywords: [德国电信, Magenta, 德国电话卡, 手机套餐]
+      - name: MagentaZuhause宽带
+        category: 宽带网络
+        keywords: [德国宽带, Telekom宽带, 光纤]
+      - name: MagentaTV
+        category: 影视视频
+        keywords: [MagentaTV, 德国电视, IPTV]
+
+  - company_id: communication-services-vodafone-gb
+    company_name: Vodafone
+    items:
+      - name: Vodafone手机套餐
+        category: 通讯服务
+        keywords: [沃达丰, 英国电话卡, 欧洲漫游, 手机套餐]
+      - name: Vodafone宽带
+        category: 宽带网络
+        keywords: [沃达丰宽带, 英国宽带, 光纤]
+      - name: Vodafone预付费卡
+        category: 通讯服务
+        keywords: [预付费, 游客电话卡, 欧洲流量卡]
+
+  - company_id: communication-services-bt-gb
+    company_name: BT Group
+    items:
+      - name: BT Broadband宽带
+        category: 宽带网络
+        keywords: [BT宽带, 英国宽带, 光纤]
+      - name: EE手机套餐
+        category: 通讯服务
+        keywords: [EE, 英国电话卡, 手机套餐]
+      - name: BT Sport体育频道
+        category: 影视视频
+        keywords: [BT体育, 看球, 体育直播]
+
+  - company_id: communication-services-orange-fr
+    company_name: Orange
+    items:
+      - name: Orange手机套餐
+        category: 通讯服务
+        keywords: [Orange, 法国电话卡, 手机套餐, 欧洲漫游]
+      - name: Orange宽带
+        category: 宽带网络
+        keywords: [Orange宽带, 法国宽带, 光纤]
+      - name: Orange预付费电话卡
+        category: 通讯服务
+        keywords: [预付费, 法国流量卡, 游客卡]
+
+  - company_id: communication-services-telefonica-es
+    company_name: Telefónica
+    items:
+      - name: Movistar手机套餐
+        category: 通讯服务
+        keywords: [Movistar, 西班牙电话卡, 手机套餐]
+      - name: Movistar宽带
+        category: 宽带网络
+        keywords: [Movistar宽带, 西班牙宽带, 光纤]
+      - name: O2移动服务
+        category: 通讯服务
+        keywords: [O2, 欧洲电话卡, 手机套餐]
+
+  - company_id: communication-services-america-movil-mx
+    company_name: América Móvil
+    items:
+      - name: Telcel手机套餐
+        category: 通讯服务
+        keywords: [Telcel, 墨西哥电话卡, 手机套餐]
+      - name: Claro移动通信
+        category: 通讯服务
+        keywords: [Claro, 拉美电话卡, 巴西手机卡]
+      - name: Telcel流量充值
+        category: 通讯服务
+        keywords: [充值, 话费充值, 流量包]
+
+  - company_id: communication-services-telstra-au
+    company_name: Telstra
+    items:
+      - name: Telstra手机套餐
+        category: 通讯服务
+        keywords: [Telstra, 澳洲电话卡, 手机套餐, 澳大利亚]
+      - name: Telstra宽带
+        category: 宽带网络
+        keywords: [Telstra宽带, 澳洲宽带, 光纤]
+      - name: Telstra预付费卡
+        category: 通讯服务
+        keywords: [预付费, 澳洲游客卡, 流量卡]
+
+  - company_id: communication-services-singtel-sg
+    company_name: Singtel
+    items:
+      - name: Singtel手机套餐
+        category: 通讯服务
+        keywords: [新电信, 新加坡电话卡, 手机套餐, 新加坡留学]
+      - name: Singtel宽带
+        category: 宽带网络
+        keywords: [新电信宽带, 新加坡宽带, 光纤]
+      - name: 预付费游客卡
+        category: 通讯服务
+        keywords: [hi!Tourist, 新加坡游客卡, 流量卡]
+
+  - company_id: communication-services-universal-music-nl
+    company_name: Universal Music Group
+    items:
+      - name: 正版音乐专辑
+        category: 音乐音频
+        keywords: [环球音乐, 专辑, 唱片, 新歌]
+      - name: 黑胶唱片
+        category: 音乐音频
+        keywords: [黑胶, 唱片, 实体专辑]
+      - name: 演唱会授权周边
+        category: 音乐音频
+        keywords: [演唱会, 周边, 正版]
+
+  - company_id: communication-services-spotify-se
+    company_name: Spotify
+    items:
+      - name: Spotify Premium会员
+        category: 音乐音频
+        keywords: [Spotify, 声破天, 听歌, 音乐App]
+      - name: Spotify免费版
+        category: 音乐音频
+        keywords: [免费听歌, Spotify免费, 播客]
+      - name: Spotify播客
+        category: 音乐音频
+        keywords: [播客, 听播客, 节目]
+
+  - company_id: communication-services-swisscom-ch
+    company_name: Swisscom
+    items:
+      - name: Swisscom手机套餐
+        category: 通讯服务
+        keywords: [Swisscom, 瑞士电话卡, 手机套餐, 瑞士旅游]
+      - name: Swisscom宽带
+        category: 宽带网络
+        keywords: [Swisscom宽带, 瑞士宽带, 光纤]
+      - name: Swisscom电视
+        category: 影视视频
+        keywords: [Swisscom电视, 瑞士电视, IPTV]
+
+  - company_id: communication-services-telenor-no
+    company_name: Telenor
+    items:
+      - name: Telenor手机套餐
+        category: 通讯服务
+        keywords: [Telenor, 挪威电话卡, 手机套餐, 北欧]
+      - name: Telenor宽带
+        category: 宽带网络
+        keywords: [Telenor宽带, 挪威宽带, 光纤]
+      - name: Telenor预付费卡
+        category: 通讯服务
+        keywords: [预付费, 挪威游客卡, 流量卡]

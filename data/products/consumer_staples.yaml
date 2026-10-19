@@ -1,0 +1,659 @@
+products:
+  - company_id: consumer_staples-moutai-cn
+    company_name: 贵州茅台
+    items:
+      - name: 飞天茅台
+        category: 酒水
+        keywords: [茅台酒, 飞天, 白酒, 茅台, 酱酒]
+      - name: 茅台王子酒
+        category: 酒水
+        keywords: [王子酒, 茅台系列酒, 白酒]
+      - name: 茅台迎宾酒
+        category: 酒水
+        keywords: [迎宾酒, 茅台系列酒, 白酒]
+      - name: 生肖茅台酒
+        category: 酒水
+        keywords: [生肖酒, 茅台生肖, 收藏酒, 白酒]
+
+  - company_id: consumer_staples-wuliangye-cn
+    company_name: 五粮液
+    items:
+      - name: 五粮液普五
+        category: 酒水
+        keywords: [五粮液, 普五, 白酒, 浓香酒]
+      - name: 五粮液1618
+        category: 酒水
+        keywords: [五粮液1618, 白酒, 商务用酒]
+      - name: 五粮春
+        category: 酒水
+        keywords: [五粮春, 白酒, 宴席用酒]
+      - name: 尖庄酒
+        category: 酒水
+        keywords: [尖庄, 口粮酒, 白酒]
+
+  - company_id: consumer_staples-yili-cn
+    company_name: 伊利
+    items:
+      - name: 金典纯牛奶
+        category: 乳品
+        keywords: [牛奶, 纯牛奶, 奶, 金典]
+      - name: 安慕希酸奶
+        category: 乳品
+        keywords: [酸奶, 安慕希, 希腊酸奶]
+      - name: 舒化无乳糖牛奶
+        category: 乳品
+        keywords: [舒化奶, 无乳糖牛奶, 好消化牛奶]
+      - name: QQ星儿童牛奶
+        category: 乳品
+        keywords: [儿童牛奶, QQ星, 儿童奶]
+
+  - company_id: consumer_staples-mengniu-cn
+    company_name: 蒙牛乳业
+    items:
+      - name: 特仑苏纯牛奶
+        category: 乳品
+        keywords: [牛奶, 纯牛奶, 特仑苏, 高端牛奶]
+      - name: 纯甄酸奶
+        category: 乳品
+        keywords: [酸奶, 纯甄, 常温酸奶]
+      - name: 蒙牛纯牛奶
+        category: 乳品
+        keywords: [牛奶, 纯牛奶, 蒙牛, 奶]
+      - name: 冠益乳风味发酵乳
+        category: 乳品
+        keywords: [冠益乳, 酸奶, 益生菌酸奶]
+
+  - company_id: consumer_staples-nongfuspring-cn
+    company_name: 农夫山泉
+    items:
+      - name: 农夫山泉天然水
+        category: 饮料
+        keywords: [矿泉水, 瓶装水, 农夫山泉, 饮用水]
+      - name: 东方树叶无糖茶
+        category: 饮料
+        keywords: [东方树叶, 无糖茶, 茶饮料]
+      - name: 尖叫运动饮料
+        category: 饮料
+        keywords: [尖叫, 运动饮料, 功能饮料]
+      - name: 茶π果味茶
+        category: 饮料
+        keywords: [茶派, 茶π, 果茶, 茶饮料]
+
+  - company_id: consumer_staples-haitian-cn
+    company_name: 海天味业
+    items:
+      - name: 海天金标生抽
+        category: 粮油调味
+        keywords: [生抽, 酱油, 海天, 金标生抽]
+      - name: 海天蚝油
+        category: 粮油调味
+        keywords: [蚝油, 海天蚝油, 调味品]
+      - name: 海天味极鲜
+        category: 粮油调味
+        keywords: [味极鲜, 酱油, 生抽, 调味]
+      - name: 海天黄豆酱
+        category: 粮油调味
+        keywords: [黄豆酱, 豆瓣酱, 海天酱, 蘸酱]
+
+  - company_id: consumer_staples-luzhoulaojiao-cn
+    company_name: 泸州老窖
+    items:
+      - name: 国窖1573
+        category: 酒水
+        keywords: [国窖, 1573, 白酒, 泸州老窖, 高端白酒]
+      - name: 泸州老窖特曲
+        category: 酒水
+        keywords: [特曲, 泸州老窖, 白酒]
+      - name: 泸州老窖头曲
+        category: 酒水
+        keywords: [头曲, 泸州老窖, 白酒]
+
+  - company_id: consumer_staples-fenjiu-cn
+    company_name: 山西汾酒
+    items:
+      - name: 青花汾酒
+        category: 酒水
+        keywords: [青花汾, 汾酒, 白酒, 清香型]
+      - name: 黄盖玻汾
+        category: 酒水
+        keywords: [玻汾, 黄盖汾, 口粮酒, 汾酒]
+      - name: 老白汾酒
+        category: 酒水
+        keywords: [老白汾, 汾酒, 白酒, 婚宴酒]
+
+  - company_id: consumer_staples-yanghe-cn
+    company_name: 洋河股份
+    items:
+      - name: 梦之蓝
+        category: 酒水
+        keywords: [梦之蓝, 洋河, 白酒, M6, 商务用酒]
+      - name: 天之蓝
+        category: 酒水
+        keywords: [天之蓝, 洋河蓝色经典, 白酒]
+      - name: 海之蓝
+        category: 酒水
+        keywords: [海之蓝, 洋河, 白酒, 宴席酒]
+
+  - company_id: consumer_staples-shuanghui-cn
+    company_name: 双汇发展
+    items:
+      - name: 双汇王中王火腿肠
+        category: 生鲜速食
+        keywords: [火腿肠, 王中王, 双汇, 香肠]
+      - name: 双汇冷鲜肉
+        category: 生鲜速食
+        keywords: [冷鲜肉, 猪肉, 双汇, 新鲜肉]
+      - name: 双汇午餐肉
+        category: 生鲜速食
+        keywords: [午餐肉, 罐头肉, 双汇, 涮火锅]
+
+  - company_id: consumer_staples-cofco-cn
+    company_name: 中粮集团
+    items:
+      - name: 福临门食用油
+        category: 粮油调味
+        keywords: [食用油, 大豆油, 福临门, 调和油, 菜籽油]
+      - name: 福临门大米
+        category: 粮油调味
+        keywords: [大米, 福临门, 粳米, 稻花香]
+      - name: 香雪面粉
+        category: 粮油调味
+        keywords: [面粉, 香雪, 中粮面粉, 饺子粉]
+      - name: 长城葡萄酒
+        category: 酒水
+        keywords: [红酒, 葡萄酒, 长城干红, 国产葡萄酒]
+
+  - company_id: consumer_staples-tsingtao-cn
+    company_name: 青岛啤酒
+    items:
+      - name: 青岛啤酒经典1903
+        category: 酒水
+        keywords: [啤酒, 青啤, 青岛啤酒, 经典1903]
+      - name: 青岛纯生啤酒
+        category: 酒水
+        keywords: [纯生, 青岛啤酒, 啤酒]
+      - name: 青岛奥古特啤酒
+        category: 酒水
+        keywords: [奥古特, 青岛啤酒, 高端啤酒]
+
+  - company_id: consumer_staples-crbeer-cn
+    company_name: 华润啤酒
+    items:
+      - name: 雪花勇闯天涯啤酒
+        category: 酒水
+        keywords: [啤酒, 雪花, 勇闯天涯, 雪花啤酒]
+      - name: 雪花纯生啤酒
+        category: 酒水
+        keywords: [纯生, 雪花啤酒, 啤酒]
+      - name: 马尔斯绿啤酒
+        category: 酒水
+        keywords: [马尔斯绿, 雪花啤酒, 高端啤酒]
+
+  - company_id: consumer_staples-yanjing-cn
+    company_name: 燕京啤酒
+    items:
+      - name: 燕京U8啤酒
+        category: 酒水
+        keywords: [U8, 燕京啤酒, 小度酒, 啤酒]
+      - name: 燕京纯生啤酒
+        category: 酒水
+        keywords: [纯生, 燕京, 啤酒]
+      - name: 燕京鲜啤
+        category: 酒水
+        keywords: [鲜啤, 燕京啤酒, 啤酒]
+
+  - company_id: consumer_staples-unipresident-cn
+    company_name: 统一企业中国
+    items:
+      - name: 统一老坛酸菜牛肉面
+        category: 生鲜速食
+        keywords: [方便面, 泡面, 老坛酸菜, 统一方便面]
+      - name: 统一红烧牛肉面
+        category: 生鲜速食
+        keywords: [方便面, 红烧牛肉面, 泡面, 统一]
+      - name: 统一冰红茶
+        category: 饮料
+        keywords: [冰红茶, 统一, 柠檬茶]
+      - name: 统一绿茶
+        category: 饮料
+        keywords: [绿茶, 茶饮料, 统一绿茶]
+
+  - company_id: consumer_staples-tingyi-cn
+    company_name: 康师傅
+    items:
+      - name: 康师傅红烧牛肉面
+        category: 生鲜速食
+        keywords: [方便面, 泡面, 红烧牛肉面, 康师傅]
+      - name: 康师傅冰红茶
+        category: 饮料
+        keywords: [冰红茶, 康师傅, 柠檬茶]
+      - name: 康师傅包装饮用水
+        category: 饮料
+        keywords: [饮用水, 矿泉水, 康师傅水, 瓶装水]
+      - name: 康师傅绿茶
+        category: 饮料
+        keywords: [绿茶, 茶饮料, 康师傅]
+
+  - company_id: consumer_staples-wahaha-cn
+    company_name: 娃哈哈
+    items:
+      - name: 娃哈哈纯净水
+        category: 饮料
+        keywords: [纯净水, 矿泉水, 娃哈哈, 瓶装水]
+      - name: 娃哈哈AD钙奶
+        category: 乳品
+        keywords: [AD钙奶, 娃哈哈, 乳酸饮料, 儿童饮料]
+      - name: 营养快线
+        category: 饮料
+        keywords: [营养快线, 果味奶, 娃哈哈]
+      - name: 爽歪歪乳酸菌饮品
+        category: 乳品
+        keywords: [爽歪歪, 乳酸菌, 娃哈哈, 儿童酸奶]
+
+  - company_id: consumer_staples-yihaikerry-cn
+    company_name: 金龙鱼
+    items:
+      - name: 金龙鱼黄金比例调和油
+        category: 粮油调味
+        keywords: [食用油, 调和油, 金龙鱼, 1比1比1]
+      - name: 金龙鱼大米
+        category: 粮油调味
+        keywords: [大米, 金龙鱼, 盘锦大米, 粳米]
+      - name: 金龙鱼面粉
+        category: 粮油调味
+        keywords: [面粉, 金龙鱼, 高筋粉, 饺子粉]
+      - name: 胡姬花花生油
+        category: 粮油调味
+        keywords: [花生油, 胡姬花, 古法小榨, 食用油]
+
+  - company_id: consumer_staples-walmart-us
+    company_name: Walmart
+    items:
+      - name: 沃尔玛超市购物
+        category: 其他
+        keywords: [超市, 沃尔玛, 沃尔玛超市, 购物]
+      - name: 沃尔玛惠宜自有品牌
+        category: 其他
+        keywords: [惠宜, 自有品牌, 沃尔玛, 平价商品]
+
+  - company_id: consumer_staples-pg-us
+    company_name: Procter & Gamble
+    items:
+      - name: 海飞丝洗发水
+        category: 洗护清洁
+        keywords: [洗发水, 海飞丝, 去屑洗发水, 洗头膏]
+      - name: 舒肤佳香皂
+        category: 洗护清洁
+        keywords: [香皂, 舒肤佳, 肥皂, 洗手皂]
+      - name: 碧浪洗衣液
+        category: 洗护清洁
+        keywords: [洗衣液, 碧浪, 洗衣粉, 洗衣]
+      - name: 护舒宝卫生巾
+        category: 纸品卫生
+        keywords: [卫生巾, 护舒宝, 姨妈巾, 卫生用品]
+      - name: 飘柔洗发水
+        category: 洗护清洁
+        keywords: [洗发水, 飘柔, 柔顺洗发水]
+
+  - company_id: consumer_staples-cocacola-us
+    company_name: Coca-Cola
+    items:
+      - name: 可口可乐
+        category: 饮料
+        keywords: [可乐, 可口可乐, 汽水, 碳酸饮料]
+      - name: 雪碧
+        category: 饮料
+        keywords: [雪碧, 汽水, 柠檬味饮料, 碳酸饮料]
+      - name: 芬达
+        category: 饮料
+        keywords: [芬达, 汽水, 橙味饮料, 碳酸饮料]
+      - name: 美汁源果粒橙
+        category: 饮料
+        keywords: [果粒橙, 美汁源, 果汁, 橙汁]
+
+  - company_id: consumer_staples-pepsico-us
+    company_name: PepsiCo
+    items:
+      - name: 百事可乐
+        category: 饮料
+        keywords: [可乐, 百事可乐, 汽水, 碳酸饮料]
+      - name: 乐事薯片
+        category: 休闲零食
+        keywords: [薯片, 乐事, 膨化食品, 零食]
+      - name: 美年达
+        category: 饮料
+        keywords: [美年达, 汽水, 橙味汽水, 碳酸饮料]
+      - name: 桂格燕麦片
+        category: 粮油调味
+        keywords: [燕麦片, 桂格, 麦片, 早餐冲饮]
+
+  - company_id: consumer_staples-mondelez-us
+    company_name: Mondelez International
+    items:
+      - name: 奥利奥夹心饼干
+        category: 休闲零食
+        keywords: [奥利奥, 饼干, 夹心饼干, 零食]
+      - name: 趣多多曲奇
+        category: 休闲零食
+        keywords: [趣多多, 曲奇, 饼干, 巧克力豆]
+      - name: 太平梳打饼干
+        category: 休闲零食
+        keywords: [苏打饼干, 太平梳打, 饼干]
+      - name: 炫迈无糖口香糖
+        category: 休闲零食
+        keywords: [口香糖, 炫迈, 木糖醇, 薄荷糖]
+
+  - company_id: consumer_staples-kraftheinz-us
+    company_name: Kraft Heinz
+    items:
+      - name: 亨氏番茄酱
+        category: 粮油调味
+        keywords: [番茄酱, 亨氏, 沙司, 薯条蘸酱]
+      - name: 亨氏婴儿米粉
+        category: 母婴用品
+        keywords: [婴儿米粉, 亨氏, 宝宝辅食, 高铁米粉]
+      - name: 卡夫奇妙沙拉酱
+        category: 粮油调味
+        keywords: [沙拉酱, 卡夫, 沙拉汁, 蛋黄酱]
+
+  - company_id: consumer_staples-philipmorris-us
+    company_name: Philip Morris International
+    items:
+      - name: 万宝路香烟
+        category: 其他
+        keywords: [香烟, 万宝路, 烟, 红万]
+      - name: 加热不燃烧烟草产品IQOS
+        category: 其他
+        keywords: [IQOS, 电子烟, 加热烟, 戒烟替代]
+
+  - company_id: consumer_staples-colgate-us
+    company_name: Colgate-Palmolive
+    items:
+      - name: 高露洁牙膏
+        category: 洗护清洁
+        keywords: [牙膏, 高露洁, 刷牙, 含氟牙膏]
+      - name: 高露洁牙刷
+        category: 洗护清洁
+        keywords: [牙刷, 高露洁, 软毛牙刷]
+      - name: 棕榄沐浴露
+        category: 洗护清洁
+        keywords: [沐浴露, 棕榄, 沐浴乳, 香皂]
+
+  - company_id: consumer_staples-kimberlyclark-us
+    company_name: Kimberly-Clark
+    items:
+      - name: 好奇纸尿裤
+        category: 母婴用品
+        keywords: [纸尿裤, 尿不湿, 好奇, 宝宝尿布]
+      - name: 舒洁面巾纸
+        category: 纸品卫生
+        keywords: [纸巾, 面巾纸, 舒洁, 抽纸]
+      - name: 高洁丝卫生巾
+        category: 纸品卫生
+        keywords: [卫生巾, 高洁丝, 姨妈巾]
+
+  - company_id: consumer_staples-generalmills-us
+    company_name: General Mills
+    items:
+      - name: 湾仔码头速冻水饺
+        category: 生鲜速食
+        keywords: [速冻水饺, 湾仔码头, 饺子, 速冻食品]
+      - name: 哈根达斯冰淇淋
+        category: 生鲜速食
+        keywords: [冰淇淋, 哈根达斯, 冰激凌, 雪糕]
+      - name: 湾仔码头速冻汤圆
+        category: 生鲜速食
+        keywords: [汤圆, 速冻汤圆, 湾仔码头, 元宵]
+
+  - company_id: consumer_staples-clorox-us
+    company_name: Clorox
+    items:
+      - name: 高乐氏漂白水
+        category: 洗护清洁
+        keywords: [漂白水, 消毒液, 84, 白色衣物]
+      - name: 高乐氏消毒湿巾
+        category: 洗护清洁
+        keywords: [消毒湿巾, 杀菌湿巾, 清洁湿巾]
+
+  - company_id: consumer_staples-esteelauder-us
+    company_name: Estée Lauder
+    items:
+      - name: 雅诗兰黛小棕瓶精华
+        category: 美妆个护
+        keywords: [小棕瓶, 精华液, 雅诗兰黛, 抗老精华]
+      - name: 雅诗兰黛DW粉底液
+        category: 美妆个护
+        keywords: [DW粉底液, 粉底液, 油皮粉底, 雅诗兰黛]
+      - name: 海蓝之谜精华面霜
+        category: 美妆个护
+        keywords: [海蓝之谜, 面霜, 腊梅, 贵妇面霜]
+      - name: 倩碧黄油润肤乳
+        category: 美妆个护
+        keywords: [倩碧黄油, 润肤乳, 乳液, 倩碧]
+
+  - company_id: consumer_staples-costco-us
+    company_name: Costco Wholesale
+    items:
+      - name: 开市客会员制超市
+        category: 其他
+        keywords: [开市客, 超市, 仓储超市, 大包装]
+      - name: 科克兰自有品牌
+        category: 其他
+        keywords: [科克兰, 自有品牌, 坚果, 大包装零食]
+
+  - company_id: consumer_staples-nestle-ch
+    company_name: Nestlé
+    items:
+      - name: 雀巢速溶咖啡
+        category: 饮料
+        keywords: [咖啡, 雀巢, 速溶咖啡, 黑咖啡]
+      - name: 雀巢能恩婴幼儿奶粉
+        category: 母婴用品
+        keywords: [奶粉, 婴儿奶粉, 能恩, 雀巢奶粉]
+      - name: 脆脆鲨威化巧克力
+        category: 休闲零食
+        keywords: [脆脆鲨, 威化, 巧克力威化, 零食]
+      - name: 巴黎水天然含气矿泉水
+        category: 饮料
+        keywords: [巴黎水, 气泡水, 矿泉水, Perrier]
+
+  - company_id: consumer_staples-unilever-gb
+    company_name: Unilever
+    items:
+      - name: 立顿红茶包
+        category: 饮料
+        keywords: [红茶, 立顿, 茶包, 袋泡茶]
+      - name: 奥妙洗衣液
+        category: 洗护清洁
+        keywords: [洗衣液, 奥妙, 洗衣粉, 洗衣]
+      - name: 多芬沐浴露
+        category: 洗护清洁
+        keywords: [沐浴露, 多芬, 沐浴乳, 香皂]
+      - name: 和路雪冰淇淋
+        category: 生鲜速食
+        keywords: [冰淇淋, 和路雪, 可爱多, 雪糕]
+      - name: 梦龙雪糕
+        category: 生鲜速食
+        keywords: [梦龙, 冰淇淋, 巧克力脆皮雪糕]
+
+  - company_id: consumer_staples-loreal-fr
+    company_name: L'Oréal
+    items:
+      - name: 兰蔻小黑瓶精华
+        category: 美妆个护
+        keywords: [小黑瓶, 精华液, 兰蔻, 肌底液]
+      - name: 欧莱雅复颜抗皱面霜
+        category: 美妆个护
+        keywords: [欧莱雅, 面霜, 抗皱, 复颜]
+      - name: 美宝莲口红
+        category: 美妆个护
+        keywords: [口红, 美宝莲, 唇膏, 彩妆]
+      - name: 卡诗洗发水
+        category: 洗护清洁
+        keywords: [卡诗, 洗发水, 护发, 高端洗护]
+
+  - company_id: consumer_staples-danone-fr
+    company_name: Danone
+    items:
+      - name: 达能碧悠酸奶
+        category: 乳品
+        keywords: [酸奶, 达能, 碧悠, 风味发酵乳]
+      - name: 脉动维生素饮料
+        category: 饮料
+        keywords: [脉动, 维生素饮料, 运动饮料]
+      - name: 爱他美婴幼儿奶粉
+        category: 母婴用品
+        keywords: [奶粉, 爱他美, 婴儿奶粉, 德爱]
+      - name: 依云矿泉水
+        category: 饮料
+        keywords: [依云, 矿泉水, 高端矿泉水, 饮用水]
+
+  - company_id: consumer_staples-abinbev-be
+    company_name: Anheuser-Busch InBev
+    items:
+      - name: 百威经典啤酒
+        category: 酒水
+        keywords: [百威, 啤酒, 百威啤酒, 拉格]
+      - name: 哈尔滨啤酒
+        category: 酒水
+        keywords: [哈啤, 哈尔滨啤酒, 冰纯, 啤酒]
+      - name: 科罗娜啤酒
+        category: 酒水
+        keywords: [科罗娜, 啤酒, 进口啤酒, 柠檬配酒]
+      - name: 福佳白啤酒
+        category: 酒水
+        keywords: [福佳, 福佳白, 白啤, 精酿啤酒]
+
+  - company_id: consumer_staples-heineken-nl
+    company_name: Heineken
+    items:
+      - name: 喜力经典啤酒
+        category: 酒水
+        keywords: [喜力, 喜力啤酒, 啤酒, 进口啤酒]
+      - name: 喜力星银啤酒
+        category: 酒水
+        keywords: [星银, 喜力, 清爽啤酒, 啤酒]
+
+  - company_id: consumer_staples-diageo-gb
+    company_name: Diageo
+    items:
+      - name: 尊尼获加威士忌
+        category: 酒水
+        keywords: [威士忌, 黑方, 尊尼获加, 洋酒]
+      - name: 斯米诺伏特加
+        category: 酒水
+        keywords: [伏特加, 斯米诺, 洋酒, 调酒]
+      - name: 百利甜酒
+        category: 酒水
+        keywords: [百利甜, 利口酒, 奶油酒, 洋酒]
+      - name: 健力士黑啤
+        category: 酒水
+        keywords: [黑啤, 健力士, 世涛, 啤酒]
+
+  - company_id: consumer_staples-henkel-de
+    company_name: Henkel
+    items:
+      - name: 施华蔻洗发水
+        category: 洗护清洁
+        keywords: [施华蔻, 洗发水, 护发素, 染发膏]
+      - name: 汉高百得胶
+        category: 建材五金
+        keywords: [百得, 免钉胶, 玻璃胶, 汉高胶]
+      - name: 宝莹洗衣液
+        category: 洗护清洁
+        keywords: [宝莹, 洗衣液, 洗衣粉, 洗衣凝珠]
+
+  - company_id: consumer_staples-tesco-gb
+    company_name: Tesco
+    items:
+      - name: 乐购超市购物
+        category: 其他
+        keywords: [乐购, 超市, Tesco, 购物]
+      - name: 乐购自有品牌食品
+        category: 其他
+        keywords: [自有品牌, 平价食品, 乐购, 超市自有]
+
+  - company_id: consumer_staples-seveni-jp
+    company_name: Seven & I Holdings
+    items:
+      - name: 7-Eleven便利店
+        category: 其他
+        keywords: [便利店, 711, 7-11, 24小时店]
+      - name: 7-Eleven鲜食便当
+        category: 餐饮美食
+        keywords: [便当, 关东煮, 便利店熟食, 饭团]
+
+  - company_id: consumer_staples-aeon-jp
+    company_name: Aeon
+    items:
+      - name: 永旺综合超市
+        category: 其他
+        keywords: [永旺, 超市, 吉之岛, 购物]
+      - name: 永旺梦乐城购物中心
+        category: 其他
+        keywords: [梦乐城, 购物中心, 永旺, 商场]
+
+  - company_id: consumer_staples-kirin-jp
+    company_name: Kirin Holdings
+    items:
+      - name: 麒麟一番榨啤酒
+        category: 酒水
+        keywords: [一番榨, 麒麟啤酒, 啤酒, 进口啤酒]
+      - name: 午后红茶
+        category: 饮料
+        keywords: [午后红茶, 红茶饮料, 奶茶, 瓶装茶]
+      - name: 可尔必思乳酸菌饮料
+        category: 饮料
+        keywords: [可尔必思, 乳酸菌饮料, 浓缩液, CALPIS]
+
+  - company_id: consumer_staples-kao-jp
+    company_name: Kao
+    items:
+      - name: 花王妙而舒纸尿裤
+        category: 母婴用品
+        keywords: [纸尿裤, 花王, 尿不湿, 日本纸尿裤]
+      - name: 乐而雅卫生巾
+        category: 纸品卫生
+        keywords: [卫生巾, 乐而雅, 姨妈巾, 花王卫生巾]
+      - name: 花王洗发水
+        category: 洗护清洁
+        keywords: [洗发水, 花王, 无硅油, 洗头膏]
+      - name: 美舒律蒸汽眼罩
+        category: 美妆个护
+        keywords: [蒸汽眼罩, 花王眼罩, 美舒律, 护眼]
+
+  - company_id: consumer_staples-amorepacific-kr
+    company_name: Amorepacific
+    items:
+      - name: 雪花秀润燥精华
+        category: 美妆个护
+        keywords: [雪花秀, 润燥精华, 韩妆, 精华]
+      - name: 兰芝隔离霜
+        category: 美妆个护
+        keywords: [兰芝, 隔离霜, 气垫, 韩妆]
+      - name: 悦诗风吟绿茶精华
+        category: 美妆个护
+        keywords: [悦诗风吟, 绿茶精华, 小绿瓶, 护肤]
+
+  - company_id: consumer_staples-cpgroup-th
+    company_name: Charoen Pokphand Group
+    items:
+      - name: 正大鲜鸡蛋
+        category: 生鲜速食
+        keywords: [鸡蛋, 正大鸡蛋, 鲜鸡蛋, 无抗蛋]
+      - name: 正大速冻食品
+        category: 生鲜速食
+        keywords: [正大, 速冻食品, 蒸饺, 鸡肉丸]
+      - name: 卜蜂莲花超市
+        category: 其他
+        keywords: [卜蜂莲花, 莲花超市, 正大, 超市]
+
+  - company_id: consumer_staples-jbs-br
+    company_name: JBS
+    items:
+      - name: Friboi冷冻牛肉
+        category: 生鲜速食
+        keywords: [牛肉, Friboi, 进口牛肉, 牛排]
+      - name: Swift肉制品
+        category: 生鲜速食
+        keywords: [Swift, 肉制品, 火腿, 进口肉]

@@ -1,0 +1,430 @@
+products:
+  - company_id: education-neworiental-cn
+    company_name: 新东方
+    items:
+      - name: 新东方雅思托福培训
+        category: 教育培训
+        keywords: [雅思, 托福, 留学考试, 出国英语, 新东方]
+      - name: 新东方考研培训
+        category: 教育培训
+        keywords: [考研, 考研班, 考研英语, 考研辅导]
+      - name: 新东方四六级培训
+        category: 教育培训
+        keywords: [四六级, 英语四级, 英语六级, 大学英语]
+      - name: 新东方在线课程
+        category: 教育培训
+        keywords: [网课, 在线课程, 新东方在线, 直播课]
+      - name: 东方甄选
+        category: 农产品
+        keywords: [东方甄选, 直播带货, 农产品, 生鲜]
+
+  - company_id: education-tal-cn
+    company_name: 好未来
+    items:
+      - name: 学而思素养课
+        category: 教育培训
+        keywords: [学而思, 素养课, 课外班, 辅导班, 数学思维]
+      - name: 学而思学习机
+        category: 数码产品
+        keywords: [学习机, 学而思学习机, 护眼平板, 家教机]
+      - name: 希望学网课
+        category: 教育培训
+        keywords: [希望学, 网课, 在线辅导, 中小学课程]
+      - name: 摩比思维馆
+        category: 教育培训
+        keywords: [摩比, 思维训练, 幼儿思维, 幼小衔接]
+
+  - company_id: education-gaotu-cn
+    company_name: 高途
+    items:
+      - name: 高途课堂
+        category: 教育培训
+        keywords: [高途, 网课, 在线课堂, 中小学辅导]
+      - name: 高途考研
+        category: 教育培训
+        keywords: [考研, 考研网课, 高途考研, 考研英语]
+      - name: 高途留学考试
+        category: 教育培训
+        keywords: [雅思, 托福, 留学考试, 出国培训]
+
+  - company_id: education-yuanfudao-cn
+    company_name: 猿辅导
+    items:
+      - name: 猿辅导素养课
+        category: 教育培训
+        keywords: [猿辅导, 网课, 素养课, 在线辅导]
+      - name: 斑马AI课
+        category: 教育培训
+        keywords: [斑马, 斑马英语, 斑马思维, 幼儿启蒙]
+      - name: 小猿学练机
+        category: 数码产品
+        keywords: [学练机, 小猿学练机, 墨水屏, 学习平板]
+      - name: 小猿口算App
+        category: 手机应用
+        keywords: [口算, 检查作业, 小猿口算, 批改作业]
+      - name: 猿辅导海豚自习App
+        category: 手机应用
+        keywords: [海豚自习, 自习App, 学习计划, 错题本]
+
+  - company_id: education-zuoyebang-cn
+    company_name: 作业帮
+    items:
+      - name: 作业帮App
+        category: 手机应用
+        keywords: [搜题, 拍照搜题, 作业帮, 查答案]
+      - name: 作业帮学习机
+        category: 数码产品
+        keywords: [学习机, 作业帮学习机, 家教机, 学习平板]
+      - name: 作业帮直播课
+        category: 教育培训
+        keywords: [网课, 直播课, 作业帮网课, 在线辅导]
+      - name: 喵喵机错题打印机
+        category: 数码产品
+        keywords: [喵喵机, 错题打印机, 口袋打印机, 错题本]
+
+  - company_id: education-youdao-cn
+    company_name: 网易有道
+    items:
+      - name: 有道词典
+        category: 手机应用
+        keywords: [词典, 翻译, 有道词典, 查单词, 背单词]
+      - name: 有道词典笔
+        category: 数码产品
+        keywords: [词典笔, 翻译笔, 有道词典笔, 点读笔]
+      - name: 有道翻译官
+        category: 手机应用
+        keywords: [翻译软件, 有道翻译, 拍照翻译, 同声传译]
+      - name: 有道精品课
+        category: 教育培训
+        keywords: [网课, 有道课程, 在线学习, 精品课]
+      - name: 有道云笔记
+        category: 手机应用
+        keywords: [云笔记, 有道笔记, 记笔记, 备忘录]
+
+  - company_id: education-offcn-cn
+    company_name: 中公教育
+    items:
+      - name: 公务员考试培训
+        category: 教育培训
+        keywords: [公务员, 公考, 国考, 省考, 考公]
+      - name: 事业单位考试培训
+        category: 教育培训
+        keywords: [事业单位, 事业编, 公基, 考编]
+      - name: 教师资格证培训
+        category: 教育培训
+        keywords: [教资, 教师资格证, 教师招聘, 考教资]
+      - name: 中公考研培训
+        category: 教育培训
+        keywords: [考研, 考研班, 考研辅导]
+
+  - company_id: education-chuanzhi-cn
+    company_name: 传智教育
+    items:
+      - name: 黑马程序员培训
+        category: 教育培训
+        keywords: [程序员培训, 黑马程序员, IT培训, 学编程, Java培训]
+      - name: 传智播客课程
+        category: 教育培训
+        keywords: [传智播客, IT培训, 编程课程, 前端培训]
+      - name: 传智专修学院
+        category: 教育培训
+        keywords: [专修学院, 学历教育, 计算机专业, 职业教育]
+
+  - company_id: education-easteducation-cn
+    company_name: 中国东方教育
+    items:
+      - name: 新东方烹饪学校
+        category: 教育培训
+        keywords: [厨师培训, 烹饪学校, 学厨师, 新东方烹饪]
+      - name: 新华电脑学校
+        category: 教育培训
+        keywords: [电脑培训, 新华电脑, IT培训, 学电脑]
+      - name: 万通汽修学校
+        category: 教育培训
+        keywords: [汽修, 学修车, 万通汽修, 汽车维修培训]
+
+  - company_id: education-sunlands-cn
+    company_name: 尚德机构
+    items:
+      - name: 自考学历培训
+        category: 教育培训
+        keywords: [自考, 自学考试, 学历提升, 成人学历]
+      - name: 职业资格培训
+        category: 教育培训
+        keywords: [职业资格, 证书培训, 成人教育, 在线课程]
+
+  - company_id: education-brightscholar-cn
+    company_name: 博实乐
+    items:
+      - name: 博实乐国际学校
+        category: 教育培训
+        keywords: [国际学校, 碧桂园学校, 民办中小学, 双语学校]
+      - name: 博实乐游学研学
+        category: 旅游出行
+        keywords: [游学, 研学, 夏令营, 海外游学]
+
+  - company_id: education-excellence-cn
+    company_name: 卓越教育
+    items:
+      - name: 卓越中小学辅导
+        category: 教育培训
+        keywords: [卓越教育, 课外辅导, 中小学辅导, 培优班]
+      - name: 卓越高考复读
+        category: 教育培训
+        keywords: [复读, 高考复读, 复读班, 高四]
+
+  - company_id: education-cegh-hk
+    company_name: 中教控股
+    items:
+      - name: 中教控股高校教育
+        category: 教育培训
+        keywords: [民办大学, 本科教育, 专升本, 职业教育]
+
+  - company_id: education-hope-hk
+    company_name: 希望教育
+    items:
+      - name: 希望教育高校教育
+        category: 教育培训
+        keywords: [民办大学, 本科教育, 高职, 大专]
+
+  - company_id: education-minsheng-hk
+    company_name: 民生教育
+    items:
+      - name: 民生教育高校教育
+        category: 教育培训
+        keywords: [民办大学, 本科教育, 在线教育, 学历教育]
+
+  - company_id: education-nheg-hk
+    company_name: 新高教集团
+    items:
+      - name: 新高教集团高校教育
+        category: 教育培训
+        keywords: [民办大学, 应用型本科, 高职教育, 专升本]
+
+  - company_id: education-kepei-hk
+    company_name: 中国科培
+    items:
+      - name: 中国科培高校教育
+        category: 教育培训
+        keywords: [民办大学, 本科教育, 广东理工学院, 职业教育]
+
+  - company_id: education-mapleleaf-hk
+    company_name: 枫叶教育
+    items:
+      - name: 枫叶国际学校
+        category: 教育培训
+        keywords: [枫叶学校, 国际学校, 双语学校, 民办中小学]
+      - name: 枫叶世界学校课程
+        category: 教育培训
+        keywords: [国际课程, 双语课程, 枫叶课程, 留学预备]
+
+  - company_id: education-yuhua-hk
+    company_name: 宇华教育
+    items:
+      - name: 宇华教育学校教育
+        category: 教育培训
+        keywords: [民办大学, 山东英才学院, 基础教育, 民办学校]
+
+  - company_id: education-scholastic-us
+    company_name: Scholastic
+    items:
+      - name: 学乐儿童图书
+        category: 教育培训
+        keywords: [学乐, 儿童图书, 英文原版书, 少儿读物]
+      - name: 学乐英语课程
+        category: 教育培训
+        keywords: [学乐英语, 少儿英语, 英语启蒙, 英文阅读]
+
+  - company_id: education-coursera-us
+    company_name: Coursera
+    items:
+      - name: Coursera在线课程
+        category: 教育培训
+        keywords: [在线课程, 网课, Coursera, 名校课程]
+      - name: Coursera Plus订阅
+        category: 教育培训
+        keywords: [课程订阅, 无限学习, Coursera会员]
+      - name: Coursera在线学位
+        category: 教育培训
+        keywords: [在线学位, 硕士学位, 远程学位, 微硕士]
+
+  - company_id: education-udemy-us
+    company_name: Udemy
+    items:
+      - name: Udemy在线课程
+        category: 教育培训
+        keywords: [在线课程, 网课, Udemy, 编程课程, 技能学习]
+
+  - company_id: education-duolingo-us
+    company_name: Duolingo
+    items:
+      - name: 多邻国语言学习App
+        category: 手机应用
+        keywords: [多邻国, 学外语, 背单词, 语言学习, 学英语]
+      - name: 多邻国Super会员
+        category: 手机应用
+        keywords: [Super会员, 多邻国会员, 去广告, 无限红心]
+      - name: 多邻国英语测试
+        category: 教育培训
+        keywords: [多邻国考试, DET, 英语测试, 留学语言考试]
+
+  - company_id: education-chegg-us
+    company_name: Chegg
+    items:
+      - name: Chegg学习订阅
+        category: 教育培训
+        keywords: [Chegg, 作业辅导, 学习订阅, 查题]
+      - name: Chegg教科书租赁
+        category: 教育培训
+        keywords: [租教科书, 教材租赁, 二手教材, 大学教材]
+
+  - company_id: education-stride-us
+    company_name: Stride
+    items:
+      - name: Stride在线K12学校
+        category: 教育培训
+        keywords: [在线学校, 网络高中, 美国网校, K12在线]
+
+  - company_id: education-adtalem-us
+    company_name: Adtalem Global Education
+    items:
+      - name: Chamberlain大学护理课程
+        category: 教育培训
+        keywords: [护理学位, 护士培训, 在线学位, Chamberlain]
+      - name: Walden大学在线学位
+        category: 教育培训
+        keywords: [在线硕士, 远程教育, Walden, 在职学位]
+
+  - company_id: education-strategic-us
+    company_name: Strategic Education
+    items:
+      - name: Strayer大学课程
+        category: 教育培训
+        keywords: [在职学位, 在线大学, 商科学位, Strayer]
+      - name: Sophia Learning在线课程
+        category: 教育培训
+        keywords: [大学学分课, 在线通识课, 学分转换, Sophia]
+
+  - company_id: education-laureate-us
+    company_name: Laureate Education
+    items:
+      - name: Laureate大学教育
+        category: 教育培训
+        keywords: [私立大学, 高等教育, 在线学位, 拉美留学]
+
+  - company_id: education-pearson-gb
+    company_name: Pearson
+    items:
+      - name: PTE学术英语考试
+        category: 教育培训
+        keywords: [PTE, 培生英语考试, 留学语言考试, 机考雅思]
+      - name: 朗文英语教材
+        category: 教育培训
+        keywords: [朗文, 新概念英语, 英语教材, 朗文字典]
+      - name: 培生少儿英语
+        category: 教育培训
+        keywords: [少儿英语, 培生英语, 英语启蒙, 分级阅读]
+
+  - company_id: education-nordanglia-gb
+    company_name: Nord Anglia Education
+    items:
+      - name: Nord Anglia国际学校
+        category: 教育培训
+        keywords: [国际学校, 诺德安达, 双语学校, 外籍学校]
+
+  - company_id: education-ef-ch
+    company_name: EF Education First
+    items:
+      - name: 英孚成人英语
+        category: 教育培训
+        keywords: [英孚, EF, 成人英语, 英语口语, 英语培训]
+      - name: EF海外游学留学
+        category: 旅游出行
+        keywords: [游学, 海外游学, 语言留学, 夏令营, EF游学]
+      - name: 英孚少儿英语
+        category: 教育培训
+        keywords: [少儿英语, 儿童英语, 英语启蒙, 英孚青少儿]
+
+  - company_id: education-babbel-de
+    company_name: Babbel
+    items:
+      - name: Babbel语言学习App
+        category: 手机应用
+        keywords: [Babbel, 学外语, 语言学习, 背单词, 学德语]
+
+  - company_id: education-benesse-jp
+    company_name: ベネッセホールディングス
+    items:
+      - name: 巧虎乐智小天地
+        category: 母婴用品
+        keywords: [巧虎, 乐智小天地, 早教, 幼儿启蒙, 巧虎早教]
+      - name: 进研ゼミ（进研研讨班）
+        category: 教育培训
+        keywords: [进研研讨班, 函授教育, 小学生辅导, 中学受验]
+
+  - company_id: education-kumon-jp
+    company_name: 公文式
+    items:
+      - name: Kumon公文式数学
+        category: 教育培训
+        keywords: [公文式, Kumon, 数学辅导, 公文数学, 自主学习]
+      - name: Kumon公文式英语
+        category: 教育培训
+        keywords: [公文英语, 英语辅导, 分级阅读, 少儿英语]
+
+  - company_id: education-megastudy-kr
+    company_name: Megastudy
+    items:
+      - name: Megastudy在线课程
+        category: 教育培训
+        keywords: [网课, 在线补习, 高考网课, 韩国网校]
+
+  - company_id: education-kyowon-kr
+    company_name: 교원
+    items:
+      - name: 캐스비（CASB）儿童教具
+        category: 母婴用品
+        keywords: [CASB, 儿童教具, 早教玩具, 韩国教元]
+      - name: 교원몰教育商城
+        category: 教育培训
+        keywords: [教元, 学习教材, 儿童教育, 教育用品]
+
+  - company_id: education-byjus-in
+    company_name: BYJU'S
+    items:
+      - name: BYJU'S学习App
+        category: 手机应用
+        keywords: [BYJU, 学习App, 在线学习, 数学学习]
+      - name: BYJU'S Future School在线课程
+        category: 教育培训
+        keywords: [在线课程, 直播课, 少儿编程, 思维课]
+
+  - company_id: education-unacademy-in
+    company_name: Unacademy
+    items:
+      - name: Unacademy在线课程
+        category: 教育培训
+        keywords: [在线课程, 网课, 备考课程, 印度网校]
+      - name: Unacademy Plus订阅
+        category: 教育培训
+        keywords: [课程订阅, 直播课, 考试备考, 会员课程]
+
+  - company_id: education-pw-in
+    company_name: Physics Wallah
+    items:
+      - name: PW在线课程
+        category: 教育培训
+        keywords: [Physics Wallah, 物理课, 网课, 备考课程]
+      - name: PW Vidyapeeth线下学院
+        category: 教育培训
+        keywords: [线下辅导, 补习学院, 考试培训, 印度补习]
+
+  - company_id: education-ruangguru-id
+    company_name: Ruangguru
+    items:
+      - name: Ruangguru在线学习App
+        category: 手机应用
+        keywords: [Ruangguru, 学习App, 在线课程, 印尼网校]
+      - name: Ruangguru在线课程订阅
+        category: 教育培训
+        keywords: [网课订阅, 考试备考, 在线辅导]

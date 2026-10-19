@@ -1,0 +1,376 @@
+products:
+  - company_id: healthcare-crpharma-cn
+    company_name: 华润医药
+    items:
+      - name: 999感冒灵颗粒
+        category: 药品保健
+        keywords: [感冒灵, 999感冒灵, 感冒药, 感冒, 三九感冒灵]
+      - name: 三九胃泰颗粒
+        category: 药品保健
+        keywords: [三九胃泰, 胃药, 胃痛, 胃泰颗粒]
+      - name: 东阿阿胶块
+        category: 药品保健
+        keywords: [东阿阿胶, 阿胶, 阿胶块, 滋补]
+      - name: 复方阿胶浆
+        category: 药品保健
+        keywords: [复方阿胶浆, 阿胶浆, 补血, 补气血]
+      - name: 999皮炎平软膏
+        category: 药品保健
+        keywords: [皮炎平, 999皮炎平, 止痒药膏, 皮炎]
+  - company_id: healthcare-yunnanbaiyao-cn
+    company_name: 云南白药
+    items:
+      - name: 云南白药气雾剂
+        category: 药品保健
+        keywords: [云南白药气雾剂, 扭伤喷雾, 跌打损伤, 喷雾剂]
+      - name: 云南白药牙膏
+        category: 美妆个护
+        keywords: [云南白药牙膏, 牙膏, 护龈牙膏, 止血牙膏]
+      - name: 云南白药创可贴
+        category: 药品保健
+        keywords: [云南白药创可贴, 创可贴, 止血贴, 伤口贴]
+      - name: 云南白药散剂
+        category: 药品保健
+        keywords: [云南白药粉, 云南白药, 止血药, 跌打药]
+  - company_id: healthcare-tongrentang-cn
+    company_name: 同仁堂
+    items:
+      - name: 安宫牛黄丸
+        category: 药品保健
+        keywords: [安宫牛黄丸, 安宫丸, 牛黄丸, 急救丸]
+      - name: 六味地黄丸
+        category: 药品保健
+        keywords: [六味地黄丸, 六味丸, 补肾, 肾虚]
+      - name: 乌鸡白凤丸
+        category: 药品保健
+        keywords: [乌鸡白凤丸, 白凤丸, 调经, 妇科药]
+      - name: 牛黄清心丸
+        category: 药品保健
+        keywords: [牛黄清心丸, 清心丸, 上火, 心火]
+      - name: 大活络丹
+        category: 药品保健
+        keywords: [大活络丹, 大活络丸, 风湿, 关节痛]
+  - company_id: healthcare-zhifei-cn
+    company_name: 智飞生物
+    items:
+      - name: 九价HPV疫苗
+        category: 药品保健
+        keywords: [九价, HPV疫苗, 宫颈癌疫苗, 九价疫苗, 佳达修]
+      - name: 四价HPV疫苗
+        category: 药品保健
+        keywords: [四价, 四价HPV, HPV, 四价疫苗]
+      - name: 智克威得新冠疫苗
+        category: 药品保健
+        keywords: [智克威得, 新冠疫苗, 重组蛋白疫苗, 智飞疫苗]
+      - name: AC流脑结合疫苗
+        category: 药品保健
+        keywords: [流脑疫苗, AC疫苗, 脑膜炎疫苗, 流脑]
+  - company_id: healthcare-pienzehuang-cn
+    company_name: 片仔癀
+    items:
+      - name: 片仔癀锭剂
+        category: 药品保健
+        keywords: [片仔癀, 片仔癀锭, 护肝, 一粒片仔癀]
+      - name: 片仔癀含片
+        category: 药品保健
+        keywords: [片仔癀含片, 含片, 咽喉含片, 润喉]
+      - name: 片仔癀牙膏
+        category: 美妆个护
+        keywords: [片仔癀牙膏, 清火牙膏, 牙膏, 护龈]
+      - name: 片仔癀珍珠膏
+        category: 美妆个护
+        keywords: [片仔癀珍珠膏, 珍珠膏, 面霜, 祛痘膏]
+  - company_id: healthcare-fosun-cn
+    company_name: 复星医药
+    items:
+      - name: 斯利安叶酸片
+        category: 药品保健
+        keywords: [斯利安, 叶酸片, 叶酸, 备孕]
+      - name: 复可托脾氨肽口服冻干粉
+        category: 药品保健
+        keywords: [复可托, 脾氨肽, 冻干粉, 免疫力]
+      - name: 奕凯达阿基仑赛注射液
+        category: 药品保健
+        keywords: [奕凯达, CAR-T, 阿基仑赛, 细胞疗法]
+  - company_id: healthcare-sinobio-cn
+    company_name: 中国生物制药
+    items:
+      - name: 21金维他多维元素片
+        category: 药品保健
+        keywords: [21金维他, 多维元素片, 复合维生素, 维生素片]
+      - name: 盖天力牡蛎碳酸钙咀嚼片
+        category: 药品保健
+        keywords: [盖天力, 钙片, 补钙, 咀嚼钙片]
+      - name: 润众恩替卡韦分散片
+        category: 药品保健
+        keywords: [润众, 恩替卡韦, 乙肝药, 抗病毒药]
+      - name: 得百安氟比洛芬凝胶贴膏
+        category: 药品保健
+        keywords: [得百安, 氟比洛芬, 凝胶贴膏, 止痛贴膏]
+  - company_id: healthcare-cspc-cn
+    company_name: 石药集团
+    items:
+      - name: 果维康维生素C含片
+        category: 药品保健
+        keywords: [果维康, 维生素C, 维C含片, VC含片]
+      - name: 欧意阿莫西林胶囊
+        category: 药品保健
+        keywords: [阿莫西林, 欧意, 抗生素, 消炎药]
+      - name: 玄宁马来酸左旋氨氯地平片
+        category: 药品保健
+        keywords: [玄宁, 降压药, 氨氯地平, 高血压药]
+      - name: 恩必普丁苯酞软胶囊
+        category: 药品保健
+        keywords: [恩必普, 丁苯酞, 中风药, 脑梗药]
+  - company_id: healthcare-bgi-cn
+    company_name: 华大基因
+    items:
+      - name: 无创产前基因检测
+        category: 医疗健康
+        keywords: [无创DNA, 产前筛查, 唐筛, NIFTY]
+      - name: 耳聋基因检测
+        category: 医疗健康
+        keywords: [耳聋基因筛查, 基因检测, 耳聋检测, 新生儿筛查]
+      - name: HPV分型基因检测
+        category: 医疗健康
+        keywords: [HPV检测, HPV自测, 宫颈癌筛查, HPV分型]
+      - name: 肠道菌群检测
+        category: 医疗健康
+        keywords: [肠道菌群, 菌群检测, 肠道健康, 便便检测]
+  - company_id: healthcare-aier-cn
+    company_name: 爱尔眼科
+    items:
+      - name: 全飞秒激光近视手术
+        category: 医疗健康
+        keywords: [全飞秒, 近视手术, 近视眼手术, 激光近视]
+      - name: 医学验光配镜服务
+        category: 医疗健康
+        keywords: [验光配镜, 配眼镜, 医学验光, 爱尔配镜]
+      - name: 角膜塑形镜验配
+        category: 医疗健康
+        keywords: [OK镜, 角膜塑形镜, 近视控制镜, 硬性隐形眼镜]
+      - name: 白内障超声乳化手术
+        category: 医疗健康
+        keywords: [白内障手术, 白内障, 超声乳化, 人工晶体]
+  - company_id: healthcare-pfizer-us
+    company_name: 辉瑞
+    items:
+      - name: 万艾可
+        category: 药品保健
+        keywords: [万艾可, 伟哥, 西地那非, 男性用药]
+      - name: 立普妥阿托伐他汀钙片
+        category: 药品保健
+        keywords: [立普妥, 阿托伐他汀, 他汀, 降血脂药]
+      - name: 希舒美阿奇霉素片
+        category: 药品保健
+        keywords: [希舒美, 阿奇霉素, 抗生素, 消炎药]
+      - name: 善存多维元素片
+        category: 药品保健
+        keywords: [善存, 复合维生素, 多维片, 维生素片]
+      - name: 沛儿13价肺炎球菌疫苗
+        category: 药品保健
+        keywords: [沛儿, 13价肺炎疫苗, 肺炎疫苗, 十三价疫苗]
+  - company_id: healthcare-jnj-us
+    company_name: 强生
+    items:
+      - name: 泰诺感冒药
+        category: 药品保健
+        keywords: [泰诺, 感冒药, 酚麻美敏, 退烧药]
+      - name: 美林布洛芬混悬液
+        category: 药品保健
+        keywords: [美林, 布洛芬, 退烧药, 儿童退烧]
+      - name: 邦迪创可贴
+        category: 药品保健
+        keywords: [邦迪, 创可贴, 止血贴, 伤口贴]
+      - name: 大宝SOD蜜
+        category: 美妆个护
+        keywords: [大宝, SOD蜜, 面霜, 护肤品]
+      - name: 强生婴儿润肤露
+        category: 美妆个护
+        keywords: [强生婴儿, 婴儿润肤露, 宝宝霜, 婴儿护肤]
+  - company_id: healthcare-merck-us
+    company_name: 默沙东
+    items:
+      - name: 开瑞坦氯雷他定片
+        category: 药品保健
+        keywords: [开瑞坦, 氯雷他定, 过敏药, 抗过敏]
+      - name: 顺尔宁孟鲁司特钠咀嚼片
+        category: 药品保健
+        keywords: [顺尔宁, 孟鲁司特, 哮喘药, 抗过敏咀嚼片]
+      - name: 优甲乐左甲状腺素钠片
+        category: 药品保健
+        keywords: [优甲乐, 左甲状腺素, 甲状腺药, 甲减药]
+      - name: 舒降之辛伐他汀片
+        category: 药品保健
+        keywords: [舒降之, 辛伐他汀, 降脂药, 他汀]
+  - company_id: healthcare-lilly-us
+    company_name: 礼来
+    items:
+      - name: 希爱力他达拉非片
+        category: 药品保健
+        keywords: [希爱力, 他达拉非, 男性用药, 壮阳药]
+      - name: 优泌林胰岛素
+        category: 药品保健
+        keywords: [优泌林, 胰岛素, 糖尿病用药, 注射胰岛素]
+      - name: 度易达度拉糖肽注射液
+        category: 药品保健
+        keywords: [度易达, 度拉糖肽, 降糖针, 糖尿病针剂]
+      - name: 百优解盐酸氟西汀胶囊
+        category: 药品保健
+        keywords: [百优解, 氟西汀, 抗抑郁药, 抑郁药]
+  - company_id: healthcare-abbott-us
+    company_name: 雅培
+    items:
+      - name: 瞬感葡萄糖监测仪
+        category: 医疗健康
+        keywords: [瞬感, 血糖仪, 动态血糖, 雅培血糖仪]
+      - name: 雅培菁挚有机奶粉
+        category: 母婴用品
+        keywords: [菁挚, 菁挚有机, 雅培奶粉, 有机奶粉]
+      - name: 雅培小安素全营养配方粉
+        category: 母婴用品
+        keywords: [小安素, 儿童营养粉, 雅培小安素, 儿童奶粉]
+      - name: 全安素全营养配方粉
+        category: 药品保健
+        keywords: [全安素, 营养粉, 蛋白粉, 成人营养]
+  - company_id: healthcare-roche-ch
+    company_name: 罗氏
+    items:
+      - name: 罗氏血糖仪
+        category: 医疗健康
+        keywords: [罗氏血糖仪, 血糖仪, 测血糖, 罗氏卓越]
+      - name: 罗氏血糖试纸
+        category: 医疗健康
+        keywords: [血糖试纸, 罗氏试纸, 卓越金采试纸, 测血糖试纸]
+  - company_id: healthcare-novartis-ch
+    company_name: 诺华
+    items:
+      - name: 扶他林双氯芬酸二乙胺乳胶剂
+        category: 药品保健
+        keywords: [扶他林, 双氯芬酸, 止痛膏, 肌肉酸痛]
+      - name: 格列卫甲磺酸伊马替尼片
+        category: 药品保健
+        keywords: [格列卫, 伊马替尼, 慢粒药, 白血病药]
+      - name: 洛汀新盐酸贝那普利片
+        category: 药品保健
+        keywords: [洛汀新, 贝那普利, 降压药, 高血压药]
+  - company_id: healthcare-novonordisk-dk
+    company_name: 诺和诺德
+    items:
+      - name: 诺和泰司美格鲁肽注射液
+        category: 药品保健
+        keywords: [司美格鲁肽, 诺和泰, 减肥针, 降糖针]
+      - name: 诺和力利拉鲁肽注射液
+        category: 药品保健
+        keywords: [利拉鲁肽, 诺和力, 减肥针, 糖尿病针]
+      - name: 诺和灵30R胰岛素
+        category: 药品保健
+        keywords: [诺和灵, 胰岛素, 30R胰岛素, 糖尿病用药]
+      - name: 诺和达德谷胰岛素注射液
+        category: 药品保健
+        keywords: [诺和达, 德谷胰岛素, 长效胰岛素, 基础胰岛素]
+  - company_id: healthcare-sanofi-fr
+    company_name: 赛诺菲
+    items:
+      - name: 波立维硫酸氢氯吡格雷片
+        category: 药品保健
+        keywords: [波立维, 氯吡格雷, 抗血小板, 心血管药]
+      - name: 来得时甘精胰岛素注射液
+        category: 药品保健
+        keywords: [来得时, 甘精胰岛素, 长效胰岛素, 糖尿病用药]
+      - name: 易善复多烯磷脂酰胆碱胶囊
+        category: 药品保健
+        keywords: [易善复, 多烯磷脂酰胆碱, 护肝药, 脂肪肝]
+      - name: 安博维厄贝沙坦片
+        category: 药品保健
+        keywords: [安博维, 厄贝沙坦, 降压药, 高血压药]
+  - company_id: healthcare-gsk-gb
+    company_name: 葛兰素史克
+    items:
+      - name: 芬必得布洛芬缓释胶囊
+        category: 药品保健
+        keywords: [芬必得, 布洛芬, 止痛药, 退烧药]
+      - name: 新康泰克氨麻美敏片
+        category: 药品保健
+        keywords: [新康泰克, 康泰克, 感冒药, 复方感冒药]
+      - name: 百多邦莫匹罗星软膏
+        category: 药品保健
+        keywords: [百多邦, 莫匹罗星, 皮肤药膏, 消炎药膏]
+      - name: 舒适达抗敏感牙膏
+        category: 美妆个护
+        keywords: [舒适达, 抗敏感牙膏, 牙膏, 牙敏感]
+      - name: 兰美抒盐酸特比萘芬乳膏
+        category: 药品保健
+        keywords: [兰美抒, 特比萘芬, 脚气膏, 抗真菌药膏]
+  - company_id: healthcare-astrazeneca-gb
+    company_name: 阿斯利康
+    items:
+      - name: 倍他乐克琥珀酸美托洛尔缓释片
+        category: 药品保健
+        keywords: [倍他乐克, 美托洛尔, 降压药, 心率药]
+      - name: 耐信艾司奥美拉唑镁肠溶片
+        category: 药品保健
+        keywords: [耐信, 奥美拉唑, 胃药, 抑酸药]
+      - name: 可定瑞舒伐他汀钙片
+        category: 药品保健
+        keywords: [可定, 瑞舒伐他汀, 他汀, 降血脂药]
+      - name: 易瑞沙吉非替尼片
+        category: 药品保健
+        keywords: [易瑞沙, 吉非替尼, 肺癌药, 靶向药]
+  - company_id: healthcare-bayer-de
+    company_name: 拜耳
+    items:
+      - name: 拜阿司匹灵阿司匹林肠溶片
+        category: 药品保健
+        keywords: [拜阿司匹灵, 阿司匹林, 肠溶片, 防血栓]
+      - name: 达喜铝碳酸镁咀嚼片
+        category: 药品保健
+        keywords: [达喜, 铝碳酸镁, 胃药, 抗酸药]
+      - name: 拜唐苹阿卡波糖片
+        category: 药品保健
+        keywords: [拜唐苹, 阿卡波糖, 降糖药, 糖尿病药]
+      - name: 爱乐维复合维生素片
+        category: 药品保健
+        keywords: [爱乐维, 孕妇维生素, 孕期营养, 复合叶酸]
+      - name: 白加黑氨酚伪麻美芬片
+        category: 药品保健
+        keywords: [白加黑, 感冒药, 日夜片, 复方感冒药]
+  - company_id: healthcare-boehringer-de
+    company_name: 勃林格殷格翰
+    items:
+      - name: 沐舒坦盐酸氨溴索口服溶液
+        category: 药品保健
+        keywords: [沐舒坦, 氨溴索, 化痰药, 止咳化痰]
+      - name: 欧唐静恩格列净片
+        category: 药品保健
+        keywords: [欧唐静, 恩格列净, 降糖药, 列净类]
+      - name: 思力华噻托溴铵粉吸入剂
+        category: 药品保健
+        keywords: [思力华, 噻托溴铵, 慢阻肺药, 吸入剂]
+  - company_id: healthcare-otsuka-jp
+    company_name: 大冢制药
+    items:
+      - name: 宝矿力水特电解质饮料
+        category: 食品饮料
+        keywords: [宝矿力, 宝矿力水特, 电解质水, 运动饮料]
+      - name: 娥罗纳英H软膏
+        category: 药品保健
+        keywords: [娥罗纳英, 俄罗纳英, 皮肤软膏, 冻疮膏]
+      - name: 奥乐蜜C营养碳酸饮料
+        category: 食品饮料
+        keywords: [奥乐蜜C, 维生素饮料, 营养饮料, 能量饮料]
+  - company_id: healthcare-philips-nl
+    company_name: 飞利浦
+    items:
+      - name: 飞利浦电动剃须刀
+        category: 美妆个护
+        keywords: [飞利浦剃须刀, 电动剃须刀, 刮胡刀, 飞利浦]
+      - name: 飞利浦Sonicare电动牙刷
+        category: 美妆个护
+        keywords: [飞利浦电动牙刷, 声波牙刷, Sonicare, 电动牙刷]
+      - name: 飞利浦空气净化器
+        category: 家电
+        keywords: [飞利浦空气净化器, 空气净化器, 除甲醛, 净化器]
+      - name: 飞利浦空气炸锅
+        category: 家电
+        keywords: [飞利浦空气炸锅, 空气炸锅, 无油炸锅, 炸锅]

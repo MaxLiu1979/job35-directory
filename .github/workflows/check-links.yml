@@ -32,7 +32,7 @@ jobs:
           fi
           python scripts/merge_industries.py
           python scripts/validate.py
-          branch="links/$(date -u +%Y%m%d)"
+          branch="links/$(date -u +%Y%m%d-%H%M%S)"
           git checkout -b "$branch"
           git add -A
           git commit -m "chore: remove dead career-page links $(date -u +%F)"

@@ -1,0 +1,223 @@
+products:
+  - company_id: information_technology-huawei-cn
+    company_name: 华为
+    items:
+      - name: 华为Mate系列手机
+        category: 数码产品
+        keywords: [华为手机, Mate, 华为手机, mate60]
+      - name: 华为Pura 70
+        category: 数码产品
+        keywords: [华为P70, Pura, 华为拍照手机, 华为旗舰]
+      - name: 华为WATCH GT智能手表
+        category: 数码产品
+        keywords: [华为手表, 智能手表, 华为GT, watch]
+      - name: 华为FreeBuds耳机
+        category: 数码产品
+        keywords: [华为耳机, 蓝牙耳机, 降噪耳机, freebuds]
+      - name: 华为MateBook笔记本
+        category: 数码产品
+        keywords: [华为笔记本, 华为电脑, matebook, 轻薄本]
+      - name: 华为MatePad平板
+        category: 数码产品
+        keywords: [华为平板, matepad, 平板电脑]
+  - company_id: information_technology-zte-cn
+    company_name: 中兴通讯
+    items:
+      - name: 中兴Axon手机
+        category: 数码产品
+        keywords: [中兴手机, Axon, 中兴旗舰, 屏下摄像头手机]
+      - name: 红魔游戏手机
+        category: 数码产品
+        keywords: [红魔, 游戏手机, 电竞手机, 努比亚红魔]
+      - name: 努比亚Z系列手机
+        category: 数码产品
+        keywords: [努比亚, nubia, 努比亚手机]
+  - company_id: information_technology-lenovo-cn
+    company_name: 联想集团
+    items:
+      - name: ThinkPad笔记本电脑
+        category: 数码产品
+        keywords: [thinkpad, 联想笔记本, 商务本, 小黑]
+      - name: 联想小新笔记本
+        category: 数码产品
+        keywords: [小新, 联想小新, 轻薄本, 学生笔记本]
+      - name: 联想拯救者游戏本
+        category: 数码产品
+        keywords: [拯救者, 联想游戏本, 电竞本, legion]
+      - name: 联想YOGA笔记本
+        category: 数码产品
+        keywords: [yoga, 联想yoga, 翻转本, 高端轻薄本]
+  - company_id: information_technology-hikvision-cn
+    company_name: 海康威视
+    items:
+      - name: 萤石智能摄像机
+        category: 数码产品
+        keywords: [萤石, 家用摄像头, 监控摄像头, 智能摄像机]
+      - name: 萤石智能门锁
+        category: 数码产品
+        keywords: [智能门锁, 指纹锁, 萤石门锁, 密码锁]
+      - name: 萤石智能猫眼
+        category: 数码产品
+        keywords: [智能猫眼, 可视门铃, 萤石猫眼, 电子猫眼]
+  - company_id: information_technology-dji-cn
+    company_name: 大疆
+    items:
+      - name: 大疆Mavic无人机
+        category: 数码产品
+        keywords: [大疆无人机, Mavic, 航拍无人机, 无人机]
+      - name: 大疆Osmo Pocket口袋相机
+        category: 数码产品
+        keywords: [口袋相机, Pocket, 手持云台相机, 大疆口袋相机]
+      - name: 大疆Osmo Action运动相机
+        category: 数码产品
+        keywords: [运动相机, Action, 大疆运动相机, 骑行相机]
+      - name: 大疆Ronin稳定器
+        category: 数码产品
+        keywords: [稳定器, 手持云台, 如影, ronin]
+      - name: 大疆Avata穿越机
+        category: 数码产品
+        keywords: [穿越机, Avata, FPV, 大疆穿越机]
+  - company_id: information_technology-iflytek-cn
+    company_name: 科大讯飞
+    items:
+      - name: 讯飞翻译机
+        category: 数码产品
+        keywords: [翻译机, 讯飞翻译, 出国翻译器, 同声翻译机]
+      - name: 讯飞智能办公本
+        category: 数码产品
+        keywords: [办公本, 电子笔记本, 讯飞办公本, 墨水屏笔记本]
+      - name: 讯飞AI学习机
+        category: 数码产品
+        keywords: [学习机, 讯飞学习机, 学生平板, AI学习机]
+      - name: 讯飞智能录音笔
+        category: 数码产品
+        keywords: [录音笔, 讯飞录音笔, 转写录音笔, 会议录音笔]
+  - company_id: information_technology-qihoo360-cn
+    company_name: 三六零
+    items:
+      - name: 360安全卫士
+        category: 手机应用
+        keywords: [360, 安全卫士, 杀毒软件, 电脑管家, 360杀毒]
+      - name: 360手机卫士
+        category: 手机应用
+        keywords: [手机卫士, 手机杀毒, 手机清理, 骚扰拦截]
+      - name: 360浏览器
+        category: 手机应用
+        keywords: [浏览器, 360浏览器, 抢票浏览器, 安全浏览器]
+  - company_id: information_technology-microsoft-us
+    company_name: Microsoft
+    items:
+      - name: Windows 11操作系统
+        category: 数码产品
+        keywords: [Windows, win11, 电脑系统, 操作系统, 微软系统]
+      - name: Microsoft 365办公软件
+        category: 办公用品
+        keywords: [Office, 办公软件, 微软办公, word, 正版office]
+      - name: Xbox Series X游戏主机
+        category: 游戏娱乐
+        keywords: [Xbox, 游戏机, 微软游戏机, XSX, 游戏主机]
+      - name: Surface笔记本电脑
+        category: 数码产品
+        keywords: [Surface, 微软笔记本, 微软电脑, surface pro]
+      - name: Edge浏览器
+        category: 手机应用
+        keywords: [Edge, 微软浏览器, edge浏览器, 电脑浏览器]
+  - company_id: information_technology-apple-us
+    company_name: Apple
+    items:
+      - name: iPhone手机
+        category: 数码产品
+        keywords: [苹果手机, iPhone, 苹果15, 苹果16]
+      - name: MacBook笔记本电脑
+        category: 数码产品
+        keywords: [苹果电脑, MacBook, 苹果笔记本, Mac]
+      - name: iPad平板电脑
+        category: 数码产品
+        keywords: [苹果平板, iPad, 平板电脑]
+      - name: AirPods耳机
+        category: 数码产品
+        keywords: [苹果耳机, AirPods, 蓝牙耳机, 降噪耳机]
+      - name: Apple Watch智能手表
+        category: 数码产品
+        keywords: [苹果手表, Apple Watch, 智能手表, 苹果表]
+  - company_id: information_technology-dell-us
+    company_name: Dell Technologies
+    items:
+      - name: 戴尔XPS笔记本
+        category: 数码产品
+        keywords: [XPS, 戴尔笔记本, 戴尔电脑, 高端轻薄本]
+      - name: 戴尔灵越笔记本
+        category: 数码产品
+        keywords: [灵越, Inspiron, 戴尔灵越, 家用笔记本]
+      - name: 外星人Alienware游戏本
+        category: 数码产品
+        keywords: [外星人电脑, Alienware, 外星人笔记本, 游戏本]
+      - name: 戴尔显示器
+        category: 数码产品
+        keywords: [戴尔显示器, 电脑显示器, Dell显示器, 电竞显示器]
+  - company_id: information_technology-hp-us
+    company_name: HP
+    items:
+      - name: 惠普战66笔记本
+        category: 数码产品
+        keywords: [战66, 惠普笔记本, 惠普电脑, 商务本]
+      - name: 惠普暗影精灵游戏本
+        category: 数码产品
+        keywords: [暗影精灵, 惠普游戏本, OMEN, 电竞本]
+      - name: 惠普LaserJet打印机
+        category: 数码产品
+        keywords: [惠普打印机, 激光打印机, HP打印机, 家用打印机]
+      - name: 惠普星Book笔记本
+        category: 数码产品
+        keywords: [星Book, 惠普星, 轻薄本, 学生笔记本]
+  - company_id: information_technology-samsung-kr
+    company_name: Samsung Electronics
+    items:
+      - name: 三星Galaxy S系列手机
+        category: 数码产品
+        keywords: [三星手机, Galaxy, 三星S24, 三星旗舰]
+      - name: 三星Galaxy Z折叠屏手机
+        category: 数码产品
+        keywords: [折叠屏, 三星折叠, Z Flip, Z Fold]
+      - name: 三星QLED电视
+        category: 家电
+        keywords: [三星电视, QLED, 三星液晶电视, 大屏电视]
+      - name: 三星Galaxy Buds耳机
+        category: 数码产品
+        keywords: [三星耳机, 蓝牙耳机, Galaxy Buds, 降噪耳机]
+      - name: 三星Galaxy Watch智能手表
+        category: 数码产品
+        keywords: [三星手表, 智能手表, Galaxy Watch, 三星表]
+  - company_id: information_technology-sony-jp
+    company_name: Sony Group
+    items:
+      - name: PlayStation 5游戏主机
+        category: 游戏娱乐
+        keywords: [PS5, 索尼游戏机, 游戏主机, 索尼PS5]
+      - name: 索尼Alpha微单相机
+        category: 数码产品
+        keywords: [索尼相机, 微单, A7M4, 索尼微单]
+      - name: 索尼BRAVIA电视
+        category: 家电
+        keywords: [索尼电视, BRAVIA, 索尼大法, 大屏电视]
+      - name: 索尼WH-1000XM5降噪耳机
+        category: 数码产品
+        keywords: [索尼耳机, 降噪耳机, 头戴式耳机, 索尼大法耳机]
+      - name: 索尼Xperia手机
+        category: 数码产品
+        keywords: [索尼手机, Xperia, 索尼大法手机]
+  - company_id: information_technology-canon-jp
+    company_name: Canon
+    items:
+      - name: 佳能EOS R微单相机
+        category: 数码产品
+        keywords: [佳能相机, 微单, EOS R, 佳能微单]
+      - name: 佳能PIXMA喷墨打印机
+        category: 数码产品
+        keywords: [佳能打印机, 喷墨打印机, 家用打印机, PIXMA]
+      - name: 佳能RF镜头
+        category: 数码产品
+        keywords: [佳能镜头, RF镜头, 相机镜头, 红圈镜头]
+      - name: 佳能PowerShot便携相机
+        category: 数码产品
+        keywords: [佳能卡片机, PowerShot, 便携相机, 佳能小相机]

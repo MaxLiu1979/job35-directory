@@ -1,0 +1,322 @@
+products:
+  - company_id: public_sector-citic-cn
+    company_name: 中国中信集团
+    items:
+      - name: 中信银行信用卡
+        category: 金融理财
+        keywords: [信用卡, 中信信用卡, 刷卡, 申请信用卡]
+      - name: 中信银行借记卡
+        category: 金融理财
+        keywords: [储蓄卡, 银行卡, 办银行卡, 中信银行卡]
+      - name: 中信保诚人寿保险
+        category: 保险服务
+        keywords: [人寿保险, 买保险, 中信保诚, 重疾险]
+  - company_id: public_sector-chinaresources-cn
+    company_name: 华润集团
+    items:
+      - name: 雪花啤酒
+        category: 酒水
+        keywords: [啤酒, 雪花, 勇闯天涯, 喝啤酒]
+      - name: 怡宝纯净水
+        category: 饮料
+        keywords: [矿泉水, 怡宝, 瓶装水, 纯净水]
+      - name: 华润万家超市
+        category: 生鲜速食
+        keywords: [超市, 华润万家, 买菜, 逛超市]
+      - name: 万象城购物中心
+        category: 其他
+        keywords: [万象城, 商场, 购物中心, 逛街]
+  - company_id: public_sector-everbright-cn
+    company_name: 中国光大集团
+    items:
+      - name: 光大银行信用卡
+        category: 金融理财
+        keywords: [信用卡, 光大信用卡, 办卡, 刷卡]
+      - name: 光大银行阳光理财
+        category: 金融理财
+        keywords: [理财, 买理财, 光大理财, 存款]
+      - name: 光大永明人寿保险
+        category: 保险服务
+        keywords: [保险, 人寿险, 光大永明, 买保险]
+  - company_id: public_sector-chinapost-cn
+    company_name: 中国邮政集团
+    items:
+      - name: EMS特快专递
+        category: 快递物流
+        keywords: [快递, EMS, 寄快递, 特快专递, 邮政快递]
+      - name: 邮政快递包裹
+        category: 快递物流
+        keywords: [包裹, 寄包裹, 平邮, 邮政包裹]
+      - name: 邮政储蓄银行借记卡
+        category: 金融理财
+        keywords: [邮储银行卡, 储蓄卡, 绿卡, 办银行卡]
+      - name: 集邮业务
+        category: 其他
+        keywords: [邮票, 集邮, 买邮票, 纪念邮票]
+  - company_id: public_sector-apple-cn
+    company_name: 苹果（中国）
+    items:
+      - name: iPhone
+        category: 数码产品
+        keywords: [苹果手机, iPhone, 换手机, 苹果新机]
+      - name: iPad
+        category: 数码产品
+        keywords: [苹果平板, iPad, 平板电脑]
+      - name: MacBook
+        category: 数码产品
+        keywords: [苹果电脑, 笔记本, MacBook, 苹果笔记本]
+      - name: Apple Watch
+        category: 数码产品
+        keywords: [苹果手表, 智能手表, Apple Watch]
+      - name: AirPods
+        category: 数码产品
+        keywords: [苹果耳机, 蓝牙耳机, AirPods, 无线耳机]
+  - company_id: public_sector-microsoft-cn
+    company_name: 微软中国
+    items:
+      - name: Surface 笔记本电脑
+        category: 数码产品
+        keywords: [Surface, 微软笔记本, 微软电脑, 二合一电脑]
+      - name: Xbox 游戏主机
+        category: 游戏娱乐
+        keywords: [Xbox, 游戏机, 微软游戏机, 游戏主机]
+      - name: Microsoft 365 办公软件
+        category: 办公用品
+        keywords: [Office, 办公软件, Word, Excel, 订阅Office]
+      - name: Windows 操作系统
+        category: 数码产品
+        keywords: [Windows, 微软系统, 电脑系统, 正版系统]
+  - company_id: public_sector-amazon-cn
+    company_name: 亚马逊中国
+    items:
+      - name: 亚马逊海外购
+        category: 其他
+        keywords: [海外购, 海淘, 亚马逊, 买进口货]
+      - name: Kindle 电子书
+        category: 数码产品
+        keywords: [Kindle, 电子阅读器, 电子书, 墨水屏]
+  - company_id: public_sector-tesla-cn
+    company_name: 特斯拉中国
+    items:
+      - name: Model 3
+        category: 汽车整车
+        keywords: [特斯拉, Model 3, 毛豆3, 电动车]
+      - name: Model Y
+        category: 汽车整车
+        keywords: [Model Y, 毛豆Y, 特斯拉SUV, 电动车]
+      - name: 特斯拉家庭充电桩
+        category: 汽车服务
+        keywords: [充电桩, 特斯拉充电桩, 家用充电桩, 装充电桩]
+  - company_id: public_sector-samsung-cn
+    company_name: 三星中国
+    items:
+      - name: Galaxy S 系列手机
+        category: 数码产品
+        keywords: [三星手机, Galaxy, 三星折叠屏, 安卓手机]
+      - name: 三星电视
+        category: 家电
+        keywords: [三星电视, 液晶电视, QLED电视, 大屏电视]
+      - name: 三星冰箱
+        category: 家电
+        keywords: [三星冰箱, 双开门冰箱, 对开门冰箱]
+      - name: 三星洗衣机
+        category: 家电
+        keywords: [三星洗衣机, 滚筒洗衣机, 洗烘一体机]
+  - company_id: public_sector-toyota-cn
+    company_name: 丰田中国
+    items:
+      - name: 卡罗拉
+        category: 汽车整车
+        keywords: [卡罗拉, 丰田, 买菜车, 家用轿车]
+      - name: 凯美瑞
+        category: 汽车整车
+        keywords: [凯美瑞, 丰田轿车, B级车, 家用轿车]
+      - name: RAV4 荣放
+        category: 汽车整车
+        keywords: [荣放, RAV4, 丰田SUV, 城市SUV]
+      - name: 汉兰达
+        category: 汽车整车
+        keywords: [汉兰达, 丰田七座, 七座SUV, 大型SUV]
+      - name: 雷凌
+        category: 汽车整车
+        keywords: [雷凌, 丰田, 紧凑型轿车, 代步车]
+  - company_id: public_sector-vw-cn
+    company_name: 大众汽车集团（中国）
+    items:
+      - name: 朗逸
+        category: 汽车整车
+        keywords: [朗逸, 大众, 家用轿车, 代步车]
+      - name: 速腾
+        category: 汽车整车
+        keywords: [速腾, 大众轿车, 紧凑型车, 德系车]
+      - name: 帕萨特
+        category: 汽车整车
+        keywords: [帕萨特, 大众, B级车, 商务轿车]
+      - name: 途观L
+        category: 汽车整车
+        keywords: [途观, 大众SUV, 途观L, 城市SUV]
+      - name: 迈腾
+        category: 汽车整车
+        keywords: [迈腾, 大众轿车, B级车, 一汽大众]
+  - company_id: public_sector-bmw-cn
+    company_name: 宝马中国
+    items:
+      - name: 宝马3系
+        category: 汽车整车
+        keywords: [宝马, 3系, 宝马三系, 运动轿车]
+      - name: 宝马5系
+        category: 汽车整车
+        keywords: [宝马5系, 宝马五系, 行政轿车, 商务车]
+      - name: 宝马X3
+        category: 汽车整车
+        keywords: [宝马X3, 宝马SUV, 豪华SUV]
+      - name: 宝马X5
+        category: 汽车整车
+        keywords: [宝马X5, 宝马五座SUV, 大型SUV, 豪华车]
+  - company_id: public_sector-mercedes-cn
+    company_name: 梅赛德斯-奔驰中国
+    items:
+      - name: 奔驰C级
+        category: 汽车整车
+        keywords: [奔驰, C级, 奔驰C, 豪华车]
+      - name: 奔驰E级
+        category: 汽车整车
+        keywords: [奔驰E级, 奔驰E, 行政轿车, 商务轿车]
+      - name: 奔驰GLC
+        category: 汽车整车
+        keywords: [奔驰GLC, 奔驰SUV, 豪华SUV]
+      - name: 奔驰S级
+        category: 汽车整车
+        keywords: [奔驰S级, 奔驰S, 旗舰轿车, 豪车]
+  - company_id: public_sector-siemens-cn
+    company_name: 西门子中国
+    items:
+      - name: 西门子冰箱
+        category: 家电
+        keywords: [西门子冰箱, 冰箱, 零度保鲜, 对开门冰箱]
+      - name: 西门子洗衣机
+        category: 家电
+        keywords: [西门子洗衣机, 滚筒洗衣机, 洗衣机]
+      - name: 西门子洗碗机
+        category: 家电
+        keywords: [西门子洗碗机, 洗碗机, 嵌入式洗碗机]
+      - name: 西门子烤箱/蒸箱
+        category: 家电
+        keywords: [西门子烤箱, 蒸箱, 嵌入式厨电, 西门子厨电]
+  - company_id: public_sector-pg-cn
+    company_name: 宝洁中国
+    items:
+      - name: 海飞丝洗发水
+        category: 洗护清洁
+        keywords: [洗发水, 海飞丝, 去屑, 洗头膏]
+      - name: 飘柔洗发水
+        category: 洗护清洁
+        keywords: [飘柔, 洗发水, 柔顺, 洗头]
+      - name: 舒肤佳香皂/沐浴露
+        category: 洗护清洁
+        keywords: [舒肤佳, 香皂, 沐浴露, 洗手液]
+      - name: 碧浪洗衣液
+        category: 洗护清洁
+        keywords: [洗衣液, 碧浪, 洗衣粉, 洗衣服]
+      - name: 帮宝适纸尿裤
+        category: 母婴用品
+        keywords: [纸尿裤, 帮宝适, 尿不湿, 婴儿尿布]
+      - name: 护舒宝卫生巾
+        category: 纸品卫生
+        keywords: [卫生巾, 护舒宝, 姨妈巾, 卫生棉]
+      - name: 佳洁士牙膏
+        category: 美妆个护
+        keywords: [牙膏, 佳洁士, 刷牙, 美白牙膏]
+  - company_id: public_sector-unilever-cn
+    company_name: 联合利华中国
+    items:
+      - name: 奥妙洗衣液
+        category: 洗护清洁
+        keywords: [洗衣液, 奥妙, 洗衣粉, 洗衣服]
+      - name: 力士沐浴露/香皂
+        category: 洗护清洁
+        keywords: [力士, 沐浴露, 香皂, 洗澡]
+      - name: 清扬洗发水
+        category: 洗护清洁
+        keywords: [清扬, 洗发水, 去屑, 男士洗发水]
+      - name: 多芬沐浴乳/洗发水
+        category: 洗护清洁
+        keywords: [多芬, 沐浴露, 洗发水, 沐浴乳]
+      - name: 和路雪冰淇淋
+        category: 休闲零食
+        keywords: [冰淇淋, 雪糕, 和路雪, 可爱多, 冰棍]
+  - company_id: public_sector-cocacola-cn
+    company_name: 可口可乐中国
+    items:
+      - name: 可口可乐
+        category: 饮料
+        keywords: [可乐, 可口可乐, 汽水, 碳酸饮料]
+      - name: 雪碧
+        category: 饮料
+        keywords: [雪碧, 柠檬汽水, 汽水, 碳酸饮料]
+      - name: 芬达
+        category: 饮料
+        keywords: [芬达, 橙味汽水, 汽水, 碳酸饮料]
+      - name: 零度可口可乐
+        category: 饮料
+        keywords: [零度可乐, 无糖可乐, 可口可乐, 无糖饮料]
+      - name: 美汁源果粒橙
+        category: 饮料
+        keywords: [果粒橙, 美汁源, 果汁, 橙汁]
+  - company_id: public_sector-nestle-cn
+    company_name: 雀巢中国
+    items:
+      - name: 雀巢咖啡
+        category: 饮料
+        keywords: [咖啡, 雀巢, 速溶咖啡, 拿铁]
+      - name: 雀巢奶粉（能恩）
+        category: 乳品
+        keywords: [奶粉, 雀巢奶粉, 婴儿奶粉, 能恩]
+      - name: 脆脆鲨威化
+        category: 休闲零食
+        keywords: [脆脆鲨, 威化, 巧克力威化, 零食]
+      - name: 徐福记糖果
+        category: 休闲零食
+        keywords: [徐福记, 糖果, 酥糖, 年货糖]
+      - name: 太太乐鸡精
+        category: 粮油调味
+        keywords: [鸡精, 太太乐, 调味料, 调味品]
+  - company_id: public_sector-pfizer-cn
+    company_name: 辉瑞中国
+    items:
+      - name: 立普妥（阿托伐他汀钙片）
+        category: 药品保健
+        keywords: [立普妥, 他汀, 降血脂药, 阿托伐他汀]
+      - name: 万艾可（西地那非）
+        category: 药品保健
+        keywords: [万艾可, 伟哥, 西地那非, 处方药]
+      - name: 络活喜（苯磺酸氨氯地平片）
+        category: 药品保健
+        keywords: [络活喜, 降压药, 氨氯地平, 高血压药]
+  - company_id: public_sector-astrazeneca-cn
+    company_name: 阿斯利康中国
+    items:
+      - name: 泰瑞沙（奥希替尼）
+        category: 药品保健
+        keywords: [泰瑞沙, 奥希替尼, 肺癌药, 靶向药]
+      - name: 耐信（埃索美拉唑）
+        category: 药品保健
+        keywords: [耐信, 胃药, 埃索美拉唑, 胃酸]
+      - name: 倍他乐克（美托洛尔）
+        category: 药品保健
+        keywords: [倍他乐克, 美托洛尔, 降压药, 心脏药]
+      - name: 普米克令舒（布地奈德）
+        category: 药品保健
+        keywords: [普米克, 布地奈德, 哮喘药, 雾化药]
+  - company_id: public_sector-walmart-cn
+    company_name: 沃尔玛中国
+    items:
+      - name: 山姆会员店
+        category: 生鲜速食
+        keywords: [山姆, 山姆会员店, 会员超市, 囤货, 逛超市]
+      - name: 沃尔玛购物广场
+        category: 生鲜速食
+        keywords: [沃尔玛, 超市, 大卖场, 买菜, 逛超市]
+      - name: 山姆会员卡
+        category: 其他
+        keywords: [山姆会员卡, 会员卡, 办会员卡, 会员费]
