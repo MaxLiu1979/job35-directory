@@ -39,3 +39,6 @@ jobs:
           git push -u origin "$branch"
           gh pr create --title "Link check $(date -u +%F)" \
             --body "Weekly automated link verification. Dead links removed from by-industry data."
+        env:
+          # GITHUB_TOKEN 无创建 PR 权限（仓库默认限制），改用 PAT
+          GH_TOKEN: ${{ secrets.BOT_TOKEN }}
