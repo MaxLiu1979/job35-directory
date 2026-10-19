@@ -1,404 +1,402 @@
 companies:
-  - id: energy-petrochina-cn
-    name: 中国石油
-    name_en: PetroChina
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.cnpc.com.cn
-    status: pending
-  - id: energy-sinopec-cn
-    name: 中国石化
-    name_en: Sinopec
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://job.sinopec.com
-    status: pending
-  - id: energy-cnooc-cn
-    name: 中国海油
-    name_en: CNOOC
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://cnooc.zhaopin.com
-    status: pending
-  - id: energy-chnenergy-cn
-    name: 国家能源投资集团
-    name_en: China Energy Investment Corporation
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.chnenergy.com.cn
-    status: pending
-  - id: energy-huaneng-cn
-    name: 中国华能
-    name_en: Huaneng Power International
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.chng.com.cn
-    status: pending
-  - id: energy-spic-cn
-    name: 国家电力投资集团
-    name_en: State Power Investment Corporation
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-threegorges-cn
-    name: 中国长江三峡集团
-    name_en: China Three Gorges Corporation
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-cgn-cn
-    name: 中国广核集团
-    name_en: CGN Group
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-chinacoalenergy-cn
-    name: 中煤能源
-    name_en: China Coal Energy
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.chinacoal.com
-    status: pending
-  - id: energy-yankuang-cn
-    name: 兖矿能源
-    name_en: Yankuang Energy Group
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.shandong-energy.com
-    status: pending
-  - id: energy-longi-cn
-    name: 隆基绿能
-    name_en: LONGi Green Energy Technology
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.longi.com/cn/career/
-    status: pending
-  - id: energy-tongwei-cn
-    name: 通威股份
-    name_en: Tongwei Co., Ltd.
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-jinkosolar-cn
-    name: 晶科能源
-    name_en: JinkoSolar
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://career.jinkosolar.com
-    status: pending
-  - id: energy-trinasolar-cn
-    name: 天合光能
-    name_en: Trina Solar
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-sungrow-cn
-    name: 阳光电源
-    name_en: Sungrow Power Supply
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-goldwind-cn
-    name: 金风科技
-    name_en: Goldwind
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-tbea-cn
-    name: 特变电工
-    name_en: TBEA Co., Ltd.
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-gcl-cn
-    name: 协鑫集团
-    name_en: GCL Group
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.gcl-power.com/job.html
-    status: pending
-  - id: energy-enn-cn
-    name: 新奥集团
-    name_en: ENN Group
-    industry: energy
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-  - id: energy-exxonmobil-us
-    name: ExxonMobil
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://corporate.exxonmobil.com/careers
-    status: pending
-  - id: energy-chevron-us
-    name: Chevron
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.chevron.com
-    status: pending
-  - id: energy-conocophillips-us
-    name: ConocoPhillips
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.conocophillips.com
-    status: pending
-  - id: energy-slb-us
-    name: SLB
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.slb.com
-    status: pending
-  - id: energy-halliburton-us
-    name: Halliburton
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.halliburton.com
-    status: pending
-  - id: energy-nextera-us
-    name: NextEra Energy
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.nexteraenergy.com/careers.html
-    status: pending
-  - id: energy-duke-us
-    name: Duke Energy
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.duke-energy.com/Our-Company/Careers
-    status: pending
-  - id: energy-southern-us
-    name: Southern Company
-    industry: energy
-    tier: top50
-    country: US
-    sources: []
-    link: https://southerncompany.jobs/
-    status: pending
-  - id: energy-shell-gb
-    name: Shell
-    industry: energy
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.shell.com/careers
-    status: pending
-  - id: energy-bp-gb
-    name: BP
-    industry: energy
-    tier: top50
-    country: GB
-    sources: []
-    link: https://careers.bp.com
-    status: pending
-  - id: energy-totalenergies-fr
-    name: TotalEnergies
-    industry: energy
-    tier: top50
-    country: FR
-    sources: []
-    link: https://careers.totalenergies.com
-    status: pending
-  - id: energy-edf-fr
-    name: EDF
-    industry: energy
-    tier: top50
-    country: FR
-    sources: []
-    link: https://www.edf.fr/edf-recrute
-    status: pending
-  - id: energy-equinor-no
-    name: Equinor
-    industry: energy
-    tier: top50
-    country: "NO"
-    sources: []
-    link: https://www.equinor.com/careers
-    status: pending
-  - id: energy-eni-it
-    name: Eni
-    industry: energy
-    tier: top50
-    country: IT
-    sources: []
-    status: pending
-  - id: energy-enel-it
-    name: Enel
-    industry: energy
-    tier: top50
-    country: IT
-    sources: []
-    link: https://jobs.enel.com
-    status: pending
-  - id: energy-iberdrola-es
-    name: Iberdrola
-    industry: energy
-    tier: top50
-    country: ES
-    sources: []
-    link: https://www.iberdrola.com/talent
-    status: pending
-  - id: energy-rwe-de
-    name: RWE
-    industry: energy
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.rwe.com/en/careers/
-    status: pending
-  - id: energy-orsted-dk
-    name: Ørsted
-    industry: energy
-    tier: top50
-    country: DK
-    sources: []
-    link: https://orsted.com/en/careers
-    status: pending
-  - id: energy-saudiaramco-sa
-    name: Saudi Aramco
-    industry: energy
-    tier: top50
-    country: SA
-    sources: []
-    link: https://www.aramco.com/en/careers
-    status: pending
-  - id: energy-adnoc-ae
-    name: ADNOC
-    industry: energy
-    tier: top50
-    country: AE
-    sources: []
-    link: https://jobs.adnoc.ae
-    status: pending
-  - id: energy-gazprom-ru
-    name: Gazprom
-    industry: energy
-    tier: top50
-    country: RU
-    sources: []
-    status: pending
-  - id: energy-rosneft-ru
-    name: Rosneft
-    industry: energy
-    tier: top50
-    country: RU
-    sources: []
-    status: pending
-  - id: energy-lukoil-ru
-    name: Lukoil
-    industry: energy
-    tier: top50
-    country: RU
-    sources: []
-    status: pending
-  - id: energy-eneos-jp
-    name: ENEOS Holdings
-    industry: energy
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.eneos.co.jp/recruit/
-    status: pending
-  - id: energy-jera-jp
-    name: JERA
-    industry: energy
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.jera.co.jp/employment/
-    status: pending
-  - id: energy-reliance-in
-    name: Reliance Industries
-    industry: energy
-    tier: top50
-    country: IN
-    sources: []
-    link: https://www.ril.com/careers
-    status: pending
-  - id: energy-ongc-in
-    name: ONGC
-    industry: energy
-    tier: top50
-    country: IN
-    sources: []
-    status: pending
-  - id: energy-kepco-kr
-    name: KEPCO
-    industry: energy
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-  - id: energy-skinnovation-kr
-    name: SK Innovation
-    industry: energy
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-  - id: energy-petrobras-br
-    name: Petrobras
-    industry: energy
-    tier: top50
-    country: BR
-    sources: []
-    link: https://petrobras.com.br/quem-somos/carreiras
-    status: pending
-  - id: energy-enbridge-ca
-    name: Enbridge
-    industry: energy
-    tier: top50
-    country: CA
-    sources: []
-    link: https://www.enbridge.com/work-with-enbridge/careers
-    status: pending
+- id: energy-petrochina-cn
+  name: 中国石油
+  name_en: PetroChina
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.cnpc.com.cn
+  status: pending
+- id: energy-sinopec-cn
+  name: 中国石化
+  name_en: Sinopec
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-cnooc-cn
+  name: 中国海油
+  name_en: CNOOC
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://cnooc.zhaopin.com
+  status: pending
+- id: energy-chnenergy-cn
+  name: 国家能源投资集团
+  name_en: China Energy Investment Corporation
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.chnenergy.com.cn
+  status: pending
+- id: energy-huaneng-cn
+  name: 中国华能
+  name_en: Huaneng Power International
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.chng.com.cn
+  status: pending
+- id: energy-spic-cn
+  name: 国家电力投资集团
+  name_en: State Power Investment Corporation
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-threegorges-cn
+  name: 中国长江三峡集团
+  name_en: China Three Gorges Corporation
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-cgn-cn
+  name: 中国广核集团
+  name_en: CGN Group
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-chinacoalenergy-cn
+  name: 中煤能源
+  name_en: China Coal Energy
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.chinacoal.com
+  status: pending
+- id: energy-yankuang-cn
+  name: 兖矿能源
+  name_en: Yankuang Energy Group
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.shandong-energy.com
+  status: pending
+- id: energy-longi-cn
+  name: 隆基绿能
+  name_en: LONGi Green Energy Technology
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.longi.com/cn/career/
+  status: pending
+- id: energy-tongwei-cn
+  name: 通威股份
+  name_en: Tongwei Co., Ltd.
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-jinkosolar-cn
+  name: 晶科能源
+  name_en: JinkoSolar
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-trinasolar-cn
+  name: 天合光能
+  name_en: Trina Solar
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-sungrow-cn
+  name: 阳光电源
+  name_en: Sungrow Power Supply
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-goldwind-cn
+  name: 金风科技
+  name_en: Goldwind
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-tbea-cn
+  name: 特变电工
+  name_en: TBEA Co., Ltd.
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-gcl-cn
+  name: 协鑫集团
+  name_en: GCL Group
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.gcl-power.com/job.html
+  status: pending
+- id: energy-enn-cn
+  name: 新奥集团
+  name_en: ENN Group
+  industry: energy
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: energy-exxonmobil-us
+  name: ExxonMobil
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://corporate.exxonmobil.com/careers
+  status: pending
+- id: energy-chevron-us
+  name: Chevron
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.chevron.com
+  status: pending
+- id: energy-conocophillips-us
+  name: ConocoPhillips
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.conocophillips.com
+  status: pending
+- id: energy-slb-us
+  name: SLB
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.slb.com
+  status: pending
+- id: energy-halliburton-us
+  name: Halliburton
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.halliburton.com
+  status: pending
+- id: energy-nextera-us
+  name: NextEra Energy
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.nexteraenergy.com/careers.html
+  status: pending
+- id: energy-duke-us
+  name: Duke Energy
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.duke-energy.com/Our-Company/Careers
+  status: pending
+- id: energy-southern-us
+  name: Southern Company
+  industry: energy
+  tier: top50
+  country: US
+  sources: []
+  link: https://southerncompany.jobs/
+  status: pending
+- id: energy-shell-gb
+  name: Shell
+  industry: energy
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.shell.com/careers
+  status: pending
+- id: energy-bp-gb
+  name: BP
+  industry: energy
+  tier: top50
+  country: GB
+  sources: []
+  link: https://careers.bp.com
+  status: pending
+- id: energy-totalenergies-fr
+  name: TotalEnergies
+  industry: energy
+  tier: top50
+  country: FR
+  sources: []
+  link: https://careers.totalenergies.com
+  status: pending
+- id: energy-edf-fr
+  name: EDF
+  industry: energy
+  tier: top50
+  country: FR
+  sources: []
+  link: https://www.edf.fr/edf-recrute
+  status: pending
+- id: energy-equinor-no
+  name: Equinor
+  industry: energy
+  tier: top50
+  country: 'NO'
+  sources: []
+  link: https://www.equinor.com/careers
+  status: pending
+- id: energy-eni-it
+  name: Eni
+  industry: energy
+  tier: top50
+  country: IT
+  sources: []
+  status: pending
+- id: energy-enel-it
+  name: Enel
+  industry: energy
+  tier: top50
+  country: IT
+  sources: []
+  link: https://jobs.enel.com
+  status: pending
+- id: energy-iberdrola-es
+  name: Iberdrola
+  industry: energy
+  tier: top50
+  country: ES
+  sources: []
+  link: https://www.iberdrola.com/talent
+  status: pending
+- id: energy-rwe-de
+  name: RWE
+  industry: energy
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.rwe.com/en/careers/
+  status: pending
+- id: energy-orsted-dk
+  name: Ørsted
+  industry: energy
+  tier: top50
+  country: DK
+  sources: []
+  link: https://orsted.com/en/careers
+  status: pending
+- id: energy-saudiaramco-sa
+  name: Saudi Aramco
+  industry: energy
+  tier: top50
+  country: SA
+  sources: []
+  link: https://www.aramco.com/en/careers
+  status: pending
+- id: energy-adnoc-ae
+  name: ADNOC
+  industry: energy
+  tier: top50
+  country: AE
+  sources: []
+  link: https://jobs.adnoc.ae
+  status: pending
+- id: energy-gazprom-ru
+  name: Gazprom
+  industry: energy
+  tier: top50
+  country: RU
+  sources: []
+  status: pending
+- id: energy-rosneft-ru
+  name: Rosneft
+  industry: energy
+  tier: top50
+  country: RU
+  sources: []
+  status: pending
+- id: energy-lukoil-ru
+  name: Lukoil
+  industry: energy
+  tier: top50
+  country: RU
+  sources: []
+  status: pending
+- id: energy-eneos-jp
+  name: ENEOS Holdings
+  industry: energy
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.eneos.co.jp/recruit/
+  status: pending
+- id: energy-jera-jp
+  name: JERA
+  industry: energy
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.jera.co.jp/employment/
+  status: pending
+- id: energy-reliance-in
+  name: Reliance Industries
+  industry: energy
+  tier: top50
+  country: IN
+  sources: []
+  link: https://www.ril.com/careers
+  status: pending
+- id: energy-ongc-in
+  name: ONGC
+  industry: energy
+  tier: top50
+  country: IN
+  sources: []
+  status: pending
+- id: energy-kepco-kr
+  name: KEPCO
+  industry: energy
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: energy-skinnovation-kr
+  name: SK Innovation
+  industry: energy
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: energy-petrobras-br
+  name: Petrobras
+  industry: energy
+  tier: top50
+  country: BR
+  sources: []
+  link: https://petrobras.com.br/quem-somos/carreiras
+  status: pending
+- id: energy-enbridge-ca
+  name: Enbridge
+  industry: energy
+  tier: top50
+  country: CA
+  sources: []
+  link: https://www.enbridge.com/work-with-enbridge/careers
+  status: pending

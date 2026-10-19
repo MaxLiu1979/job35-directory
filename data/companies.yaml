@@ -403,7 +403,6 @@ companies:
   country: CN
   sources: []
   status: pending
-  link: https://job.10086.cn
 - id: communication-services-china-telecom-cn
   name: 中国电信
   name_en: China Telecom
@@ -593,7 +592,6 @@ companies:
   country: US
   sources: []
   status: pending
-  link: https://corporate.charter.com/careers
 - id: communication-services-disney-us
   name: Disney
   industry: communication_services
@@ -633,7 +631,6 @@ companies:
   country: US
   sources: []
   status: pending
-  link: https://www.activision.com/careers
 - id: communication-services-ea-us
   name: Electronic Arts
   industry: communication_services
@@ -961,7 +958,6 @@ companies:
   country: JP
   sources: []
   status: pending
-  link: https://global.toyota/en/company/career/
 - id: consumer_discretionary-volkswagen-de
   name: Volkswagen Group
   industry: consumer_discretionary
@@ -1084,7 +1080,6 @@ companies:
   country: DE
   sources: []
   status: pending
-  link: https://careers.adidas-group.com/
 - id: consumer_discretionary-lvmh-fr
   name: LVMH
   industry: consumer_discretionary
@@ -1329,7 +1324,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://careers.coca-cola.com
   status: pending
 - id: consumer_staples-pepsico-us
   name: PepsiCo
@@ -1706,7 +1700,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://www.wiley.com/en-us/careers
   status: pending
 - id: education-coursera-us
   name: Coursera
@@ -1927,7 +1920,6 @@ companies:
   tier: top50
   country: CN
   sources: []
-  link: https://job.sinopec.com
   status: pending
 - id: energy-cnooc-cn
   name: 中国海油
@@ -2014,7 +2006,6 @@ companies:
   tier: top50
   country: CN
   sources: []
-  link: https://career.jinkosolar.com
   status: pending
 - id: energy-trinasolar-cn
   name: 天合光能
@@ -2314,7 +2305,6 @@ companies:
   country: CN
   sources: []
   status: pending
-  link: https://job.icbc.com.cn
 - id: finance-ccb-cn
   name: 中国建设银行
   name_en: China Construction Bank
@@ -2500,7 +2490,6 @@ companies:
   country: US
   sources: []
   status: pending
-  link: https://careers.wellsfargo.com
 - id: finance-goldman-us
   name: Goldman Sachs
   industry: finance
@@ -2547,7 +2536,6 @@ companies:
   country: US
   sources: []
   status: pending
-  link: https://careers.visa.com
 - id: finance-mastercard-us
   name: Mastercard
   industry: finance
@@ -2571,7 +2559,6 @@ companies:
   country: GB
   sources: []
   status: pending
-  link: https://jobs.barclays
 - id: finance-lloyds-gb
   name: Lloyds Banking Group
   industry: finance
@@ -2943,7 +2930,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://jobs.medtronic.com
   status: pending
 - id: healthcare-abbott-us
   name: Abbott Laboratories
@@ -3427,7 +3413,6 @@ companies:
   country: JP
   sources: []
   status: pending
-  link: https://www.hitachi.com/careers/
 - id: information_technology-fujitsu-jp
   name: Fujitsu
   industry: information_technology
@@ -3451,7 +3436,6 @@ companies:
   country: JP
   sources: []
   status: pending
-  link: https://www.canon.com/careers/
 - id: information_technology-tsmc-tw
   name: TSMC
   industry: information_technology
@@ -3516,7 +3500,6 @@ companies:
   country: CN
   sources: []
   status: pending
-  link: https://jobs.bytedance.com
 - id: internet-baidu-cn
   name: 百度
   name_en: Baidu, Inc.
@@ -3690,7 +3673,6 @@ companies:
   country: US
   sources: []
   status: pending
-  link: https://careers.roblox.com
 - id: internet-spotify-se
   name: Spotify Technology
   industry: internet
@@ -3730,7 +3712,6 @@ companies:
   country: JP
   sources: []
   status: pending
-  link: https://rakuten.careers
 - id: internet-mercari-jp
   name: Mercari
   industry: internet
@@ -3746,7 +3727,6 @@ companies:
   country: KR
   sources: []
   status: pending
-  link: https://recruit.naver.com
 - id: internet-kakao-kr
   name: Kakao
   industry: internet
@@ -3791,7 +3771,6 @@ companies:
   country: IN
   sources: []
   status: pending
-  link: https://www.zomato.com/careers
 - id: internet-paytm-in
   name: Paytm
   name_en: One97 Communications
@@ -3808,7 +3787,6 @@ companies:
   country: UY
   sources: []
   status: pending
-  link: https://careers.mercadolibre.com
 - id: internet-shopify-ca
   name: Shopify
   industry: internet
@@ -3967,7 +3945,6 @@ companies:
   country: CN
   sources: []
   status: pending
-  link: https://recruitment.hnair.com/
 - id: logistics-kerry-cn
   name: 嘉里物流
   name_en: Kerry Logistics
@@ -4000,7 +3977,6 @@ companies:
   country: US
   sources: []
   status: pending
-  link: https://jobs-ups.com/
 - id: logistics-chrobinson-us
   name: C.H. Robinson
   industry: logistics
@@ -4104,7 +4080,6 @@ companies:
   country: DE
   sources: []
   status: pending
-  link: https://career.lufthansagroup.com/
 - id: logistics-maersk-dk
   name: A.P. Moller - Maersk
   industry: logistics
@@ -4112,7 +4087,6 @@ companies:
   country: DK
   sources: []
   status: pending
-  link: https://www.maersk.com/careers
 - id: logistics-dsv-dk
   name: DSV
   industry: logistics
@@ -4377,7 +4351,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://www.northropgrummanjobs.com
   status: pending
 - id: manufacturing-rtx-us
   name: RTX Corporation
@@ -4393,7 +4366,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://jobs.geaerospace.com
   status: pending
 - id: manufacturing-honeywell-us
   name: Honeywell International
@@ -4425,7 +4397,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://jobs.emerson.com
   status: pending
 - id: manufacturing-parker-us
   name: Parker Hannifin
@@ -4433,7 +4404,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://careers.parker.com
   status: pending
 - id: manufacturing-itw-us
   name: Illinois Tool Works
@@ -4441,7 +4411,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://jobs.itw.com
   status: pending
 - id: manufacturing-rockwell-us
   name: Rockwell Automation
@@ -4457,7 +4426,6 @@ companies:
   tier: top50
   country: US
   sources: []
-  link: https://jobs.3m.com
   status: pending
 - id: manufacturing-siemens-de
   name: Siemens
@@ -4553,7 +4521,6 @@ companies:
   tier: top50
   country: GB
   sources: []
-  link: https://www.rolls-royce.com/careers.html
   status: pending
 - id: manufacturing-mitsubishielectric-jp
   name: Mitsubishi Electric
@@ -4941,7 +4908,6 @@ companies:
   tier: top50
   country: KR
   sources: []
-  link: https://www.lgchem.com/career
   status: pending
 - id: materials-nipponsteel-jp
   name: Nippon Steel
@@ -5232,7 +5198,6 @@ companies:
   country: CH
   sources: []
   status: pending
-  link: https://www.icrc.org/en/work-with-us
 - id: public_sector-apple-cn
   name: 苹果（中国）
   name_en: Apple China
@@ -5285,7 +5250,6 @@ companies:
   country: JP
   sources: []
   status: pending
-  link: https://global.toyota/en/company/career/
 - id: public_sector-vw-cn
   name: 大众汽车集团（中国）
   name_en: Volkswagen Group China
@@ -5419,7 +5383,6 @@ companies:
   sources: []
   status: pending
 - id: real_estate-crland-cn
-  link: https://careers.crc.com.cn/
   name: 华润置地
   name_en: China Resources Land
   industry: real_estate
@@ -5963,7 +5926,6 @@ companies:
   industry: utilities
   tier: top50
   country: FR
-  link: https://careers.veolia.com
   sources: []
   status: pending
 - id: utilities-suez-fr
@@ -6009,7 +5971,6 @@ companies:
   industry: utilities
   tier: top50
   country: US
-  link: https://www.exeloncorp.com/careers
   sources: []
   status: pending
 - id: utilities-conedison-us
@@ -6105,7 +6066,6 @@ companies:
   industry: utilities
   tier: top50
   country: AU
-  link: https://www.originenergy.com.au/about/careers/
   sources: []
   status: pending
 - id: utilities-agl-au

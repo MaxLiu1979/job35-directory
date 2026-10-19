@@ -1,445 +1,395 @@
 companies:
-  - id: consumer_staples-moutai-cn
-    name: 贵州茅台
-    name_en: Kweichow Moutai
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zp.moutai.com.cn/
-    status: pending
-
-  - id: consumer_staples-wuliangye-cn
-    name: 五粮液
-    name_en: Wuliangye Yibin
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-yili-cn
-    name: 伊利
-    name_en: Inner Mongolia Yili Industrial Group
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    link: https://www.yili.com/joinus
-    status: pending
-
-  - id: consumer_staples-mengniu-cn
-    name: 蒙牛乳业
-    name_en: China Mengniu Dairy
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-nongfuspring-cn
-    name: 农夫山泉
-    name_en: Nongfu Spring
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-haitian-cn
-    name: 海天味业
-    name_en: Foshan Haitian Flavouring & Food
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-luzhoulaojiao-cn
-    name: 泸州老窖
-    name_en: Luzhou Laojiao
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-fenjiu-cn
-    name: 山西汾酒
-    name_en: Shanxi Xinghuacun Fen Wine Factory
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-yanghe-cn
-    name: 洋河股份
-    name_en: Jiangsu Yanghe Brewery Joint-Stock
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-shuanghui-cn
-    name: 双汇发展
-    name_en: Henan Shuanghui Investment & Development
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-cofco-cn
-    name: 中粮集团
-    name_en: COFCO Group
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-tsingtao-cn
-    name: 青岛啤酒
-    name_en: Tsingtao Brewery
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-crbeer-cn
-    name: 华润啤酒
-    name_en: China Resources Beer
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-yanjing-cn
-    name: 燕京啤酒
-    name_en: Beijing Yanjing Brewery
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-unipresident-cn
-    name: 统一企业中国
-    name_en: Uni-President China Holdings
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-tingyi-cn
-    name: 康师傅
-    name_en: Tingyi (Cayman Islands) Holding
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-wahaha-cn
-    name: 娃哈哈
-    name_en: Hangzhou Wahaha Group
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-yihaikerry-cn
-    name: 金龙鱼
-    name_en: Yihai Kerry Arawana Holdings
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-wens-cn
-    name: 温氏股份
-    name_en: Wens Foodstuff Group
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-muyuan-cn
-    name: 牧原股份
-    name_en: Muyuan Foods
-    industry: consumer_staples
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: consumer_staples-walmart-us
-    name: Walmart
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.walmart.com
-    status: pending
-
-  - id: consumer_staples-pg-us
-    name: Procter & Gamble
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.pgcareers.com
-    status: pending
-
-  - id: consumer_staples-cocacola-us
-    name: Coca-Cola
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.coca-cola.com
-    status: pending
-
-  - id: consumer_staples-pepsico-us
-    name: PepsiCo
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.pepsicojobs.com
-    status: pending
-
-  - id: consumer_staples-mondelez-us
-    name: Mondelez International
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.mondelezinternational.com
-    status: pending
-
-  - id: consumer_staples-kraftheinz-us
-    name: Kraft Heinz
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.kraftheinz.com
-    status: pending
-
-  - id: consumer_staples-philipmorris-us
-    name: Philip Morris International
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.pmi.com/careers
-    status: pending
-
-  - id: consumer_staples-colgate-us
-    name: Colgate-Palmolive
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.colgate.com
-    status: pending
-
-  - id: consumer_staples-kimberlyclark-us
-    name: Kimberly-Clark
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.kimberly-clark.com
-    status: pending
-
-  - id: consumer_staples-generalmills-us
-    name: General Mills
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.generalmills.com
-    status: pending
-
-  - id: consumer_staples-clorox-us
-    name: Clorox
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.thecloroxcompany.com/careers/
-    status: pending
-
-  - id: consumer_staples-esteelauder-us
-    name: Estée Lauder
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.elcompanies.com/en/careers
-    status: pending
-
-  - id: consumer_staples-costco-us
-    name: Costco Wholesale
-    industry: consumer_staples
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.costco.com/jobs.html
-    status: pending
-
-  - id: consumer_staples-nestle-ch
-    name: Nestlé
-    industry: consumer_staples
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.nestle.com/jobs
-    status: pending
-
-  - id: consumer_staples-unilever-gb
-    name: Unilever
-    industry: consumer_staples
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.unilever.com/careers
-    status: pending
-
-  - id: consumer_staples-loreal-fr
-    name: L'Oréal
-    industry: consumer_staples
-    tier: top50
-    country: FR
-    sources: []
-    link: https://careers.loreal.com
-    status: pending
-
-  - id: consumer_staples-danone-fr
-    name: Danone
-    industry: consumer_staples
-    tier: top50
-    country: FR
-    sources: []
-    link: https://careers.danone.com
-    status: pending
-
-  - id: consumer_staples-abinbev-be
-    name: Anheuser-Busch InBev
-    industry: consumer_staples
-    tier: top50
-    country: BE
-    sources: []
-    status: pending
-
-  - id: consumer_staples-heineken-nl
-    name: Heineken
-    industry: consumer_staples
-    tier: top50
-    country: NL
-    sources: []
-    link: https://careers.theheinekencompany.com
-    status: pending
-
-  - id: consumer_staples-diageo-gb
-    name: Diageo
-    industry: consumer_staples
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.diageo.com/en/careers
-    status: pending
-
-  - id: consumer_staples-henkel-de
-    name: Henkel
-    industry: consumer_staples
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.henkel.com/careers
-    status: pending
-
-  - id: consumer_staples-tesco-gb
-    name: Tesco
-    industry: consumer_staples
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.tesco-careers.com
-    status: pending
-
-  - id: consumer_staples-seveni-jp
-    name: Seven & I Holdings
-    industry: consumer_staples
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-
-  - id: consumer_staples-aeon-jp
-    name: Aeon
-    industry: consumer_staples
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-
-  - id: consumer_staples-kirin-jp
-    name: Kirin Holdings
-    industry: consumer_staples
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.kirinholdings.com/en/careers/
-    status: pending
-
-  - id: consumer_staples-kao-jp
-    name: Kao
-    industry: consumer_staples
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.kao.com/global/en/careers/
-    status: pending
-
-  - id: consumer_staples-amorepacific-kr
-    name: Amorepacific
-    industry: consumer_staples
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-
-  - id: consumer_staples-cpgroup-th
-    name: Charoen Pokphand Group
-    industry: consumer_staples
-    tier: top50
-    country: TH
-    sources: []
-    status: pending
-
-  - id: consumer_staples-wilmar-sg
-    name: Wilmar International
-    industry: consumer_staples
-    tier: top50
-    country: SG
-    sources: []
-    status: pending
-
-  - id: consumer_staples-jbs-br
-    name: JBS
-    industry: consumer_staples
-    tier: top50
-    country: BR
-    sources: []
-    status: pending
+- id: consumer_staples-moutai-cn
+  name: 贵州茅台
+  name_en: Kweichow Moutai
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zp.moutai.com.cn/
+  status: pending
+- id: consumer_staples-wuliangye-cn
+  name: 五粮液
+  name_en: Wuliangye Yibin
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-yili-cn
+  name: 伊利
+  name_en: Inner Mongolia Yili Industrial Group
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  link: https://www.yili.com/joinus
+  status: pending
+- id: consumer_staples-mengniu-cn
+  name: 蒙牛乳业
+  name_en: China Mengniu Dairy
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-nongfuspring-cn
+  name: 农夫山泉
+  name_en: Nongfu Spring
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-haitian-cn
+  name: 海天味业
+  name_en: Foshan Haitian Flavouring & Food
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-luzhoulaojiao-cn
+  name: 泸州老窖
+  name_en: Luzhou Laojiao
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-fenjiu-cn
+  name: 山西汾酒
+  name_en: Shanxi Xinghuacun Fen Wine Factory
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-yanghe-cn
+  name: 洋河股份
+  name_en: Jiangsu Yanghe Brewery Joint-Stock
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-shuanghui-cn
+  name: 双汇发展
+  name_en: Henan Shuanghui Investment & Development
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-cofco-cn
+  name: 中粮集团
+  name_en: COFCO Group
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-tsingtao-cn
+  name: 青岛啤酒
+  name_en: Tsingtao Brewery
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-crbeer-cn
+  name: 华润啤酒
+  name_en: China Resources Beer
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-yanjing-cn
+  name: 燕京啤酒
+  name_en: Beijing Yanjing Brewery
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-unipresident-cn
+  name: 统一企业中国
+  name_en: Uni-President China Holdings
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-tingyi-cn
+  name: 康师傅
+  name_en: Tingyi (Cayman Islands) Holding
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-wahaha-cn
+  name: 娃哈哈
+  name_en: Hangzhou Wahaha Group
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-yihaikerry-cn
+  name: 金龙鱼
+  name_en: Yihai Kerry Arawana Holdings
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-wens-cn
+  name: 温氏股份
+  name_en: Wens Foodstuff Group
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-muyuan-cn
+  name: 牧原股份
+  name_en: Muyuan Foods
+  industry: consumer_staples
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: consumer_staples-walmart-us
+  name: Walmart
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.walmart.com
+  status: pending
+- id: consumer_staples-pg-us
+  name: Procter & Gamble
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.pgcareers.com
+  status: pending
+- id: consumer_staples-cocacola-us
+  name: Coca-Cola
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: consumer_staples-pepsico-us
+  name: PepsiCo
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.pepsicojobs.com
+  status: pending
+- id: consumer_staples-mondelez-us
+  name: Mondelez International
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.mondelezinternational.com
+  status: pending
+- id: consumer_staples-kraftheinz-us
+  name: Kraft Heinz
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.kraftheinz.com
+  status: pending
+- id: consumer_staples-philipmorris-us
+  name: Philip Morris International
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.pmi.com/careers
+  status: pending
+- id: consumer_staples-colgate-us
+  name: Colgate-Palmolive
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.colgate.com
+  status: pending
+- id: consumer_staples-kimberlyclark-us
+  name: Kimberly-Clark
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.kimberly-clark.com
+  status: pending
+- id: consumer_staples-generalmills-us
+  name: General Mills
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.generalmills.com
+  status: pending
+- id: consumer_staples-clorox-us
+  name: Clorox
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.thecloroxcompany.com/careers/
+  status: pending
+- id: consumer_staples-esteelauder-us
+  name: Estée Lauder
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.elcompanies.com/en/careers
+  status: pending
+- id: consumer_staples-costco-us
+  name: Costco Wholesale
+  industry: consumer_staples
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.costco.com/jobs.html
+  status: pending
+- id: consumer_staples-nestle-ch
+  name: Nestlé
+  industry: consumer_staples
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.nestle.com/jobs
+  status: pending
+- id: consumer_staples-unilever-gb
+  name: Unilever
+  industry: consumer_staples
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.unilever.com/careers
+  status: pending
+- id: consumer_staples-loreal-fr
+  name: L'Oréal
+  industry: consumer_staples
+  tier: top50
+  country: FR
+  sources: []
+  link: https://careers.loreal.com
+  status: pending
+- id: consumer_staples-danone-fr
+  name: Danone
+  industry: consumer_staples
+  tier: top50
+  country: FR
+  sources: []
+  link: https://careers.danone.com
+  status: pending
+- id: consumer_staples-abinbev-be
+  name: Anheuser-Busch InBev
+  industry: consumer_staples
+  tier: top50
+  country: BE
+  sources: []
+  status: pending
+- id: consumer_staples-heineken-nl
+  name: Heineken
+  industry: consumer_staples
+  tier: top50
+  country: NL
+  sources: []
+  link: https://careers.theheinekencompany.com
+  status: pending
+- id: consumer_staples-diageo-gb
+  name: Diageo
+  industry: consumer_staples
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.diageo.com/en/careers
+  status: pending
+- id: consumer_staples-henkel-de
+  name: Henkel
+  industry: consumer_staples
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.henkel.com/careers
+  status: pending
+- id: consumer_staples-tesco-gb
+  name: Tesco
+  industry: consumer_staples
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.tesco-careers.com
+  status: pending
+- id: consumer_staples-seveni-jp
+  name: Seven & I Holdings
+  industry: consumer_staples
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: consumer_staples-aeon-jp
+  name: Aeon
+  industry: consumer_staples
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: consumer_staples-kirin-jp
+  name: Kirin Holdings
+  industry: consumer_staples
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.kirinholdings.com/en/careers/
+  status: pending
+- id: consumer_staples-kao-jp
+  name: Kao
+  industry: consumer_staples
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.kao.com/global/en/careers/
+  status: pending
+- id: consumer_staples-amorepacific-kr
+  name: Amorepacific
+  industry: consumer_staples
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: consumer_staples-cpgroup-th
+  name: Charoen Pokphand Group
+  industry: consumer_staples
+  tier: top50
+  country: TH
+  sources: []
+  status: pending
+- id: consumer_staples-wilmar-sg
+  name: Wilmar International
+  industry: consumer_staples
+  tier: top50
+  country: SG
+  sources: []
+  status: pending
+- id: consumer_staples-jbs-br
+  name: JBS
+  industry: consumer_staples
+  tier: top50
+  country: BR
+  sources: []
+  status: pending

@@ -1,461 +1,399 @@
-# 交通物流行业头部企业种子数据
-# 覆盖：航空、铁路、航运、快递、供应链
-# 地域配比：中国（含香港）20 家 + 海外 30 家
 companies:
-  # ===== 中国（含香港） =====
-  - id: logistics-sf-cn
-    name: 顺丰控股
-    name_en: SF Holding
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://campus.sf-express.com/
-
-  - id: logistics-jdlogistics-cn
-    name: 京东物流
-    name_en: JD Logistics
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://zhaopin.jd.com/
-
-  - id: logistics-zto-cn
-    name: 中通快递
-    name_en: ZTO Express
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-yto-cn
-    name: 圆通速递
-    name_en: YTO Express
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-yunda-cn
-    name: 韵达股份
-    name_en: Yunda Holding
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-sto-cn
-    name: 申通快递
-    name_en: STO Express
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-cainiao-cn
-    name: 菜鸟集团
-    name_en: Cainiao
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://talent.cainiao.com/
-
-  - id: logistics-cosco-cn
-    name: 中远海控
-    name_en: COSCO Shipping Holdings
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-sinotrans-cn
-    name: 中国外运
-    name_en: Sinotrans
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-cmp-cn
-    name: 招商局港口
-    name_en: China Merchants Port
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-cimc-cn
-    name: 中集集团
-    name_en: CIMC
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-eternalasia-cn
-    name: 怡亚通
-    name_en: Eternal Asia
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-daqin-cn
-    name: 大秦铁路
-    name_en: Daqin Railway
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-jinghuhsr-cn
-    name: 京沪高铁
-    name_en: Beijing-Shanghai High-Speed Railway
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-airchina-cn
-    name: 中国国航
-    name_en: Air China
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://zhaopin.airchina.com.cn/
-
-  - id: logistics-csn-cn
-    name: 中国南方航空
-    name_en: China Southern Airlines
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://job.csair.com/
-
-  - id: logistics-ces-cn
-    name: 中国东方航空
-    name_en: China Eastern Airlines
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://job.ceair.com/
-
-  - id: logistics-hainanairlines-cn
-    name: 海南航空
-    name_en: Hainan Airlines
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://recruitment.hnair.com/
-
-  - id: logistics-kerry-cn
-    name: 嘉里物流
-    name_en: Kerry Logistics
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: logistics-mtr-cn
-    name: 港铁公司
-    name_en: MTR Corporation
-    industry: logistics
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-    link: https://www.mtr.com.hk/en/corporate/careers/
-
-  # ===== 美国 =====
-  - id: logistics-fedex-us
-    name: FedEx
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://careers.fedex.com/
-
-  - id: logistics-ups-us
-    name: UPS
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://jobs-ups.com/
-
-  - id: logistics-chrobinson-us
-    name: C.H. Robinson
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://www.chrobinson.com/careers/
-
-  - id: logistics-unionpacific-us
-    name: Union Pacific
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://www.up.com/careers
-
-  - id: logistics-csx-us
-    name: CSX
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://www.csx.com/index.cfm/working-at-csx/
-
-  - id: logistics-norfolksouthern-us
-    name: Norfolk Southern
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://jobs.nscorp.com/
-
-  - id: logistics-delta-us
-    name: Delta Air Lines
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://www.delta.com/us/en/careers
-
-  - id: logistics-united-us
-    name: United Airlines
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://careers.united.com/
-
-  - id: logistics-american-us
-    name: American Airlines
-    industry: logistics
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-    link: https://jobs.aa.com/
-
-  # ===== 加拿大 =====
-  - id: logistics-cn-ca
-    name: Canadian National Railway
-    industry: logistics
-    tier: top50
-    country: CA
-    sources: []
-    status: pending
-    link: https://www.cn.ca/en/careers/
-
-  - id: logistics-cpkc-ca
-    name: Canadian Pacific Kansas City
-    industry: logistics
-    tier: top50
-    country: CA
-    sources: []
-    status: pending
-    link: https://www.cpkcr.com/en/careers
-
-  # ===== 欧洲 =====
-  - id: logistics-dhl-de
-    name: DHL Group
-    industry: logistics
-    tier: top50
-    country: DE
-    sources: []
-    status: pending
-    link: https://careers.dhl.com/
-
-  - id: logistics-dbahn-de
-    name: Deutsche Bahn
-    industry: logistics
-    tier: top50
-    country: DE
-    sources: []
-    status: pending
-    link: https://www.deutschebahn.com/karriere
-
-  - id: logistics-hapag-lloyd-de
-    name: Hapag-Lloyd
-    industry: logistics
-    tier: top50
-    country: DE
-    sources: []
-    status: pending
-    link: https://www.hapag-lloyd.com/en/company/career/overview.html
-
-  - id: logistics-lufthansa-de
-    name: Lufthansa Group
-    industry: logistics
-    tier: top50
-    country: DE
-    sources: []
-    status: pending
-    link: https://career.lufthansagroup.com/
-
-  - id: logistics-maersk-dk
-    name: A.P. Moller - Maersk
-    industry: logistics
-    tier: top50
-    country: DK
-    sources: []
-    status: pending
-    link: https://www.maersk.com/careers
-
-  - id: logistics-dsv-dk
-    name: DSV
-    industry: logistics
-    tier: top50
-    country: DK
-    sources: []
-    status: pending
-    link: https://www.dsv.com/en/careers
-
-  - id: logistics-cmacgm-fr
-    name: CMA CGM
-    industry: logistics
-    tier: top50
-    country: FR
-    sources: []
-    status: pending
-    link: https://www.cmacgm-group.com/en/talent/joins-us
-
-  - id: logistics-airfranceklm-fr
-    name: Air France-KLM
-    industry: logistics
-    tier: top50
-    country: FR
-    sources: []
-    status: pending
-
-  - id: logistics-sncf-fr
-    name: SNCF
-    industry: logistics
-    tier: top50
-    country: FR
-    sources: []
-    status: pending
-    link: https://emploi.sncf.com/
-
-  - id: logistics-msc-ch
-    name: Mediterranean Shipping Company
-    industry: logistics
-    tier: top50
-    country: CH
-    sources: []
-    status: pending
-    link: https://www.msc.com/en/careers
-
-  - id: logistics-kn-ch
-    name: Kuehne + Nagel
-    industry: logistics
-    tier: top50
-    country: CH
-    sources: []
-    status: pending
-    link: https://careers.kuehne-nagel.com/
-
-  - id: logistics-iag-gb
-    name: International Airlines Group
-    industry: logistics
-    tier: top50
-    country: GB
-    sources: []
-    status: pending
-
-  # ===== 日本 =====
-  - id: logistics-nipponexpress-jp
-    name: Nippon Express
-    industry: logistics
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-    link: https://www.nipponexpress.com/career/
-
-  - id: logistics-yamato-jp
-    name: Yamato Holdings
-    industry: logistics
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-
-  - id: logistics-ana-jp
-    name: ANA Holdings
-    industry: logistics
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-
-  - id: logistics-jal-jp
-    name: Japan Airlines
-    industry: logistics
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-
-  # ===== 韩国 / 新加坡 / 中东 =====
-  - id: logistics-koreanair-kr
-    name: Korean Air
-    industry: logistics
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-
-  - id: logistics-singaporeairlines-sg
-    name: Singapore Airlines
-    industry: logistics
-    tier: top50
-    country: SG
-    sources: []
-    status: pending
-    link: https://careers.singaporeair.com/
-
-  - id: logistics-emirates-ae
-    name: Emirates
-    industry: logistics
-    tier: top50
-    country: AE
-    sources: []
-    status: pending
-    link: https://www.emiratesgroupcareers.com/
+- id: logistics-sf-cn
+  name: 顺丰控股
+  name_en: SF Holding
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://campus.sf-express.com/
+- id: logistics-jdlogistics-cn
+  name: 京东物流
+  name_en: JD Logistics
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://zhaopin.jd.com/
+- id: logistics-zto-cn
+  name: 中通快递
+  name_en: ZTO Express
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-yto-cn
+  name: 圆通速递
+  name_en: YTO Express
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-yunda-cn
+  name: 韵达股份
+  name_en: Yunda Holding
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-sto-cn
+  name: 申通快递
+  name_en: STO Express
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-cainiao-cn
+  name: 菜鸟集团
+  name_en: Cainiao
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://talent.cainiao.com/
+- id: logistics-cosco-cn
+  name: 中远海控
+  name_en: COSCO Shipping Holdings
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-sinotrans-cn
+  name: 中国外运
+  name_en: Sinotrans
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-cmp-cn
+  name: 招商局港口
+  name_en: China Merchants Port
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-cimc-cn
+  name: 中集集团
+  name_en: CIMC
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-eternalasia-cn
+  name: 怡亚通
+  name_en: Eternal Asia
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-daqin-cn
+  name: 大秦铁路
+  name_en: Daqin Railway
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-jinghuhsr-cn
+  name: 京沪高铁
+  name_en: Beijing-Shanghai High-Speed Railway
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-airchina-cn
+  name: 中国国航
+  name_en: Air China
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://zhaopin.airchina.com.cn/
+- id: logistics-csn-cn
+  name: 中国南方航空
+  name_en: China Southern Airlines
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://job.csair.com/
+- id: logistics-ces-cn
+  name: 中国东方航空
+  name_en: China Eastern Airlines
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://job.ceair.com/
+- id: logistics-hainanairlines-cn
+  name: 海南航空
+  name_en: Hainan Airlines
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-kerry-cn
+  name: 嘉里物流
+  name_en: Kerry Logistics
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: logistics-mtr-cn
+  name: 港铁公司
+  name_en: MTR Corporation
+  industry: logistics
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+  link: https://www.mtr.com.hk/en/corporate/careers/
+- id: logistics-fedex-us
+  name: FedEx
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://careers.fedex.com/
+- id: logistics-ups-us
+  name: UPS
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: logistics-chrobinson-us
+  name: C.H. Robinson
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://www.chrobinson.com/careers/
+- id: logistics-unionpacific-us
+  name: Union Pacific
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://www.up.com/careers
+- id: logistics-csx-us
+  name: CSX
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://www.csx.com/index.cfm/working-at-csx/
+- id: logistics-norfolksouthern-us
+  name: Norfolk Southern
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://jobs.nscorp.com/
+- id: logistics-delta-us
+  name: Delta Air Lines
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://www.delta.com/us/en/careers
+- id: logistics-united-us
+  name: United Airlines
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://careers.united.com/
+- id: logistics-american-us
+  name: American Airlines
+  industry: logistics
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+  link: https://jobs.aa.com/
+- id: logistics-cn-ca
+  name: Canadian National Railway
+  industry: logistics
+  tier: top50
+  country: CA
+  sources: []
+  status: pending
+  link: https://www.cn.ca/en/careers/
+- id: logistics-cpkc-ca
+  name: Canadian Pacific Kansas City
+  industry: logistics
+  tier: top50
+  country: CA
+  sources: []
+  status: pending
+  link: https://www.cpkcr.com/en/careers
+- id: logistics-dhl-de
+  name: DHL Group
+  industry: logistics
+  tier: top50
+  country: DE
+  sources: []
+  status: pending
+  link: https://careers.dhl.com/
+- id: logistics-dbahn-de
+  name: Deutsche Bahn
+  industry: logistics
+  tier: top50
+  country: DE
+  sources: []
+  status: pending
+  link: https://www.deutschebahn.com/karriere
+- id: logistics-hapag-lloyd-de
+  name: Hapag-Lloyd
+  industry: logistics
+  tier: top50
+  country: DE
+  sources: []
+  status: pending
+  link: https://www.hapag-lloyd.com/en/company/career/overview.html
+- id: logistics-lufthansa-de
+  name: Lufthansa Group
+  industry: logistics
+  tier: top50
+  country: DE
+  sources: []
+  status: pending
+- id: logistics-maersk-dk
+  name: A.P. Moller - Maersk
+  industry: logistics
+  tier: top50
+  country: DK
+  sources: []
+  status: pending
+- id: logistics-dsv-dk
+  name: DSV
+  industry: logistics
+  tier: top50
+  country: DK
+  sources: []
+  status: pending
+  link: https://www.dsv.com/en/careers
+- id: logistics-cmacgm-fr
+  name: CMA CGM
+  industry: logistics
+  tier: top50
+  country: FR
+  sources: []
+  status: pending
+  link: https://www.cmacgm-group.com/en/talent/joins-us
+- id: logistics-airfranceklm-fr
+  name: Air France-KLM
+  industry: logistics
+  tier: top50
+  country: FR
+  sources: []
+  status: pending
+- id: logistics-sncf-fr
+  name: SNCF
+  industry: logistics
+  tier: top50
+  country: FR
+  sources: []
+  status: pending
+  link: https://emploi.sncf.com/
+- id: logistics-msc-ch
+  name: Mediterranean Shipping Company
+  industry: logistics
+  tier: top50
+  country: CH
+  sources: []
+  status: pending
+  link: https://www.msc.com/en/careers
+- id: logistics-kn-ch
+  name: Kuehne + Nagel
+  industry: logistics
+  tier: top50
+  country: CH
+  sources: []
+  status: pending
+  link: https://careers.kuehne-nagel.com/
+- id: logistics-iag-gb
+  name: International Airlines Group
+  industry: logistics
+  tier: top50
+  country: GB
+  sources: []
+  status: pending
+- id: logistics-nipponexpress-jp
+  name: Nippon Express
+  industry: logistics
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+  link: https://www.nipponexpress.com/career/
+- id: logistics-yamato-jp
+  name: Yamato Holdings
+  industry: logistics
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: logistics-ana-jp
+  name: ANA Holdings
+  industry: logistics
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: logistics-jal-jp
+  name: Japan Airlines
+  industry: logistics
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: logistics-koreanair-kr
+  name: Korean Air
+  industry: logistics
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: logistics-singaporeairlines-sg
+  name: Singapore Airlines
+  industry: logistics
+  tier: top50
+  country: SG
+  sources: []
+  status: pending
+  link: https://careers.singaporeair.com/
+- id: logistics-emirates-ae
+  name: Emirates
+  industry: logistics
+  tier: top50
+  country: AE
+  sources: []
+  status: pending
+  link: https://www.emiratesgroupcareers.com/

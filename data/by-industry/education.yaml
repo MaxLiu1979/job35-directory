@@ -1,459 +1,408 @@
 companies:
-  - id: education-neworiental-cn
-    name: 新东方
-    name_en: New Oriental Education & Technology Group
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.xdf.cn
-    status: pending
-
-  - id: education-tal-cn
-    name: 好未来
-    name_en: TAL Education Group
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    link: https://job.tal.com/
-    status: pending
-
-  - id: education-gaotu-cn
-    name: 高途
-    name_en: Gaotu Techedu
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    link: https://job.gaotu.cn/
-    status: pending
-
-  - id: education-yuanfudao-cn
-    name: 猿辅导
-    name_en: Yuanfudao
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    link: https://zhaopin.yuanfudao.com/
-    status: pending
-
-  - id: education-zuoyebang-cn
-    name: 作业帮
-    name_en: Zuoyebang
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-youdao-cn
-    name: 网易有道
-    name_en: NetEase Youdao
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    link: https://hr.163.com/product.html/youdao?workType=0&lang=zh
-    status: pending
-
-  - id: education-offcn-cn
-    name: 中公教育
-    name_en: Offcn Education Technology
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-chuanzhi-cn
-    name: 传智教育
-    name_en: Chuanzhi Education
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-easteducation-cn
-    name: 中国东方教育
-    name_en: China East Education Holdings
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-sunlands-cn
-    name: 尚德机构
-    name_en: Sunlands Technology Group
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-17zuoye-cn
-    name: 一起教育科技
-    name_en: 17zuoye
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-brightscholar-cn
-    name: 博实乐
-    name_en: Bright Scholar Education Holdings
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-excellence-cn
-    name: 卓越教育
-    name_en: Excellence Education Group
-    industry: education
-    tier: top50
-    country: CN
-    sources: []
-    status: pending
-
-  - id: education-cegh-hk
-    name: 中教控股
-    name_en: China Education Group Holdings
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-hope-hk
-    name: 希望教育
-    name_en: Hope Education Group
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-minsheng-hk
-    name: 民生教育
-    name_en: Minsheng Education Group
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-nheg-hk
-    name: 新高教集团
-    name_en: New Higher Education Group
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-kepei-hk
-    name: 中国科培
-    name_en: China Kepei Education Group
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-mapleleaf-hk
-    name: 枫叶教育
-    name_en: Maple Leaf Educational Systems
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-yuhua-hk
-    name: 宇华教育
-    name_en: China YuHua Education
-    industry: education
-    tier: top50
-    country: HK
-    sources: []
-    status: pending
-
-  - id: education-mcgrawhill-us
-    name: McGraw-Hill Education
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.mheducation.com
-    status: pending
-
-  - id: education-hmh-us
-    name: Houghton Mifflin Harcourt
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.hmhco.com/careers
-    status: pending
-
-  - id: education-scholastic-us
-    name: Scholastic
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.scholastic.com/aboutscholastic/careers/
-    status: pending
-
-  - id: education-cengage-us
-    name: Cengage
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.cengage.com/careers/
-    status: pending
-
-  - id: education-wiley-us
-    name: John Wiley & Sons
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.wiley.com/en-us/careers
-    status: pending
-
-  - id: education-coursera-us
-    name: Coursera
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.coursera.org/about/careers
-    status: pending
-
-  - id: education-udemy-us
-    name: Udemy
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://about.udemy.com/careers/
-    status: pending
-
-  - id: education-duolingo-us
-    name: Duolingo
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://careers.duolingo.com
-    status: pending
-
-  - id: education-chegg-us
-    name: Chegg
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://jobs.chegg.com/
-    status: pending
-
-  - id: education-stride-us
-    name: Stride
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.stridelearning.com/careers
-    status: pending
-
-  - id: education-khanacademy-us
-    name: Khan Academy
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.khanacademy.org/careers
-    status: pending
-
-  - id: education-instructure-us
-    name: Instructure
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.instructure.com/careers
-    status: pending
-
-  - id: education-powerschool-us
-    name: PowerSchool
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.powerschool.com/company/careers/
-    status: pending
-
-  - id: education-gce-us
-    name: Grand Canyon Education
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    link: https://www.gce.com/careers.html
-    status: pending
-
-  - id: education-adtalem-us
-    name: Adtalem Global Education
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-
-  - id: education-strategic-us
-    name: Strategic Education
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-
-  - id: education-laureate-us
-    name: Laureate Education
-    industry: education
-    tier: top50
-    country: US
-    sources: []
-    status: pending
-
-  - id: education-pearson-gb
-    name: Pearson
-    industry: education
-    tier: top50
-    country: GB
-    sources: []
-    link: https://jobs.pearson.com
-    status: pending
-
-  - id: education-nordanglia-gb
-    name: Nord Anglia Education
-    industry: education
-    tier: top50
-    country: GB
-    sources: []
-    link: https://www.nordangliaeducation.com/careers
-    status: pending
-
-  - id: education-ef-ch
-    name: EF Education First
-    industry: education
-    tier: top50
-    country: CH
-    sources: []
-    link: https://www.ef.com/wwen/careers/
-    status: pending
-
-  - id: education-sanoma-fi
-    name: Sanoma
-    industry: education
-    tier: top50
-    country: FI
-    sources: []
-    link: https://www.sanoma.com/careers/
-    status: pending
-
-  - id: education-springernature-de
-    name: Springer Nature
-    industry: education
-    tier: top50
-    country: DE
-    sources: []
-    link: https://www.springernature.com/careers
-    status: pending
-
-  - id: education-babbel-de
-    name: Babbel
-    industry: education
-    tier: top50
-    country: DE
-    sources: []
-    link: https://jobs.babbel.com/en
-    status: pending
-
-  - id: education-benesse-jp
-    name: ベネッセホールディングス
-    name_en: Benesse Holdings
-    industry: education
-    tier: top50
-    country: JP
-    sources: []
-    status: pending
-
-  - id: education-kumon-jp
-    name: 公文式
-    name_en: Kumon Institute of Education
-    industry: education
-    tier: top50
-    country: JP
-    sources: []
-    link: https://www.kumon.com/careers
-    status: pending
-
-  - id: education-megastudy-kr
-    name: 메가스터디
-    name_en: Megastudy
-    industry: education
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-
-  - id: education-kyowon-kr
-    name: 교원
-    name_en: Kyowon
-    industry: education
-    tier: top50
-    country: KR
-    sources: []
-    status: pending
-
-  - id: education-byjus-in
-    name: BYJU'S
-    industry: education
-    tier: top50
-    country: IN
-    sources: []
-    status: pending
-
-  - id: education-unacademy-in
-    name: Unacademy
-    industry: education
-    tier: top50
-    country: IN
-    sources: []
-    link: https://unacademy.com/careers
-    status: pending
-
-  - id: education-pw-in
-    name: Physics Wallah
-    industry: education
-    tier: top50
-    country: IN
-    sources: []
-    status: pending
-
-  - id: education-ruangguru-id
-    name: Ruangguru
-    industry: education
-    tier: top50
-    country: ID
-    sources: []
-    status: pending
+- id: education-neworiental-cn
+  name: 新东方
+  name_en: New Oriental Education & Technology Group
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.xdf.cn
+  status: pending
+- id: education-tal-cn
+  name: 好未来
+  name_en: TAL Education Group
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  link: https://job.tal.com/
+  status: pending
+- id: education-gaotu-cn
+  name: 高途
+  name_en: Gaotu Techedu
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  link: https://job.gaotu.cn/
+  status: pending
+- id: education-yuanfudao-cn
+  name: 猿辅导
+  name_en: Yuanfudao
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  link: https://zhaopin.yuanfudao.com/
+  status: pending
+- id: education-zuoyebang-cn
+  name: 作业帮
+  name_en: Zuoyebang
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-youdao-cn
+  name: 网易有道
+  name_en: NetEase Youdao
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  link: https://hr.163.com/product.html/youdao?workType=0&lang=zh
+  status: pending
+- id: education-offcn-cn
+  name: 中公教育
+  name_en: Offcn Education Technology
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-chuanzhi-cn
+  name: 传智教育
+  name_en: Chuanzhi Education
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-easteducation-cn
+  name: 中国东方教育
+  name_en: China East Education Holdings
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-sunlands-cn
+  name: 尚德机构
+  name_en: Sunlands Technology Group
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-17zuoye-cn
+  name: 一起教育科技
+  name_en: 17zuoye
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-brightscholar-cn
+  name: 博实乐
+  name_en: Bright Scholar Education Holdings
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-excellence-cn
+  name: 卓越教育
+  name_en: Excellence Education Group
+  industry: education
+  tier: top50
+  country: CN
+  sources: []
+  status: pending
+- id: education-cegh-hk
+  name: 中教控股
+  name_en: China Education Group Holdings
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-hope-hk
+  name: 希望教育
+  name_en: Hope Education Group
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-minsheng-hk
+  name: 民生教育
+  name_en: Minsheng Education Group
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-nheg-hk
+  name: 新高教集团
+  name_en: New Higher Education Group
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-kepei-hk
+  name: 中国科培
+  name_en: China Kepei Education Group
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-mapleleaf-hk
+  name: 枫叶教育
+  name_en: Maple Leaf Educational Systems
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-yuhua-hk
+  name: 宇华教育
+  name_en: China YuHua Education
+  industry: education
+  tier: top50
+  country: HK
+  sources: []
+  status: pending
+- id: education-mcgrawhill-us
+  name: McGraw-Hill Education
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.mheducation.com
+  status: pending
+- id: education-hmh-us
+  name: Houghton Mifflin Harcourt
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.hmhco.com/careers
+  status: pending
+- id: education-scholastic-us
+  name: Scholastic
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.scholastic.com/aboutscholastic/careers/
+  status: pending
+- id: education-cengage-us
+  name: Cengage
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.cengage.com/careers/
+  status: pending
+- id: education-wiley-us
+  name: John Wiley & Sons
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: education-coursera-us
+  name: Coursera
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.coursera.org/about/careers
+  status: pending
+- id: education-udemy-us
+  name: Udemy
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://about.udemy.com/careers/
+  status: pending
+- id: education-duolingo-us
+  name: Duolingo
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://careers.duolingo.com
+  status: pending
+- id: education-chegg-us
+  name: Chegg
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://jobs.chegg.com/
+  status: pending
+- id: education-stride-us
+  name: Stride
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.stridelearning.com/careers
+  status: pending
+- id: education-khanacademy-us
+  name: Khan Academy
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.khanacademy.org/careers
+  status: pending
+- id: education-instructure-us
+  name: Instructure
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.instructure.com/careers
+  status: pending
+- id: education-powerschool-us
+  name: PowerSchool
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.powerschool.com/company/careers/
+  status: pending
+- id: education-gce-us
+  name: Grand Canyon Education
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  link: https://www.gce.com/careers.html
+  status: pending
+- id: education-adtalem-us
+  name: Adtalem Global Education
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: education-strategic-us
+  name: Strategic Education
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: education-laureate-us
+  name: Laureate Education
+  industry: education
+  tier: top50
+  country: US
+  sources: []
+  status: pending
+- id: education-pearson-gb
+  name: Pearson
+  industry: education
+  tier: top50
+  country: GB
+  sources: []
+  link: https://jobs.pearson.com
+  status: pending
+- id: education-nordanglia-gb
+  name: Nord Anglia Education
+  industry: education
+  tier: top50
+  country: GB
+  sources: []
+  link: https://www.nordangliaeducation.com/careers
+  status: pending
+- id: education-ef-ch
+  name: EF Education First
+  industry: education
+  tier: top50
+  country: CH
+  sources: []
+  link: https://www.ef.com/wwen/careers/
+  status: pending
+- id: education-sanoma-fi
+  name: Sanoma
+  industry: education
+  tier: top50
+  country: FI
+  sources: []
+  link: https://www.sanoma.com/careers/
+  status: pending
+- id: education-springernature-de
+  name: Springer Nature
+  industry: education
+  tier: top50
+  country: DE
+  sources: []
+  link: https://www.springernature.com/careers
+  status: pending
+- id: education-babbel-de
+  name: Babbel
+  industry: education
+  tier: top50
+  country: DE
+  sources: []
+  link: https://jobs.babbel.com/en
+  status: pending
+- id: education-benesse-jp
+  name: ベネッセホールディングス
+  name_en: Benesse Holdings
+  industry: education
+  tier: top50
+  country: JP
+  sources: []
+  status: pending
+- id: education-kumon-jp
+  name: 公文式
+  name_en: Kumon Institute of Education
+  industry: education
+  tier: top50
+  country: JP
+  sources: []
+  link: https://www.kumon.com/careers
+  status: pending
+- id: education-megastudy-kr
+  name: 메가스터디
+  name_en: Megastudy
+  industry: education
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: education-kyowon-kr
+  name: 교원
+  name_en: Kyowon
+  industry: education
+  tier: top50
+  country: KR
+  sources: []
+  status: pending
+- id: education-byjus-in
+  name: BYJU'S
+  industry: education
+  tier: top50
+  country: IN
+  sources: []
+  status: pending
+- id: education-unacademy-in
+  name: Unacademy
+  industry: education
+  tier: top50
+  country: IN
+  sources: []
+  link: https://unacademy.com/careers
+  status: pending
+- id: education-pw-in
+  name: Physics Wallah
+  industry: education
+  tier: top50
+  country: IN
+  sources: []
+  status: pending
+- id: education-ruangguru-id
+  name: Ruangguru
+  industry: education
+  tier: top50
+  country: ID
+  sources: []
+  status: pending
